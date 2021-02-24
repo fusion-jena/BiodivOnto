@@ -1,0 +1,113 @@
+Environmental Gap Analysis to Prioritize Conservation Efforts in Eastern Africa
+
+Countries in eastern Africa have set aside significant proportions of their land for protection. But
+are these areas representative of the diverse range of species and habitats found in the region? And
+do conservation efforts include areas where the state of biodiversity is likely to deteriorate
+without further interventions? Various studies have addressed these questions at global and
+continental scales. However, meaningful conservation decisions are required at finer geographical
+scales. To operate more effectively at the national level, finer scale baseline data on species and
+on higher levels of biological organization such as the eco-regions are required, among other
+factors. Here we adopted a recently developed high-resolution potential natural vegetation (PNV) map
+for eastern Africa as a baseline to more effectively identify conservation priorities. We examined
+how well different potential natural vegetations (PNVs) are represented in the protected area (PA)
+network of eastern Africa and used a multivariate environmental similarity index to evaluate biases
+in PA versus PNV coverage. We additionally overlaid data of anthropogenic factors that potentially
+influence the natural vegetation to assess the level of threat to different PNVs. Our results
+indicate substantial differences in the conservation status of PNVs. In addition, particular PNVs in
+which biodiversity protection and ecological functions are at risk due to human influences are
+revealed. The data and approach presented here provide a step forward in developing more transparent
+and better informed translation from global priorities to regional or national implementation in
+eastern Africa, and are valid for other geographic regions.
+
+
+
+Beyond the Fragmentation Threshold Hypothesis: Regime Shifts in Biodiversity Across Fragmented Landscapes
+
+Ecological systems are vulnerable to irreversible change when key system properties are pushed over
+thresholds, resulting in the loss of resilience and the precipitation of a regime shift. Perhaps the
+most important of such properties in human-modified landscapes is the total amount of remnant native
+vegetation. In a seminal study Andrén proposed the existence of a fragmentation threshold in the
+total amount of remnant vegetation, below which landscape-scale connectivity is eroded and local
+species richness and abundance become dependent on patch size. Despite the fact that species patch-
+area effects have been a mainstay of conservation science there has yet to be a robust empirical
+evaluation of this hypothesis. Here we present and test a new conceptual model describing the
+mechanisms and consequences of biodiversity change in fragmented landscapes, identifying the
+fragmentation threshold as a first step in a positive feedback mechanism that has the capacity to
+impair ecological resilience, and drive a regime shift in biodiversity. The model considers that
+local extinction risk is defined by patch size, and immigration rates by landscape vegetation cover,
+and that the recovery from local species losses depends upon the landscape species pool. Using a
+unique dataset on the distribution of non-volant small mammals across replicate landscapes in the
+Atlantic forest of Brazil, we found strong evidence for our model predictions - that patch-area
+effects are evident only at intermediate levels of total forest cover, where landscape diversity is
+still high and opportunities for enhancing biodiversity through local management are greatest.
+Furthermore, high levels of forest loss can push native biota through an extinction filter, and
+result in the abrupt, landscape-wide loss of forest-specialist taxa, ecological resilience and
+management effectiveness. The proposed model links hitherto distinct theoretical approaches within a
+single framework, providing a powerful tool for analysing the potential effectiveness of management
+interventions.
+
+
+
+Are We Filling the Data Void? An Assessment of the Amount and Extent of Plant Collection Records and Census Data Available for Tropical South America
+
+Large-scale studies are needed to increase our understanding of how large-scale conservation
+threats, such as climate change and deforestation, are impacting diverse tropical ecosystems. These
+types of studies rely fundamentally on access to extensive and representative datasets (i.e., “big
+data”). In this study, I asses the availability of plant species occurrence records through the
+Global Biodiversity Information Facility (GBIF) and the distribution of networked vegetation census
+plots in tropical South America. I analyze how the amount of available data has changed through time
+and the consequent changes in taxonomic, spatial, habitat, and climatic representativeness. I show
+that there are large and growing amounts of data available for tropical South America. Specifically,
+there are almost 2,000,000 unique geo-referenced collection records representing more than 50,000
+species of plants in tropical South America and over 1,500 census plots. However, there is still a
+gaping “data void” such that many species and many habitats remain so poorly represented in either
+of the databases as to be functionally invisible for most studies. It is important that we support
+efforts to increase the availability of data, and the representativeness of these data, so that we
+can better predict and mitigate the impacts of anthropogenic disturbances.
+
+
+
+Predicting Tropical Dry Forest Successional Attributes from Space: Is the Key Hidden in Image Texture?
+
+Biodiversity conservation and ecosystem-service provision will increasingly depend on the existence
+of secondary vegetation. Our success in achieving these goals will be determined by our ability to
+accurately estimate the structure and diversity of such communities at broad geographic scales. We
+examined whether the texture (the spatial variation of the image elements) of very high-resolution
+satellite imagery can be used for this purpose. In 14 fallows of different ages and one mature
+forest stand in a seasonally dry tropical forest landscape, we estimated basal area, canopy cover,
+stem density, species richness, Shannon index, Simpson index, and canopy height. The first six
+attributes were also estimated for a subset comprising the tallest plants. We calculated 40 texture
+variables based on the red and the near infrared bands, and EVI and NDVI, and selected the best-fit
+linear models describing each vegetation attribute based on them. Basal area (R2 = 0.93), vegetation
+height and cover (0.89), species richness (0.87), and stand age (0.85) were the best-described
+attributes by two-variable models. Cross validation showed that these models had a high predictive
+power, and most estimated vegetation attributes were highly accurate. The success of this simple
+method (a single image was used and the models were linear and included very few variables) rests on
+the principle that image texture reflects the internal heterogeneity of successional vegetation at
+the proper scale. The vegetation attributes best predicted by texture are relevant in the face of
+two of the gravest threats to biosphere integrity: climate change and biodiversity loss. By
+providing reliable basal area and fallow-age estimates, image-texture analysis allows for the
+assessment of carbon sequestration and diversity loss rates. New and exciting research avenues open
+by simplifying the analysis of the extent and complexity of successional vegetation through the
+spatial variation of its spectral information.
+
+
+
+Assessments of Drought Impacts on Vegetation in China with the Optimal Time Scales of the Climatic Drought Index
+
+Drought is expected to increase in frequency and severity due to global warming, and its impacts on
+vegetation are typically extensively evaluated with climatic drought indices, such as multi-scalar
+Standardized Precipitation Evapotranspiration Index (SPEI). We analyzed the covariation between the
+SPEIs of various time scales and the anomalies of the normalized difference vegetation index (NDVI),
+from which the vegetation type-related optimal time scales were retrieved. The results indicated
+that the optimal time scales of needle-leaved forest, broadleaf forest and shrubland were between 10
+and 12 months, which were considerably longer than the grassland, meadow and cultivated vegetation
+ones (2 to 4 months). When the optimal vegetation type-related time scales were used, the SPEI could
+better reflect the vegetation’s responses to water conditions, with the correlation coefficients
+between SPEIs and NDVI anomalies increased by 5.88% to 28.4%. We investigated the spatio-temporal
+characteristics of drought and quantified the different responses of vegetation growth to drought
+during the growing season (April–October). The results revealed that the frequency of drought has
+increased in the 21st century with the drying trend occurring in most of China. These results are
+useful for ecological assessments and adapting management steps to mitigate the impact of drought on
+vegetation. They are helpful to employ water resources more efficiently and reduce potential damage
+to human health caused by water shortages.

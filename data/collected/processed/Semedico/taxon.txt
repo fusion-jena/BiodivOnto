@@ -1,0 +1,93 @@
+BioNames: linking taxonomy, texts, and trees
+
+BioNames is a web database of taxonomic names for animals, linked to the primary literature and,
+wherever possible, to phylogenetic trees. It aims to provide a taxonomic “dashboard” where at a
+glance we can see a summary of the taxonomic and phylogenetic information we have for a given taxon
+and hence provide a quick answer to the basic question “what is this taxon?” BioNames combines
+classifications from the Global Biodiversity Information Facility (GBIF) and GenBank, images from
+the Encyclopedia of Life (EOL), animal names from the Index of Organism Names (ION), and
+bibliographic data from multiple sources including the Biodiversity Heritage Library (BHL) and
+CrossRef. The user interface includes display of full text articles, interactive timelines of
+taxonomic publications, and zoomable phylogenies. It is available at .
+
+
+
+Body Size Is a Significant Predictor of Congruency in Species Richness Patterns: A Meta-Analysis of Aquatic Studies
+
+Biodiversity losses over the next century are predicted to result in alterations of ecosystem
+functions that are on par with other major drivers of global change. Given the seriousness of this
+issue, there is a need to effectively monitor global biodiversity. Because performing biodiversity
+censuses of all taxonomic groups is prohibitively costly, indicator groups have been studied to
+estimate the biodiversity of different taxonomic groups. Quantifying cross-taxon congruence is a
+method of evaluating the assumption that the diversity of one taxonomic group can be used to predict
+the diversity of another. To improve the predictive ability of cross-taxon congruence in aquatic
+ecosystems, we evaluated whether body size, measured as the ratio of average body length between
+organismal groups, is a significant predictor of their cross-taxon biodiversity congruence. To test
+this hypothesis, we searched the published literature and screened for studies that used species
+richness correlations as their metric of cross-taxon congruence. We extracted 96 correlation
+coefficients from 16 studies, which encompassed 784 inland water bodies. With these correlation
+coefficients, we conducted a categorical meta-analysis, grouping data based on the body size ratio
+of organisms. Our results showed that cross-taxon congruence is variable among sites and between
+different groups (r values ranging between −0.53 to 0.88). In addition, our quantitative meta-
+analysis demonstrated that organisms most similar in body size showed stronger species richness
+correlations than organisms which differed increasingly in size (radj2 = 0.94, p = 0.02). We propose
+that future studies applying biodiversity indicators in aquatic ecosystems consider functional
+traits such as body size, so as to increase their success at predicting the biodiversity of
+taxonomic groups where cost-effective conservation tools are needed.
+
+
+
+Cryptic biodiversity in a changing world
+
+DNA studies are revealing the extent of hidden, or cryptic, biodiversity. Two new studies challenge
+paradigms about cryptic biodiversity and highlight the importance of adding a historical and
+biogeographic dimension to biodiversity research.
+
+
+
+Re-Structuring of Marine Communities Exposed to Environmental Change: A Global Study on the Interactive Effects of Species and Functional Richness
+
+Species richness is the most commonly used but controversial biodiversity metric in studies on
+aspects of community stability such as structural composition or productivity. The apparent
+ambiguity of theoretical and experimental findings may in part be due to experimental shortcomings
+and/or heterogeneity of scales and methods in earlier studies. This has led to an urgent call for
+improved and more realistic experiments. In a series of experiments replicated at a global scale we
+translocated several hundred marine hard bottom communities to new environments simulating a rapid
+but moderate environmental change. Subsequently, we measured their rate of compositional change (re-
+structuring) which in the great majority of cases represented a compositional convergence towards
+local communities. Re-structuring is driven by mortality of community components (original species)
+and establishment of new species in the changed environmental context. The rate of this re-
+structuring was then related to various system properties. We show that availability of free
+substratum relates negatively while taxon richness relates positively to structural persistence
+(i.e., no or slow re-structuring). Thus, when faced with environmental change, taxon-rich
+communities retain their original composition longer than taxon-poor communities. The effect of
+taxon richness, however, interacts with another aspect of diversity, functional richness. Indeed,
+taxon richness relates positively to persistence in functionally depauperate communities, but not in
+functionally diverse communities. The interaction between taxonomic and functional diversity with
+regard to the behaviour of communities exposed to environmental stress may help understand some of
+the seemingly contrasting findings of past research.
+
+
+
+Biogeography of the ecosystems of the healthy human body
+
+Background Characterizing the biogeography of the microbiome of healthy humans is essential for
+understanding microbial associated diseases. Previous studies mainly focused on a single body
+habitat from a limited set of subjects. Here, we analyzed one of the largest microbiome datasets to
+date and generated a biogeographical map that annotates the biodiversity, spatial relationships, and
+temporal stability of 22 habitats from 279 healthy humans. Results We identified 929 genera from
+more than 24 million 16S rRNA gene sequences of 22 habitats, and we provide a baseline of inter-
+subject variation for healthy adults. The oral habitat has the most stable microbiota with the
+highest alpha diversity, while the skin and vaginal microbiota are less stable and show lower alpha
+diversity. The level of biodiversity in one habitat is independent of the biodiversity of other
+habitats in the same individual. The abundances of a given genus at a body site in which it
+dominates do not correlate with the abundances at body sites where it is not dominant. Additionally,
+we observed the human microbiota exhibit both cosmopolitan and endemic features. Finally, comparing
+datasets of different projects revealed a project-based clustering pattern, emphasizing the
+significance of standardization of metagenomic studies. Conclusions The data presented here extend
+the definition of the human microbiome by providing a more complete and accurate picture of human
+microbiome biogeography, addressing questions best answered by a large dataset of subjects and body
+sites that are deeply sampled by sequencing.
+
+
+

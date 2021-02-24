@@ -1,0 +1,5 @@
+﻿DESCRIPTION
+Animal Licences
+SUMMARY
+Our Environmental Health department is responsible for animal licensing. A licence is required when keeping a Pet Shop, Zoo or Animal Boarding Establishment. This dataset lists the local authority’s Animal Licence holders. For further information or to apply for a Licence: https://www.gov.uk/apply-for-a-licence/animal-boarding-establishment-licence/barnet/apply-1 To know more about animal welfare and the Animal Welfare Act 2006: https://www.gov.uk/animal-welfare-legislation-protecting-pets
+

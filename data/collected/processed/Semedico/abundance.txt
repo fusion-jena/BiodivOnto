@@ -1,0 +1,101 @@
+The World Bacterial Biogeography and Biodiversity through Databases: A Case Study of NCBI Nucleotide Database and GBIF Database
+
+Databases are an essential tool and resource within the field of bioinformatics. The primary aim of
+this study was to generate an overview of global bacterial biodiversity and biogeography using
+available data from the two largest public online databases, NCBI Nucleotide and GBIF. The secondary
+aim was to highlight the contribution each geographic area has to each database. The basis for data
+analysis of this study was the metadata provided by both databases, mainly, the taxonomy and the
+geographical area origin of isolation of the microorganism (record). These were directly obtained
+from GBIF through the online interface, while E-utilities and Python were used in combination with a
+programmatic web service access to obtain data from the NCBI Nucleotide Database. Results indicate
+that the American continent, and more specifically the USA, is the top contributor, while Africa and
+Antarctica are less well represented. This highlights the imbalance of exploration within these
+areas rather than any reduction in biodiversity. This study describes a novel approach to generating
+global scale patterns of bacterial biodiversity and biogeography and indicates that the
+Proteobacteria are the most abundant and widely distributed phylum within both databases.
+
+
+
+The Effect of Urbanization on Ant Abundance and Diversity: A Temporal Examination of Factors Affecting Biodiversity
+
+Numerous studies have examined the effect of urbanization on species richness and most studies
+implicate urbanization as the major cause of biodiversity loss. However, no study has identified an
+explicit connection between urbanization and biodiversity loss as the impact of urbanization is
+typically inferred indirectly by comparing species diversity along urban-rural gradients at a single
+time point. A different approach is to focus on the temporal rather than the spatial aspect and
+perform “before and after” studies where species diversity is cataloged over time in the same sites.
+The current study examined changes in ant abundance and diversity associated with the conversion of
+natural habitats into urban habitats. Ant abundance and diversity were tracked in forested sites
+that became urbanized through construction and were examined at 3 time points - before, during, and
+after construction. On average, 4.3±1.2 unique species were detected in undisturbed plots prior to
+construction. Ant diversity decreased to 0.7±0.8 species in plots undergoing construction and
+1.5±1.1 species in plots 1 year after construction was completed. With regard to species richness,
+urbanization resulted in the permanent loss of 17 of the 20 species initially present in the study
+plots. Recovery was slow and only 3 species were present right after construction was completed and
+4 species were present 1 year after construction was completed. The second objective examined ant
+fauna recovery in developed residential lots based on time since construction, neighboring habitat
+quality, pesticide inputs, and the presence of invasive ants. Ant diversity was positively
+correlated with factors that promoted ecological recovery and negatively correlated with factors
+that promoted ecological degradation. Taken together, these results address a critical gap in our
+knowledge by characterizing the short- and long-term the effects of urbanization on the loss of ant
+biodiversity.
+
+
+
+Chlamydia caviae infection alters abundance but not composition of the guinea pig vaginal microbiota
+
+In humans, the vaginal microbiota is thought to be the first line of defense again pathogens
+including Chlamydia trachomatis. The guinea pig has been extensively used as a model to study
+chlamydial infection because it shares anatomical and physiological similarities with humans, such
+as a squamous vaginal epithelium as well as some of the long-term outcomes caused by chlamydial
+infection. In this study, we aimed to evaluate the guinea pig-C. caviae model of genital infection
+as a surrogate for studying the role of the vaginal microbiota in the early steps of C. trachomatis
+infection in humans. We used culture-independent molecular methods to characterize the relative and
+absolute abundance of bacterial phylotypes in the guinea pig vaginal microbiota in animals non-
+infected, mock-infected or infected by C. caviae. We showed that the guinea pig and human vaginal
+microbiotas are of different bacterial composition and abundance. Chlamydia caviae infection had a
+profound effect on the absolute abundance of bacterial phylotypes but not on the composition of the
+guinea pig vaginal microbiota. Our findings compromise the validity of the guinea pig-C. caviae
+model to study the role of the vaginal microbiota during the early steps of sexually transmitted
+infection. The vaginal microbiota of the guinea pig differs from that of humans and cannot prevent
+chlamydial infections efficiently. The vaginal microbiota of the guinea pig differs from that of
+humans and cannot prevent chlamydial infections efficiently.
+
+
+
+Causes, consequences, and perspectives in the variations of intestinal density of colonization of multidrug-resistant enterobacteria
+
+The intestinal microbiota is a complex environment that hosts 1013 to 1014 bacteria. Among these
+bacteria stand multidrug-resistant enterobacteria (MDRE), which intestinal densities can
+substantially vary, especially according to antibiotic exposure. The intestinal density of MDRE and
+their relative abundance (i.e., the proportion between the density of MDRE and the density of total
+enterobacteria) could play a major role in the infection process or patient-to-patient transmission.
+This review discusses the recent advances in understanding (i) what causes variations in the density
+or relative abundance of intestinal colonization, (ii) what are the clinical consequences of these
+variations, and (iii) what are the perspectives for maintaining these markers at low levels.
+
+
+
+The effects of weather on fungal abundance and richness among 25 communities in the Intermountain West
+
+Background Because moisture and temperature influence the growth of fungi, characterizing weather
+conditions favorable for fungi may be used to predict the abundance and richness of fungi in
+habitats with different climate conditions. To estimate habitat favorability to fungi, we examined
+the relationship of fungal abundance and species richness to various weather and environmental
+parameters in the Intermountain West. We cultured fungi from air and leaf surfaces, and collected
+continuous temperature and relative humidity measures over the growing season at 25 sites. Results
+Fungal richness was positively correlated with fungal abundance (r = 0.75). Measures of moisture
+availability, such as relative humidity and vapor pressure deficit, explained more of the variance
+in fungal abundance and richness than did temperature. Climate measurements from nearby weather
+stations were good predictors of fungal abundance and richness but not as good as weather
+measurements obtained in the field. Weather variables that took into account the proportion of time
+habitats experienced favorable or unfavorable relative humidity and temperatures were the best
+predictors, explaining up to 56% of the variation in fungal abundance and 72% for fungal richness.
+Conclusion Our results suggest that the abundance and richness of fungi in a habitat is limited by
+the duration of unfavorable weather conditions. Because fungal pathogens likely have similar abiotic
+requirements for growth as other fungi, characterizing weather conditions favorable for fungi also
+may be used to predict the selective pressures imposed by pathogenic fungi on plants in different
+habitats.
+
+
+

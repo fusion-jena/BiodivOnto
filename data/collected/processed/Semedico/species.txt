@@ -1,0 +1,102 @@
+Invasive Species and Biodiversity Crises: Testing the Link in the Late Devonian
+
+During the Late Devonian Biodiversity Crisis, the primary driver of biodiversity decline was the
+dramatic reduction in speciation rates, not elevated extinction rates; however, the causes of
+speciation decline have been previously unstudied. Speciation, the formation of new species from
+ancestral populations, occurs by two primary allopatric mechanisms: vicariance, where the ancestral
+population is passively divided into two large subpopulations that later diverge and form two
+daughter species, and dispersal, in which a small subset of the ancestral population actively
+migrates then diverges to form a new species. Studies of modern and fossil clades typically document
+speciation by vicariance in much higher frequencies than speciation by dispersal. To assess the
+mechanism behind Late Devonian speciation reduction, speciation rates were calculated within
+stratigraphically constrained species-level phylogenetic hypotheses for three representative clades
+and mode of speciation at cladogenetic events was assessed across four clades in three phyla:
+Arthropoda, Brachiopoda, and Mollusca. In all cases, Devonian taxa exhibited a congruent reduction
+in speciation rate between the Middle Devonian pre-crisis interval and the Late Devonian crisis
+interval. Furthermore, speciation via vicariance is almost entirely absent during the crisis
+interval; most episodes of speciation during this time were due to dispersal. The shutdown of
+speciation by vicariance during this interval was related to widespread interbasinal species
+invasions. The lack of Late Devonian vicariance is diametrically opposed to the pattern observed in
+other geologic intervals, which suggests the loss of vicariant speciation attributable to species
+invasions during the Late Devonian was a causal factor in the biodiversity crisis. Similarly, modern
+ecosystems, in which invasive species are rampant, may be expected to exhibit similar shutdown of
+speciation by vicariance as an outcome of the modern biodiversity crisis.
+
+
+
+Species richness and macronutrient content of wawo worms (Polychaeta, Annelida) from Ambonese waters, Maluku, Indonesia
+
+The aims of this research were to: (1) investigate the species richness of wawo worms, and to (2)
+analyze macronutrient content of the worms. Wawo worms were sampled using a fishing net on March
+18th-19th, 2014, from Ambonese waters, Maluku. As many as 26 wawo species belonging to 5 families
+were identified. Palola sp. was identified as the most abundant species of wawo, followed by
+Lysidice oele, Horst 1905, Eunice spp. and nereidids. Results of the proximate analysis reveal that
+female epitokes of Palola sp. contain 10.78 % ash, 10.71 % moisture, 11.67 % crude fat, 54.72 %
+crude protein and 12.12 % carbohydrate.
+
+
+Maximizing species conservation in continental Ecuador: a case of systematic conservation planning for biodiverse regions
+
+Ecuador has the largest number of species by area worldwide, but also a low representation of
+species within its protected areas. Here, we applied systematic conservation planning to identify
+potential areas for conservation in continental Ecuador, with the aim of increasing the
+representation of terrestrial species diversity in the protected area network. We selected 809
+terrestrial species (amphibians, birds, mammals, and plants), for which distributions were estimated
+via species distribution models (SDMs), using Maxent. For each species we established conservation
+goals based on conservation priorities, and estimated new potential protected areas using Marxan
+conservation planning software. For each selected area, we determined their conservation priority
+and feasibility of establishment, two important aspects in the decision-making processes. We found
+that according to our conservation goals, the current protected area network contains large
+conservation gaps. Potential areas for conservation almost double the surface area of currently
+protected areas. Most of the newly proposed areas are located in the Coast, a region with large
+conservation gaps and irreversible changes in land use. The most feasible areas for conservation
+were found in the Amazon and Andes regions, which encompass more undisturbed habitats, and already
+harbor most of the current reserves. Our study allows defining a viable strategy for preserving
+Ecuador's biodiversity, by combining SDMs, GIS-based decision-support software, and priority and
+feasibility assessments of the selected areas. This approach is useful for complementing protected
+area networks in countries with great biodiversity, insufficient biological information, and limited
+resources for conservation.
+
+
+
+Biodiversity loss decreases parasite diversity: theory and patterns
+
+Past models have suggested host–parasite coextinction could lead to linear, or concave down
+relationships between free-living species richness and parasite richness. I explored several models
+for the relationship between parasite richness and biodiversity loss. Life cycle complexity, low
+generality of parasites and sensitivity of hosts reduced the robustness of parasite species to the
+loss of free-living species diversity. Food-web complexity and the ordering of extinctions altered
+these relationships in unpredictable ways. Each disassembly of a food web resulted in a unique
+relationship between parasite richness and the richness of free-living species, because the
+extinction trajectory of parasites was sensitive to the order of extinctions of free-living species.
+However, the average of many disassemblies tended to approximate an analytical model. Parasites of
+specialist hosts and hosts higher on food chains were more likely to go extinct in food-web models.
+Furthermore, correlated extinctions between hosts and parasites (e.g. if parasites share a host with
+a specialist predator) led to steeper declines in parasite richness with biodiversity loss. In
+empirical food webs with random removals of free-living species, the relationship between free-
+living species richness and parasite richness was, on average, quasi-linear, suggesting biodiversity
+loss reduces parasite diversity more than previously thought.
+
+
+
+Fatal attraction: rare species in the spotlight
+
+The exploitation of rare and endangered species can end in the species's extinction because the
+increased value people associate with rarity increases the economic incentive to exploit the last
+individuals, creating a positive feedback loop. This recently proposed concept, called the
+anthropogenic Allee effect (AAE), relies on the assumption that people do value rarity, but this
+remains to be established. Moreover, it also remains to be determined whether attraction to rarity
+is a trait confined to a minority of hobbyists (e.g. wildlife collectors, exotic pet owners) or
+characteristic of the general public. We estimated how much the general public valued rare species
+compared with common ones, using five different metrics related to personal investment: time spent,
+physical effort, unpleasantness, economic investment and risk. We surveyed the visitors of a zoo. To
+see the rare species, the visitors to the zoo invested more time in searching and contemplation,
+they were ready to expend more physical effort, they tolerated more unpleasant conditions, they were
+willing to pay more and, finally, they risked more to obtain (steal) a rare species. Our results
+provide substantial evidence of how the general public places more value on rare species, compared
+with common species. This confirms the AAE as an actual process, which in addition concerns a large
+part of the population. This has important consequences for the conservation of species that are
+rare now, or that could become so in the future.
+
+
+

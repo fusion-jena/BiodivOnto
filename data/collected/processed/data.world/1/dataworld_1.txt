@@ -1,0 +1,7 @@
+﻿DESCRIPTION
+Life expectancy estimates for North American zoo and aquarium vertebrate animals
+SUMMARY
+Data behind the article Sex-specific median life expectancies from ex situ populations for 330 animal species.
+
+Abstract
+We present life expectancy estimates for hundreds of vertebrate species based on carefully vetted studbook data from North American zoos and aquariums. These data include sex-specific median life expectancies as well as sample size and 95% confidence limits for each estimate. Existing longevity data for animals primarily consist of maximum lifespan values, which are single observations rather than statistically derived estimates of longevity. Moreover, all of our estimates are based on the same type of data and calculated using consistent, standardized methods. To derive these estimates, we conducted Kaplan-Meier survival analyses using individual-level demographic data (i.e., records of birth and mortality events) from studbook records for each ex situ population. Our species set represents a range of vertebrate taxa (primarily mammals, birds, amphibians, and reptiles) and diverse life histories. This dataset will have broad utility, not only for informing comparative demographic and life history studies, but also more broadly for any research or conservation application that requires sex- or species-specific life expectancy information.

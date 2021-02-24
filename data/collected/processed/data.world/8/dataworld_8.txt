@@ -1,0 +1,7 @@
+﻿DESCRIPTION
+DWH NRDA Background Deposition of Bird Carcasses on Walkable Beaches and in Marshes
+SUMMARY
+Original Title: DWH NRDA Background Deposition of Bird Carcasses on Walkable Beaches and in Marshes
+
+This dataset contains the data collected during Deepwater Horizon Bird Study #24 (Background Carcass Deposition). Field surveys associated with BS #24 occurred during the summer of 2015. Data collection efforts were led by Industrial Economics, Incorporated, on behalf of the U.S. Fish and Wildlife Service. While surveys were planned for June through October in nearshore areas across the northern Gulf of Mexico from northeast Texas to northwest Florida, data were ultimately only collected in June and July in Mississippi, Alabama, and Florida. During field surveys, study personnel walked, or boated along, pre-defined segments of beach or marsh and noted each time a bird carcass was encountered. The goal of these efforts was to collect data that would facilitate the development of an estimate of the background avian mortality rate in the northern Gulf of Mexico. Photographs and GPS data were also collected during field surveys.
+

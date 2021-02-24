@@ -1,0 +1,10 @@
+land_use_type,percentage_of_region,region_datasheet
+Pastoral Farming,52.83,0.53
+Plantation Forestry,12.63,0.13
+Indigenous Vegetation,27.33,0.27
+Horticultural & Cropping,0.77,< 1%
+Urban,1.11,0.01
+Other,5.33,0.05
+,100,
+Footnotes:,,
+Data Derived from LCDB4 Using POL2012 Regional Boundary.,,

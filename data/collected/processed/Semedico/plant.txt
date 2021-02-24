@@ -1,0 +1,126 @@
+All Is Not Loss: Plant Biodiversity in the Anthropocene
+
+Anthropogenic global changes in biodiversity are generally portrayed in terms of massive native
+species losses or invasions caused by recent human disturbance. Yet these biodiversity changes and
+others caused directly by human populations and their use of land tend to co-occur as long-term
+biodiversity change processes in the Anthropocene. Here we explore contemporary anthropogenic global
+patterns in vascular plant species richness at regional landscape scales by combining spatially
+explicit models and estimates for native species loss together with gains in exotics caused by
+species invasions and the introduction of agricultural domesticates and ornamental exotic plants.
+The patterns thus derived confirm that while native losses are likely significant across at least
+half of Earth's ice-free land, model predictions indicate that plant species richness has increased
+overall in most regional landscapes, mostly because species invasions tend to exceed native losses.
+While global observing systems and models that integrate anthropogenic species loss, introduction
+and invasion at regional landscape scales remain at an early stage of development, integrating
+predictions from existing models within a single assessment confirms their vast global extent and
+significance while revealing novel patterns and their potential drivers. Effective global
+stewardship of plant biodiversity in the Anthropocene will require integrated frameworks for
+observing, modeling and forecasting the different forms of anthropogenic biodiversity change
+processes at regional landscape scales, towards conserving biodiversity within the novel plant
+communities created and sustained by human systems.
+
+
+
+Biodiversity Effects on Plant Stoichiometry
+
+In the course of the biodiversity-ecosystem functioning debate, the issue of multifunctionality of
+species communities has recently become a major focus. Elemental stoichiometry is related to a
+variety of processes reflecting multiple plant responses to the biotic and abiotic environment. It
+can thus be expected that the diversity of a plant assemblage alters community level plant tissue
+chemistry. We explored elemental stoichiometry in aboveground plant tissue (ratios of carbon,
+nitrogen, phosphorus, and potassium) and its relationship to plant diversity in a 5-year study in a
+large grassland biodiversity experiment (Jena Experiment). Species richness and functional group
+richness affected community stoichiometry, especially by increasing C:P and N:P ratios. The primacy
+of either species or functional group richness effects depended on the sequence of testing these
+terms, indicating that both aspects of richness were congruent and complementary to expected strong
+effects of legume presence and grass presence on plant chemical composition. Legumes and grasses had
+antagonistic effects on C:N (−27.7% in the presence of legumes, +32.7% in the presence of grasses).
+In addition to diversity effects on mean ratios, higher species richness consistently decreased the
+variance of chemical composition for all elemental ratios. The diversity effects on plant
+stoichiometry has several non-exclusive explanations: The reduction in variance can reflect a
+statistical averaging effect of species with different chemical composition or a optimization of
+nutrient uptake at high diversity, leading to converging ratios at high diversity. The shifts in
+mean ratios potentially reflect higher allocation to stem tissue as plants grew taller at higher
+richness. By showing a first link between plant diversity and stoichiometry in a multiyear
+experiment, our results indicate that losing plant species from grassland ecosystems will lead to
+less reliable chemical composition of forage for herbivorous consumers and belowground litter input.
+
+
+
+Of the importance of a leaf: the ethnobotany of sarma in Turkey and the Balkans
+
+Background Sarma - cooked leaves rolled around a filling made from rice and/or minced meat, possibly
+vegetables and seasoning plants – represents one of the most widespread feasting dishes of the
+Middle Eastern and South-Eastern European cuisines. Although cabbage and grape vine sarma is well-
+known worldwide, the use of alternative plant leaves remains largely unexplored. The aim of this
+research was to document all of the botanical taxa whose leaves are used for preparing sarma in the
+folk cuisines of Turkey and the Balkans. Methods Field studies were conducted during broader
+ethnobotanical surveys, as well as during ad-hoc investigations between the years 2011 and 2014 that
+included diverse rural communities in Croatia, Bosnia and Herzegovina, Serbia, Kosovo, Albania,
+Macedonia, Bulgaria, Romania, and Turkey. Primary ethnobotanical and folkloric literatures in each
+country were also considered. Results Eighty-seven botanical taxa, mainly wild, belonging to 50
+genera and 27 families, were found to represent the bio-cultural heritage of sarma in Turkey and the
+Balkans. The greatest plant biodiversity in sarma was found in Turkey and, to less extent, in
+Bulgaria and Romania. The most commonly used leaves for preparing sarma were those of cabbage (both
+fresh and lacto-fermented), grape vine, beet, dock, sorrel, horseradish, lime tree, bean, and
+spinach. In a few cases, the leaves of endemic species (Centaurea haradjianii, Rumex gracilescens,
+and R. olympicus in Turkey) were recorded. Other uncommon sarma preparations were based on lightly
+toxic taxa, such as potato leaves in NE Albania, leaves of Arum, Convolvulus, and Smilax species in
+Turkey, of Phytolacca americana in Macedonia, and of Tussilago farfara in diverse countries.
+Moreover, the use of leaves of the introduced species Reynoutria japonica in Romania, Colocasia
+esculenta in Turkey, and Phytolacca americana in Macedonia shows the dynamic nature of folk
+cuisines. Conclusion The rich ethnobotanical diversity of sarma confirms the urgent need to record
+folk culinary plant knowledge. The results presented here can be implemented into initiatives aimed
+at re-evaluating folk cuisines and niche food markets based on local neglected ingredients, and
+possibly also to foster trajectories of the avant-garde cuisines inspired by ethnobotanical
+knowledge.
+
+
+
+Reading the Complex Skipper Butterfly Fauna of One Tropical Place
+
+Background An intense, 30-year, ongoing biodiversity inventory of Lepidoptera, together with their
+food plants and parasitoids, is centered on the rearing of wild-caught caterpillars in the 120,000
+terrestrial hectares of dry, rain, and cloud forest of Area de Conservacion Guanacaste (ACG) in
+northwestern Costa Rica. Since 2003, DNA barcoding of all species has aided their identification and
+discovery. We summarize the process and results for a large set of the species of two speciose
+subfamilies of ACG skipper butterflies (Hesperiidae) and emphasize the effectiveness of barcoding
+these species (which are often difficult and time-consuming to identify). Methodology/Principal
+Findings Adults are DNA barcoded by the Biodiversity Institute of Ontario, Guelph, Canada; and they
+are identified by correlating the resulting COI barcode information with more traditional
+information such as food plant, facies, genitalia, microlocation within ACG, caterpillar traits,
+etc. This process has found about 303 morphologically defined species of eudamine and pyrgine
+Hesperiidae breeding in ACG (about 25% of the ACG butterfly fauna) and another 44 units indicated by
+distinct barcodes (n = 9,094), which may be additional species and therefore may represent as much
+as a 13% increase. All but the members of one complex can be identified by their DNA barcodes.
+Conclusions/Significance Addition of DNA barcoding to the methodology greatly improved the
+inventory, both through faster (hence cheaper) accurate identification of the species that are
+distinguishable without barcoding, as well as those that require it, and through the revelation of
+species “hidden” within what have long been viewed as single species. Barcoding increased the
+recognition of species-level specialization. It would be no more appropriate to ignore barcode data
+in a species inventory than it would be to ignore adult genitalia variation or caterpillar ecology.
+
+
+
+An Evaluation of Two Hands-On Lab Styles for Plant Biodiversity in Undergraduate Biology
+
+Two formats of plant biodiversity labs were evaluated: a learning cycle format and an expository
+format. Each had a prelab, a hands-on lab, and a write-to-learn postlab. Bloom's lower- and higher-
+order cognition and attitudes were assessed. Results showed that the two styles had different costs
+and benefits. Evidence indicates that a blended style may be best. We compared learning cycle and
+expository formats for teaching about plant biodiversity in an inquiry-oriented university biology
+lab class (n = 465). Both formats had preparatory lab activities, a hands-on lab, and a postlab with
+reflection and argumentation. Learning was assessed with a lab report, a practical quiz in lab, and
+a multiple-choice exam in the concurrent lecture. Attitudes toward biology and treatments were also
+assessed. We used linear mixed-effect models to determine impacts of lab style on lower-order
+cognition (LO) and higher-order cognition (HO) based on Bloom's taxonomy. Relative to the expository
+treatment, the learning cycle treatment had a positive effect on HO and a negative effect on LO
+included in lab reports; a positive effect on transfer of LO from the lab report to the quiz;
+negative impacts on LO quiz performance and on attitudes toward the lab; and a higher degree of
+perceived difficulty. The learning cycle treatment had no influence on transfer of HO from lab
+report to quiz or exam; quiz performance on HO questions; exam performance on LO and HO questions;
+and attitudes toward biology as a science. The importance of LO as a foundation for HO relative to
+these lab styles is addressed.
+
+
+

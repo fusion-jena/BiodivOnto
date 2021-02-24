@@ -1,0 +1,10 @@
+land_use_process_class,bare_soil_2007,bare_soil_2012
+Grazing pressure,0.08,0.05
+Cultivation,0.81,0.16
+Harvest,0.15,0.09
+Spraying,0,0
+Drains,0.03,0.02
+Tracks,0.89,0.89
+Earthworks,0.07,0.03
+Roads,0.08,0.07
+Total region,2.11,1.31

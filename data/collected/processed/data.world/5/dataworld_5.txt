@@ -1,0 +1,5 @@
+﻿DESCRIPTION
+Animal Center Intakes from Oct, 1st 2013 to present.
+SUMMARY
+Animal Center Intakes from Oct, 1st 2013 to present. Intakes represent the status of animals as they arrive at the Animal Center. All animals receive a unique Animal ID during intake. Annually over 90% of animals entering the center, are adopted, transferred to rescue or returned to their owners.
+

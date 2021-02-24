@@ -1,0 +1,1639 @@
+Taxon,CSP,age class,abundance,Taxonomic.assignment
+OTU_0001,CSP01,medium,74,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0003,CSP01,medium,22,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0004,CSP01,medium,54,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0005,CSP01,medium,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0009,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0013,CSP01,medium,6,Fungi;Ascomycota; Leptodontidium
+OTU_0014,CSP01,medium,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0019,CSP01,medium,10,Fungi;Ascomycota
+OTU_0032,CSP01,medium,64,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0044,CSP01,medium,43,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0048,CSP01,medium,13,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0050,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypomyces
+OTU_0054,CSP01,medium,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Atheliales; Atheliaceae; Piloderma
+OTU_0056,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Onygenales; Ascosphaeraceae; Ascosphaera
+OTU_0058,CSP01,medium,3,Fungi;Ascomycota
+OTU_0059,CSP01,medium,27,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0065,CSP01,medium,4,Fungi;Ascomycota
+OTU_0067,CSP01,medium,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Psathyrellaceae; Psathyrella
+OTU_0069,CSP01,medium,14,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0070,CSP01,medium,6,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Leotiaceae; Leotia
+OTU_0071,CSP01,medium,37,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0072,CSP01,medium,26,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0077,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Cryptosporiopsis
+OTU_0078,CSP01,medium,11,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Lyophyllaceae; Asterophora
+OTU_0079,CSP01,medium,10,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_0081,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_0082,CSP01,medium,5,Fungi
+OTU_0084,CSP01,medium,9,Fungi
+OTU_0085,CSP01,medium,6,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Nectriaceae; Ilyonectria
+OTU_0086,CSP01,medium,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0088,CSP01,medium,11,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0090,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0092,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0094,CSP01,medium,13,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP01,medium,28,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0097,CSP01,medium,6,Fungi
+OTU_0098,CSP01,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Agaricaceae; Lepiota
+OTU_0101,CSP01,medium,7,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0103,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_0110,CSP01,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0111,CSP01,medium,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0113,CSP01,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0115,CSP01,medium,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Hyaloscyphaceae; Arachnopeziza
+OTU_0119,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0121,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_0124,CSP01,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Hydnaceae; Hydnum
+OTU_0127,CSP01,medium,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Phialocephala
+OTU_0129,CSP01,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Psathyrellaceae
+OTU_0130,CSP01,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Clitocybula
+OTU_0131,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0132,CSP01,medium,1,Fungi
+OTU_0134,CSP01,medium,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Strophariaceae; Pholiota
+OTU_0135,CSP01,medium,3,Fungi;Ascomycota
+OTU_0137,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0139,CSP01,medium,6,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0141,CSP01,medium,1,Fungi;Ascomycota
+OTU_0149,CSP01,medium,2,Fungi
+OTU_0151,CSP01,medium,6,Fungi
+OTU_0153,CSP01,medium,6,Fungi
+OTU_0165,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0169,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Chloridium
+OTU_0181,CSP01,medium,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0193,CSP01,medium,5,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0200,CSP01,medium,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Clavicipitaceae; Paecilomyces
+OTU_0215,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Chalara
+OTU_0233,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0235,CSP01,medium,18,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Trichosporon
+OTU_0251,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0257,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0278,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0307,CSP01,medium,2,Fungi;Ascomycota
+OTU_0322,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP01,medium,14,Fungi
+OTU_0332,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Cordycipitaceae; Beauveria
+OTU_0334,CSP01,medium,2,Fungi
+OTU_0345,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0371,CSP01,medium,3,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0389,CSP01,medium,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae
+OTU_0405,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0430,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0443,CSP01,medium,2,Fungi
+OTU_0444,CSP01,medium,1,Fungi;Ascomycota; Spirosphaera
+OTU_0446,CSP01,medium,2,Fungi;Ascomycota
+OTU_0450,CSP01,medium,5,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0464,CSP01,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0489,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0492,CSP01,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Auriculariales; Hyaloriaceae; Pseudohydnum
+OTU_0501,CSP01,medium,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0504,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Rhytismatales; Rhytismataceae; Lophodermium
+OTU_0522,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Hyalodendriella
+OTU_0603,CSP01,medium,4,Fungi;Ascomycota; Leptodontidium
+OTU_0607,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Entoloma
+OTU_0615,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Paecilomyces
+OTU_0620,CSP01,medium,2,Fungi
+OTU_0623,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0630,CSP01,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0655,CSP01,medium,1,Fungi
+OTU_0656,CSP01,medium,7,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0664,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0682,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0689,CSP01,medium,1,Fungi;Ascomycota; mitosporic Ascomycota; Dothideomycetes
+OTU_0709,CSP01,medium,2,Fungi
+OTU_0718,CSP01,medium,5,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0721,CSP01,medium,3,Fungi;Mucoromycotina; Mucorales
+OTU_0728,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Clavicipitaceae; Paecilomyces
+OTU_0742,CSP01,medium,1,Fungi
+OTU_0794,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0796,CSP01,medium,8,Fungi
+OTU_0805,CSP01,medium,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0812,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0819,CSP01,medium,1,Fungi
+OTU_0821,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0834,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_0836,CSP01,medium,1,Fungi
+OTU_0838,CSP01,medium,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0846,CSP01,medium,4,Fungi;Ascomycota; Leptodontidium
+OTU_0871,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0872,CSP01,medium,5,Fungi
+OTU_0873,CSP01,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Bankeraceae; Boletopsis
+OTU_0874,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0876,CSP01,medium,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0884,CSP01,medium,8,Fungi
+OTU_0903,CSP01,medium,2,Fungi;Ascomycota
+OTU_0904,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0906,CSP01,medium,1,Fungi
+OTU_0937,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Coniochaetales; Coniochaetaceae; Lecythophora
+OTU_0938,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Dermea
+OTU_0963,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0964,CSP01,medium,1,Fungi
+OTU_0970,CSP01,medium,7,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0988,CSP01,medium,1,Fungi
+OTU_0994,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Sagenomella
+OTU_0999,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1021,CSP01,medium,3,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Dothideomycetes incertae sedis; Venturiaceae; Cylindrosympodium
+OTU_1039,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Rhytismatales; Rhytismataceae
+OTU_1046,CSP01,medium,8,Fungi
+OTU_1047,CSP01,medium,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_1064,CSP01,medium,3,Fungi
+OTU_1065,CSP01,medium,1,Fungi
+OTU_1093,CSP01,medium,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_1099,CSP01,medium,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_1125,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Hydnaceae; Hydnum
+OTU_1143,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales
+OTU_1145,CSP01,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Clavariaceae; Clavaria
+OTU_1146,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1154,CSP01,medium,3,Fungi;Mucoromycotina; Mucorales
+OTU_1167,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_1196,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Chloridium
+OTU_1220,CSP01,medium,2,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_1230,CSP01,medium,2,Fungi;Glomeromycota Glomeromycetes; Glomerales; Glomeraceae; Glomus
+OTU_1237,CSP01,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_1245,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_1290,CSP01,medium,1,Fungi;Mucoromycotina
+OTU_1322,CSP01,medium,1,Fungi
+OTU_1385,CSP01,medium,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1399,CSP01,medium,14,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1412,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1413,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1456,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Polyporales; Auriscalpiaceae; Clavicorona
+OTU_1467,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_1474,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Tremellaceae; Asterotremella
+OTU_1509,CSP01,medium,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_1588,CSP01,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1639,CSP01,medium,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae
+OTU_1663,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales
+OTU_1726,CSP01,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1739,CSP01,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1740,CSP01,medium,1,Fungi;Ascomycota; Cenococcum
+OTU_1767,CSP01,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1864,CSP01,medium,1,Fungi
+OTU_1905,CSP01,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_2019,CSP01,medium,2,Fungi
+OTU_0001,CSP02,old,5,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0005,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0008,CSP02,old,80,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0009,CSP02,old,122,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0011,CSP02,old,85,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0013,CSP02,old,20,Fungi;Ascomycota; Leptodontidium
+OTU_0014,CSP02,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0032,CSP02,old,87,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0038,CSP02,old,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Atheliales; Atheliaceae
+OTU_0044,CSP02,old,15,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0065,CSP02,old,3,Fungi;Ascomycota
+OTU_0067,CSP02,old,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Psathyrellaceae; Psathyrella
+OTU_0071,CSP02,old,11,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0072,CSP02,old,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0078,CSP02,old,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Lyophyllaceae; Asterophora
+OTU_0084,CSP02,old,1,Fungi
+OTU_0094,CSP02,old,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0097,CSP02,old,1,Fungi
+OTU_0101,CSP02,old,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0103,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_0110,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0113,CSP02,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0139,CSP02,old,9,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0149,CSP02,old,1,Fungi
+OTU_0165,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0172,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Callistosporium
+OTU_0176,CSP02,old,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Polyscytalum
+OTU_0177,CSP02,old,4,Fungi;Ascomycota; Pezizomycotina
+OTU_0178,CSP02,old,21,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0181,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0188,CSP02,old,1,Fungi;Ascomycota
+OTU_0190,CSP02,old,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Agaricaceae; Leucoagaricus
+OTU_0191,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Cryptosporiopsis
+OTU_0193,CSP02,old,8,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0197,CSP02,old,13,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_0199,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0200,CSP02,old,12,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Clavicipitaceae; Paecilomyces
+OTU_0202,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Orbiliomycetes Venturiaceae
+OTU_0204,CSP02,old,3,Fungi
+OTU_0208,CSP02,old,4,Fungi;Ascomycota
+OTU_0213,CSP02,old,16,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0214,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0215,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Chalara
+OTU_0217,CSP02,old,44,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0218,CSP02,old,46,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0223,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0226,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0229,CSP02,old,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Ophiostomatales; Ophiostomataceae; Phialocephala
+OTU_0233,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0234,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Cenococcum
+OTU_0235,CSP02,old,6,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Trichosporon
+OTU_0242,CSP02,old,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Hemimycena
+OTU_0251,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0254,CSP02,old,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0255,CSP02,old,26,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0257,CSP02,old,10,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0258,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0263,CSP02,old,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Marasmiaceae; Marasmius
+OTU_0265,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0266,CSP02,old,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Chalara
+OTU_0269,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Capnodiales; Teratosphaeriaceae; Devriesia
+OTU_0270,CSP02,old,2,Fungi;Ascomycota
+OTU_0273,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Chaetosphaeria
+OTU_0275,CSP02,old,2,Fungi
+OTU_0278,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0287,CSP02,old,4,Fungi
+OTU_0293,CSP02,old,2,Fungi;Ascomycota
+OTU_0297,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Rhytismatales; Rhytismataceae; Phacidiopycnis
+OTU_0304,CSP02,old,3,Fungi;Ascomycota
+OTU_0307,CSP02,old,1,Fungi;Ascomycota
+OTU_0309,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Rhizoscyphus
+OTU_0322,CSP02,old,10,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP02,old,1,Fungi
+OTU_0332,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Cordycipitaceae; Beauveria
+OTU_0333,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Capnodiales; Teratosphaeriaceae; Devriesia
+OTU_0334,CSP02,old,2,Fungi
+OTU_0336,CSP02,old,17,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0337,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Sirobasidiaceae; Sirobasidium
+OTU_0338,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0343,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0345,CSP02,old,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0346,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Sagenomella
+OTU_0360,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina Gloeosporium
+OTU_0371,CSP02,old,23,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0424,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0434,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Boletales; Boletaceae; Tylopilus
+OTU_0443,CSP02,old,1,Fungi
+OTU_0444,CSP02,old,1,Fungi;Ascomycota; Spirosphaera
+OTU_0450,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0478,CSP02,old,8,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0480,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Magnaporthales; Magnaporthaceae; Phialophora
+OTU_0489,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0492,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Auriculariales; Hyaloriaceae; Pseudohydnum
+OTU_0496,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Xylariales; Amphisphaeriaceae; Pestalotiopsis
+OTU_0501,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0543,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0616,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_0692,CSP02,old,1,Fungi;Ascomycota
+OTU_0742,CSP02,old,1,Fungi
+OTU_0768,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0775,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0796,CSP02,old,6,Fungi
+OTU_0799,CSP02,old,3,Fungi
+OTU_0802,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0805,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0810,CSP02,old,1,Fungi
+OTU_0834,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_0838,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0874,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0890,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Capnodiales Ramichloridium
+OTU_0900,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0903,CSP02,old,5,Fungi;Ascomycota
+OTU_0904,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0906,CSP02,old,2,Fungi
+OTU_0911,CSP02,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0937,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Coniochaetales; Coniochaetaceae; Lecythophora
+OTU_0970,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0985,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1021,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Dothideomycetes incertae sedis; Venturiaceae; Cylindrosympodium
+OTU_1025,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_1030,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_1046,CSP02,old,19,Fungi
+OTU_1058,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1093,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_1105,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1126,CSP02,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1135,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1143,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales
+OTU_1145,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Clavariaceae; Clavaria
+OTU_1146,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1154,CSP02,old,1,Fungi;Mucoromycotina; Mucorales
+OTU_1167,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_1176,CSP02,old,2,Fungi;Ascomycota; Leptodontidium
+OTU_1186,CSP02,old,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1196,CSP02,old,4,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Chloridium
+OTU_1214,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Clavulinaceae; Clavulina
+OTU_1216,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Tremellaceae; Tremella
+OTU_1221,CSP02,old,5,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_1242,CSP02,old,2,Fungi;Basidiomycota
+OTU_1290,CSP02,old,1,Fungi;Mucoromycotina
+OTU_1315,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Marasmiaceae; Marasmiellus
+OTU_1359,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Nectriaceae; Gliocephalotrichum
+OTU_1400,CSP02,old,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1413,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1467,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_1509,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_1512,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1519,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Clavulinaceae; Multiclavula
+OTU_1621,CSP02,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Polyporales; Auriscalpiaceae; Clavicorona
+OTU_1639,CSP02,old,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae
+OTU_1641,CSP02,old,2,Fungi;Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales; Pezizales incertae sedis; Phialea
+OTU_1648,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1663,CSP02,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales
+OTU_1698,CSP02,old,1,Fungi
+OTU_1727,CSP02,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1791,CSP02,old,1,Fungi
+OTU_1928,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Atheliales; Atheliaceae
+OTU_2024,CSP02,old,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_2134,CSP02,old,2,Fungi
+OTU_0001,CSP04,old,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0005,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0013,CSP04,old,1,Fungi;Ascomycota; Leptodontidium
+OTU_0014,CSP04,old,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0015,CSP04,old,3,Fungi
+OTU_0018,CSP04,old,152,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0019,CSP04,old,2,Fungi;Ascomycota
+OTU_0032,CSP04,old,14,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0044,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0045,CSP04,old,23,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0059,CSP04,old,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0071,CSP04,old,5,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0079,CSP04,old,9,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_0081,CSP04,old,6,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_0084,CSP04,old,2,Fungi
+OTU_0094,CSP04,old,4,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP04,old,4,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0097,CSP04,old,1,Fungi
+OTU_0101,CSP04,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0111,CSP04,old,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0119,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0151,CSP04,old,1,Fungi
+OTU_0176,CSP04,old,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Polyscytalum
+OTU_0190,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Agaricaceae; Leucoagaricus
+OTU_0193,CSP04,old,7,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0197,CSP04,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_0200,CSP04,old,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Clavicipitaceae; Paecilomyces
+OTU_0233,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0251,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0254,CSP04,old,4,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0257,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0265,CSP04,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0287,CSP04,old,3,Fungi
+OTU_0322,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0334,CSP04,old,2,Fungi
+OTU_0345,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0351,CSP04,old,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Menispora
+OTU_0353,CSP04,old,7,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0360,CSP04,old,3,Fungi;Ascomycota; Pezizomycotina Gloeosporium
+OTU_0361,CSP04,old,341,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales
+OTU_0362,CSP04,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0363,CSP04,old,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Nectriaceae; Cylindrium
+OTU_0364,CSP04,old,17,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0365,CSP04,old,9,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0367,CSP04,old,3,Fungi
+OTU_0371,CSP04,old,14,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0374,CSP04,old,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Clavariaceae; Ramariopsis
+OTU_0376,CSP04,old,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0377,CSP04,old,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0378,CSP04,old,9,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae
+OTU_0379,CSP04,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0380,CSP04,old,1,Fungi
+OTU_0382,CSP04,old,6,Fungi;Ascomycota; Pezizomycotina; Lecanoromycetes
+OTU_0384,CSP04,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0389,CSP04,old,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae
+OTU_0390,CSP04,old,19,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0391,CSP04,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_0396,CSP04,old,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0397,CSP04,old,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Diaporthales; Valsaceae; Valsa
+OTU_0399,CSP04,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0400,CSP04,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0405,CSP04,old,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0410,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Rhizoscyphus
+OTU_0415,CSP04,old,1,Fungi;Ascomycota
+OTU_0445,CSP04,old,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0446,CSP04,old,1,Fungi;Ascomycota
+OTU_0485,CSP04,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0488,CSP04,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0489,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0501,CSP04,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0581,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0588,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales; Sarcoscyphaceae; Phillipsia
+OTU_0603,CSP04,old,1,Fungi;Ascomycota; Leptodontidium
+OTU_0652,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Hymenochaetales; Hymenochaetaceae; Phellinus
+OTU_0664,CSP04,old,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0721,CSP04,old,1,Fungi;Mucoromycotina; Mucorales
+OTU_0738,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_0779,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0812,CSP04,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0834,CSP04,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_0838,CSP04,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0883,CSP04,old,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0906,CSP04,old,3,Fungi
+OTU_0920,CSP04,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0926,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0970,CSP04,old,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_1009,CSP04,old,16,Fungi;Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Pichia
+OTU_1028,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_1046,CSP04,old,6,Fungi
+OTU_1067,CSP04,old,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1103,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Cantharellaceae; Craterellus
+OTU_1135,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1143,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales
+OTU_1145,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Clavariaceae; Clavaria
+OTU_1282,CSP04,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_1294,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1303,CSP04,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Physalacriaceae; Oudemansiella
+OTU_1403,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1413,CSP04,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1436,CSP04,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1492,CSP04,old,4,Fungi
+OTU_1512,CSP04,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1519,CSP04,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Clavulinaceae; Multiclavula
+OTU_1637,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_1697,CSP04,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_1707,CSP04,old,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1861,CSP04,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_1863,CSP04,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentellopsis
+OTU_1914,CSP04,old,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_2159,CSP04,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Gymnomyces
+OTU_0001,CSP05,medium,19,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0003,CSP05,medium,77,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0005,CSP05,medium,5,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0008,CSP05,medium,24,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0013,CSP05,medium,4,Fungi;Ascomycota; Leptodontidium
+OTU_0018,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0019,CSP05,medium,10,Fungi;Ascomycota
+OTU_0021,CSP05,medium,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Tremellodendron
+OTU_0022,CSP05,medium,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0032,CSP05,medium,9,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0044,CSP05,medium,18,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0045,CSP05,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0059,CSP05,medium,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0067,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Psathyrellaceae; Psathyrella
+OTU_0071,CSP05,medium,10,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0072,CSP05,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0077,CSP05,medium,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Cryptosporiopsis
+OTU_0078,CSP05,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Lyophyllaceae; Asterophora
+OTU_0081,CSP05,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_0084,CSP05,medium,2,Fungi
+OTU_0094,CSP05,medium,4,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP05,medium,22,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0101,CSP05,medium,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0110,CSP05,medium,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0111,CSP05,medium,43,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0113,CSP05,medium,12,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0115,CSP05,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Hyaloscyphaceae; Arachnopeziza
+OTU_0131,CSP05,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0132,CSP05,medium,1,Fungi
+OTU_0139,CSP05,medium,45,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0151,CSP05,medium,1,Fungi
+OTU_0233,CSP05,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0234,CSP05,medium,5,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Cenococcum
+OTU_0251,CSP05,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0322,CSP05,medium,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP05,medium,4,Fungi
+OTU_0362,CSP05,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0371,CSP05,medium,9,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0378,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae
+OTU_0422,CSP05,medium,26,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Trechisporales; Trechisporaceae; Trechispora
+OTU_0423,CSP05,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales
+OTU_0424,CSP05,medium,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0430,CSP05,medium,264,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0433,CSP05,medium,18,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Gymnomyces
+OTU_0434,CSP05,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Boletales; Boletaceae; Tylopilus
+OTU_0435,CSP05,medium,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0439,CSP05,medium,9,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Clitocybula
+OTU_0443,CSP05,medium,1,Fungi
+OTU_0444,CSP05,medium,3,Fungi;Ascomycota; Spirosphaera
+OTU_0445,CSP05,medium,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0446,CSP05,medium,1,Fungi;Ascomycota
+OTU_0449,CSP05,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0450,CSP05,medium,9,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0459,CSP05,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales
+OTU_0462,CSP05,medium,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Xylariales; Amphisphaeriaceae; Pestalotiopsis
+OTU_0463,CSP05,medium,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0464,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0470,CSP05,medium,1,Fungi;Ascomycota; mitosporic Ascomycota; Sympodiella
+OTU_0492,CSP05,medium,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Auriculariales; Hyaloriaceae; Pseudohydnum
+OTU_0530,CSP05,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0584,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Laccaria
+OTU_0615,CSP05,medium,4,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Paecilomyces
+OTU_0649,CSP05,medium,10,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Entoloma
+OTU_0652,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Hymenochaetales; Hymenochaetaceae; Phellinus
+OTU_0655,CSP05,medium,1,Fungi
+OTU_0656,CSP05,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0663,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0692,CSP05,medium,1,Fungi;Ascomycota
+OTU_0695,CSP05,medium,4,Fungi;Ascomycota; Leotiomycetes; Helotiales
+OTU_0697,CSP05,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0742,CSP05,medium,1,Fungi
+OTU_0774,CSP05,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0787,CSP05,medium,11,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0796,CSP05,medium,4,Fungi
+OTU_0810,CSP05,medium,1,Fungi
+OTU_0811,CSP05,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0831,CSP05,medium,2,Fungi;Basidiomycota; Pucciniomycotina; Cystobasidiomycetes; Erythrobasidiales; Erythrobasidiaceae; Rhodotorula
+OTU_0838,CSP05,medium,7,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0843,CSP05,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_0846,CSP05,medium,2,Fungi;Ascomycota; Leptodontidium
+OTU_0876,CSP05,medium,13,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0884,CSP05,medium,8,Fungi
+OTU_0906,CSP05,medium,1,Fungi
+OTU_0997,CSP05,medium,1,Fungi;Mucoromycotina
+OTU_0999,CSP05,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1084,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1105,CSP05,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1113,CSP05,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_1121,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Polyporales; Ganodermataceae; Ganoderma
+OTU_1127,CSP05,medium,3,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Capnodiales; Teratosphaeriaceae; Devriesia
+OTU_1134,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_1172,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1211,CSP05,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1233,CSP05,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1299,CSP05,medium,4,Fungi;Basidiomycota
+OTU_1335,CSP05,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1412,CSP05,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1639,CSP05,medium,2,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae
+OTU_1715,CSP05,medium,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1740,CSP05,medium,1,Fungi;Ascomycota; Cenococcum
+OTU_1895,CSP05,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_2010,CSP05,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0001,CSP08,medium,21,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0005,CSP08,medium,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0008,CSP08,medium,21,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0011,CSP08,medium,73,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0014,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0015,CSP08,medium,3,Fungi
+OTU_0018,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0019,CSP08,medium,2,Fungi;Ascomycota
+OTU_0024,CSP08,medium,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0028,CSP08,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Clavulinaceae; Clavulina
+OTU_0032,CSP08,medium,52,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0035,CSP08,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0037,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0038,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Atheliales; Atheliaceae
+OTU_0044,CSP08,medium,24,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0045,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0059,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0070,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Leotiaceae; Leotia
+OTU_0071,CSP08,medium,12,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0077,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Cryptosporiopsis
+OTU_0078,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Lyophyllaceae; Asterophora
+OTU_0079,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_0081,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_0084,CSP08,medium,6,Fungi
+OTU_0085,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Nectriaceae; Ilyonectria
+OTU_0086,CSP08,medium,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0092,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0094,CSP08,medium,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP08,medium,4,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0101,CSP08,medium,7,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0110,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0111,CSP08,medium,7,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0113,CSP08,medium,12,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0115,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Hyaloscyphaceae; Arachnopeziza
+OTU_0131,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0139,CSP08,medium,11,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0141,CSP08,medium,1,Fungi;Ascomycota
+OTU_0149,CSP08,medium,3,Fungi
+OTU_0188,CSP08,medium,1,Fungi;Ascomycota
+OTU_0193,CSP08,medium,2,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0199,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0202,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Orbiliomycetes Venturiaceae
+OTU_0233,CSP08,medium,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0235,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Trichosporon
+OTU_0251,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0278,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0293,CSP08,medium,1,Fungi;Ascomycota
+OTU_0322,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP08,medium,4,Fungi
+OTU_0332,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Cordycipitaceae; Beauveria
+OTU_0334,CSP08,medium,14,Fungi
+OTU_0343,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0345,CSP08,medium,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0351,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Menispora
+OTU_0362,CSP08,medium,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0371,CSP08,medium,10,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0415,CSP08,medium,1,Fungi;Ascomycota
+OTU_0423,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales
+OTU_0424,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0443,CSP08,medium,1,Fungi
+OTU_0444,CSP08,medium,1,Fungi;Ascomycota; Spirosphaera
+OTU_0445,CSP08,medium,15,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0450,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0462,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Xylariales; Amphisphaeriaceae; Pestalotiopsis
+OTU_0477,CSP08,medium,3,Fungi
+OTU_0478,CSP08,medium,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0479,CSP08,medium,47,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0480,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Magnaporthales; Magnaporthaceae; Phialophora
+OTU_0485,CSP08,medium,28,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0487,CSP08,medium,5,Fungi;Ascomycota
+OTU_0488,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0489,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0492,CSP08,medium,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Auriculariales; Hyaloriaceae; Pseudohydnum
+OTU_0494,CSP08,medium,21,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0495,CSP08,medium,1,Fungi;Ascomycota; mitosporic Ascomycota; Leptodontidium
+OTU_0496,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Xylariales; Amphisphaeriaceae; Pestalotiopsis
+OTU_0497,CSP08,medium,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Scytalidium
+OTU_0501,CSP08,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0504,CSP08,medium,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Rhytismatales; Rhytismataceae; Lophodermium
+OTU_0510,CSP08,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0511,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0514,CSP08,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0522,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Hyalodendriella
+OTU_0523,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0524,CSP08,medium,23,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0525,CSP08,medium,4,Fungi;Ascomycota; mitosporic Ascomycota; Leptodontidium
+OTU_0530,CSP08,medium,14,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0540,CSP08,medium,1,Fungi;Ascomycota
+OTU_0543,CSP08,medium,20,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0545,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0547,CSP08,medium,3,Fungi;Ascomycota; Leotiomycetes Helotiales
+OTU_0555,CSP08,medium,1,Fungi
+OTU_0556,CSP08,medium,16,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0584,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Laccaria
+OTU_0591,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0599,CSP08,medium,2,Fungi
+OTU_0611,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0615,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Paecilomyces
+OTU_0655,CSP08,medium,1,Fungi
+OTU_0656,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0681,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0706,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0709,CSP08,medium,1,Fungi
+OTU_0711,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0742,CSP08,medium,2,Fungi
+OTU_0743,CSP08,medium,122,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0794,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0795,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0796,CSP08,medium,4,Fungi
+OTU_0799,CSP08,medium,1,Fungi
+OTU_0805,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0821,CSP08,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0826,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0830,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0837,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Idriella
+OTU_0838,CSP08,medium,7,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0874,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0876,CSP08,medium,2,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0898,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales; Pezizales incertae sedis; Phialea
+OTU_0903,CSP08,medium,2,Fungi;Ascomycota
+OTU_0926,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0970,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0997,CSP08,medium,1,Fungi;Mucoromycotina
+OTU_1009,CSP08,medium,4,Fungi;Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Pichia
+OTU_1047,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_1058,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1063,CSP08,medium,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_1084,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1093,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_1103,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Cantharellaceae; Craterellus
+OTU_1105,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1107,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Clitocybula
+OTU_1113,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_1128,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1135,CSP08,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1140,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_1143,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales
+OTU_1145,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Clavariaceae; Clavaria
+OTU_1186,CSP08,medium,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1211,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1237,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_1242,CSP08,medium,1,Fungi;Basidiomycota
+OTU_1294,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1304,CSP08,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Hymenochaetales; Hymenochaetaceae; Phellinus
+OTU_1330,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_1354,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1364,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Hygrophoraceae; Hygrocybe
+OTU_1365,CSP08,medium,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1377,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Marasmiaceae; Marasmiellus
+OTU_1413,CSP08,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1415,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Hydropus
+OTU_1436,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1590,CSP08,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1606,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Physalacriaceae; Strobilurus
+OTU_1618,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1626,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1637,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_1703,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_1708,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_1719,CSP08,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1725,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1846,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_1852,CSP08,medium,1,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes
+OTU_2010,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_2024,CSP08,medium,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0001,CSP09,medium,11,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0003,CSP09,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0004,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0005,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0008,CSP09,medium,22,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0009,CSP09,medium,259,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0011,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0013,CSP09,medium,2,Fungi;Ascomycota; Leptodontidium
+OTU_0014,CSP09,medium,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0025,CSP09,medium,162,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0029,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_0032,CSP09,medium,22,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0044,CSP09,medium,8,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0059,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0071,CSP09,medium,7,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0072,CSP09,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0078,CSP09,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Lyophyllaceae; Asterophora
+OTU_0079,CSP09,medium,10,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_0084,CSP09,medium,1,Fungi
+OTU_0086,CSP09,medium,7,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0090,CSP09,medium,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0094,CSP09,medium,5,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP09,medium,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0097,CSP09,medium,2,Fungi
+OTU_0101,CSP09,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0110,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0111,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0113,CSP09,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0131,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0137,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0139,CSP09,medium,24,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0151,CSP09,medium,1,Fungi
+OTU_0172,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Callistosporium
+OTU_0176,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Polyscytalum
+OTU_0193,CSP09,medium,6,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0197,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_0200,CSP09,medium,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Clavicipitaceae; Paecilomyces
+OTU_0223,CSP09,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0233,CSP09,medium,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0234,CSP09,medium,2,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Cenococcum
+OTU_0254,CSP09,medium,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0263,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Marasmiaceae; Marasmius
+OTU_0265,CSP09,medium,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0322,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP09,medium,1,Fungi
+OTU_0336,CSP09,medium,23,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0337,CSP09,medium,3,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Sirobasidiaceae; Sirobasidium
+OTU_0345,CSP09,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0346,CSP09,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Sagenomella
+OTU_0351,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Menispora
+OTU_0362,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0371,CSP09,medium,8,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0397,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Diaporthales; Valsaceae; Valsa
+OTU_0410,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Rhizoscyphus
+OTU_0424,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0450,CSP09,medium,8,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0478,CSP09,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0488,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0492,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Auriculariales; Hyaloriaceae; Pseudohydnum
+OTU_0523,CSP09,medium,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0524,CSP09,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0540,CSP09,medium,1,Fungi;Ascomycota
+OTU_0559,CSP09,medium,10,Fungi
+OTU_0563,CSP09,medium,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0564,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Phialocephala
+OTU_0565,CSP09,medium,29,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0566,CSP09,medium,12,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0568,CSP09,medium,1,Fungi
+OTU_0570,CSP09,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Corticiales; Corticiaceae; Haplotrichum
+OTU_0580,CSP09,medium,24,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0581,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0584,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Laccaria
+OTU_0587,CSP09,medium,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0588,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales; Sarcoscyphaceae; Phillipsia
+OTU_0591,CSP09,medium,15,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0599,CSP09,medium,2,Fungi
+OTU_0603,CSP09,medium,3,Fungi;Ascomycota; Leptodontidium
+OTU_0615,CSP09,medium,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Paecilomyces
+OTU_0649,CSP09,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Entoloma
+OTU_0652,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Hymenochaetales; Hymenochaetaceae; Phellinus
+OTU_0711,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0724,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0742,CSP09,medium,1,Fungi
+OTU_0799,CSP09,medium,3,Fungi
+OTU_0826,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0843,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_0845,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0846,CSP09,medium,1,Fungi;Ascomycota; Leptodontidium
+OTU_0870,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0903,CSP09,medium,3,Fungi;Ascomycota
+OTU_0906,CSP09,medium,1,Fungi
+OTU_0911,CSP09,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0929,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Camarophyllus
+OTU_1021,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Dothideomycetes incertae sedis; Venturiaceae; Cylindrosympodium
+OTU_1028,CSP09,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_1046,CSP09,medium,1,Fungi
+OTU_1050,CSP09,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentellopsis
+OTU_1084,CSP09,medium,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1122,CSP09,medium,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1211,CSP09,medium,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1226,CSP09,medium,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1299,CSP09,medium,1,Fungi;Basidiomycota
+OTU_1335,CSP09,medium,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1413,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1465,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales Verticillium
+OTU_1631,CSP09,medium,1,Fungi
+OTU_1720,CSP09,medium,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_1852,CSP09,medium,1,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes
+OTU_1861,CSP09,medium,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_0001,CSP12,old,10,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0003,CSP12,old,23,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0004,CSP12,old,30,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0005,CSP12,old,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0013,CSP12,old,4,Fungi;Ascomycota; Leptodontidium
+OTU_0019,CSP12,old,7,Fungi;Ascomycota
+OTU_0022,CSP12,old,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0028,CSP12,old,160,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Clavulinaceae; Clavulina
+OTU_0032,CSP12,old,40,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0044,CSP12,old,17,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0045,CSP12,old,111,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0048,CSP12,old,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0059,CSP12,old,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0065,CSP12,old,2,Fungi;Ascomycota
+OTU_0071,CSP12,old,11,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0072,CSP12,old,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0077,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Cryptosporiopsis
+OTU_0079,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales
+OTU_0084,CSP12,old,9,Fungi
+OTU_0090,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0094,CSP12,old,4,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP12,old,18,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0101,CSP12,old,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0110,CSP12,old,9,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0111,CSP12,old,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0121,CSP12,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_0131,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0139,CSP12,old,20,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0141,CSP12,old,2,Fungi;Ascomycota
+OTU_0188,CSP12,old,1,Fungi;Ascomycota
+OTU_0193,CSP12,old,10,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0233,CSP12,old,5,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0251,CSP12,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0265,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0270,CSP12,old,3,Fungi;Ascomycota
+OTU_0273,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Chaetosphaeria
+OTU_0297,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Rhytismatales; Rhytismataceae; Phacidiopycnis
+OTU_0322,CSP12,old,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP12,old,3,Fungi
+OTU_0333,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Capnodiales; Teratosphaeriaceae; Devriesia
+OTU_0334,CSP12,old,1,Fungi
+OTU_0345,CSP12,old,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0351,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Menispora
+OTU_0360,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina Gloeosporium
+OTU_0371,CSP12,old,27,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0382,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Lecanoromycetes
+OTU_0405,CSP12,old,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0410,CSP12,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Rhizoscyphus
+OTU_0443,CSP12,old,1,Fungi
+OTU_0445,CSP12,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0446,CSP12,old,6,Fungi;Ascomycota
+OTU_0450,CSP12,old,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0464,CSP12,old,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0489,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0510,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0524,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0591,CSP12,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0606,CSP12,old,24,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Atheliales; Atheliaceae; Piloderma
+OTU_0607,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Entoloma
+OTU_0609,CSP12,old,10,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales
+OTU_0610,CSP12,old,25,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_0611,CSP12,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0615,CSP12,old,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Paecilomyces
+OTU_0616,CSP12,old,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_0620,CSP12,old,1,Fungi
+OTU_0621,CSP12,old,2,Fungi;Ascomycota
+OTU_0623,CSP12,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0626,CSP12,old,23,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Cystangium
+OTU_0629,CSP12,old,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0630,CSP12,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0634,CSP12,old,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Clavulinaceae; Clavulina
+OTU_0645,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0648,CSP12,old,6,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Bionectriaceae; Clonostachys
+OTU_0649,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Entoloma
+OTU_0652,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Hymenochaetales; Hymenochaetaceae; Phellinus
+OTU_0655,CSP12,old,2,Fungi
+OTU_0656,CSP12,old,7,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0659,CSP12,old,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Clavulinaceae; Clavulina
+OTU_0663,CSP12,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0664,CSP12,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0666,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Chaetomiaceae; Chaetomium
+OTU_0680,CSP12,old,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0681,CSP12,old,16,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0682,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0689,CSP12,old,1,Fungi;Ascomycota; mitosporic Ascomycota; Dothideomycetes
+OTU_0692,CSP12,old,1,Fungi;Ascomycota
+OTU_0694,CSP12,old,1,Fungi;Ascomycota
+OTU_0717,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Rhytismatales; Rhytismataceae; Lophodermium
+OTU_0721,CSP12,old,1,Fungi;Mucoromycotina; Mucorales
+OTU_0775,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0789,CSP12,old,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Annulatascaceae; Vertexicola
+OTU_0794,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0795,CSP12,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0799,CSP12,old,2,Fungi
+OTU_0831,CSP12,old,3,Fungi;Basidiomycota; Pucciniomycotina; Cystobasidiomycetes; Erythrobasidiales; Erythrobasidiaceae; Rhodotorula
+OTU_0834,CSP12,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_0838,CSP12,old,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0846,CSP12,old,2,Fungi;Ascomycota; Leptodontidium
+OTU_0874,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0876,CSP12,old,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0883,CSP12,old,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0906,CSP12,old,3,Fungi
+OTU_0954,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0970,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0980,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_1046,CSP12,old,15,Fungi
+OTU_1084,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1093,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_1099,CSP12,old,3,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_1107,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Clitocybula
+OTU_1154,CSP12,old,1,Fungi;Mucoromycotina; Mucorales
+OTU_1166,CSP12,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1167,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_1399,CSP12,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1403,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1415,CSP12,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Hydropus
+OTU_1512,CSP12,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1607,CSP12,old,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1639,CSP12,old,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae
+OTU_1662,CSP12,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_1698,CSP12,old,1,Fungi
+OTU_1703,CSP12,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_1708,CSP12,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_1739,CSP12,old,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1761,CSP12,old,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_1800,CSP12,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Neofabraea
+OTU_1895,CSP12,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_2043,CSP12,old,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0001,CSP13,old,18,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0003,CSP13,old,11,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0004,CSP13,old,17,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0005,CSP13,old,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0014,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0018,CSP13,old,36,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0019,CSP13,old,6,Fungi;Ascomycota
+OTU_0022,CSP13,old,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0029,CSP13,old,403,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_0032,CSP13,old,14,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0044,CSP13,old,22,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0059,CSP13,old,6,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0065,CSP13,old,3,Fungi;Ascomycota
+OTU_0071,CSP13,old,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0072,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0077,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Cryptosporiopsis
+OTU_0084,CSP13,old,2,Fungi
+OTU_0090,CSP13,old,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0094,CSP13,old,2,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP13,old,3,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0101,CSP13,old,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0110,CSP13,old,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0111,CSP13,old,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0121,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_0131,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0139,CSP13,old,23,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0149,CSP13,old,1,Fungi
+OTU_0178,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0181,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0213,CSP13,old,18,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0233,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0235,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Trichosporon
+OTU_0265,CSP13,old,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0322,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP13,old,1,Fungi
+OTU_0345,CSP13,old,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0371,CSP13,old,6,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0382,CSP13,old,5,Fungi;Ascomycota; Pezizomycotina; Lecanoromycetes
+OTU_0423,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales
+OTU_0445,CSP13,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0446,CSP13,old,3,Fungi;Ascomycota
+OTU_0450,CSP13,old,9,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0464,CSP13,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0492,CSP13,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Auriculariales; Hyaloriaceae; Pseudohydnum
+OTU_0494,CSP13,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0495,CSP13,old,1,Fungi;Ascomycota; mitosporic Ascomycota; Leptodontidium
+OTU_0523,CSP13,old,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0545,CSP13,old,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0556,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0603,CSP13,old,1,Fungi;Ascomycota; Leptodontidium
+OTU_0615,CSP13,old,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Paecilomyces
+OTU_0616,CSP13,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_0656,CSP13,old,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0666,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Chaetomiaceae; Chaetomium
+OTU_0694,CSP13,old,4,Fungi;Ascomycota
+OTU_0695,CSP13,old,1,Fungi;Ascomycota; Leotiomycetes; Helotiales
+OTU_0697,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0699,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Helotiales; Coleophoma
+OTU_0706,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0708,CSP13,old,26,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_0709,CSP13,old,1,Fungi
+OTU_0711,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0714,CSP13,old,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Chaetosphaeria
+OTU_0715,CSP13,old,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0717,CSP13,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Rhytismatales; Rhytismataceae; Lophodermium
+OTU_0718,CSP13,old,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0721,CSP13,old,2,Fungi;Mucoromycotina; Mucorales
+OTU_0724,CSP13,old,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0728,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Clavicipitaceae; Paecilomyces
+OTU_0734,CSP13,old,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0738,CSP13,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_0740,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0741,CSP13,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0742,CSP13,old,1,Fungi
+OTU_0743,CSP13,old,25,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0747,CSP13,old,14,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0748,CSP13,old,8,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0751,CSP13,old,12,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0753,CSP13,old,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0754,CSP13,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0755,CSP13,old,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Scytalidium
+OTU_0760,CSP13,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0768,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0789,CSP13,old,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Annulatascaceae; Vertexicola
+OTU_0790,CSP13,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0793,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0795,CSP13,old,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0799,CSP13,old,2,Fungi
+OTU_0812,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0816,CSP13,old,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0831,CSP13,old,1,Fungi;Basidiomycota; Pucciniomycotina; Cystobasidiomycetes; Erythrobasidiales; Erythrobasidiaceae; Rhodotorula
+OTU_0838,CSP13,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0854,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Sagenomella
+OTU_0855,CSP13,old,1,Fungi;Ascomycota
+OTU_0864,CSP13,old,4,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Cenococcum
+OTU_0906,CSP13,old,3,Fungi
+OTU_0938,CSP13,old,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Dermea
+OTU_0970,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_1029,CSP13,old,1,Fungi
+OTU_1084,CSP13,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1093,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_1140,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_1182,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_1241,CSP13,old,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1259,CSP13,old,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1322,CSP13,old,1,Fungi
+OTU_1335,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1399,CSP13,old,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1663,CSP13,old,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales
+OTU_1677,CSP13,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1678,CSP13,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1708,CSP13,old,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_1767,CSP13,old,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1890,CSP13,old,10,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_0001,CSP16,young,10,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0005,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0013,CSP16,young,2,Fungi;Ascomycota; Leptodontidium
+OTU_0014,CSP16,young,23,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0019,CSP16,young,20,Fungi;Ascomycota
+OTU_0022,CSP16,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0030,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Lyophyllaceae; Lyophyllum
+OTU_0032,CSP16,young,43,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0035,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0038,CSP16,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Atheliales; Atheliaceae
+OTU_0044,CSP16,young,10,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0045,CSP16,young,72,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0048,CSP16,young,6,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0059,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0065,CSP16,young,1,Fungi;Ascomycota
+OTU_0070,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Leotiaceae; Leotia
+OTU_0071,CSP16,young,11,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0081,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_0084,CSP16,young,1,Fungi
+OTU_0094,CSP16,young,6,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP16,young,17,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0101,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0110,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0111,CSP16,young,11,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0115,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Hyaloscyphaceae; Arachnopeziza
+OTU_0121,CSP16,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_0127,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Phialocephala
+OTU_0131,CSP16,young,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0132,CSP16,young,6,Fungi
+OTU_0137,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0139,CSP16,young,29,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0151,CSP16,young,2,Fungi
+OTU_0178,CSP16,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0223,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0233,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0251,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0254,CSP16,young,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0257,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0322,CSP16,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP16,young,2,Fungi
+OTU_0334,CSP16,young,1,Fungi
+OTU_0351,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Menispora
+OTU_0362,CSP16,young,11,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0371,CSP16,young,22,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0435,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0443,CSP16,young,1,Fungi
+OTU_0446,CSP16,young,1,Fungi;Ascomycota
+OTU_0450,CSP16,young,15,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0463,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0464,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0478,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0514,CSP16,young,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0540,CSP16,young,1,Fungi;Ascomycota
+OTU_0564,CSP16,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Phialocephala
+OTU_0581,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0584,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Laccaria
+OTU_0603,CSP16,young,1,Fungi;Ascomycota; Leptodontidium
+OTU_0615,CSP16,young,17,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Paecilomyces
+OTU_0616,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_0656,CSP16,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0692,CSP16,young,3,Fungi;Ascomycota
+OTU_0694,CSP16,young,9,Fungi;Ascomycota
+OTU_0695,CSP16,young,1,Fungi;Ascomycota; Leotiomycetes; Helotiales
+OTU_0699,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Helotiales; Coleophoma
+OTU_0721,CSP16,young,3,Fungi;Mucoromycotina; Mucorales
+OTU_0740,CSP16,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0742,CSP16,young,1,Fungi
+OTU_0764,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0768,CSP16,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0774,CSP16,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0775,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0779,CSP16,young,39,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0780,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Hyaloscyphaceae; Arachnopeziza
+OTU_0787,CSP16,young,21,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0789,CSP16,young,5,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Annulatascaceae; Vertexicola
+OTU_0790,CSP16,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0793,CSP16,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0794,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0795,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0796,CSP16,young,2,Fungi
+OTU_0797,CSP16,young,13,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_0799,CSP16,young,3,Fungi
+OTU_0801,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0802,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0804,CSP16,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0805,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0810,CSP16,young,1,Fungi
+OTU_0811,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0812,CSP16,young,9,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0816,CSP16,young,104,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0817,CSP16,young,13,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Sarcodon
+OTU_0819,CSP16,young,7,Fungi
+OTU_0821,CSP16,young,22,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0822,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0823,CSP16,young,2,Fungi;Ascomycota; Leptodontidium
+OTU_0826,CSP16,young,47,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0828,CSP16,young,2,Fungi;Basidiomycota; Pucciniomycotina; Microbotryomycetes; Microbotryomycetes incertae sedis Rhodotorula
+OTU_0830,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0831,CSP16,young,2,Fungi;Basidiomycota; Pucciniomycotina; Cystobasidiomycetes; Erythrobasidiales; Erythrobasidiaceae; Rhodotorula
+OTU_0834,CSP16,young,47,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_0835,CSP16,young,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0836,CSP16,young,1,Fungi
+OTU_0837,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Idriella
+OTU_0838,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0839,CSP16,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0843,CSP16,young,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_0845,CSP16,young,6,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0846,CSP16,young,2,Fungi;Ascomycota; Leptodontidium
+OTU_0847,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Xylariales; Amphisphaeriaceae; Monochaetia
+OTU_0850,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Hyalodendriella
+OTU_0854,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Sagenomella
+OTU_0855,CSP16,young,1,Fungi;Ascomycota
+OTU_0872,CSP16,young,10,Fungi
+OTU_0876,CSP16,young,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0884,CSP16,young,13,Fungi
+OTU_0903,CSP16,young,6,Fungi;Ascomycota
+OTU_0906,CSP16,young,3,Fungi
+OTU_0910,CSP16,young,1,Fungi
+OTU_0920,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0951,CSP16,young,1,Fungi
+OTU_0963,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0970,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_1021,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Dothideomycetes incertae sedis; Venturiaceae; Cylindrosympodium
+OTU_1054,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Trechisporales; Trechisporaceae; Trechispora
+OTU_1065,CSP16,young,1,Fungi
+OTU_1093,CSP16,young,3,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_1154,CSP16,young,2,Fungi;Mucoromycotina; Mucorales
+OTU_1182,CSP16,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_1188,CSP16,young,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1242,CSP16,young,2,Fungi;Basidiomycota
+OTU_1252,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_1268,CSP16,young,3,Fungi;Basidiomycota; Agaricomycotina Rhizoctonia
+OTU_1290,CSP16,young,1,Fungi;Mucoromycotina
+OTU_1294,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1304,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Hymenochaetales; Hymenochaetaceae; Phellinus
+OTU_1323,CSP16,young,1,Fungi
+OTU_1330,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_1335,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1353,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_1377,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Marasmiaceae; Marasmiellus
+OTU_1430,CSP16,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_1456,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Polyporales; Auriscalpiaceae; Clavicorona
+OTU_1512,CSP16,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1537,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1572,CSP16,young,2,Fungi
+OTU_1573,CSP16,young,2,Fungi
+OTU_1623,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_1652,CSP16,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1670,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1703,CSP16,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_1709,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Boletales; Boletaceae; Boletus
+OTU_1725,CSP16,young,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1754,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Boletales; Gomphidiaceae; Chroogomphus
+OTU_1846,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_1864,CSP16,young,1,Fungi
+OTU_1928,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Atheliales; Atheliaceae
+OTU_1991,CSP16,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Lyophyllaceae; Asterophora
+OTU_2009,CSP16,young,1,Fungi;Glomeromycota Glomeromycetes; Glomerales; Glomeraceae
+OTU_2072,CSP16,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0001,CSP17,young,12,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0005,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0019,CSP17,young,2,Fungi;Ascomycota
+OTU_0021,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Tremellodendron
+OTU_0022,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0032,CSP17,young,11,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0034,CSP17,young,1,Fungi
+OTU_0035,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0036,CSP17,young,202,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Tricholoma
+OTU_0037,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0044,CSP17,young,13,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0045,CSP17,young,35,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0059,CSP17,young,6,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0071,CSP17,young,4,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0081,CSP17,young,7,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_0084,CSP17,young,5,Fungi
+OTU_0086,CSP17,young,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0094,CSP17,young,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0101,CSP17,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0110,CSP17,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0111,CSP17,young,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0131,CSP17,young,6,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Holwaya
+OTU_0137,CSP17,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0139,CSP17,young,15,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0151,CSP17,young,2,Fungi
+OTU_0178,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0214,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0215,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Chalara
+OTU_0233,CSP17,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0234,CSP17,young,3,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Cenococcum
+OTU_0235,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Trichosporon
+OTU_0265,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP17,young,1,Fungi
+OTU_0336,CSP17,young,41,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0362,CSP17,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0371,CSP17,young,7,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0410,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Rhizoscyphus
+OTU_0430,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0434,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Boletales; Boletaceae; Tylopilus
+OTU_0446,CSP17,young,1,Fungi;Ascomycota
+OTU_0450,CSP17,young,8,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0463,CSP17,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0492,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Auriculariales; Hyaloriaceae; Pseudohydnum
+OTU_0514,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0545,CSP17,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0611,CSP17,young,27,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0615,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Paecilomyces
+OTU_0616,CSP17,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_0629,CSP17,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_0656,CSP17,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0721,CSP17,young,3,Fungi;Mucoromycotina; Mucorales
+OTU_0742,CSP17,young,1,Fungi
+OTU_0748,CSP17,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0751,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0768,CSP17,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0774,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0775,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0779,CSP17,young,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0787,CSP17,young,42,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0790,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0795,CSP17,young,6,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0796,CSP17,young,1,Fungi
+OTU_0797,CSP17,young,10,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_0799,CSP17,young,2,Fungi
+OTU_0805,CSP17,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0812,CSP17,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0816,CSP17,young,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0819,CSP17,young,1,Fungi
+OTU_0821,CSP17,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0838,CSP17,young,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0843,CSP17,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_0845,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0862,CSP17,young,33,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_0863,CSP17,young,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes
+OTU_0864,CSP17,young,9,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Cenococcum
+OTU_0870,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0871,CSP17,young,50,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0872,CSP17,young,12,Fungi
+OTU_0873,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Bankeraceae; Boletopsis
+OTU_0874,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0876,CSP17,young,2,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0879,CSP17,young,9,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_0880,CSP17,young,31,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0881,CSP17,young,58,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0883,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0884,CSP17,young,3,Fungi
+OTU_0890,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Capnodiales Ramichloridium
+OTU_0892,CSP17,young,39,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0898,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales; Pezizales incertae sedis; Phialea
+OTU_0900,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0902,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0903,CSP17,young,1,Fungi;Ascomycota
+OTU_0904,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0906,CSP17,young,3,Fungi
+OTU_0909,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0910,CSP17,young,1,Fungi
+OTU_0911,CSP17,young,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0921,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0951,CSP17,young,1,Fungi
+OTU_0963,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1046,CSP17,young,3,Fungi
+OTU_1050,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentellopsis
+OTU_1058,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1119,CSP17,young,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Arcangeliella
+OTU_1185,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Cordycipitaceae; Beauveria
+OTU_1243,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1300,CSP17,young,11,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae
+OTU_1330,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_1331,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Auriculariales; Exidiaceae; Heterochaete
+OTU_1335,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1354,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1375,CSP17,young,1,Fungi
+OTU_1413,CSP17,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1425,CSP17,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1573,CSP17,young,2,Fungi
+OTU_1642,CSP17,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1648,CSP17,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1657,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Macowanites
+OTU_1681,CSP17,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1781,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1791,CSP17,young,1,Fungi
+OTU_1841,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Tremellaceae; Tremella
+OTU_1867,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_2072,CSP17,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_2146,CSP17,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0001,CSP25,young,44,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0003,CSP25,young,42,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0005,CSP25,young,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0011,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0013,CSP25,young,15,Fungi;Ascomycota; Leptodontidium
+OTU_0014,CSP25,young,20,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0019,CSP25,young,33,Fungi;Ascomycota
+OTU_0022,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0032,CSP25,young,36,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0034,CSP25,young,3,Fungi
+OTU_0035,CSP25,young,14,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0038,CSP25,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Atheliales; Atheliaceae
+OTU_0044,CSP25,young,29,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0045,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0048,CSP25,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0050,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypomyces
+OTU_0059,CSP25,young,7,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0071,CSP25,young,8,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0090,CSP25,young,7,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0094,CSP25,young,2,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP25,young,4,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0101,CSP25,young,9,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0110,CSP25,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0111,CSP25,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0124,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Hydnaceae; Hydnum
+OTU_0132,CSP25,young,1,Fungi
+OTU_0137,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0139,CSP25,young,20,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0151,CSP25,young,1,Fungi
+OTU_0177,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina
+OTU_0200,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Clavicipitaceae; Paecilomyces
+OTU_0215,CSP25,young,4,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Chalara
+OTU_0233,CSP25,young,6,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0235,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Trichosporon
+OTU_0251,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0258,CSP25,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0265,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0322,CSP25,young,15,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP25,young,4,Fungi
+OTU_0332,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Cordycipitaceae; Beauveria
+OTU_0343,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0345,CSP25,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0346,CSP25,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Sagenomella
+OTU_0353,CSP25,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0362,CSP25,young,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0371,CSP25,young,8,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0443,CSP25,young,6,Fungi
+OTU_0446,CSP25,young,11,Fungi;Ascomycota
+OTU_0449,CSP25,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0450,CSP25,young,21,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0459,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales
+OTU_0463,CSP25,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0470,CSP25,young,1,Fungi;Ascomycota; mitosporic Ascomycota; Sympodiella
+OTU_0478,CSP25,young,6,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0488,CSP25,young,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0510,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0523,CSP25,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0555,CSP25,young,1,Fungi
+OTU_0564,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Phialocephala
+OTU_0568,CSP25,young,1,Fungi
+OTU_0603,CSP25,young,1,Fungi;Ascomycota; Leptodontidium
+OTU_0615,CSP25,young,5,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Paecilomyces
+OTU_0620,CSP25,young,4,Fungi
+OTU_0621,CSP25,young,1,Fungi;Ascomycota
+OTU_0656,CSP25,young,8,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0706,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0709,CSP25,young,1,Fungi
+OTU_0721,CSP25,young,1,Fungi;Mucoromycotina; Mucorales
+OTU_0755,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Scytalidium
+OTU_0768,CSP25,young,18,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0774,CSP25,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0779,CSP25,young,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0790,CSP25,young,9,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0795,CSP25,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0797,CSP25,young,54,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_0805,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0812,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0816,CSP25,young,15,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0819,CSP25,young,2,Fungi
+OTU_0821,CSP25,young,16,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0823,CSP25,young,2,Fungi;Ascomycota; Leptodontidium
+OTU_0831,CSP25,young,10,Fungi;Basidiomycota; Pucciniomycotina; Cystobasidiomycetes; Erythrobasidiales; Erythrobasidiaceae; Rhodotorula
+OTU_0834,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_0838,CSP25,young,9,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0843,CSP25,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_0850,CSP25,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales Hyalodendriella
+OTU_0872,CSP25,young,1,Fungi
+OTU_0873,CSP25,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Bankeraceae; Boletopsis
+OTU_0903,CSP25,young,1,Fungi;Ascomycota
+OTU_0914,CSP25,young,10,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Magnaporthales; Magnaporthaceae; Phialophora
+OTU_0916,CSP25,young,60,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Lactarius
+OTU_0918,CSP25,young,2,Fungi;Ascomycota; Pezizomycotina
+OTU_0920,CSP25,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0921,CSP25,young,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0926,CSP25,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0929,CSP25,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Camarophyllus
+OTU_0931,CSP25,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0937,CSP25,young,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Coniochaetales; Coniochaetaceae; Lecythophora
+OTU_0938,CSP25,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Dermea
+OTU_0939,CSP25,young,83,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_0943,CSP25,young,3,Fungi;Ascomycota Leotiomycetes; Helotiales
+OTU_0951,CSP25,young,2,Fungi
+OTU_0953,CSP25,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Hyaloscyphaceae; Hyphodiscus
+OTU_0954,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0963,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0964,CSP25,young,1,Fungi
+OTU_0970,CSP25,young,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0980,CSP25,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_0982,CSP25,young,2,Fungi;Ascomycota
+OTU_0985,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0988,CSP25,young,1,Fungi
+OTU_0990,CSP25,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Aspergillus
+OTU_0992,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0994,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Sagenomella
+OTU_0997,CSP25,young,3,Fungi;Mucoromycotina
+OTU_1028,CSP25,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_1058,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1107,CSP25,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Clitocybula
+OTU_1119,CSP25,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Arcangeliella
+OTU_1125,CSP25,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Hydnaceae; Hydnum
+OTU_1135,CSP25,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1143,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Pezizomycetes; Pezizales
+OTU_1178,CSP25,young,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1182,CSP25,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_1188,CSP25,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1211,CSP25,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1245,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_1263,CSP25,young,9,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1290,CSP25,young,1,Fungi;Mucoromycotina
+OTU_1322,CSP25,young,2,Fungi
+OTU_1331,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Auriculariales; Exidiaceae; Heterochaete
+OTU_1335,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1413,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1430,CSP25,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_1465,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales Verticillium
+OTU_1474,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Tremellaceae; Asterotremella
+OTU_1509,CSP25,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_1565,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Polyporales; Auriscalpiaceae; Clavicorona
+OTU_1664,CSP25,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1670,CSP25,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1905,CSP25,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1986,CSP25,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_0001,CSP26,young,37,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0004,CSP26,young,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0005,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae
+OTU_0009,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0014,CSP26,young,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0015,CSP26,young,5,Fungi
+OTU_0019,CSP26,young,2,Fungi;Ascomycota
+OTU_0022,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0032,CSP26,young,25,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_0034,CSP26,young,3,Fungi
+OTU_0044,CSP26,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0045,CSP26,young,13,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Elaphomycetaceae; Elaphomyces
+OTU_0048,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0059,CSP26,young,4,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0065,CSP26,young,1,Fungi;Ascomycota
+OTU_0070,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Leotiaceae; Leotia
+OTU_0071,CSP26,young,16,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0072,CSP26,young,24,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0077,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Dermateaceae; Cryptosporiopsis
+OTU_0081,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_0090,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0094,CSP26,young,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0096,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales Cryptococcus
+OTU_0101,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0110,CSP26,young,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes
+OTU_0111,CSP26,young,15,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes
+OTU_0115,CSP26,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Hyaloscyphaceae; Arachnopeziza
+OTU_0137,CSP26,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae
+OTU_0139,CSP26,young,9,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0149,CSP26,young,2,Fungi
+OTU_0151,CSP26,young,3,Fungi
+OTU_0169,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Chloridium
+OTU_0181,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0199,CSP26,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0200,CSP26,young,3,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Clavicipitaceae; Paecilomyces
+OTU_0213,CSP26,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0214,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0223,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0233,CSP26,young,5,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0235,CSP26,young,2,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Trichosporon
+OTU_0251,CSP26,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0270,CSP26,young,1,Fungi;Ascomycota
+OTU_0273,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Chaetosphaeriales; Chaetosphaeriaceae; Chaetosphaeria
+OTU_0322,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0327,CSP26,young,11,Fungi
+OTU_0332,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Cordycipitaceae; Beauveria
+OTU_0345,CSP26,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0362,CSP26,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0367,CSP26,young,4,Fungi
+OTU_0371,CSP26,young,6,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0380,CSP26,young,1,Fungi
+OTU_0423,CSP26,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales
+OTU_0443,CSP26,young,2,Fungi
+OTU_0446,CSP26,young,3,Fungi;Ascomycota
+OTU_0450,CSP26,young,7,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Capronia
+OTU_0478,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_0487,CSP26,young,1,Fungi;Ascomycota
+OTU_0488,CSP26,young,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Thelephora
+OTU_0514,CSP26,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0523,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0545,CSP26,young,5,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0568,CSP26,young,2,Fungi
+OTU_0591,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0615,CSP26,young,8,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Sordariales; Paecilomyces
+OTU_0623,CSP26,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0645,CSP26,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Entolomataceae; Clitopilus
+OTU_0656,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Talaromyces
+OTU_0740,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0741,CSP26,young,8,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0742,CSP26,young,4,Fungi
+OTU_0747,CSP26,young,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0753,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0768,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0779,CSP26,young,60,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0780,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Hyaloscyphaceae; Arachnopeziza
+OTU_0787,CSP26,young,18,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0794,CSP26,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_0812,CSP26,young,16,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0816,CSP26,young,5,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Amanitaceae; Amanita
+OTU_0821,CSP26,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0838,CSP26,young,6,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_0843,CSP26,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_0845,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0872,CSP26,young,3,Fungi
+OTU_0876,CSP26,young,7,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_0880,CSP26,young,46,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0881,CSP26,young,27,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_0890,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Capnodiales Ramichloridium
+OTU_0903,CSP26,young,2,Fungi;Ascomycota
+OTU_0906,CSP26,young,1,Fungi
+OTU_0909,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_0920,CSP26,young,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_0926,CSP26,young,6,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales
+OTU_0951,CSP26,young,1,Fungi
+OTU_0970,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_0992,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_0995,CSP26,young,11,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_0997,CSP26,young,2,Fungi;Mucoromycotina
+OTU_0999,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales
+OTU_1002,CSP26,young,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Clavulinaceae; Clavulina
+OTU_1003,CSP26,young,80,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_1004,CSP26,young,6,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1005,CSP26,young,3,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_1007,CSP26,young,50,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1009,CSP26,young,14,Fungi;Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Pichia
+OTU_1021,CSP26,young,4,Fungi;Ascomycota; Pezizomycotina; Dothideomycetes; Dothideomycetes incertae sedis; Venturiaceae; Cylindrosympodium
+OTU_1023,CSP26,young,49,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1025,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_1027,CSP26,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Gymnopus
+OTU_1028,CSP26,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Ceratobasidiaceae; Ceratobasidium
+OTU_1029,CSP26,young,2,Fungi
+OTU_1030,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leohumicola
+OTU_1032,CSP26,young,7,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Helotiales; Helotiaceae; Rhizoscyphus
+OTU_1039,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Rhytismatales; Rhytismataceae
+OTU_1042,CSP26,young,2,Fungi
+OTU_1046,CSP26,young,7,Fungi
+OTU_1047,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Leotiomycetes; Leotiomycetes incertae sedis; Myxotrichaceae; Oidiodendron
+OTU_1050,CSP26,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentellopsis
+OTU_1054,CSP26,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Trechisporales; Trechisporaceae; Trechispora
+OTU_1058,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1063,CSP26,young,3,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae
+OTU_1093,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales Cryptococcus
+OTU_1098,CSP26,young,2,Fungi
+OTU_1103,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Cantharellales; Cantharellaceae; Craterellus
+OTU_1144,CSP26,young,2,Fungi;Ascomycota
+OTU_1149,CSP26,young,7,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1185,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Cordycipitaceae; Beauveria
+OTU_1188,CSP26,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1205,CSP26,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Camarophyllopsis
+OTU_1220,CSP26,young,1,Fungi;Mucoromycotina; Mortierellales; Mortierellaceae; Mortierella
+OTU_1243,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1323,CSP26,young,1,Fungi
+OTU_1330,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Chaetothyriales; Herpotrichiellaceae; Cladophialophora
+OTU_1338,CSP26,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae; Sebacina
+OTU_1359,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Nectriaceae; Gliocephalotrichum
+OTU_1375,CSP26,young,2,Fungi
+OTU_1399,CSP26,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1411,CSP26,young,3,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Cortinariaceae; Cortinarius
+OTU_1413,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_1509,CSP26,young,1,Fungi;Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Hypocrea
+OTU_1512,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricales; Tricholomataceae; Mycena
+OTU_1565,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Polyporales; Auriscalpiaceae; Clavicorona
+OTU_1581,CSP26,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentella
+OTU_1631,CSP26,young,1,Fungi
+OTU_1657,CSP26,young,4,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Macowanites
+OTU_1681,CSP26,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1739,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Sebacinales; Sebacinaceae
+OTU_1772,CSP26,young,2,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Thelephorales; Thelephoraceae; Tomentellopsis
+OTU_1781,CSP26,young,1,Fungi;Basidiomycota; Agaricomycotina; Agaricomycetes; Russulales; Russulaceae; Russula
+OTU_1905,CSP26,young,2,Fungi;Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Trichocomaceae; Penicillium
+OTU_2009,CSP26,young,1,Fungi;Glomeromycota Glomeromycetes; Glomerales; Glomeraceae
