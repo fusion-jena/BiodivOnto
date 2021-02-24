@@ -1,0 +1,613 @@
+Keywords,Categories
+Soil,Environment
+soil horizon,Environment
+soil profile,Environment
+soils,Environment
+Soil profiles,Environment
+field,Environment
+Ecosystem,Environment
+pH,Quality
+ratio,Quality
+soil depth,Quality
+depth,Quality
+acidity,Quality
+size,Quality
+Mass,Quality
+Nitrogen concentration,Quality
+nitrogen content,Quality
+carbon content,Quality
+S content,Quality
+S,Quality
+sulphur content,Quality
+heat combustion,Quality
+thermal conductivity,Quality
+carbon,Material
+nitrogen,Material
+sulphur,Material
+H2O,Material
+KCl,Material
+C,Material
+N,Material
+S,Material
+well,Environment
+Nature Reserve,Environment
+air,Environment
+soil base,Quality
+completeness,Quality
+area,Quality
+diameter,Quality
+Carbon Nitrogen ratio,Quality
+ratio,Material
+H20,Material
+Forest,Environment
+Forest Reserve,Environment
+forests,Environment
+soil,Environment
+soil profiles,Environment
+slopes,Environment
+climate,Environment
+subtropics,Environment
+slope,Environment
+breastheight,Quality
+height,Quality
+morphology,Quality
+large,Quality
+subtropical,Quality
+ages,Quality
+warm,Quality
+temperate,Quality
+dry,Quality
+temperature,Quality
+temperatures,Quality
+Small,Quality
+biomass,Quality
+charcoal,Material
+biomass,Material
+climate,Process
+age,Environment
+National Forest Reserve,Environment
+National Nature Reserve,Environment
+vegetation,Environment
+forest,Environment
+dry,Environment
+tree layer,Environment
+mineral soil,Environment
+abundance,Quality
+density,Quality
+young,Quality
+age,Quality
+short,Quality
+Soil moisture,Quality
+water contents,Quality
+field,Material
+water,Material
+pH,Material
+soil base,Environment
+solubility,Quality
+Soil depth,Quality
+Phosphorus concentration,Quality
+Pressure,Quality
+Phosphorus,Material
+pi,Material
+resin,Material
+p,Material
+nahco3,Material
+po,Material
+naoh,Material
+s,Material
+hcl,Material
+molybdenum,Material
+Fe,Material
+Al,Material
+Ca,Material
+1mhcl,Material
+hc,Material
+Mu,Material
+HNO3,Material
+soil depth,Environment
+conductivity,Quality
+current,Environment
+pH-values,Quality
+pH value,Quality
+B,Material
+heat combustion,Process
+combustion,Process
+saturation,Environment
+groundwater,Environment
+drop,Environment
+saturation,Quality
+soil fertility,Quality
+proportion,Quality
+dry weight,Quality
+weight,Quality
+pH measurement,Quality
+saturations,Quality
+acidic,Quality
+long,Quality
+Cation,Material
+H,Material
+K,Material
+Mg,Material
+Mn,Material
+Na,Material
+,Material
+NH4Cl,Material
+cations,Material
+hydrogen,Material
+ions,Material
+nutrient retention,Process
+rain,Process
+Botanical Garden,Environment
+tropical,Environment
+tropical forest,Environment
+ecosystems,Environment
+subtropical,Environment
+garden,Environment
+canopy,Environment
+canopy layer,Environment
+Dam,Environment
+pool,Environment
+canopies,Environment
+distance,Quality
+light conditions,Quality
+Height,Quality
+species richness,Quality
+position,Quality
+damaged,Quality
+Plant height,Quality
+leaf number,Quality
+damage,Quality
+Leaf Area Index,Quality
+dense,Quality
+angular distance,Quality
+direction,Quality
+humidity,Quality
+P,Material
+growth,Process
+habitat,Environment
+grasslands,Environment
+meadows,Environment
+pastures,Environment
+grassland,Environment
+aboveground,Environment
+belowground,Environment
+radius,Quality
+length,Quality
+growth rates,Quality
+plant height,Quality
+Diameter,Quality
+Dry,Quality
+soil,Material
+precipitation,Process
+treatments,Process
+treatment,Process
+fertilization,Process
+climate change,Process
+Belowground,Environment
+coniferous forests,Environment
+Abundances,Quality
+dead wood,Quality
+old,Quality
+nutrient,Material
+detritus,Material
+dead organic matter,Material
+organic matter,Material
+litter,Material
+wood,Material
+Decomposition,Process
+nutrient cycling,Process
+composition,Quality
+small,Quality
+sizes,Quality
+Carbon,Material
+Nitrogen,Material
+Potassium,Material
+Calcium,Material
+Magnesium,Material
+Climate,Environment
+Habitat,Environment
+soil layer,Environment
+Planet,Environment
+Climate,Process
+mountain,Environment
+ecosystem,Environment
+understory,Environment
+above ground,Environment
+vegetation layer,Environment
+Standard Deviation,Quality
+Entropy,Quality
+Dissimilarity,Quality
+median,Quality
+Deadwood,Material
+dead wood,Material
+arable fields,Environment
+weather,Environment
+herb layer,Environment
+speed,Quality
+precipitation,Quality
+plastic,Material
+plots,Environment
+glass house,Environment
+plot,Environment
+traits,Quality
+variance,Quality
+growth,Quality
+dry weigth,Quality
+seed,Material
+Seeds,Material
+Gene,Material
+flowering,Process
+rhizosphere,Environment
+bulk soil,Environment
+Water,Environment
+rhiszosphere,Environment
+intensity,Quality
+Enzyme measurements,Quality
+water content,Quality
+fluorescent,Quality
+dry matter,Quality
+ammonium content,Quality
+nitrate content,Quality
+Water,Material
+Nutrients,Material
+enzyme,Material
+beta-glucosidase,Material
+xylosidase,Material
+N-Acetyl-betaglucosaminidase,Material
+phophatase,Material
+ammonium,Material
+nitrate,Material
+4-methylumbelliferone,Material
+cellulose,Material
+hemicellulose,Material
+chitinase,Material
+β-N-acetylglucosaminidase,Material
+phosphatase,Material
+Chloroform,Material
+K2SO4,Material
+CHCl3,Material
+NH4+,Material
+NO3-,Material
+glucosidase,Material
+NH4,Material
+NO3,Material
+Biogeochemical Cycle,Process
+rhizodeposition,Process
+degradation,Process
+N-cycling,Process
+Aboveground,Environment
+Land,Environment
+Peatlands,Environment
+Aboveground plant biomass,Quality
+nutrient contents,Quality
+heavy,Quality
+wide,Quality
+wavelength,Quality
+dry-weight,Quality
+fluorescence,Quality
+mass,Quality
+metals,Material
+micronutrients,Material
+macronutrients,Material
+Sodium,Material
+Aluminium,Material
+Si,Material
+Silicon,Material
+Sulfur,Material
+Cl,Material
+Chlorine,Material
+Ti,Material
+Titanium,Material
+Cr,Material
+Chromium,Material
+Iron,Material
+Cu,Material
+Copper,Material
+Zn,Material
+Zinc,Material
+As,Material
+Arsenic,Material
+Br,Material
+Bromine,Material
+Rb,Material
+Rubidium,Material
+Sr,Material
+Strontium,Material
+Ba,Material
+Barium,Material
+Pb,Material
+Lead,Material
+Calibration,Process
+nutrient acquisition,Process
+fluorescence,Process
+ice,Environment
+ground,Environment
+distribution,Quality
+angle,Quality
+deadwood,Material
+rRNA,Material
+alcohol,Material
+ethanol,Material
+ice,Material
+DNA,Material
+Woodland,Environment
+Functional,Quality
+Species diversity,Quality
+Shores,Environment
+landscapes,Environment
+landscape,Environment
+recolonizing,Process
+oceans,Environment
+ocean,Environment
+reefs,Environment
+reef,Environment
+habitats,Environment
+high temperature,Quality
+ocean acidification,Process
+acidification,Process
+deep sea,Environment
+sea,Environment
+deep,Quality
+rainforest,Environment
+Short,Quality
+Short distance,Quality
+tropical,Quality
+distances,Quality
+pollination,Process
+reproduction,Process
+biomes,Environment
+Mediterranean,Quality
+Adaptive radiation,Process
+Forests,Environment
+temperate rainforests,Environment
+rainforests,Environment
+broad,Quality
+life,Process
+Learning,Process
+climatic,Environment
+tree rings,Quality
+species distributions,Quality
+slopes,Quality
+tree populations,Quality
+spatial scales,Quality
+climatic,Process
+Desert,Environment
+drylands,Environment
+lead,Environment
+basin,Environment
+pattern,Quality
+spatial variability,Quality
+rainfall rates,Quality
+formation,Material
+lead,Material
+Climate change,Process
+rainfall,Process
+content,Environment
+Silva,Environment
+old-growth forest,Environment
+content,Quality
+deforestation,Process
+shape,Quality
+frequency,Quality
+regressions,Quality
+correlation,Quality
+dispersion,Process
+Carbon storage,Process
+shrub,Environment
+extinctions,Process
+Island,Environment
+tropics,Environment
+lowland,Environment
+plantations,Environment
+mainland,Environment
+Peninsular,Environment
+tropics,Quality
+richness,Quality
+densities,Quality
+part of,Quality
+Habitat Fragmentation,Process
+rain forest,Environment
+Tropical,Environment
+Tropical,Quality
+large-sized,Quality
+small-sized,Quality
+Rainforest,Environment
+microhabitat,Environment
+abundant,Quality
+strong,Quality
+Fragmentation,Process
+island,Environment
+cropland,Environment
+areas,Quality
+resettlement,Process
+boreal,Environment
+riparian buffer strips,Environment
+buffer strips,Environment
+mixed forest,Environment
+resilient,Quality
+counts,Quality
+transient,Quality
+older,Quality
+fragmented,Quality
+frequent,Quality
+permanent,Quality
+resilient,Material
+habitat  fragmentation,Process
+breeding,Process
+fresh,Quality
+dry mass,Quality
+O2,Material
+D-Glucose,Material
+respiration,Process
+mesocosm,Environment
+coastal,Environment
+benthic,Environment
+bottom water,Environment
+shallow,Quality
+water depth,Quality
+porosity,Quality
+sediments,Material
+mesocosm,Material
+sediment,Material
+oxygen,Material
+NOx,Material
+N2,Material
+Chlorophyll,Material
+Phaeophytin,Material
+Pyropheophytin,Material
+Pyrophytin,Material
+15N,Material
+Ammonium,Material
+Nitrogen oxide,Material
+oxide,Material
+Ammonia,Material
+NH3,Material
+Nitrite,Material
+NO2,Material
+Nitrate,Material
+Phosphate,Material
+PO4,Material
+12-methyl-Tetradecanoic acid,Material
+Tetradecanoic acid,Material
+13-methyl-Tetradecanoic acid,Material
+Fatty acid methyl esters,Material
+"all-cis-4,7,10,13,16,19-Docosahexaenoic acid",Material
+Docosahexaenoic acid,Material
+carbon uptake,Material
+Oxygen Uptake,Process
+uptake,Process
+nitrogen uptake,Process
+carbon uptake,Process
+coastline,Environment
+Cryosphere,Environment
+Sea,Environment
+Park,Environment
+shoreline,Environment
+coastlines,Environment
+rate,Quality
+retreat rates,Quality
+rates,Quality
+permafrost,Material
+retreat,Process
+coastal erosion,Process
+erosion,Process
+Coastline retreat,Process
+storm,Process
+coastal change,Process
+Earth,Environment
+rocks,Environment
+sea floor,Environment
+icebergs,Environment
+continental shelf,Environment
+magnetic,Quality
+cold,Quality
+thick,Quality
+susceptibility,Quality
+magnetization,Quality
+mineral,Quality
+rocks,Material
+mineral,Material
+Niobium,Material
+river,Environment
+stream,Environment
+streams,Environment
+backwaters,Environment
+Shannon-Wiener index,Quality
+sand,Material
+gravel,Material
+phosphorous,Material
+nutrients,Material
+fossil,Environment
+glacial,Environment
+peatlands,Environment
+lake,Environment
+Wildgrass,Environment
+herb,Environment
+Age-depth,Quality
+fossil,Material
+herb,Material
+Sediment,Material
+synthesis,Process
+seawater,Environment
+pond,Environment
+ponds,Environment
+pack ice,Environment
+salinity,Quality
+DEPTH,Quality
+LATITUDE,Quality
+LONGITUDE,Quality
+Glucose,Material
+seawater,Material
+ice-free,Material
+anion,Material
+Freezing,Process
+ice nucleation,Process
+burrow,Environment
+Slope,Environment
+bioirrigation index,Quality
+bioirrigation rates,Quality
+wet mass,Quality
+body mass,Quality
+irrigation rates,Quality
+Temperature,Quality
+Latitude,Quality
+Longitude,Quality
+Dry volume,Quality
+Bromide concentration,Quality
+mud,Material
+Bromide,Material
+bioirrigation,Process
+bioturbation,Process
+Age,Quality
+odor,Quality
+median age,Quality
+mean age,Quality
+Organic matter,Material
+H2S,Material
+rock,Material
+Seawater,Environment
+Ocean,Environment
+Aquarium,Environment
+Aquariums,Environment
+pHs,Quality
+Salinity,Quality
+Alkalinity,Quality
+standard deviation,Quality
+Fugacity,Quality
+wet,Quality
+pressure,Quality
+dissolved,Quality
+Morphology,Quality
+carbonate,Material
+Carbon dioxide,Material
+dioxide,Material
+CO2,Material
+air,Material
+Bicarbonate ion,Material
+Carbonate ion,Material
+Aragonite,Material
+saturation state,Material
+Calcite,Material
+waters,Material
+Ocean acidification,Process
+Growth,Process
+Reproduction,Process
+flood,Environment
+polarity,Quality
+Grain size,Quality
+Volume,Quality
+sedimentary,Material
+detrital,Material
+Fe oxides,Material
+haematite,Material
+Fe sulphides,Material
+greigite,Material
+SiO2,Material
+Titanium dioxide,Material
+TiO2,Material
+Iron oxide,Material
+Fe2O3,Material
+redox,Process
+decomposition,Process
+intensification,Process
+glaciation,Process
