@@ -1,0 +1,15 @@
+#t-SNE
+https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+https://towardsdatascience.com/t-sne-python-example-1ded9953f26
+https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b
+https://towardsdatascience.com/why-you-are-using-t-sne-wrong-502412aab0c0
+
+#Heirarichal Clustering, the way to find the optimal clusters doesn't really work
+https://github.com/sametgirgin/Machine-Learning-Clustering-Models
+
+#Clustering High Dimensional Data
+# It is recommended to reduce the dimensions first the apply clustering technique because of the curse of dimensionality
+https://towardsdatascience.com/how-to-cluster-in-high-dimensions-4ef693bacc6
+
+#Assign random palatte
+https://stackoverflow.com/questions/14720331/how-to-generate-random-colors-in-matplotlib
