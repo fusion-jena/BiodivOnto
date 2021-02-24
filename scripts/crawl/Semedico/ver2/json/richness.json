@@ -1,0 +1,230 @@
+{
+  "inputstring": "richness biodiversity",
+  "tokens": [
+    "richness",
+    "biodiversity"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 53350,
+  "bibliographylist": [
+    {
+      "articleTitle": "Biodiversity enhances ecosystem multifunctionality across trophic levels and habitats",
+      "abstractText": "The importance of biodiversity for the integrated functioning of ecosystems remains unclear because most evidence comes from analyses of biodiversity\u0027s effect on individual functions. Here we show that the effects of biodiversity on ecosystem function become more important as more functions are considered. We present the first systematic investigation of biodiversity\u0027s effect on ecosystem multifunctionality across multiple taxa, trophic levels and habitats using a comprehensive database of 94 manipulations of species richness. We show that species-rich communities maintained multiple functions at higher levels than depauperate ones. These effects were stronger for herbivore biodiversity than for plant biodiversity, and were remarkably consistent across aquatic and terrestrial habitats. Despite observed tradeoffs, the overall effect of biodiversity on multifunctionality grew stronger as more functions were considered. These results indicate that prior research has underestimated the importance of biodiversity for ecosystem functioning by focusing on individual functions and taxonomic groups.  The influence of biodiversity on multiple ecosystem processes is not well understood. Analysing 94 biodiversity-ecosystem functioning experiments, Lefcheck et al. find that increased species richness maintains more ecological functions, across multiple taxa, trophic levels and habitats.",
+      "docId": "PMC4423209",
+      "pmid": "25907115",
+      "pmcid": "4423209",
+      "authors": [
+        {
+          "firstname": "JonathanS.",
+          "lastname": "Lefcheck"
+        },
+        {
+          "firstname": "JarrettE.K.",
+          "lastname": "Byrnes"
+        },
+        {
+          "firstname": "Forest",
+          "lastname": "Isbell"
+        },
+        {
+          "firstname": "Lars",
+          "lastname": "Gamfeldt"
+        },
+        {
+          "firstname": "JohnN.",
+          "lastname": "Griffin"
+        },
+        {
+          "firstname": "Nico",
+          "lastname": "Eisenhauer"
+        },
+        {
+          "firstname": "MarcJ.S.",
+          "lastname": "Hensel"
+        },
+        {
+          "firstname": "Andy",
+          "lastname": "Hector"
+        },
+        {
+          "firstname": "BradleyJ.",
+          "lastname": "Cardinale"
+        },
+        {
+          "firstname": "J.Emmett",
+          "lastname": "Duffy"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Quantifying Preferences for the Natural World Using Monetary and Nonmonetary Assessments of Value",
+      "abstractText": "Given that funds for biodiversity conservation are limited, there is a need to understand people’s preferences for its different components. To date, such preferences have largely been measured in monetary terms. However, how people value biodiversity may differ from economic theory, and there is little consensus over whether monetary metrics are always appropriate or the degree to which other methods offer alternative and complementary perspectives on value. We used a choice experiment to compare monetary amounts recreational visitors to urban green spaces were willing to pay for biodiversity enhancement (increases in species richness for birds, plants, and aquatic macroinvertebrates) with self-reported psychological gains in well-being derived from visiting the same sites. Willingness-to-pay (WTP) estimates were significant and positive, and respondents reported high gains in well-being across 3 axes derived from environmental psychology theories (reflection, attachment, continuity with past). The 2 metrics were broadly congruent. Participants with above-median self-reported well-being scores were willing to pay significantly higher amounts for enhancing species richness than those with below-median scores, regardless of taxon. The socio-economic and demographic background of participants played little role in determining either their well-being or the probability of choosing a paying option within the choice experiment. Site-level environmental characteristics were only somewhat related to WTP, but showed strong associations with self-reported well-being. Both approaches are likely to reflect a combination of the environmental properties of a site and unobserved individual preference heterogeneity for the natural world. Our results suggest that either metric will deliver mutually consistent results in an assessment of environmental preferences, although which approach is preferable depends on why one wishes to measure values for the natural world.",
+      "docId": "PMC4232860",
+      "pmid": "24372643",
+      "pmcid": "4232860",
+      "authors": [
+        {
+          "firstname": "MARTIN",
+          "lastname": "DALLIMER"
+        },
+        {
+          "firstname": "DUGALD",
+          "lastname": "TINCH"
+        },
+        {
+          "firstname": "NICK",
+          "lastname": "HANLEY"
+        },
+        {
+          "firstname": "KATHERINEN",
+          "lastname": "IRVINE"
+        },
+        {
+          "firstname": "JAMESR",
+          "lastname": "ROUQUETTE"
+        },
+        {
+          "firstname": "PHILIPH",
+          "lastname": "WARREN"
+        },
+        {
+          "firstname": "LORRAINE",
+          "lastname": "MALTBY"
+        },
+        {
+          "firstname": "KEVINJ",
+          "lastname": "GASTON"
+        },
+        {
+          "firstname": "PAULR",
+          "lastname": "ARMSWORTH"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Current and Future Patterns of Global Marine Mammal Biodiversity",
+      "abstractText": "Quantifying the spatial distribution of taxa is an important prerequisite for the preservation of biodiversity, and can provide a baseline against which to measure the impacts of climate change. Here we analyse patterns of marine mammal species richness based on predictions of global distributional ranges for 115 species, including all extant pinnipeds and cetaceans. We used an environmental suitability model specifically designed to address the paucity of distributional data for many marine mammal species. We generated richness patterns by overlaying predicted distributions for all species; these were then validated against sightings data from dedicated long-term surveys in the Eastern Tropical Pacific, the Northeast Atlantic and the Southern Ocean. Model outputs correlated well with empirically observed patterns of biodiversity in all three survey regions. Marine mammal richness was predicted to be highest in temperate waters of both hemispheres with distinct hotspots around New Zealand, Japan, Baja California, the Galapagos Islands, the Southeast Pacific, and the Southern Ocean. We then applied our model to explore potential changes in biodiversity under future perturbations of environmental conditions. Forward projections of biodiversity using an intermediate Intergovernmental Panel for Climate Change (IPCC) temperature scenario predicted that projected ocean warming and changes in sea ice cover until 2050 may have moderate effects on the spatial patterns of marine mammal richness. Increases in cetacean richness were predicted above 40° latitude in both hemispheres, while decreases in both pinniped and cetacean richness were expected at lower latitudes. Our results show how species distribution models can be applied to explore broad patterns of marine biodiversity worldwide for taxa for which limited distributional data are available.",
+      "docId": "PMC3100303",
+      "pmid": "21625431",
+      "pmcid": "3100303",
+      "authors": [
+        {
+          "firstname": "Kristin",
+          "lastname": "Kaschner"
+        },
+        {
+          "firstname": "DerekP.",
+          "lastname": "Tittensor"
+        },
+        {
+          "firstname": "Jonathan",
+          "lastname": "Ready"
+        },
+        {
+          "firstname": "Tim",
+          "lastname": "Gerrodette"
+        },
+        {
+          "firstname": "Boris",
+          "lastname": "Worm"
+        },
+        {
+          "firstname": "StevenJ.",
+          "lastname": "Bograd"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Comparison of microbial populations in the small intestine, large intestine and feces of healthy horses using terminal restriction fragment length polymorphism",
+      "abstractText": "Background The composition of the microbiota of the equine intestinal tract is complex. Determining whether the microbial composition of fecal samples is representative of proximal compartments of the digestive tract could greatly simplify future studies. The objectives of this study were to compare the microbial populations of the duodenum, ileum, cecum, colon and rectum (feces) within and between healthy horses, and to determine whether rectal (fecal) samples are representative of proximal segments of the gastrointestinal tract. Intestinal samples were collected from ten euthanized horses. 16S rRNA gene PCR-based TRFLP was used to investigate microbiota richness in various segments of the gastrointestinal tract, and dice similarity indices were calculated to compare the samples. Results Within horses large variations of microbial populations along the gastrointestinal tract were seen. The microbiota in rectal samples was only partially representative of other intestinal compartments. The highest similarity was obtained when feces were compared to the cecum. Large compartmental variations were also seen when microbial populations were compared between six horses with similar dietary and housing management. Conclusion Rectal samples were not entirely representative of intestinal compartments in the small or large intestine. This should be taken into account when designing studies using fecal sampling to assess other intestinal compartments. Similarity between horses with similar dietary and husbandry management was also limited, suggesting that parts of the intestinal microbiota were unique to each animal in this study.",
+      "docId": "PMC3622624",
+      "pmid": "23497580",
+      "pmcid": "3622624",
+      "authors": [
+        {
+          "firstname": "Angelika",
+          "lastname": "Schoster"
+        },
+        {
+          "firstname": "LuisGuillermo",
+          "lastname": "Arroyo"
+        },
+        {
+          "firstname": "HenryRolf",
+          "lastname": "Staempfli"
+        },
+        {
+          "firstname": "JeffreyScott",
+          "lastname": "Weese"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Comparative molecular analysis of chemolithoautotrophic bacterial diversity and community structure from coastal saline soils, Gujarat, India",
+      "abstractText": "Background Soils harbour high diversity of obligate as well as facultative chemolithoautotrophic bacteria that contribute significantly to CO2 dynamics in soil. In this study, we used culture dependent and independent methods to assess the community structure and diversity of chemolithoautotrophs in agricultural and coastal barren saline soils (low and high salinity). We studied the composition and distribution of chemolithoautotrophs by means of functional marker gene cbbL encoding large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase and a phylogenetic marker 16S rRNA gene. The cbbL form IA and IC genes associated with carbon fixation were analyzed to gain insight into metabolic potential of chemolithoautotrophs in three soil types of coastal ecosystems which had a very different salt load and sulphur content. Results In cbbL libraries, the cbbL form IA was retrieved only from high saline soil whereas form IC was found in all three soil types. The form IC cbbL was also amplified from bacterial isolates obtained from all soil types. A number of novel monophyletic lineages affiliated with form IA and IC phylogenetic trees were found. These were distantly related to the known cbbL sequences from agroecosystem, volcanic ashes and marine environments. In 16S rRNA clone libraries, the agricultural soil was dominated by chemolithoautotrophs (Betaproteobacteria) whereas photoautotrophic Chloroflexi and sulphide oxidizers dominated saline ecosystems. Environmental specificity was apparently visible at both higher taxonomic levels (phylum) and lower taxonomic levels (genus and species). The differentiation in community structure and diversity in three soil ecosystems was supported by LIBSHUFF (P \u003d 0.001) and UniFrac. Conclusion This study may provide fundamentally new insights into the role of chemolithoautotrophic and photoautotrophic bacterial diversity in biochemical carbon cycling in barren saline soils. The bacterial communities varied greatly among the three sites, probably because of differences in salinity, carbon and sulphur contents. The cbbL form IA-containing sulphide-oxidizing chemolithotrophs were found only in high saline soil clone library, thus giving the indication of sulphide availability in this soil ecosystem. This is the first comparative study of the community structure and diversity of chemolithoautotrophic bacteria in coastal agricultural and saline barren soils using functional (cbbL) and phylogenetic (16S rDNA) marker genes.",
+      "docId": "PMC3438102",
+      "pmid": "22834535",
+      "pmcid": "3438102",
+      "authors": [
+        {
+          "firstname": "Basit",
+          "lastname": "Yousuf"
+        },
+        {
+          "firstname": "Payal",
+          "lastname": "Sanadhya"
+        },
+        {
+          "firstname": "Jitendra",
+          "lastname": "Keshri"
+        },
+        {
+          "firstname": "Bhavanath",
+          "lastname": "Jha"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

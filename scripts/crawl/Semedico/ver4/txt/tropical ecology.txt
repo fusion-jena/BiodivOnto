@@ -1,0 +1,111 @@
+Botany, Genetics and Ethnobotany: A Crossed Investigation on the Elusive Tapir's Diet in French Guiana
+
+While the populations of large herbivores are being depleted in many tropical rainforests, the
+importance of their trophic role in the ecological functioning and biodiversity of these ecosystems
+is still not well evaluated. This is due to the outstanding plant diversity that they feed upon and
+the inherent difficulties involved in observing their elusive behaviour. Classically, the diet of
+elusive tropical herbivores is studied through the observation of browsing signs and macroscopic
+analysis of faeces or stomach contents. In this study, we illustrate that the original coupling of
+classic methods with genetic and ethnobotanical approaches yields information both about the diet
+diversity, the foraging modalities and the potential impact on vegetation of the largest terrestrial
+mammal of Amazonia, the lowland tapir. The study was conducted in the Guianan shield, where the
+ecology of tapirs has been less investigated. We identified 92 new species, 51 new genera and 13 new
+families of plants eaten by tapirs. We discuss the relative contribution of our different
+approaches, notably the contribution of genetic barcoding, used for the first time to investigate
+the diet of a large tropical mammal, and how local traditional ecological knowledge is accredited
+and valuable for research on the ecology of elusive animals.
+
+
+
+Moving beyond abundance distributions: neutral theory and spatial patterns in a tropical forest
+
+Assessing the relative importance of different processes that determine the spatial distribution of
+species and the dynamics in highly diverse plant communities remains a challenging question in
+ecology. Previous modelling approaches often focused on single aggregated forest diversity patterns
+that convey limited information on the underlying dynamic processes. Here, we use recent advances in
+inference for stochastic simulation models to evaluate the ability of a spatially explicit and
+spatially continuous neutral model to quantitatively predict six spatial and non-spatial patterns
+observed at the 50 ha tropical forest plot on Barro Colorado Island, Panama. The patterns capture
+different aspects of forest dynamics and biodiversity structure, such as annual mortality rate,
+species richness, species abundance distribution, beta-diversity and the species–area relationship
+(SAR). The model correctly predicted each pattern independently and up to five patterns
+simultaneously. However, the model was unable to match the SAR and beta-diversity simultaneously.
+Our study moves previous theory towards a dynamic spatial theory of biodiversity and demonstrates
+the value of spatial data to identify ecological processes. This opens up new avenues to evaluate
+the consequences of additional process for community assembly and dynamics.
+
+
+
+Five Cryptic Species in the Amazonian Catfish Centromochlus existimatus Identified Based on Biogeographic Predictions and Genetic Data
+
+Accurately quantifying biodiversity is fundamental for both evolutionary theory and conservation
+strategies. DNA-based studies are exposing high cryptic diversity irrespective of taxonomic group or
+environmental setting, and increasing the ever-growing estimates of global biodiversity. This has
+severe implications for under-sampled and species-rich tropical regions, such as the Amazon Basin.
+We used biogeographic predictions derived from geomorphological history and contemporary
+hydrochemical and genetic data to examine cryptic diversity in the Amazonian driftwood catfish
+Centromochlus existimatus. Using both nuclear and mitochondrial DNA markers, five deeply divergent
+cryptic lineages are reported, for which at least three are sympatric in distribution. These
+lineages appear relatively old, with divergence times dating back to middle Miocene. Diversification
+events appear to be chronologically associated with the formation of the modern Amazon River system,
+and perhaps influenced by hydrochemical gradients between tributaries. The cause of apparent
+morphological stasis in the C. existimatus species complex is speculated within the context of
+hydrochemistry and non-visual mating cues and a full taxonomic revision is recommended. Our findings
+suggest that the diversity of Amazonian ichthyofauna is vastly underestimated and highlight the
+relevance of biogeographic predictions to guide sampling efforts in ecologically complex and under-
+studied ecosystems.
+
+
+
+Do riparian reserves support dung beetle biodiversity and ecosystem services in oil palm-dominated tropical landscapes?
+
+Agricultural expansion and intensification are major threats to global biodiversity, ecological
+functions, and ecosystem services. The rapid expansion of oil palm in forested tropical landscapes
+is of particular concern given their high biodiversity. Identifying management approaches that
+maintain native species and associated ecological processes within oil palm plantations is therefore
+a priority. Riparian reserves are strips of forest retained alongside rivers in cultivated areas,
+primarily for their positive hydrological impact. However, they can also support a range of forest-
+dependent species or ecosystem services. We surveyed communities of dung beetles and measured dung
+removal activity in an oil palm-dominated landscape in Sabah, Malaysian Borneo. The species
+richness, diversity, and functional group richness of dung beetles in riparian reserves were
+significantly higher than in oil palm, but lower than in adjacent logged forests. The community
+composition of the riparian reserves was more similar to logged forest than oil palm. Despite the
+pronounced differences in biodiversity, we did not find significant differences in dung removal
+rates among land uses. We also found no evidence that riparian reserves enhance dung removal rates
+within surrounding oil palm. These results contrast previous studies showing positive relationships
+between dung beetle species richness and dung removal in tropical forests. We found weak but
+significant positive relationships between riparian reserve width and dung beetle diversity, and
+between reserve vegetation complexity and dung beetle abundance, suggesting that these features may
+increase the conservation value of riparian reserves. Synthesis and applications: The similarity
+between riparian reserves and logged forest demonstrates that retaining riparian reserves increases
+biodiversity within oil palm landscapes. However, the lack of correlation between dung beetle
+community characteristics and dung removal highlights the need for further research into spatial
+variation in biodiversity–ecosystem function relationships and how the results of such studies are
+affected by methodological choices.
+
+
+
+Estimating Species Richness and Modelling Habitat Preferences of Tropical Forest Mammals from Camera Trap Data
+
+Medium-to-large mammals within tropical forests represent a rich and functionally diversified
+component of this biome; however, they continue to be threatened by hunting and habitat loss.
+Assessing these communities implies studying species’ richness and composition, and determining a
+state variable of species abundance in order to infer changes in species distribution and habitat
+associations. The Tropical Ecology, Assessment and Monitoring (TEAM) network fills a chronic gap in
+standardized data collection by implementing a systematic monitoring framework of biodiversity,
+including mammal communities, across several sites. In this study, we used TEAM camera trap data
+collected in the Udzungwa Mountains of Tanzania, an area of exceptional importance for mammal
+diversity, to propose an example of a baseline assessment of species’ occupancy. We used 60 camera
+trap locations and cumulated 1,818 camera days in 2009. Sampling yielded 10,647 images of 26 species
+of mammals. We estimated that a minimum of 32 species are in fact present, matching available
+knowledge from other sources. Estimated species richness at camera sites did not vary with a suite
+of habitat covariates derived from remote sensing, however the detection probability varied with
+functional guilds, with herbivores being more detectable than other guilds. Species-specific
+occupancy modelling revealed novel ecological knowledge for the 11 most detected species,
+highlighting patterns such as ‘montane forest dwellers’, e.g. the endemic Sanje mangabey (Cercocebus
+sanjei), and ‘lowland forest dwellers’, e.g. suni antelope (Neotragus moschatus). Our results show
+that the analysis of camera trap data with account for imperfect detection can provide a solid
+ecological assessment of mammal communities that can be systematically replicated across sites.
+
+
+

@@ -1,0 +1,93 @@
+High-purity Cu nanocrystal synthesis by a dynamic decomposition method
+
+Cu nanocrystals are applied extensively in several fields, particularly in the microelectron,
+sensor, and catalysis. The catalytic behavior of Cu nanocrystals depends mainly on the structure and
+particle size. In this work, formation of high-purity Cu nanocrystals is studied using a common
+chemical vapor deposition precursor of cupric tartrate. This process is investigated through a
+combined experimental and computational approach. The decomposition kinetics is researched via
+differential scanning calorimetry and thermogravimetric analysis using Flynn-Wall-Ozawa, Kissinger,
+and Starink methods. The growth was found to be influenced by the factors of reaction temperature,
+protective gas, and time. And microstructural and thermal characterizations were performed by X-ray
+diffraction, scanning electron microscopy, transmission electron microscopy, and differential
+scanning calorimetry. Decomposition of cupric tartrate at different temperatures was simulated by
+density functional theory calculations under the generalized gradient approximation. High
+crystalline Cu nanocrystals without floccules were obtained from thermal decomposition of cupric
+tartrate at 271°C for 8 h under Ar. This general approach paves a way to controllable synthesis of
+Cu nanocrystals with high purity.
+
+
+
+Alignment-free local structural search by writhe decomposition
+
+Motivation: Rapid methods for protein structure search enable biological discoveries based on
+flexibly defined structural similarity, unleashing the power of the ever greater number of solved
+protein structures. Projection methods show promise for the development of fast structural database
+search solutions. Projection methods map a structure to a point in a high-dimensional space and
+compare two structures by measuring distance between their projected points. These methods offer a
+tremendous increase in speed over residue-level structural alignment methods. However, current
+projection methods are not practical, partly because they are unable to identify local similarities.
+Results: We propose a new projection-based approach that can rapidly detect global as well as local
+structural similarities. Local structural search is enabled by a topology-inspired writhe
+decomposition protocol that produces a small number of fragments while ensuring that similar
+structures are cut in a similar manner. In benchmark tests, we show that our method, writher,
+improves accuracy over existing projection methods in terms of recognizing scop domains out of
+multi-domain proteins, while maintaining accuracy comparable with existing projection methods in a
+standard single-domain benchmark test. Availability: The source code is available at the following
+website: http://compbio.berkeley.edu/proj/writher/ Contact: dzhi@compbio.berkeley.edu Supplementary
+information: Supplementary data are available at Bioinformatics online.
+
+
+
+Radiolytic decomposition of pesticide carbendazim in waters and wastes for environmental protection
+
+The radiolytic degradation of widely used fungicide, carbendazim, in synthetic aqueous solutions and
+industrial wastewater was investigated employing γ-irradiation. The effect of the absorbed dose,
+initial concentration and pH of irradiated solution on the effectiveness of carbendazim
+decomposition were investigated. Decomposition of carbendazim in 100 μM concentration in synthetic
+aqueous solutions required irradiation with 600 Gy dose. The aqueous solutions of carbendazim have
+been irradiated in different conditions, where particular active radical species from water
+radiolysis predominate. The obtained data have been compared with the kinetic modeling. The
+reversed-phase high-performance liquid chromatography was used for the determination of carbendazim
+and its radiolytic decomposition products in irradiated solutions. The changes of toxicity of
+irradiated solutions were examined with different test organisms and human leukemia cells.
+
+
+
+HIV AWARENESS IN CHINA AMONG WOMEN OF REPRODUCTIVE AGE (1997–2005): A DECOMPOSITION ANALYSIS
+
+Summary HIV prevalence in China is less than one per cent, but the absolute number of people living
+with HIV/AIDS is large and growing. Given the limited scope of any potential cure for HIV,
+prevention plays a crucial role in controlling the epidemic. This paper examines the evolution of
+HIV awareness among women in China between 1997 and 2005. A regression decomposition analysis
+technique was used to disentangle the two main components driving a change in HIV awareness. The
+results show that HIV awareness has increased over time in China. The gaps between groups are
+narrowing over time and lower HIV awareness groups are catching up with the higher awareness groups.
+In 2005 education remained one of the main factors associated with HIV awareness, the other main
+factors being ethnicity, exposure to TV and newspapers. The increases in HIV awareness observed
+between 1997 and 2001 are similar between groups of women with different demographic
+characteristics, whereas between 2003 and 2005 increases are more pronounced among specific groups
+of women such as women from rural areas, women from Western parts of the country, women who belong
+to ethnic minorities and those with no education or with only primary education. The results suggest
+that the main driver of the observed change in HIV awareness over time in China is change in the
+environment such as in political commitment, interventions and campaigns rather than change in
+population structure.
+
+
+
+Decomposition and Mineralization of Dimethyl Phthalate in an Aqueous Solution by Wet Oxidation
+
+Dimethyl phthalate (DMP) was treated via wet oxygen oxidation process (WOP). The decomposition
+efficiency ηDMP of DMP and mineralization efficiency ηTOC of total organic carbons were measured to
+evaluate the effects of operation parameters on the performance of WOP. The results revealed that
+reaction temperature T is the most affecting factor, with a higher T offering higher ηDMP and ηTOC
+as expected. The ηDMP increases as rotating speed increases from 300 to 500 rpm with stirring
+enhancement of gas liquid mass transfer. However, it exhibits reduction effect at 700 rpm due to
+purging of dissolved oxygen by overstirring. Regarding the effects of pressure PT, a higher PT
+provides more oxygen for the forward reaction with DMP, while overhigh PT increases the absorption
+of gaseous products such as CO2 and decomposes short-chain hydrocarbon fragments back into the
+solution thus hindering the forward reaction. For the tested PT of 2.41 to 3.45 MPa, the results
+indicated that 2.41 MPa is appropriate. A longer reaction time of course gives better performance.
+At 500 rpm, 483 K, 2.41 MPa, and 180 min, the ηDMP and ηTOC are 93 and 36%, respectively.
+
+
+

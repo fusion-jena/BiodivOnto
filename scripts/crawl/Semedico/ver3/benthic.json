@@ -1,0 +1,386 @@
+{
+  "inputstring": "benthic biodiversity",
+  "tokens": [
+    "biodiversity",
+    "benthic"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 48438,
+  "bibliographylist": [
+    {
+      "articleTitle": "Assessing biodiversity of a freshwater benthic macroinvertebrate community through non-destructive environmental barcoding of DNA from preservative ethanol",
+      "abstractText": "Background Characterizing biodiversity in a habitat or in targeted taxonomically or socioeconomically important groups remains a challenge. Standard DNA-based biodiversity identification tools such as DNA barcoding coupled with high-throughput Next-Generation Sequencing (NGS) technologies are rapidly changing the landscape of biodiversity analysis by targeting various habitats and a wide array of organisms. However, effective use of these technological advances requires optimized protocols and benchmarking against traditional tools. Here we investigate the use of commonly used preservative ethanol as a non-destructive and inexpensive source of DNA for NGS biodiversity analysis of benthic macroinvertebrates. We used the preservative ethanol added to field collected organisms (live sorted bulk benthic samples) as a source of community DNA for NGS environmental barcoding. We directly compare this approach with a DNA barcode library generated using Sanger sequencing of all individuals separated from abenthic sample as well as with NGS environmental barcoding of DNA extracted from mixed/homogenized tissue specimens of the same benthic sample. We also evaluate a multiplex PCR strategy, as compared to commonly used single amplicon workflow, using three newly designed primer sets targeting a wide array of benthic macroinvertebrate taxa. Results Our results indicate the effectiveness of ethanol-based DNA in providing sequence information from 87% of taxa identified individually from mixture as compared to 89% in conventional tissue extracted DNA. Missing taxa in both DNA sources were from species with the lowest abundance (e.g. 1 individual) in the benthic mixture. Interestingly, we achieved 100% detection for taxa represented with more than 1% individuals in the mixture in both sources of DNA. Our multiplex amplification regime increased the detection as compared to any single primer set indicating the usefulness of using multiple primer sets in initial amplification of target genes. Conclusions Although NGS approaches have significantly increased the potential of using DNA information in biodiversity analysis, robust methods are needed to provide reliable data and alleviate sample-processing bottlenecks. Here we coupled non-destructive DNA access and a multiplex PCR approach in NGS environmental barcoding for effective data generation from benthic live-sorted samples collected in bulk and preserved in ethanol. Our study provides a possible solution to sampling and vouchering challenges in using benthic samples through next-generation environmental barcoding and facilitates wider utility of DNA information, especially species-specific DNA barcodes, in ecological and environmental studies and real-world applications such as biomonitoring programs.",
+      "docId": "PMC3542036",
+      "pmid": "23259585",
+      "pmcid": "3542036",
+      "authors": [
+        {
+          "firstname": "Mehrdad",
+          "lastname": "Hajibabaei"
+        },
+        {
+          "firstname": "JenniferL",
+          "lastname": "Spall"
+        },
+        {
+          "firstname": "Shadi",
+          "lastname": "Shokralla"
+        },
+        {
+          "firstname": "Steven",
+          "lastname": "van Konynenburg"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Characterising and Predicting Benthic Biodiversity for Conservation Planning in Deepwater Environments",
+      "abstractText": "Understanding patterns of biodiversity in deep sea systems is increasingly important because human activities are extending further into these areas. However, obtaining data is difficult, limiting the ability of science to inform management decisions. We have used three different methods of quantifying biodiversity to describe patterns of biodiversity in an area that includes two marine reserves in deep water off southern Australia. We used biological data collected during a recent survey, combined with extensive physical data to model, predict and map three different attributes of biodiversity: distributions of common species, beta diversity and rank abundance distributions (RAD). The distribution of each of eight common species was unique, although all the species respond to a depth-correlated physical gradient. Changes in composition (beta diversity) were large, even between sites with very similar environmental conditions. Composition at any one site was highly uncertain, and the suite of species changed dramatically both across and down slope. In contrast, the distributions of the RAD components of biodiversity (community abundance, richness, and evenness) were relatively smooth across the study area, suggesting that assemblage structure (i.e. the distribution of abundances of species) is limited, irrespective of species composition. Seamounts had similar biodiversity based on metrics of species presence, beta diversity, total abundance, richness and evenness to the adjacent continental slope in the same depth ranges. These analyses suggest that conservation objectives need to clearly identify which aspects of biodiversity are valued, and employ an appropriate suite of methods to address these aspects, to ensure that conservation goals are met.",
+      "docId": "PMC3350518",
+      "pmid": "22606271",
+      "pmcid": "3350518",
+      "authors": [
+        {
+          "firstname": "PiersK.",
+          "lastname": "Dunstan"
+        },
+        {
+          "firstname": "Franziska",
+          "lastname": "Althaus"
+        },
+        {
+          "firstname": "Alan",
+          "lastname": "Williams"
+        },
+        {
+          "firstname": "NicholasJ.",
+          "lastname": "Bax"
+        },
+        {
+          "firstname": "StevenJ.",
+          "lastname": "Bograd"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Impact of biodiversity-climate futures on primary production and metabolism in a model benthic estuarine system",
+      "abstractText": "Background Understanding the effects of anthropogenically-driven changes in global temperature, atmospheric carbon dioxide and biodiversity on the functionality of marine ecosystems is crucial for predicting and managing the associated impacts. Coastal ecosystems are important sources of carbon (primary production) to shelf waters and play a vital role in global nutrient cycling. These systems are especially vulnerable to the effects of human activities and will be the first areas impacted by rising sea levels. Within these coastal ecosystems, microalgal assemblages (microphytobenthos: MPB) are vital for autochthonous carbon fixation. The level of in situ production by MPB mediates the net carbon cycling of transitional ecosystems between net heterotrophic or autotrophic metabolism. In this study, we examine the interactive effects of elevated atmospheric CO2 concentrations (370, 600, and 1000 ppmv), temperature (6°C, 12°C, and 18°C) and invertebrate biodiversity on MPB biomass in experimental systems. We assembled communities of three common grazing invertebrates (Hydrobia ulvae, Corophium volutator and Hediste diversicolor) in monoculture and in all possible multispecies combinations. This experimental design specifically addresses interactions between the selected climate change variables and any ecological consequences caused by changes in species composition or richness. Results The effects of elevated CO2 concentration, temperature and invertebrate diversity were not additive, rather they interacted to determine MPB biomass, and overall this effect was negative. Diversity effects were underpinned by strong species composition effects, illustrating the importance of individual species identity. Conclusions Overall, our findings suggest that in natural systems, the complex interactions between changing environmental conditions and any associated changes in invertebrate assemblage structure are likely to reduce MPB biomass. Furthermore, these effects would be sufficient to affect the net metabolic balance of the coastal ecosystem, with important implications for system ecology and sustainable exploitation.",
+      "docId": "PMC3046901",
+      "pmid": "21320339",
+      "pmcid": "3046901",
+      "authors": [
+        {
+          "firstname": "Natalie",
+          "lastname": "Hicks"
+        },
+        {
+          "firstname": "MarkT",
+          "lastname": "Bulling"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Solan"
+        },
+        {
+          "firstname": "Dave",
+          "lastname": "Raffaelli"
+        },
+        {
+          "firstname": "PiranCL",
+          "lastname": "White"
+        },
+        {
+          "firstname": "DavidM",
+          "lastname": "Paterson"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "The Biodiversity of the Mediterranean Sea: Estimates, Patterns, and Threats",
+      "abstractText": "The Mediterranean Sea is a marine biodiversity hot spot. Here we combined an extensive literature analysis with expert opinions to update publicly available estimates of major taxa in this marine ecosystem and to revise and update several species lists. We also assessed overall spatial and temporal patterns of species diversity and identified major changes and threats. Our results listed approximately 17,000 marine species occurring in the Mediterranean Sea. However, our estimates of marine diversity are still incomplete as yet—undescribed species will be added in the future. Diversity for microbes is substantially underestimated, and the deep-sea areas and portions of the southern and eastern region are still poorly known. In addition, the invasion of alien species is a crucial factor that will continue to change the biodiversity of the Mediterranean, mainly in its eastern basin that can spread rapidly northwards and westwards due to the warming of the Mediterranean Sea. Spatial patterns showed a general decrease in biodiversity from northwestern to southeastern regions following a gradient of production, with some exceptions and caution due to gaps in our knowledge of the biota along the southern and eastern rims. Biodiversity was also generally higher in coastal areas and continental shelves, and decreases with depth. Temporal trends indicated that overexploitation and habitat loss have been the main human drivers of historical changes in biodiversity. At present, habitat loss and degradation, followed by fishing impacts, pollution, climate change, eutrophication, and the establishment of alien species are the most important threats and affect the greatest number of taxonomic groups. All these impacts are expected to grow in importance in the future, especially climate change and habitat degradation. The spatial identification of hot spots highlighted the ecological importance of most of the western Mediterranean shelves (and in particular, the Strait of Gibraltar and the adjacent Alboran Sea), western African coast, the Adriatic, and the Aegean Sea, which show high concentrations of endangered, threatened, or vulnerable species. The Levantine Basin, severely impacted by the invasion of species, is endangered as well. This abstract has been translated to other languages (File S1).",
+      "docId": "PMC2914016",
+      "pmid": "20689844",
+      "pmcid": "2914016",
+      "authors": [
+        {
+          "firstname": "Marta",
+          "lastname": "Coll"
+        },
+        {
+          "firstname": "Chiara",
+          "lastname": "Piroddi"
+        },
+        {
+          "firstname": "Jeroen",
+          "lastname": "Steenbeek"
+        },
+        {
+          "firstname": "Kristin",
+          "lastname": "Kaschner"
+        },
+        {
+          "firstname": "Frida",
+          "lastname": "Ben Rais Lasram"
+        },
+        {
+          "firstname": "Jacopo",
+          "lastname": "Aguzzi"
+        },
+        {
+          "firstname": "Enric",
+          "lastname": "Ballesteros"
+        },
+        {
+          "firstname": "CarloNike",
+          "lastname": "Bianchi"
+        },
+        {
+          "firstname": "Jordi",
+          "lastname": "Corbera"
+        },
+        {
+          "firstname": "Thanos",
+          "lastname": "Dailianis"
+        },
+        {
+          "firstname": "Roberto",
+          "lastname": "Danovaro"
+        },
+        {
+          "firstname": "Marta",
+          "lastname": "Estrada"
+        },
+        {
+          "firstname": "Carlo",
+          "lastname": "Froglia"
+        },
+        {
+          "firstname": "BellaS.",
+          "lastname": "Galil"
+        },
+        {
+          "firstname": "JosepM.",
+          "lastname": "Gasol"
+        },
+        {
+          "firstname": "Ruthy",
+          "lastname": "Gertwagen"
+        },
+        {
+          "firstname": "João",
+          "lastname": "Gil"
+        },
+        {
+          "firstname": "François",
+          "lastname": "Guilhaumon"
+        },
+        {
+          "firstname": "Kathleen",
+          "lastname": "Kesner-Reyes"
+        },
+        {
+          "firstname": "Miltiadis-Spyridon",
+          "lastname": "Kitsos"
+        },
+        {
+          "firstname": "Athanasios",
+          "lastname": "Koukouras"
+        },
+        {
+          "firstname": "Nikolaos",
+          "lastname": "Lampadariou"
+        },
+        {
+          "firstname": "Elijah",
+          "lastname": "Laxamana"
+        },
+        {
+          "firstname": "CarlosM.",
+          "lastname": "López-Fé de la Cuadra"
+        },
+        {
+          "firstname": "HeikeK.",
+          "lastname": "Lotze"
+        },
+        {
+          "firstname": "Daniel",
+          "lastname": "Martin"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Mouillot"
+        },
+        {
+          "firstname": "Daniel",
+          "lastname": "Oro"
+        },
+        {
+          "firstname": "Saša",
+          "lastname": "Raicevich"
+        },
+        {
+          "firstname": "Josephine",
+          "lastname": "Rius-Barile"
+        },
+        {
+          "firstname": "JoseIgnacio",
+          "lastname": "Saiz-Salinas"
+        },
+        {
+          "firstname": "Carles",
+          "lastname": "San Vicente"
+        },
+        {
+          "firstname": "Samuel",
+          "lastname": "Somot"
+        },
+        {
+          "firstname": "José",
+          "lastname": "Templado"
+        },
+        {
+          "firstname": "Xavier",
+          "lastname": "Turon"
+        },
+        {
+          "firstname": "Dimitris",
+          "lastname": "Vafidis"
+        },
+        {
+          "firstname": "Roger",
+          "lastname": "Villanueva"
+        },
+        {
+          "firstname": "Eleni",
+          "lastname": "Voultsiadou"
+        },
+        {
+          "firstname": "StevenJ.",
+          "lastname": "Bograd"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Deep-Sea Biodiversity in the Mediterranean Sea: The Known, the                     Unknown, and the Unknowable",
+      "abstractText": "Deep-sea ecosystems represent the largest biome of the global biosphere, but                     knowledge of their biodiversity is still scant. The Mediterranean basin has been                     proposed as a hot spot of terrestrial and coastal marine biodiversity but has                     been supposed to be impoverished of deep-sea species richness. We summarized all                     available information on benthic biodiversity (Prokaryotes, Foraminifera,                     Meiofauna, Macrofauna, and Megafauna) in different deep-sea ecosystems of the                     Mediterranean Sea (200 to more than 4,000 m depth), including open slopes, deep                     basins, canyons, cold seeps, seamounts, deep-water corals and deep-hypersaline                     anoxic basins and analyzed overall longitudinal and bathymetric patterns. We                     show that in contrast to what was expected from the sharp decrease in organic                     carbon fluxes and reduced faunal abundance, the deep-sea biodiversity of both                     the eastern and the western basins of the Mediterranean Sea is similarly high.                     All of the biodiversity components, except Bacteria and Archaea, displayed a                     decreasing pattern with increasing water depth, but to a different extent for                     each component. Unlike patterns observed for faunal abundance, highest negative                     values of the slopes of the biodiversity patterns were observed for Meiofauna,                     followed by Macrofauna and Megafauna. Comparison of the biodiversity associated                     with open slopes, deep basins, canyons, and deep-water corals showed that the                     deep basins were the least diverse. Rarefaction curves allowed us to estimate                     the expected number of species for each benthic component in different                     bathymetric ranges. A large fraction of exclusive species was associated with                     each specific habitat or ecosystem. Thus, each deep-sea ecosystem contributes                     significantly to overall biodiversity. From theoretical extrapolations we                     estimate that the overall deep-sea Mediterranean biodiversity (excluding                     prokaryotes) reaches approximately 2805 species of which about 66% is                     still undiscovered. Among the biotic components investigated (Prokaryotes                     excluded), most of the unknown species are within the phylum Nematoda, followed                     by Foraminifera, but an important fraction of macrofaunal and megafaunal species                     also remains unknown. Data reported here provide new insights into the patterns                     of biodiversity in the deep-sea Mediterranean and new clues for future                     investigations aimed at identifying the factors controlling and threatening                     deep-sea biodiversity.",
+      "docId": "PMC2914020",
+      "pmid": "20689848",
+      "pmcid": "2914020",
+      "authors": [
+        {
+          "firstname": "Roberto",
+          "lastname": "Danovaro"
+        },
+        {
+          "firstname": "JoanBatista",
+          "lastname": "Company"
+        },
+        {
+          "firstname": "Cinzia",
+          "lastname": "Corinaldesi"
+        },
+        {
+          "firstname": "Gianfranco",
+          "lastname": "D\u0027Onghia"
+        },
+        {
+          "firstname": "Bella",
+          "lastname": "Galil"
+        },
+        {
+          "firstname": "Cristina",
+          "lastname": "Gambi"
+        },
+        {
+          "firstname": "AndrewJ.",
+          "lastname": "Gooday"
+        },
+        {
+          "firstname": "Nikolaos",
+          "lastname": "Lampadariou"
+        },
+        {
+          "firstname": "GianMarco",
+          "lastname": "Luna"
+        },
+        {
+          "firstname": "Caterina",
+          "lastname": "Morigi"
+        },
+        {
+          "firstname": "Karine",
+          "lastname": "Olu"
+        },
+        {
+          "firstname": "Paraskevi",
+          "lastname": "Polymenakou"
+        },
+        {
+          "firstname": "Eva",
+          "lastname": "Ramirez-Llodra"
+        },
+        {
+          "firstname": "Anna",
+          "lastname": "Sabbatini"
+        },
+        {
+          "firstname": "Francesc",
+          "lastname": "Sardà"
+        },
+        {
+          "firstname": "Myriam",
+          "lastname": "Sibuet"
+        },
+        {
+          "firstname": "Anastasios",
+          "lastname": "Tselepides"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Gratwicke"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

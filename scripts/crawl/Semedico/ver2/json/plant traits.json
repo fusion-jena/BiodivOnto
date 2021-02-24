@@ -1,0 +1,175 @@
+{
+  "inputstring": "plant traits biodiversity",
+  "tokens": [
+    "traits",
+    "biodiversity",
+    "plant"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 2616,
+  "bibliographylist": [
+    {
+      "articleTitle": "Biodiversity of genes encoding anti-microbial traits within plant associated microbes",
+      "abstractText": "The plant is an attractive versatile home for diverse associated microbes. A subset of these microbes produces a diversity of anti-microbial natural products including polyketides, non-ribosomal peptides, terpenoids, heterocylic nitrogenous compounds, volatile compounds, bacteriocins, and lytic enzymes. In recent years, detailed molecular analysis has led to a better understanding of the underlying genetic mechanisms. New genomic and bioinformatic tools have permitted comparisons of orthologous genes between species, leading to predictions of the associated evolutionary mechanisms responsible for diversification at the genetic and corresponding biochemical levels. The purpose of this review is to describe the biodiversity of biosynthetic genes of plant-associated bacteria and fungi that encode selected examples of antimicrobial natural products. For each compound, the target pathogen and biochemical mode of action are described, in order to draw attention to the complexity of these phenomena. We review recent information of the underlying molecular diversity and draw lessons through comparative genomic analysis of the orthologous coding sequences (CDS). We conclude by discussing emerging themes and gaps, discuss the metabolic pathways in the context of the phylogeny and ecology of their microbial hosts, and discuss potential evolutionary mechanisms that led to the diversification of biosynthetic gene clusters.",
+      "docId": "PMC4392301",
+      "pmid": "25914708",
+      "pmcid": "4392301",
+      "authors": [
+        {
+          "firstname": "WalaaK.",
+          "lastname": "Mousa"
+        },
+        {
+          "firstname": "ManishN.",
+          "lastname": "Raizada"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Using a Multi-Trait Approach to Manipulate Plant Functional Diversity in a Biodiversity-Ecosystem Function Experiment",
+      "abstractText": "A frequent pattern emerging from biodiversity-ecosystem function studies is that functional group richness enhances ecosystem functions such as primary productivity. However, the manipulation of functional group richness goes along with major disadvantages like the transformation of functional trait data into categories or the exclusion of functional differences between organisms in the same group. In a mesocosm study we manipulated plant functional diversity based on the multi-trait Functional Diversity (FD)-approach of Petchey and Gaston by using database data of seven functional traits and information on the origin of the species in terms of being native or exotic. Along a gradient ranging from low to high FD we planted 40 randomly selected eight-species mixtures under controlled conditions. We found a significant positive linear correlation of FD with aboveground productivity and a negative correlation with invasibility of the plant communities. Based on community-weighted mean calculations for each functional trait, we figured out that the traits N-fixation and species origin, i.e. being native or exotic, played the most important role for community productivity. Our results suggest that the identification of the impact of functional trait diversity and the relative contributions of relevant traits is essential for a mechanistic understanding of the role of biodiversity for ecosystem functions such as aboveground biomass production and resistance against invasion.",
+      "docId": "PMC4045913",
+      "pmid": "24897501",
+      "pmcid": "4045913",
+      "authors": [
+        {
+          "firstname": "Conrad",
+          "lastname": "Schittko"
+        },
+        {
+          "firstname": "Mahmoud",
+          "lastname": "Hawa"
+        },
+        {
+          "firstname": "Susanne",
+          "lastname": "Wurst"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Hector"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Relationship between Reproductive Allocation and Relative Abundance among 32 Species of a Tibetan Alpine Meadow: Effects of Fertilization and Grazing",
+      "abstractText": "Background Understanding the relationship between species traits and species abundance is an important goal in ecology and biodiversity science. Although theoretical studies predict that traits related to performance (e.g. reproductive allocation) are most directly linked to species abundance within a community, empirical investigations have rarely been done. It also remains unclear how environmental factors such as grazing or fertilizer application affect the predicted relationship. Methodology We conducted a 3-year field experiment in a Tibetan alpine meadow to assess the relationship between plant reproductive allocation (RA) and species relative abundance (SRA) on control, grazed and fertilized plots. Overall, the studied plant community contained 32 common species. Principal Findings At the treatment level, (i) RA was negatively correlated with SRA on control plots and during the first year on fertilized plots. (ii) No negative RA–SRA correlations were observed on grazed plots and during the second and third year on fertilized plots. (iii) Seed size was positively correlated with SRA on control plots. At the plot level, the correlation between SRA and RA were not affected by treatment, year or species composition. Conclusions/Significance Our study shows that the performance-related trait RA can negatively affect SRA within communities, which is possibly due to the tradeoffs between clonal growth (for space occupancy) and sexual reproduction. We propose that if different species occupy different positions along these tradeoffs it will contribute to biodiversity maintenance in local communities or even at lager scale.",
+      "docId": "PMC3334899",
+      "pmid": "22536385",
+      "pmcid": "3334899",
+      "authors": [
+        {
+          "firstname": "Kechang",
+          "lastname": "Niu"
+        },
+        {
+          "firstname": "Bernhard",
+          "lastname": "Schmid"
+        },
+        {
+          "firstname": "Philippe",
+          "lastname": "Choler"
+        },
+        {
+          "firstname": "Guozhen",
+          "lastname": "Du"
+        },
+        {
+          "firstname": "FrederickR.",
+          "lastname": "Adler"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Resource limitation, tolerance, and the future of ecological plant classification",
+      "abstractText": "Throughout the evolutionary history of plants, drought, shade, and scarcity of nutrients have structured ecosystems and communities globally. Humans have begun to drastically alter the prevalence of these environmental factors with untold consequences for plant communities and ecosystems worldwide. Given limitations in using organ-level traits to predict ecological performance of species, recent advances using tolerances of low resource availability as plant functional traits are revealing the often hidden roles these factors have in structuring communities and are becoming central to classifying plants ecologically. For example, measuring the physiological drought tolerance of plants has increased the predictability of differences among species in their ability to survive drought as well as the distribution of species within and among ecosystems. Quantifying the shade tolerance of species has improved our understanding of local and regional species diversity and how species have sorted within and among regions. As the stresses on ecosystems continue to shift, coordinated studies of whole-plant growth centered on tolerance of low resource availability will be central in predicting future ecosystem functioning and biodiversity. This will require efforts that quantify tolerances for large numbers of species and develop bioinformatic and other techniques for comparing large number of species.",
+      "docId": "PMC3483597",
+      "pmid": "23115561",
+      "pmcid": "3483597",
+      "authors": [
+        {
+          "firstname": "JosephM.",
+          "lastname": "Craine"
+        },
+        {
+          "firstname": "BettinaM.J.",
+          "lastname": "Engelbrecht"
+        },
+        {
+          "firstname": "ChristopherH.",
+          "lastname": "Lusk"
+        },
+        {
+          "firstname": "NateG.",
+          "lastname": "McDowell"
+        },
+        {
+          "firstname": "Hendrik",
+          "lastname": "Poorter"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Biodiversity and Ecosystem Multi-Functionality: Observed Relationships in Smallholder Fallows in Western Kenya",
+      "abstractText": "Recent studies indicate that species richness can enhance the ability of plant assemblages to support multiple ecosystem functions. To understand how and when ecosystem services depend on biodiversity, it is valuable to expand beyond experimental grasslands. We examined whether plant diversity improves the capacity of agroecosystems to sustain multiple ecosystem services—production of wood and forage, and two elements of soil formation—in two types of smallholder fallows in western Kenya. In 18 grazed and 21 improved fallows, we estimated biomass and quantified soil organic carbon, soil base cations, sand content, and soil infiltration capacity. For four ecosystem functions (wood biomass, forage biomass, soil base cations, steady infiltration rates) linked to the focal ecosystem services, we quantified ecosystem service multi-functionality as (1) the proportion of functions above half-maximum, and (2) mean percentage excess above mean function values, and assessed whether plant diversity or environmental favorability better predicted multi-functionality. In grazed fallows, positive effects of plant diversity best explained the proportion above half-maximum and mean percentage excess, the former also declining with grazing intensity. In improved fallows, the proportion above half-maximum was not associated with soil carbon or plant diversity, while soil carbon predicted mean percentage excess better than diversity. Grazed fallows yielded stronger evidence for diversity effects on multi-functionality, while environmental conditions appeared more influential in improved fallows. The contrast in diversity-multi-functionality relationships among fallow types appears related to differences in management and associated factors including disturbance and species composition. Complementary effects of species with contrasting functional traits on different functions and multi-functional species may have contributed to diversity effects in grazed fallows. Biodiversity and environmental favorability may enhance the capacity of smallholder fallows to simultaneously provide multiple ecosystem services, yet their effects are likely to vary with fallow management.",
+      "docId": "PMC3509158",
+      "pmid": "23209662",
+      "pmcid": "3509158",
+      "authors": [
+        {
+          "firstname": "Jason",
+          "lastname": "Sircely"
+        },
+        {
+          "firstname": "Shahid",
+          "lastname": "Naeem"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Hector"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

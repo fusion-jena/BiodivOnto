@@ -1,0 +1,394 @@
+{
+  "inputstring": "biomass biodiversity",
+  "tokens": [
+    "biomass",
+    "biodiversity"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 6341,
+  "bibliographylist": [
+    {
+      "articleTitle": "Dominance, Biomass and Extinction Resistance Determine the Consequences of Biodiversity Loss for Multiple Coastal Ecosystem Processes",
+      "abstractText": "Key ecosystem processes such as carbon and nutrient cycling could be deteriorating as a result of biodiversity loss. However, currently we lack the ability to predict the consequences of realistic species loss on ecosystem processes. The aim of this study was to test whether species contributions to community biomass can be used as surrogate measures of their contribution to ecosystem processes. These were gross community productivity in a salt marsh plant assemblage and an intertidal macroalgae assemblage; community clearance of microalgae in sessile suspension feeding invertebrate assemblage; and nutrient uptake in an intertidal macroalgae assemblage. We conducted a series of biodiversity manipulations that represented realistic species extinction sequences in each of the three contrasting assemblages. Species were removed in a subtractive fashion so that biomass was allowed to vary with each species removal, and key ecosystem processes were measured at each stage of community disassembly. The functional contribution of species was directly proportional to their contribution to community biomass in a 1∶1 ratio, a relationship that was consistent across three contrasting marine ecosystems and three ecosystem processes. This suggests that the biomass contributed by a species to an assemblage can be used to approximately predict the proportional decline in an ecosystem process when that species is lost. Such predictions represent “worst case scenarios” because, over time, extinction resilient species can offset the loss of biomass associated with the extinction of competitors. We also modelled a “best case scenario” that accounts for compensatory responses by the extant species with the highest per capita contribution to ecosystem processes. These worst and best case scenarios could be used to predict the minimum and maximum species required to sustain threshold values of ecosystem processes in the future.",
+      "docId": "PMC3233569",
+      "pmid": "22163297",
+      "pmcid": "3233569",
+      "authors": [
+        {
+          "firstname": "ThomasW.",
+          "lastname": "Davies"
+        },
+        {
+          "firstname": "StuartR.",
+          "lastname": "Jenkins"
+        },
+        {
+          "firstname": "Rachel",
+          "lastname": "Kingham"
+        },
+        {
+          "firstname": "Joseph",
+          "lastname": "Kenworthy"
+        },
+        {
+          "firstname": "StephenJ.",
+          "lastname": "Hawkins"
+        },
+        {
+          "firstname": "JanG.",
+          "lastname": "Hiddink"
+        },
+        {
+          "firstname": "TamaraNatasha",
+          "lastname": "Romanuk"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Does Presence of a Mid-Ocean Ridge Enhance Biomass and Biodiversity?",
+      "abstractText": "In contrast to generally sparse biological communities in open-ocean settings, seamounts and ridges are perceived as areas of elevated productivity and biodiversity capable of supporting commercial fisheries. We investigated the origin of this apparent biological enhancement over a segment of the North Mid-Atlantic Ridge (MAR) using sonar, corers, trawls, traps, and a remotely operated vehicle to survey habitat, biomass, and biodiversity. Satellite remote sensing provided information on flow patterns, thermal fronts, and primary production, while sediment traps measured export flux during 2007–2010. The MAR, 3,704,404 km2 in area, accounts for 44.7% lower bathyal habitat (800–3500 m depth) in the North Atlantic and is dominated by fine soft sediment substrate (95% of area) on a series of flat terraces with intervening slopes either side of the ridge axis contributing to habitat heterogeneity. The MAR fauna comprises mainly species known from continental margins with no evidence of greater biodiversity. Primary production and export flux over the MAR were not enhanced compared with a nearby reference station over the Porcupine Abyssal Plain. Biomasses of benthic macrofauna and megafauna were similar to global averages at the same depths totalling an estimated 258.9 kt C over the entire lower bathyal north MAR. A hypothetical flat plain at 3500 m depth in place of the MAR would contain 85.6 kt C, implying an increase of 173.3 kt C attributable to the presence of the Ridge. This is approximately equal to 167 kt C of estimated pelagic biomass displaced by the volume of the MAR. There is no enhancement of biological productivity over the MAR; oceanic bathypelagic species are replaced by benthic fauna otherwise unable to survive in the mid ocean. We propose that globally sea floor elevation has no effect on deep sea biomass; pelagic plus benthic biomass is constant within a given surface productivity regime.",
+      "docId": "PMC3642170",
+      "pmid": "23658696",
+      "pmcid": "3642170",
+      "authors": [
+        {
+          "firstname": "ImantsG.",
+          "lastname": "Priede"
+        },
+        {
+          "firstname": "OddAksel",
+          "lastname": "Bergstad"
+        },
+        {
+          "firstname": "PeterI.",
+          "lastname": "Miller"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Vecchione"
+        },
+        {
+          "firstname": "Andrey",
+          "lastname": "Gebruk"
+        },
+        {
+          "firstname": "Tone",
+          "lastname": "Falkenhaug"
+        },
+        {
+          "firstname": "DavidS.M.",
+          "lastname": "Billett"
+        },
+        {
+          "firstname": "Jessica",
+          "lastname": "Craig"
+        },
+        {
+          "firstname": "AndrewC.",
+          "lastname": "Dale"
+        },
+        {
+          "firstname": "MarkA.",
+          "lastname": "Shields"
+        },
+        {
+          "firstname": "GavinH.",
+          "lastname": "Tilstone"
+        },
+        {
+          "firstname": "TraceyT.",
+          "lastname": "Sutton"
+        },
+        {
+          "firstname": "AndrewJ.",
+          "lastname": "Gooday"
+        },
+        {
+          "firstname": "MarkE.",
+          "lastname": "Inall"
+        },
+        {
+          "firstname": "DanielO.B.",
+          "lastname": "Jones"
+        },
+        {
+          "firstname": "Victor",
+          "lastname": "Martinez-Vicente"
+        },
+        {
+          "firstname": "GuiM.",
+          "lastname": "Menezes"
+        },
+        {
+          "firstname": "Tomasz",
+          "lastname": "Niedzielski"
+        },
+        {
+          "firstname": "Þorsteinn",
+          "lastname": "Sigurðsson"
+        },
+        {
+          "firstname": "Nina",
+          "lastname": "Rothe"
+        },
+        {
+          "firstname": "Antonina",
+          "lastname": "Rogacheva"
+        },
+        {
+          "firstname": "ClaudiaH.S.",
+          "lastname": "Alt"
+        },
+        {
+          "firstname": "Timothy",
+          "lastname": "Brand"
+        },
+        {
+          "firstname": "Richard",
+          "lastname": "Abell"
+        },
+        {
+          "firstname": "AndrewS.",
+          "lastname": "Brierley"
+        },
+        {
+          "firstname": "NicolaJ.",
+          "lastname": "Cousins"
+        },
+        {
+          "firstname": "Deborah",
+          "lastname": "Crockard"
+        },
+        {
+          "firstname": "A.Rus",
+          "lastname": "Hoelzel"
+        },
+        {
+          "firstname": "Åge",
+          "lastname": "Høines"
+        },
+        {
+          "firstname": "TomB.",
+          "lastname": "Letessier"
+        },
+        {
+          "firstname": "JaneF.",
+          "lastname": "Read"
+        },
+        {
+          "firstname": "Tracy",
+          "lastname": "Shimmield"
+        },
+        {
+          "firstname": "MartinJ.",
+          "lastname": "Cox"
+        },
+        {
+          "firstname": "JohnK.",
+          "lastname": "Galbraith"
+        },
+        {
+          "firstname": "JohnD.M.",
+          "lastname": "Gordon"
+        },
+        {
+          "firstname": "Tammy",
+          "lastname": "Horton"
+        },
+        {
+          "firstname": "Francis",
+          "lastname": "Neat"
+        },
+        {
+          "firstname": "Pascal",
+          "lastname": "Lorance"
+        },
+        {
+          "firstname": "JohnMurray",
+          "lastname": "Roberts"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "To Float or Not to Float: How Interactions between Light and Dissolved Inorganic Carbon Species Determine the Buoyancy of Stratiotes aloides",
+      "abstractText": "Structural diversity formed by dense, floating Stratiotes aloides stands, generates hotspots of biodiversity of flora and fauna in wetlands. However, only part of the populations become emergent and provide this important facilitation. Since it has been hypothesised that its buoyancy depends on the rates of underwater photosynthesis, we investigated the role of dissolved CO2 availability and PAR on photosynthesis, biomass production and buoyancy in a controlled greenhouse experiment. Photosynthesis and growth were strongly influenced by both PAR and CO2 availability. At low PAR, plants formed less biomass and produced no emergent leaves, even when CO2 was abundant. At low CO2 levels, S. aloides switched to HCO3- use, resulting in a lower photosynthetic O2 production, decreased emergent leaf formation and increased CaCO3 precipitation on its leaves, all of which impaired buoyancy. At high PAR, low CO2 availability resulted in slower colonisation of the water layer, whereas CO2 availability did not influence PAR-limited plants. Our study shows that site conditions, rather than the sole abundance of potentially facilitating species, may strongly determine whether or not they form the structure necessary to act as a facilitator for biodiversity in aquatic environments.",
+      "docId": "PMC4409207",
+      "pmid": "25909504",
+      "pmcid": "4409207",
+      "authors": [
+        {
+          "firstname": "SarahF.",
+          "lastname": "Harpenslager"
+        },
+        {
+          "firstname": "AlfonsJ.P.",
+          "lastname": "Smolders"
+        },
+        {
+          "firstname": "AriëtA.M.",
+          "lastname": "Kieskamp"
+        },
+        {
+          "firstname": "JanG.M.",
+          "lastname": "Roelofs"
+        },
+        {
+          "firstname": "LeonP.M.",
+          "lastname": "Lamers"
+        },
+        {
+          "firstname": "Panagiotis",
+          "lastname": "Kalaitzis"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "An Insect Herbivore Microbiome with High Plant Biomass-Degrading Capacity",
+      "abstractText": "Herbivores can gain indirect access to recalcitrant carbon present in plant cell walls through symbiotic associations with lignocellulolytic microbes. A paradigmatic example is the leaf-cutter ant (Tribe: Attini), which uses fresh leaves to cultivate a fungus for food in specialized gardens. Using a combination of sugar composition analyses, metagenomics, and whole-genome sequencing, we reveal that the fungus garden microbiome of leaf-cutter ants is composed of a diverse community of bacteria with high plant biomass-degrading capacity. Comparison of this microbiome\u0027s predicted carbohydrate-degrading enzyme profile with other metagenomes shows closest similarity to the bovine rumen, indicating evolutionary convergence of plant biomass degrading potential between two important herbivorous animals. Genomic and physiological characterization of two dominant bacteria in the fungus garden microbiome provides evidence of their capacity to degrade cellulose. Given the recent interest in cellulosic biofuels, understanding how large-scale and rapid plant biomass degradation occurs in a highly evolved insect herbivore is of particular relevance for bioenergy. Author Summary Leaf-cutter ants form massive subterranean colonies containing millions of workers that harvest hundreds of kilograms of leaves each year. They use these leaves to grow a mutualistic fungus that serves as the colony\u0027s primary food source. By farming fungus in specialized garden chambers, these dominant Neotropical herbivores facilitate rapid large-scale plant biomass conversion. Our understanding of this degradation process, and the responsible microbial community, is limited. In this study, we track the degradation of plant polymers in leaf-cutter ant fungus gardens and characterize the microbial community potentially mediating this process. We show that cellulose and hemicelluloses are degraded in the fungus gardens and that a previously unknown microbial community containing a diversity of bacteria is present. Metagenomic analysis of this community\u0027s genetic content revealed many genes predicted to encode enzymes capable of degrading plant cell walls. The ability of leaf-cutter ants to maintain an external microbial community with high plant biomass-degrading capacity likely represents a key step in the establishment of these ants as widespread, dominant insect herbivores in the Neotropics. This system is an important model for understanding how microbial communities degrade plant biomass in natural systems and has direct relevancy for bioenergy, given recent interest in cellulosic biofuels.",
+      "docId": "PMC2944797",
+      "pmid": "20885794",
+      "pmcid": "2944797",
+      "authors": [
+        {
+          "firstname": "Garret",
+          "lastname": "Suen"
+        },
+        {
+          "firstname": "JarrodJ.",
+          "lastname": "Scott"
+        },
+        {
+          "firstname": "FrankO.",
+          "lastname": "Aylward"
+        },
+        {
+          "firstname": "SandraM.",
+          "lastname": "Adams"
+        },
+        {
+          "firstname": "SusannahG.",
+          "lastname": "Tringe"
+        },
+        {
+          "firstname": "AdriánA.",
+          "lastname": "Pinto-Tomás"
+        },
+        {
+          "firstname": "CliftonE.",
+          "lastname": "Foster"
+        },
+        {
+          "firstname": "Markus",
+          "lastname": "Pauly"
+        },
+        {
+          "firstname": "PaulJ.",
+          "lastname": "Weimer"
+        },
+        {
+          "firstname": "KerrieW.",
+          "lastname": "Barry"
+        },
+        {
+          "firstname": "LynneA.",
+          "lastname": "Goodwin"
+        },
+        {
+          "firstname": "Pascal",
+          "lastname": "Bouffard"
+        },
+        {
+          "firstname": "Lewyn",
+          "lastname": "Li"
+        },
+        {
+          "firstname": "Jolene",
+          "lastname": "Osterberger"
+        },
+        {
+          "firstname": "TimothyT.",
+          "lastname": "Harkins"
+        },
+        {
+          "firstname": "StevenC.",
+          "lastname": "Slater"
+        },
+        {
+          "firstname": "TimothyJ.",
+          "lastname": "Donohue"
+        },
+        {
+          "firstname": "CameronR.",
+          "lastname": "Currie"
+        },
+        {
+          "firstname": "Justin",
+          "lastname": "Sonnenburg"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Taking a closer look: disentangling effects of functional diversity on ecosystem functions with a trait-based model across hierarchy and time",
+      "abstractText": "Biodiversity and ecosystem functioning (BEF) research has progressed from the detection of relationships to elucidating their drivers and underlying mechanisms. In this context, replacing taxonomic predictors by trait-based measures of functional composition (FC)—bridging functions of species and of ecosystems—is a widely used approach. The inherent challenge of trait-based approaches is the multi-faceted, dynamic and hierarchical nature of trait influence: (i) traits may act via different facets of their distribution in a community, (ii) their influence may change over time and (iii) traits may influence processes at different levels of the natural hierarchy of organization. Here, we made use of the forest ecosystem model ‘LPJ-GUESS’ parametrized with empirical trait data, which creates output of individual performance, community assembly, stand-level states and processes. To address the three challenges, we resolved the dynamics of the top-level ecosystem function ‘annual biomass change’ hierarchically into its various component processes (growth, leaf and root turnover, recruitment and mortality) and states (stand structures, water stress) and traced the influence of different facets of FC along this hierarchy in a path analysis. We found an independent influence of functional richness, dissimilarity and identity on ecosystem states and processes and hence biomass change. Biodiversity effects were only positive during early succession and later turned negative. Unexpectedly, resource acquisition (growth, recruitment) and conservation (mortality, turnover) played an equally important role throughout the succession. These results add to a mechanistic understanding of biodiversity effects and place a caveat on simplistic approaches omitting hierarchical levels when analysing BEF relationships. They support the view that BEF relationships experience dramatic shifts over successional time that should be acknowledged in mechanistic theories.",
+      "docId": "PMC4448832",
+      "pmid": "26064620",
+      "pmcid": "4448832",
+      "authors": [
+        {
+          "firstname": "Frédéric",
+          "lastname": "Holzwarth"
+        },
+        {
+          "firstname": "Nadja",
+          "lastname": "Rüger"
+        },
+        {
+          "firstname": "Christian",
+          "lastname": "Wirth"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

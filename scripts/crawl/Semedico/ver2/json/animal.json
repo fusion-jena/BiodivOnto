@@ -1,0 +1,214 @@
+{
+  "inputstring": "animal biodiversity",
+  "tokens": [
+    "biodiversity",
+    "animal"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 73789,
+  "bibliographylist": [
+    {
+      "articleTitle": "Synchronization of APIIS based farm animal biodiversity systems",
+      "abstractText": "One of the major problems in the management of farm animal and biodiversity information is the exchange of data and keeping it up-to-date, an issue that      is very common with distributed information systems consisting of number of databases. This article describes the synchronization protocol developed in      APIIS (adaptable platform independent information system) framework and reviews the basic considerations required when building distributed information      system that has to exchange information in a network of APIIS based systems. The protocol is designed to synchronize a common part of different database      structures. It is developed without any intended use of proprietary database engine and can work with a variety of RDBMS (relational database management      system). The main targets of the protocol are animal biodiversity information systems without permanently connected nodes. The EFABIS (European farm      animal biodiversity information system) is reviewed as an example of the implementation. Availability The synchronization protocol is integrated as a part of the APIIS framework, which is freely available from the authors.",
+      "docId": "PMC1891683",
+      "pmid": "17597877",
+      "pmcid": "1891683",
+      "authors": [
+        {
+          "firstname": "Zhivko",
+          "lastname": "Duchev"
+        },
+        {
+          "firstname": "Eildert",
+          "lastname": "Groeneveld"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2006 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "A revision of Artemia biodiversity in Macaronesia",
+      "abstractText": "In a biogeographical context, the term Macaronesia broadly embraces the North Atlantic archipelagos of the Azores, Madeira, Selvagens, the Canary Islands, and Cape Verde. The peculiar arid climatic conditions in some of these places have led to the development of marine salt exploitations, which can be counted among the hypersaline habitats of the brine shrimp Artemia (Branchiopoda, Anostraca). Parthenogenetic populations of this anostracan were described in the Canary Islands during the last decades of the 20th century, while the American Artemia franciscana species was recently found in the Cape Verde archipelago. Following an invasive pattern, this exotic species has recently reached the Canary Islands, too. This paper reports information dealing with biotope loss (solar saltworks) in this biogeographical region, together with possible consequences concerning the arrival of invasive species, two factors that frequently promote dramatic biodiversity losses. The discussion of this threat focuses mainly on the Canary Islands archipelago where native species of Artemia still exist.",
+      "docId": "PMC3543279",
+      "pmid": "23075404",
+      "pmcid": "3543279",
+      "authors": [
+        {
+          "firstname": "Francisco",
+          "lastname": "Hontoria"
+        },
+        {
+          "firstname": "Stela",
+          "lastname": "Redón"
+        },
+        {
+          "firstname": "Marta",
+          "lastname": "Maccari"
+        },
+        {
+          "firstname": "Inmaculada",
+          "lastname": "Varó"
+        },
+        {
+          "firstname": "JuanCarlos",
+          "lastname": "Navarro"
+        },
+        {
+          "firstname": "Lluis",
+          "lastname": "Ballell"
+        },
+        {
+          "firstname": "Francisco",
+          "lastname": "Amat"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Reef Fishes in Biodiversity Hotspots Are at Greatest Risk from Loss of Coral Species",
+      "abstractText": "Coral reef ecosystems are under a variety of threats from global change and anthropogenic disturbances that are reducing the number and type of coral species on reefs. Coral reefs support upwards of one third of all marine species of fish, so the loss of coral habitat may have substantial consequences to local fish diversity. We posit that the effects of habitat degradation will be most severe in coral regions with highest biodiversity of fishes due to greater specialization by fishes for particular coral habitats. Our novel approach to this important but untested hypothesis was to conduct the same field experiment at three geographic locations across the Indo-Pacific biodiversity gradient (Papua New Guinea; Great Barrier Reef, Australia; French Polynesia). Specifically, we experimentally explored whether the response of local fish communities to identical changes in diversity of habitat-providing corals was independent of the size of the regional species pool of fishes. We found that the proportional reduction (sensitivity) in fish biodiversity to loss of coral diversity was greater for regions with larger background species pools, reflecting variation in the degree of habitat specialization of fishes across the Indo-Pacific diversity gradient. This result implies that habitat-associated fish in diversity hotspots are at greater risk of local extinction to a given loss of habitat diversity compared to regions with lower species richness. This mechanism, related to the positive relationship between habitat specialization and regional biodiversity, and the elevated extinction risk this poses for biodiversity hotspots, may apply to species in other types of ecosystems.",
+      "docId": "PMC4430502",
+      "pmid": "25970588",
+      "pmcid": "4430502",
+      "authors": [
+        {
+          "firstname": "SallyJ.",
+          "lastname": "Holbrook"
+        },
+        {
+          "firstname": "RussellJ.",
+          "lastname": "Schmitt"
+        },
+        {
+          "firstname": "Vanessa",
+          "lastname": "Messmer"
+        },
+        {
+          "firstname": "AndrewJ.",
+          "lastname": "Brooks"
+        },
+        {
+          "firstname": "Maya",
+          "lastname": "Srinivasan"
+        },
+        {
+          "firstname": "PhilipL.",
+          "lastname": "Munday"
+        },
+        {
+          "firstname": "GeoffreyP.",
+          "lastname": "Jones"
+        },
+        {
+          "firstname": "SebastianC.A.",
+          "lastname": "Ferse"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Biodiversity loss decreases parasite diversity: theory and patterns",
+      "abstractText": "Past models have suggested host–parasite coextinction could lead to linear, or concave down relationships between free-living species richness and parasite richness. I explored several models for the relationship between parasite richness and biodiversity loss. Life cycle complexity, low generality of parasites and sensitivity of hosts reduced the robustness of parasite species to the loss of free-living species diversity. Food-web complexity and the ordering of extinctions altered these relationships in unpredictable ways. Each disassembly of a food web resulted in a unique relationship between parasite richness and the richness of free-living species, because the extinction trajectory of parasites was sensitive to the order of extinctions of free-living species. However, the average of many disassemblies tended to approximate an analytical model. Parasites of specialist hosts and hosts higher on food chains were more likely to go extinct in food-web models. Furthermore, correlated extinctions between hosts and parasites (e.g. if parasites share a host with a specialist predator) led to steeper declines in parasite richness with biodiversity loss. In empirical food webs with random removals of free-living species, the relationship between free-living species richness and parasite richness was, on average, quasi-linear, suggesting biodiversity loss reduces parasite diversity more than previously thought.",
+      "docId": "PMC3427564",
+      "pmid": "22966137",
+      "pmcid": "3427564",
+      "authors": [
+        {
+          "firstname": "KevinD.",
+          "lastname": "Lafferty"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Increased Biodiversity in the Environment Improves the Humoral Response of Rats",
+      "abstractText": "Previous studies have compared the immune systems of wild and of laboratory rodents in an effort to determine how laboratory rodents differ from their naturally occurring relatives. This comparison serves as an indicator of what sorts of changes might exist between modern humans living in Western culture compared to our hunter-gatherer ancestors. However, immunological experiments on wild-caught animals are difficult and potentially confounded by increased levels of stress in the captive animals. In this study, the humoral immune responses of laboratory rats in a traditional laboratory environment and in an environment with enriched biodiversity were examined following immunization with a panel of antigens. Biodiversity enrichment included colonization of the laboratory animals with helminths and co-housing the laboratory animals with wild-caught rats. Increased biodiversity did not apparently affect the IgE response to peanut antigens following immunization with those antigens. However, animals housed in the enriched biodiversity setting demonstrated an increased mean humoral response to T-independent and T-dependent antigens and increased levels of “natural” antibodies directed at a xenogeneic protein and at an autologous tissue extract that were not used as immunogens.",
+      "docId": "PMC4390306",
+      "pmid": "25853852",
+      "pmcid": "4390306",
+      "authors": [
+        {
+          "firstname": "Cinthia",
+          "lastname": "Pi"
+        },
+        {
+          "firstname": "EmmaH.",
+          "lastname": "Allott"
+        },
+        {
+          "firstname": "Daniel",
+          "lastname": "Ren"
+        },
+        {
+          "firstname": "Susan",
+          "lastname": "Poulton"
+        },
+        {
+          "firstname": "S.Y.Ryan",
+          "lastname": "Lee"
+        },
+        {
+          "firstname": "Sarah",
+          "lastname": "Perkins"
+        },
+        {
+          "firstname": "MaryLou",
+          "lastname": "Everett"
+        },
+        {
+          "firstname": "ZoieE.",
+          "lastname": "Holzknecht"
+        },
+        {
+          "firstname": "ShuS.",
+          "lastname": "Lin"
+        },
+        {
+          "firstname": "William",
+          "lastname": "Parker"
+        },
+        {
+          "firstname": "Alash\u0027leG.",
+          "lastname": "Abimiku"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

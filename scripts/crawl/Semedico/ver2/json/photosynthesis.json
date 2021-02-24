@@ -1,0 +1,264 @@
+{
+  "inputstring": "photosynthesis biodiversity",
+  "tokens": [
+    "biodiversity",
+    "photosynthesis"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 1465,
+  "bibliographylist": [
+    {
+      "articleTitle": "To Float or Not to Float: How Interactions between Light and Dissolved Inorganic Carbon Species Determine the Buoyancy of Stratiotes aloides",
+      "abstractText": "Structural diversity formed by dense, floating Stratiotes aloides stands, generates hotspots of biodiversity of flora and fauna in wetlands. However, only part of the populations become emergent and provide this important facilitation. Since it has been hypothesised that its buoyancy depends on the rates of underwater photosynthesis, we investigated the role of dissolved CO2 availability and PAR on photosynthesis, biomass production and buoyancy in a controlled greenhouse experiment. Photosynthesis and growth were strongly influenced by both PAR and CO2 availability. At low PAR, plants formed less biomass and produced no emergent leaves, even when CO2 was abundant. At low CO2 levels, S. aloides switched to HCO3- use, resulting in a lower photosynthetic O2 production, decreased emergent leaf formation and increased CaCO3 precipitation on its leaves, all of which impaired buoyancy. At high PAR, low CO2 availability resulted in slower colonisation of the water layer, whereas CO2 availability did not influence PAR-limited plants. Our study shows that site conditions, rather than the sole abundance of potentially facilitating species, may strongly determine whether or not they form the structure necessary to act as a facilitator for biodiversity in aquatic environments.",
+      "docId": "PMC4409207",
+      "pmid": "25909504",
+      "pmcid": "4409207",
+      "authors": [
+        {
+          "firstname": "SarahF.",
+          "lastname": "Harpenslager"
+        },
+        {
+          "firstname": "AlfonsJ.P.",
+          "lastname": "Smolders"
+        },
+        {
+          "firstname": "AriëtA.M.",
+          "lastname": "Kieskamp"
+        },
+        {
+          "firstname": "JanG.M.",
+          "lastname": "Roelofs"
+        },
+        {
+          "firstname": "LeonP.M.",
+          "lastname": "Lamers"
+        },
+        {
+          "firstname": "Panagiotis",
+          "lastname": "Kalaitzis"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Phototrophic Fe(II)-oxidation in the chemocline of a ferruginous meromictic lake",
+      "abstractText": "Precambrian Banded Iron Formation (BIF) deposition was conventionally attributed to the precipitation of iron-oxides resulting from the abiotic reaction of ferrous iron (Fe(II)) with photosynthetically produced oxygen. Earliest traces of oxygen date from 2.7 Ga, thus raising questions as to what may have caused BIF precipitation before oxygenic photosynthesis evolved. The discovery of anoxygenic phototrophic bacteria thriving through the oxidation of Fe(II) has provided support for a biological origin for some BIFs, but despite reports suggesting that anoxygenic phototrophs may oxidize Fe(II) in the environment, a model ecosystem of an ancient ocean where they are demonstrably active was lacking. Here we show that anoxygenic phototrophic bacteria contribute to Fe(II) oxidation in the water column of the ferruginous sulfate-poor, meromictic lake La Cruz (Spain). We observed in-situ photoferrotrophic activity through stimulation of phototrophic carbon uptake in the presence of Fe(II), and determined light-dependent Fe(II)-oxidation by the natural chemocline microbiota. Moreover, a photoferrotrophic bacterium most closely related to Chlorobium ferrooxidans was enriched from the ferruginous water column. Our study for the first time demonstrates a direct link between anoxygenic photoferrotrophy and the anoxic precipitation of Fe(III)-oxides in a ferruginous water column, providing a plausible mechanism for the bacterial origin of BIFs before the advent of free oxygen. However, photoferrotrophs represent only a minor fraction of the anoxygenic phototrophic community with the majority apparently thriving by sulfur cycling, despite the very low sulfur content in the ferruginous chemocline of Lake La Cruz.",
+      "docId": "PMC4258642",
+      "pmid": "25538702",
+      "pmcid": "4258642",
+      "authors": [
+        {
+          "firstname": "XavierA.",
+          "lastname": "Walter"
+        },
+        {
+          "firstname": "Antonio",
+          "lastname": "Picazo"
+        },
+        {
+          "firstname": "MariaR.",
+          "lastname": "Miracle"
+        },
+        {
+          "firstname": "Eduardo",
+          "lastname": "Vicente"
+        },
+        {
+          "firstname": "Antonio",
+          "lastname": "Camacho"
+        },
+        {
+          "firstname": "Michel",
+          "lastname": "Aragno"
+        },
+        {
+          "firstname": "Jakob",
+          "lastname": "Zopfi"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Cold-acclimation limits low temperature induced photoinhibition by promoting a higher photochemical quantum yield and a more effective PSII restoration in darkness in the Antarctic rather than the Andean ecotype of Colobanthus quitensis Kunt Bartl (Cariophyllaceae)",
+      "abstractText": "Background Ecotypes of Colobanthus quitensis Kunt Bartl (Cariophyllaceae) from Andes Mountains and Maritime Antarctic grow under contrasting photoinhibitory conditions, reaching differential cold tolerance upon cold acclimation. Photoinhibition depends on the extent of photodamage and recovery capability. We propose that cold acclimation increases resistance to low-temperature-induced photoinhibition, limiting photodamage and promoting recovery under cold. Therefore, the Antarctic ecotype (cold hardiest) should be less photoinhibited and have better recovery from low-temperature-induced photoinhibition than the Andean ecotype. Both ecotypes were exposed to cold induced photoinhibitory treatment (PhT). Photoinhibition and recovery of photosystem II (PSII) was followed by fluorescence, CO2 exchange, and immunoblotting analyses. Results The same reduction (25%) in maximum PSII efficiency (Fv/Fm) was observed in both cold-acclimated (CA) and non-acclimated (NA) plants under PhT. A full recovery was observed in CA plants of both ecotypes under dark conditions, but CA Antarctic plants recover faster than the Andean ecotype. Under PhT, CA plants maintain their quantum yield of PSII, while NA plants reduced it strongly (50% and 73% for Andean and Antarctic plants respectively). Cold acclimation induced the maintenance of PsaA and Cyt b6/f and reduced a 41% the excitation pressure in Antarctic plants, exhibiting the lowest level under PhT. xCold acclimation decreased significantly NPQs in both ecotypes, and reduced chlorophylls and D1 degradation in Andean plants under PhT. NA and CA plants were able to fully restore their normal photosynthesis, while CA Antarctic plants reached 50% higher photosynthetic rates after recovery, which was associated to electron fluxes maintenance under photoinhibitory conditions. Conclusions Cold acclimation has a greater importance on the recovery process than on limiting photodamage. Cold acclimation determined the kinetic and extent of recovery process under darkness in both C. quitensis ecotypes. The greater recovery of PSII at low temperature in the Antarctic ecotype was related with its ability to maintain PsaA, Cyt b6/f and D1 protein after photoinhibitory conditions. This is probably due to either a higher stability of these polypeptides or to the maintenance of their turnover upon cold acclimation. In both cases, it is associated to the maintenance of electron drainage from the intersystem pool, which maintains QA more oxidized and may allow the synthesis of ATP and NADPH necessaries for the regeneration of ribulose 1,5-bisphosphate in the Calvin Cycle. This could be a key factor for C. quitensis success under the harsh conditions and the short growing period in the Maritime Antarctic.",
+      "docId": "PMC3490872",
+      "pmid": "22827966",
+      "pmcid": "3490872",
+      "authors": [
+        {
+          "firstname": "Luisa",
+          "lastname": "Bascuñán-Godoy"
+        },
+        {
+          "firstname": "Carolina",
+          "lastname": "Sanhueza"
+        },
+        {
+          "firstname": "Marely",
+          "lastname": "Cuba"
+        },
+        {
+          "firstname": "GustavoE",
+          "lastname": "Zuñiga"
+        },
+        {
+          "firstname": "LuisJ",
+          "lastname": "Corcuera"
+        },
+        {
+          "firstname": "LeónA",
+          "lastname": "Bravo"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Phenotypic differences determine drought stress responses in ecotypes of Arundo donax adapted to different environments.",
+      "abstractText": "Arundo donax has been identified as an important biomass and biofuel crop. Yet, there has been little research on photosynthetic and metabolic traits, which sustain the high productivity of A. donax under drought conditions. This study determined phenotypic differences between two A. donax ecotypes coming from stands with contrasting adaptation to dry climate. We hypothesized that the Bulgarian (BG) ecotype, adapted to drier conditions, exhibits greater drought tolerance than the Italian (IT) ecotype, adapted to a more mesic environment. Under well-watered conditions the BG ecotype was characterized by higher photosynthesis, mesophyll conductance, intrinsic water use efficiency, PSII efficiency, isoprene emission rate and carotenoids, whereas the IT ecotype showed higher levels of hydroxycinnamates. Photosynthesis of water-stressed plants was mainly limited by diffusional resistance to CO2 in BG, and by biochemistry in IT. Recovery of photosynthesis was more rapid and complete in BG than in IT, which may indicate better stability of the photosynthetic apparatus associated to enhanced induction of volatile and non-volatile isoprenoids and phenylpropanoid biosynthesis. This study shows that a large phenotypic plasticity among A. donax ecotypes exists, and may be exploited to compensate for the low genetic variability of this species when selecting plant productivity in constrained environments.",
+      "docId": "28449129",
+      "pmid": "28449129",
+      "authors": [
+        {
+          "firstname": "Mastaneh",
+          "lastname": "Ahrar",
+          "affiliation": "Institute of Ecology, University of Innsbruck, Innsbruck, Austria."
+        },
+        {
+          "firstname": "Dilyana",
+          "lastname": "Doneva",
+          "affiliation": "Institute of Plant Physiology and Genetics, Bulgarian Academy of Sciences, Sofia, Bulgaria."
+        },
+        {
+          "firstname": "Massimiliano",
+          "lastname": "Tattini",
+          "affiliation": "The National Research Council of Italy (CNR), Institute for Sustainable Plant Protection, Sesto Fiorentino, Florence, Italy."
+        },
+        {
+          "firstname": "Cecilia",
+          "lastname": "Brunetti",
+          "affiliation": "Department of Plant, Soil and Environmental Sciences, University of Florence, Florence, Italy."
+        },
+        {
+          "firstname": "Antonella",
+          "lastname": "Gori",
+          "affiliation": "Department of Agri-Food Production and Environmental Sciences, University of Florence, Florence, Italy."
+        },
+        {
+          "firstname": "Mirco",
+          "lastname": "Rodeghiero",
+          "affiliation": "Department of Sustainable Agro-Ecosystems and Bioresources, Research and Innovation Centre, Fondazione Edmund Mach, S. Michele all\u0027Adige, Trento, Italy."
+        },
+        {
+          "firstname": "Georg",
+          "lastname": "Wohlfahrt",
+          "affiliation": "Institute of Ecology, University of Innsbruck, Innsbruck, Austria."
+        },
+        {
+          "firstname": "Franco",
+          "lastname": "Biasioli",
+          "affiliation": "Department of Food Quality and Nutrition, Volatile Compound Facility, Research and Innovation Centre, Fondazione Edmund Mach, S. Michele all\u0027Adige, Trento, Italy."
+        },
+        {
+          "firstname": "Claudio",
+          "lastname": "Varotto",
+          "affiliation": "Department of Biodiversity and Molecular Ecology, Research and Innovation Centre, Fondazione Edmund Mach, S. Michele all\u0027Adige, Trento, Italy."
+        },
+        {
+          "firstname": "Francesco",
+          "lastname": "Loreto",
+          "affiliation": "The National Research Council of Italy (CNR), Department of Biology, Agriculture and Food Science, Rome, Italy."
+        },
+        {
+          "firstname": "Violeta",
+          "lastname": "Velikova",
+          "affiliation": "Institute of Plant Physiology and Genetics, Bulgarian Academy of Sciences, Sofia, Bulgaria."
+        }
+      ],
+      "publication": {
+        "title": "Journal of experimental botany",
+        "volume": "68",
+        "issue": "9",
+        "pages": "2439-2451",
+        "date": "Jan 1, 2017 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    },
+    {
+      "articleTitle": "Current Status and Future Prospects for the Assessment of Marine and Coastal Ecosystem Services: A Systematic Review",
+      "abstractText": "Background Research on ecosystem services has grown exponentially during the last decade. Most of the studies have focused on assessing and mapping terrestrial ecosystem services highlighting a knowledge gap on marine and coastal ecosystem services (MCES) and an urgent need to assess them. Methodology/Principal Findings We reviewed and summarized existing scientific literature related to MCES with the aim of extracting and classifying indicators used to assess and map them. We found 145 papers that specifically assessed marine and coastal ecosystem services from which we extracted 476 indicators. Food provision, in particular fisheries, was the most extensively analyzed MCES while water purification and coastal protection were the most frequently studied regulating and maintenance services. Also recreation and tourism under the cultural services was relatively well assessed. We highlight knowledge gaps regarding the availability of indicators that measure the capacity, flow or benefit derived from each ecosystem service. The majority of the case studies was found in mangroves and coastal wetlands and was mainly concentrated in Europe and North America. Our systematic review highlighted the need of an improved ecosystem service classification for marine and coastal systems, which is herein proposed with definitions and links to previous classifications. Conclusions/Significance This review summarizes the state of available information related to ecosystem services associated with marine and coastal ecosystems. The cataloging of MCES indicators and the integrated classification of MCES provided in this paper establish a background that can facilitate the planning and integration of future assessments. The final goal is to establish a consistent structure and populate it with information able to support the implementation of biodiversity conservation policies.",
+      "docId": "PMC3701056",
+      "pmid": "23844080",
+      "pmcid": "3701056",
+      "authors": [
+        {
+          "firstname": "Camino",
+          "lastname": "Liquete"
+        },
+        {
+          "firstname": "Chiara",
+          "lastname": "Piroddi"
+        },
+        {
+          "firstname": "EvangeliaG.",
+          "lastname": "Drakou"
+        },
+        {
+          "firstname": "Leigh",
+          "lastname": "Gurney"
+        },
+        {
+          "firstname": "Stelios",
+          "lastname": "Katsanevakis"
+        },
+        {
+          "firstname": "Aymen",
+          "lastname": "Charef"
+        },
+        {
+          "firstname": "Benis",
+          "lastname": "Egoh"
+        },
+        {
+          "firstname": "StevenJ.",
+          "lastname": "Bograd"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

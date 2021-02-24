@@ -1,0 +1,129 @@
+Neutral theory and the species abundance distribution: recent developments and prospects for unifying niche and neutral perspectives
+
+Published in 2001, The Unified Neutral Theory of Biodiversity and Biogeography (UNTB) emphasizes the
+importance of stochastic processes in ecological community structure, and has challenged the
+traditional niche-based view of ecology. While neutral models have since been applied to a broad
+range of ecological and macroecological phenomena, the majority of research relating to neutral
+theory has focused exclusively on the species abundance distribution (SAD). Here, we synthesize the
+large body of work on neutral theory in the context of the species abundance distribution, with a
+particular focus on integrating ideas from neutral theory with traditional niche theory. First, we
+summarize the basic tenets of neutral theory; both in general and in the context of SADs. Second, we
+explore the issues associated with neutral theory and the SAD, such as complications with fitting
+and model comparison, the underlying assumptions of neutral models, and the difficultly of linking
+pattern to process. Third, we highlight the advances in understanding of SADs that have resulted
+from neutral theory and models. Finally, we focus consideration on recent developments aimed at
+unifying neutral- and niche-based approaches to ecology, with a particular emphasis on what this
+means for SAD theory, embracing, for instance, ideas of emergent neutrality and stochastic niche
+theory. We put forward the argument that the prospect of the unification of niche and neutral
+perspectives represents one of the most promising future avenues of neutral theory research.
+
+
+
+The effects of weather on fungal abundance and richness among 25 communities in the Intermountain West
+
+Background Because moisture and temperature influence the growth of fungi, characterizing weather
+conditions favorable for fungi may be used to predict the abundance and richness of fungi in
+habitats with different climate conditions. To estimate habitat favorability to fungi, we examined
+the relationship of fungal abundance and species richness to various weather and environmental
+parameters in the Intermountain West. We cultured fungi from air and leaf surfaces, and collected
+continuous temperature and relative humidity measures over the growing season at 25 sites. Results
+Fungal richness was positively correlated with fungal abundance (r = 0.75). Measures of moisture
+availability, such as relative humidity and vapor pressure deficit, explained more of the variance
+in fungal abundance and richness than did temperature. Climate measurements from nearby weather
+stations were good predictors of fungal abundance and richness but not as good as weather
+measurements obtained in the field. Weather variables that took into account the proportion of time
+habitats experienced favorable or unfavorable relative humidity and temperatures were the best
+predictors, explaining up to 56% of the variation in fungal abundance and 72% for fungal richness.
+Conclusion Our results suggest that the abundance and richness of fungi in a habitat is limited by
+the duration of unfavorable weather conditions. Because fungal pathogens likely have similar abiotic
+requirements for growth as other fungi, characterizing weather conditions favorable for fungi also
+may be used to predict the selective pressures imposed by pathogenic fungi on plants in different
+habitats.
+
+
+
+Identifying the candidate genes involved in the calyx abscission process of 'Kuerlexiangli’ (Pyrus sinkiangensis Yu) by digital transcript abundance measurements
+
+Background 'Kuerlexiangli’ (Pyrus sinkiangensis Yu), a native pear of Xinjiang, China, is an
+important agricultural fruit and primary export to the international market. However, fruit with
+persistent calyxes affect fruit shape and quality. Although several studies have looked into the
+physiological aspects of the calyx abscission process, the underlying molecular mechanisms remain
+unknown. In order to better understand the molecular basis of the process of calyx abscission,
+materials at three critical stages of regulation, with 6000 × Flusilazole plus 300 × PBO treatment
+(calyx abscising treatment) and 50 mg.L-1GA3 treatment (calyx persisting treatment), were collected
+and cDNA fragments were sequenced using digital transcript abundance measurements to identify
+candidate genes. Results Digital transcript abundance measurements was performed using high-
+throughput Illumina GAII sequencing on seven samples that were collected at three important stages
+of the calyx abscission process with chemical agent treatments promoting calyx abscission and
+persistence. Altogether more than 251,123,845 high quality reads were obtained with approximately
+8.0 M raw data for each library. The values of 69.85%-71.90% of clean data in the digital transcript
+abundance measurements could be mapped to the pear genome database. There were 12,054 differentially
+expressed genes having Gene Ontology (GO) terms and associating with 251 Kyoto Encyclopedia of Genes
+and Genomes (KEGG) defined pathways. The differentially expressed genes correlated with calyx
+abscission were mainly involved in photosynthesis, plant hormone signal transduction, cell wall
+modification, transcriptional regulation, and carbohydrate metabolism. Furthermore, candidate calyx
+abscission-specific genes, e.g. Inflorescence deficient in abscission gene, were identified.
+Quantitative real-time PCR was used to confirm the digital transcript abundance measurements
+results. Conclusions We identified candidate genes that showed highly dynamic changes in expression
+during the calyx abscission process. These genes are potential targets for future functional
+characterization and should be valuable for exploration of the mechanisms of calyx abscission, and
+eventually for developing methods based on small molecule application to induce calyx abscission in
+fruit production. Electronic supplementary material The online version of this article
+(doi:10.1186/1471-2164-14-727) contains supplementary material, which is available to authorized
+users.
+
+
+
+Quantification of fungal abundance on cultural heritage using real time PCR targeting the β-actin gene
+
+The traditional methodology used for the identification of microbes colonizing our cultural heritage
+was the application of cultivation methods and/or microscopy. This approach has many advantages, as
+living microorganisms may be obtained for physiological investigations. In addition, these
+techniques allow the quantitative and qualitative assessment of the investigated environment.
+Quantitative analyses are done by plate count and the determination of abundance by the colony
+forming unit (CFU). Nevertheless, these techniques have many drawbacks that lead to an
+underestimation of the cell numbers and do not provide a comprehensive overview of the composition
+of the inhabiting microbiota. In the last decades, several molecular techniques have been developed
+enabling many advantages over the cultivation approach. Mainly PCR-based, fingerprinting techniques
+allow a qualitative detection and identification of the microbiota. In this study, we developed a
+real time PCR method as a simple, rapid and reliable tool to detect and quantify fungal abundance
+using the β-actin gene, which is known to appear as a single-copy gene in fungi. To this end, five
+different indoor thermal insulation materials applied for historical buildings that were previously
+tested for their bio-susceptibility against various fungi were subjected to qPCR analyses. The
+obtained results were compared with those obtained from a previous study investigating the bio-
+susceptibility of the insulation materials using classical cultivation experiments. Both results
+correlated well, revealing that Perlite plaster was the most suitable insulation material, showing
+the lowest fungal CFU and qPCR values. In contrast, insulations made of wood showed to be not
+recommendable from the microbiological point of view. In addition, the potential of qPCR was tested
+in other materials of cultural heritage, as old parchments, showing to be a suitable method for
+measuring fungal abundance in these delicate materials.
+
+
+
+Spatio-temporal analysis of abundances of three malaria vector species in southern Benin using zero-truncated models
+
+Background A better understanding of the ecology and spatial-temporal distribution of malaria
+vectors is essential to design more effective and sustainable strategies for malaria control and
+elimination. In a previous study, we analyzed presence-absence data of An. funestus, An. coluzzii,
+and An. gambiae s.s. in an area of southern Benin with high coverage of vector control measures.
+Here, we further extend the work by analysing the positive values of the dataset to assess the
+determinants of the abundance of these three vectors and to produce predictive maps of vector
+abundance. Methods Positive counts of the three vectors were assessed using negative-binomial zero-
+truncated (NBZT) mixed-effect models according to vector control measures and environmental
+covariates derived from field and remote sensing data. After 8-fold cross-validation of the models,
+predictive maps of abundance of the sympatric An. funestus, An. coluzzii, and An. gambiae s.s. were
+produced. Results Cross-validation of the NBZT models showed a satisfactory predictive accuracy.
+Almost all changes in abundance between two surveys in the same village were well predicted by the
+models but abundances for An. gambiae s.s. were slightly underestimated. During the dry season,
+predictive maps showed that abundance greater than 1 bite per person per night were observed only
+for An. funestus and An. coluzzii. During the rainy season, we observed both increase and decrease
+in abundance of An. funestus, which are dependent on the ecological setting. Abundances of both An.
+coluzzii and An. gambiae s.s. increased during the rainy season but not in the same areas.
+Conclusions Our models helped characterize the ecological preferences of three major African malaria
+vectors. This works highlighted the importance to study independently the binomial and the zero-
+truncated count processes when evaluating vector control strategies. The study of the bio-ecology of
+malaria vector species in time and space is critical for the implementation of timely and efficient
+vector control strategies.
+
+
+

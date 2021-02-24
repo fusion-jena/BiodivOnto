@@ -1,0 +1,375 @@
+{
+  "inputstring": "soil biodiversity",
+  "tokens": [
+    "biodiversity",
+    "soil"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 8790,
+  "bibliographylist": [
+    {
+      "articleTitle": "Arsenic Metabolism by Human Gut Microbiota upon in Vitro Digestion of Contaminated Soils",
+      "abstractText": "Background Speciation analysis is essential when evaluating risks from arsenic (As) exposure. In an oral exposure scenario, the importance of presystemic metabolism by gut microorganisms has been evidenced with in vivo animal models and in vitro experiments with animal microbiota. However, it is unclear whether human microbiota display similar As metabolism, especially when present in a contaminated matrix. Objectives We evaluated the metabolic potency of in vitro cultured human colon microbiota toward inorganic As (iAs) and As-contaminated soils. Methods A colon microbial community was cultured in a dynamic model of the human gut. These colon microbiota were incubated with iAs and with As-contaminated urban soils. We determined As speciation analysis using high-performance liquid chromatography coupled with inductively coupled plasma mass spectrometry. Results We found a high degree of methylation for colon digests both of iAs (10 μg methylarsenical/g biomass/hr) and of As-contaminated soils (up to 28 μg/g biomass/hr). Besides the formation of monomethylarsonic acid (MMAV), we detected the highly toxic monomethylarsonous acid (MMAIII). Moreover, this is the first description of microbial thiolation leading to monomethylmonothioarsonic acid (MMMTAV). MMMTAV, the toxicokinetic properties of which are not well known, was in many cases a major metabolite. Conclusions Presystemic As metabolism is a significant process in the human body. Toxicokinetic studies aiming to completely elucidate the As metabolic pathway would therefore benefit from incorporating the metabolic potency of human gut microbiota. This will result in more accurate risk characterization associated with As exposures.",
+      "docId": "PMC2920899",
+      "pmid": "20603239",
+      "pmcid": "2920899",
+      "authors": [
+        {
+          "firstname": "Tom",
+          "lastname": "Van de Wiele"
+        },
+        {
+          "firstname": "ChristinaM.",
+          "lastname": "Gallawa"
+        },
+        {
+          "firstname": "KevinM.",
+          "lastname": "Kubachk"
+        },
+        {
+          "firstname": "JohnT.",
+          "lastname": "Creed"
+        },
+        {
+          "firstname": "Nicholas",
+          "lastname": "Basta"
+        },
+        {
+          "firstname": "ElizabethA.",
+          "lastname": "Dayton"
+        },
+        {
+          "firstname": "Shane",
+          "lastname": "Whitacre"
+        },
+        {
+          "firstname": "GijsDu",
+          "lastname": "Laing"
+        },
+        {
+          "firstname": "Karen",
+          "lastname": "Bradham"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Liming impacts on soils, crops and biodiversity in the UK: A review.",
+      "abstractText": "Fertile soil is fundamental to our ability to achieve food security, but problems with soil degradation (such as acidification) are exacerbated by poor management. Consequently, there is a need to better understand management approaches that deliver multiple ecosystem services from agricultural land. There is global interest in sustainable soil management including the re-evaluation of existing management practices. Liming is a long established practice to ameliorate acidic soils and many liming-induced changes are well understood. For instance, short-term liming impacts are detected on soil biota and in soil biological processes (such as in N cycling where liming can increase N availability for plant uptake). The impacts of liming on soil carbon storage are variable and strongly relate to soil type, land use, climate and multiple management factors. Liming influences all elements in soils and as such there are numerous simultaneous changes to soil processes which in turn affect the plant nutrient uptake; two examples of positive impact for crops are increased P availability and decreased uptake of toxic heavy metals. Soil physical conditions are at least maintained or improved by liming, but the time taken to detect change varies significantly. Arable crops differ in their sensitivity to soil pH and for most crops there is a positive yield response. Liming also introduces implications for the development of different crop diseases and liming management is adjusted according to crop type within a given rotation. Repeated lime applications tend to improve grassland biomass production, although grassland response is variable and indirect as it relates to changes in nutrient availability. Other indicators of liming response in grassland are detected in mineral content and herbage quality which have implications for livestock-based production systems. Ecological studies have shown positive impacts of liming on biodiversity; such as increased earthworm abundance that provides habitat for wading birds in upland grasslands. Finally, understanding of liming impacts on soil and crop processes are explored together with functional aspects (in terms of ecosystems services) in a new qualitative framework that includes consideration of how liming impacts change with time. This holistic approach provides insights into the far-reaching impacts that liming has on ecosystems and the potential for liming to enhance the multiple benefits from agriculturally managed land. Recommendations are given for future research on the impact of liming and the implications for ecosystem services.",
+      "docId": "28806549",
+      "pmid": "28806549",
+      "authors": [
+        {
+          "firstname": "JE",
+          "lastname": "Holland",
+          "affiliation": "The James Hutton Institute, Invergowrie, Dundee DD2 5DA, UK. Electronic address: Jonathan.holland@hutton.ac.uk."
+        },
+        {
+          "firstname": "AE",
+          "lastname": "Bennett",
+          "affiliation": "The James Hutton Institute, Invergowrie, Dundee DD2 5DA, UK."
+        },
+        {
+          "firstname": "AC",
+          "lastname": "Newton",
+          "affiliation": "The James Hutton Institute, Invergowrie, Dundee DD2 5DA, UK."
+        },
+        {
+          "firstname": "PJ",
+          "lastname": "White",
+          "affiliation": "The James Hutton Institute, Invergowrie, Dundee DD2 5DA, UK."
+        },
+        {
+          "firstname": "BM",
+          "lastname": "McKenzie",
+          "affiliation": "The James Hutton Institute, Invergowrie, Dundee DD2 5DA, UK."
+        },
+        {
+          "firstname": "TS",
+          "lastname": "George",
+          "affiliation": "The James Hutton Institute, Invergowrie, Dundee DD2 5DA, UK."
+        },
+        {
+          "firstname": "RJ",
+          "lastname": "Pakeman",
+          "affiliation": "The James Hutton Institute, Craigiebuckler, Aberdeen AB15 8QH, UK."
+        },
+        {
+          "firstname": "JS",
+          "lastname": "Bailey",
+          "affiliation": "Agri-Food and Biosciences Institute, Newforge Lane, Belfast BT9 5PX, UK."
+        },
+        {
+          "firstname": "DA",
+          "lastname": "Fornara",
+          "affiliation": "Agri-Food and Biosciences Institute, Newforge Lane, Belfast BT9 5PX, UK."
+        },
+        {
+          "firstname": "RC",
+          "lastname": "Hayes",
+          "affiliation": "New South Wales Department of Primary Industries, Wagga Wagga Agricultural Institute, Pine Gully Road, Wagga Wagga, NSW 2650, Australia."
+        }
+      ],
+      "publication": {
+        "title": "The Science of the total environment",
+        "volume": "610-611",
+        "pages": "316-332",
+        "date": "Jan 1, 2018 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    },
+    {
+      "articleTitle": "Microbiota Characterization of Compost Using Omics Approaches Opens New Perspectives for Phytophthora Root Rot Control.",
+      "abstractText": "Phytophthora root rot caused by Phytophthora nicotianae is an economically important disease in pepper crops. The use of suppressive composts is a low environmental impact method for its control. Although attempts have been made to reveal the relationship between microbiota and compost suppressiveness, little is known about the microorganisms associated with disease suppression. Here, an Ion Torrent platform was used to assess the microbial composition of composts made of different agro-industrial waste and with different levels of suppressiveness against P. nicotianae. Both bacterial and fungal populations responded differently depending on the chemical heterogeneity of materials used during the composting process. High proportions (67-75%) of vineyard pruning waste were used in the most suppressive composts, COM-A and COM-B. This material may have promoted the presence of higher relative abundance of Ascomycota as well as higher microbial activity, which have proved to be essential for controlling the disease. Although no unique fungi or bacteria have been detected in neither suppressive nor conducive composts, relatively high abundance of Fusarium and Zopfiella were found in compost COM-B and COM-A, respectively. To the best of our knowledge, this is the first work that studies compost metabolome. Surprisingly, composts and peat clustered together in principal component analysis of the metabolic data according to their levels of suppressiveness achieved. This study demonstrated the need for combining the information provided by different techniques, including metagenomics and metametabolomics, to better understand the ability of compost to control plant diseases. ",
+      "docId": "27490955",
+      "pmid": "27490955",
+      "pmcid": "4973912",
+      "authors": [
+        {
+          "firstname": "Josefa",
+          "lastname": "Blaya",
+          "affiliation": "Department of Soil and Water Conservation and Organic Wastes Management, Centro de Edafología y Biología Aplicada del Segura (CEBAS-CSIC), Murcia, Spain."
+        },
+        {
+          "firstname": "FrutosC",
+          "lastname": "Marhuenda",
+          "affiliation": "Department of Agrochemistry and Biochemistry. University of Alicante, Alicante, Spain."
+        },
+        {
+          "firstname": "JoseA",
+          "lastname": "Pascual",
+          "affiliation": "Department of Soil and Water Conservation and Organic Wastes Management, Centro de Edafología y Biología Aplicada del Segura (CEBAS-CSIC), Murcia, Spain."
+        },
+        {
+          "firstname": "Margarita",
+          "lastname": "Ros",
+          "affiliation": "Department of Soil and Water Conservation and Organic Wastes Management, Centro de Edafología y Biología Aplicada del Segura (CEBAS-CSIC), Murcia, Spain."
+        }
+      ],
+      "publication": {
+        "title": "PloS one",
+        "volume": "11",
+        "issue": "8",
+        "pages": "e0158048",
+        "date": "Jan 1, 2016 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    },
+    {
+      "articleTitle": "General Relationships between Abiotic Soil Properties and Soil Biota across Spatial Scales and Different Land-Use Types",
+      "abstractText": "Very few principles have been unraveled that explain the relationship between soil properties and soil biota across large spatial scales and different land-use types. Here, we seek these general relationships using data from 52 differently managed grassland and forest soils in three study regions spanning a latitudinal gradient in Germany. We hypothesize that, after extraction of variation that is explained by location and land-use type, soil properties still explain significant proportions of variation in the abundance and diversity of soil biota. If the relationships between predictors and soil organisms were analyzed individually for each predictor group, soil properties explained the highest amount of variation in soil biota abundance and diversity, followed by land-use type and sampling location. After extraction of variation that originated from location or land-use, abiotic soil properties explained significant amounts of variation in fungal, meso- and macrofauna, but not in yeast or bacterial biomass or diversity. Nitrate or nitrogen concentration and fungal biomass were positively related, but nitrate concentration was negatively related to the abundances of Collembola and mites and to the myriapod species richness across a range of forest and grassland soils. The species richness of earthworms was positively correlated with clay content of soils independent of sample location and land-use type. Our study indicates that after accounting for heterogeneity resulting from large scale differences among sampling locations and land-use types, soil properties still explain significant proportions of variation in fungal and soil fauna abundance or diversity. However, soil biota was also related to processes that act at larger spatial scales and bacteria or soil yeasts only showed weak relationships to soil properties. We therefore argue that more general relationships between soil properties and soil biota can only be derived from future studies that consider larger spatial scales and different land-use types.",
+      "docId": "PMC3425568",
+      "pmid": "22937029",
+      "pmcid": "3425568",
+      "authors": [
+        {
+          "firstname": "Klaus",
+          "lastname": "Birkhofer"
+        },
+        {
+          "firstname": "Ingo",
+          "lastname": "Schöning"
+        },
+        {
+          "firstname": "Fabian",
+          "lastname": "Alt"
+        },
+        {
+          "firstname": "Nadine",
+          "lastname": "Herold"
+        },
+        {
+          "firstname": "Bernhard",
+          "lastname": "Klarner"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Maraun"
+        },
+        {
+          "firstname": "Sven",
+          "lastname": "Marhan"
+        },
+        {
+          "firstname": "Yvonne",
+          "lastname": "Oelmann"
+        },
+        {
+          "firstname": "Tesfaye",
+          "lastname": "Wubet"
+        },
+        {
+          "firstname": "Andrey",
+          "lastname": "Yurkov"
+        },
+        {
+          "firstname": "Dominik",
+          "lastname": "Begerow"
+        },
+        {
+          "firstname": "Doreen",
+          "lastname": "Berner"
+        },
+        {
+          "firstname": "François",
+          "lastname": "Buscot"
+        },
+        {
+          "firstname": "Rolf",
+          "lastname": "Daniel"
+        },
+        {
+          "firstname": "Tim",
+          "lastname": "Diekötter"
+        },
+        {
+          "firstname": "RoswithaB.",
+          "lastname": "Ehnes"
+        },
+        {
+          "firstname": "Georgia",
+          "lastname": "Erdmann"
+        },
+        {
+          "firstname": "Christiane",
+          "lastname": "Fischer"
+        },
+        {
+          "firstname": "Bärbel",
+          "lastname": "Foesel"
+        },
+        {
+          "firstname": "Janine",
+          "lastname": "Groh"
+        },
+        {
+          "firstname": "Jessica",
+          "lastname": "Gutknecht"
+        },
+        {
+          "firstname": "Ellen",
+          "lastname": "Kandeler"
+        },
+        {
+          "firstname": "Christa",
+          "lastname": "Lang"
+        },
+        {
+          "firstname": "Gertrud",
+          "lastname": "Lohaus"
+        },
+        {
+          "firstname": "Annabel",
+          "lastname": "Meyer"
+        },
+        {
+          "firstname": "Heiko",
+          "lastname": "Nacke"
+        },
+        {
+          "firstname": "Astrid",
+          "lastname": "Näther"
+        },
+        {
+          "firstname": "Jörg",
+          "lastname": "Overmann"
+        },
+        {
+          "firstname": "Andrea",
+          "lastname": "Polle"
+        },
+        {
+          "firstname": "MelanieM.",
+          "lastname": "Pollierer"
+        },
+        {
+          "firstname": "Stefan",
+          "lastname": "Scheu"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Schloter"
+        },
+        {
+          "firstname": "Ernst-Detlef",
+          "lastname": "Schulze"
+        },
+        {
+          "firstname": "Waltraud",
+          "lastname": "Schulze"
+        },
+        {
+          "firstname": "Jan",
+          "lastname": "Weinert"
+        },
+        {
+          "firstname": "WolfgangW.",
+          "lastname": "Weisser"
+        },
+        {
+          "firstname": "Volkmar",
+          "lastname": "Wolters"
+        },
+        {
+          "firstname": "Marion",
+          "lastname": "Schrumpf"
+        },
+        {
+          "firstname": "A.Mark",
+          "lastname": "Ibekwe"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "[Biodegradation of tri- and perchloroethylene in sewage waters and soils by a microbial consortium of compost and phototrophic bacteria].",
+      "abstractText": "Compost and phototrophic bacteria are found to be able to degrade trichloroethylene (TCE) and perchloroethylene (PCE). With a TCE dose increase by more than 10 mg/kg, the TCE degradation decreases due to the toxic effect of this pollutant on microbial consortium activity. The addition of compost combined with a liquid culture of phototrophic bacteria (PTB) is experimentally proved to effectively decrease the TCE content in soil and water.",
+      "docId": "22117431",
+      "pmid": "22117431",
+      "authors": [
+        {
+          "lastname": "Ten Khak Mun"
+        },
+        {
+          "firstname": "OA",
+          "lastname": "Kirienko"
+        }
+      ],
+      "publication": {
+        "title": "Izvestiia Akademii nauk. Seriia biologicheskaia",
+        "issue": "5",
+        "pages": "625-9",
+        "date": "Sep 1, 2011 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    }
+  ]
+}

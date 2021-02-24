@@ -1,0 +1,180 @@
+{
+  "inputstring": "fragmentation",
+  "tokens": [
+    "fragmentation"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 67068,
+  "bibliographylist": [
+    {
+      "articleTitle": "The production of antibody fragments and antibody fusion proteins by yeasts and filamentous fungi",
+      "abstractText": "In this review we will focus on the current status and views concerning the production of antibody fragments and antibody fusion proteins by yeasts and filamentous fungi. We will focus on single-chain antibody fragment production (scFv and VHH) by these lower eukaryotes and the possible applications of these proteins. Also the coupling of fragments to relevant enzymes or other components will be discussed. As an example of the fusion protein strategy, the \u0027magic bullet\u0027 approach for industrial applications, will be highlighted.",
+      "docId": "PMC149433",
+      "pmid": "12605725",
+      "pmcid": "149433",
+      "authors": [
+        {
+          "firstname": "Vivi",
+          "lastname": "Joosten"
+        },
+        {
+          "firstname": "Christien",
+          "lastname": "Lokman"
+        },
+        {
+          "firstname": "CeesAMJJ",
+          "lastname": "van den Hondel"
+        },
+        {
+          "firstname": "PeterJ",
+          "lastname": "Punt"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2003 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Antibody Fragments as Probe in Biosensor Development",
+      "abstractText": "Today\u0027s proteomic analyses are generating increasing numbers of biomarkers, making it essential to possess highly specific probes able to recognize those targets. Antibodies are considered to be the first choice as molecular recognition units due to their target specificity and affinity, which make them excellent probes in biosensor development. However several problems such as difficult directional immobilization, unstable behavior, loss of specificity and steric hindrance, may arise from using these large molecules. Luckily, protein engineering techniques offer designed antibody formats suitable for biomarker analysis. Minimization strategies of antibodies into Fab fragments, scFv or even single-domain antibody fragments like VH, VL or VHHs are reviewed. Not only the size of the probe but also other issues like choice of immobilization tag, type of solid support and probe stability are of critical importance in assay development for biosensing. In this respect, multiple approaches to specifically orient and couple antibody fragments in a generic one-step procedure directly on a biosensor substrate are discussed.",
+      "docId": "PMC3705465",
+      "pmcid": "3705465",
+      "authors": [
+        {
+          "firstname": "Dirk",
+          "lastname": "Saerens"
+        },
+        {
+          "firstname": "Lieven",
+          "lastname": "Huang"
+        },
+        {
+          "firstname": "Kristien",
+          "lastname": "Bonroy"
+        },
+        {
+          "firstname": "Serge",
+          "lastname": "Muyldermans"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2008 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Prion Fragment Peptides Are Digested with Membrane Type Matrix Metalloproteinases and Acquire Enzyme Resistance through Cu2+-Binding",
+      "abstractText": "Prions are the cause of neurodegenerative disease in humans and other mammals. The structural conversion of the prion protein (PrP) from a normal cellular protein (PrPC) to a protease-resistant isoform (PrPSc) is thought to relate to Cu2+ binding to histidine residues. In this study, we focused on the membrane-type matrix metalloproteinases (MT-MMPs) such as MT1-MMP and MT3-MMP, which are expressed in the brain as PrPC-degrading proteases. We synthesized 21 prion fragment peptides. Each purified peptide was individually incubated with recombinant MT1-MMP or MT3-MMP in the presence or absence of Cu2+ and the cleavage sites determined by LC-ESI-MS analysis. Recombinant MMP-7 and human serum (HS) were also tested as control. hPrP61-90, from the octapeptide-repeat region, was cleaved by HS but not by the MMPs tested here. On the other hand, hPrP92-168 from the central region was cleaved by MT1-MMP and MT3-MMP at various sites. These cleavages were inhibited by treatment with Cu2+. The C-terminal peptides had higher resistance than the central region. The data obtained from this study suggest that MT-MMPs expressed in the brain might possess PrPC-degrading activity.",
+      "docId": "PMC4101495",
+      "pmid": "24970228",
+      "pmcid": "4101495",
+      "authors": [
+        {
+          "firstname": "Aya",
+          "lastname": "Kojima"
+        },
+        {
+          "firstname": "Motomi",
+          "lastname": "Konishi"
+        },
+        {
+          "firstname": "Toshifumi",
+          "lastname": "Akizawa"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Fast structure similarity searches among protein models: efficient clustering of protein fragments",
+      "abstractText": "Background For many predictive applications a large number of models is generated and later clustered in subsets based on structure similarity. In most clustering algorithms an all-vs-all root mean square deviation (RMSD) comparison is performed. Most of the time is typically spent on comparison of non-similar structures. For sets with more than, say, 10,000 models this procedure is very time-consuming and alternative faster algorithms, restricting comparisons only to most similar structures would be useful. Results We exploit the inverse triangle inequality on the RMSD between two structures given the RMSDs with a third structure. The lower bound on RMSD may be used, when restricting the search of similarity to a reasonably low RMSD threshold value, to speed up similarity searches significantly. Tests are performed on large sets of decoys which are widely used as test cases for predictive methods, with a speed-up of up to 100 times with respect to all-vs-all comparison depending on the set and parameters used. Sample applications are shown. Conclusions The algorithm presented here allows fast comparison of large data sets of structures with limited memory requirements. As an example of application we present clustering of more than 100000 fragments of length 5 from the top500H dataset into few hundred representative fragments. A more realistic scenario is provided by the search of similarity within the very large decoy sets used for the tests. Other applications regard filtering nearly-indentical conformation in selected CASP9 datasets and clustering molecular dynamics snapshots. Availability A linux executable and a Perl script with examples are given in the supplementary material (Additional file 1). The source code is available upon request from the authors.",
+      "docId": "PMC3403935",
+      "pmid": "22642815",
+      "pmcid": "3403935",
+      "authors": [
+        {
+          "firstname": "Federico",
+          "lastname": "Fogolari"
+        },
+        {
+          "firstname": "Alessandra",
+          "lastname": "Corazza"
+        },
+        {
+          "firstname": "Paolo",
+          "lastname": "Viglino"
+        },
+        {
+          "firstname": "Gennaro",
+          "lastname": "Esposito"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "What Is the Usefulness of the Fragmentation Pattern of the Femoral Head in Managing Legg-Calvé-Perthes Disease?",
+      "abstractText": "Background Within the lateral pillar classification of the Legg-Calvé-Perthes (LCP) disease, hips seem quite variable in the pattern of fragmentation as seen in radiographs. The purpose of this study was to determine: if it is possible to reliably subdivide the lateral pillar groups into femoral head fragmentation patterns, and if such a subdivision of the lateral pillar groupings is clinically useful in managing LCP disease. Methods Two hundred and ninety-three anteroposterior radiographs taken at the maximal fragmentation stage (189 lateral pillar B, 57 B/C border, and 47 C hips; mean bone/chronologic age at the time of first visit, 6.2/7.9 years) and at skeletal maturity (mean age, 16.6 years) were analyzed. We distinguished 3 fragmentation patterns in each pillar group based on the region of major involvement. We tested the inter- and intraobserver reliability of our classification system and analyzed the relationships between the fragmentation patterns and the Stulberg outcomes as well as other factors such as surgical treatment and age. Results Inter- and intraobserver consistency in fragmentation pattern assignments was found to be substantial to excellent. A statistically significant trend (p \u003d 0.001) in the proportion of Stulberg III or IV outcomes in comparison with Stulberg I and II was only found for the different fragmentation patterns in our lateral pillar B patients: fragmentation patterns having mainly lateral-central necrosis led to poor outcomes. No significant association was found between fragmentation patterns and Stulberg outcomes in pillar groups B/C border and C. Conclusions Our results are consistent with the lateral pillar classification itself. Therefore, fragmentation patterns in each lateral pillar classification did not provide clinical usefulness in the management of LCP disease.",
+      "docId": "PMC4040385",
+      "pmid": "24900906",
+      "pmcid": "4040385",
+      "authors": [
+        {
+          "firstname": "HuiTaek",
+          "lastname": "Kim"
+        },
+        {
+          "firstname": "SeungHun",
+          "lastname": "Woo"
+        },
+        {
+          "firstname": "JaeHoon",
+          "lastname": "Jang"
+        },
+        {
+          "firstname": "SeungGeun",
+          "lastname": "Lee"
+        },
+        {
+          "firstname": "HarryK.W.",
+          "lastname": "Kim"
+        },
+        {
+          "firstname": "Richard",
+          "lastname": "Browne"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

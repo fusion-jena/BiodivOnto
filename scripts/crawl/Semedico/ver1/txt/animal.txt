@@ -1,0 +1,106 @@
+Evaluation of animal models of neurobehavioral disorders
+
+Animal models play a central role in all areas of biomedical research. The process of animal model
+building, development and evaluation has rarely been addressed systematically, despite the long
+history of using animal models in the investigation of neuropsychiatric disorders and behavioral
+dysfunctions. An iterative, multi-stage trajectory for developing animal models and assessing their
+quality is proposed. The process starts with defining the purpose(s) of the model, preferentially
+based on hypotheses about brain-behavior relationships. Then, the model is developed and tested. The
+evaluation of the model takes scientific and ethical criteria into consideration. Model development
+requires a multidisciplinary approach. Preclinical and clinical experts should establish a set of
+scientific criteria, which a model must meet. The scientific evaluation consists of assessing the
+replicability/reliability, predictive, construct and external validity/generalizability, and
+relevance of the model. We emphasize the role of (systematic and extended) replications in the
+course of the validation process. One may apply a multiple-tiered 'replication battery' to estimate
+the reliability/replicability, validity, and generalizability of result. Compromised welfare is
+inherent in many deficiency models in animals. Unfortunately, 'animal welfare' is a vaguely defined
+concept, making it difficult to establish exact evaluation criteria. Weighing the animal's welfare
+and considerations as to whether action is indicated to reduce the discomfort must accompany the
+scientific evaluation at any stage of the model building and evaluation process. Animal model
+building should be discontinued if the model does not meet the preset scientific criteria, or when
+animal welfare is severely compromised. The application of the evaluation procedure is exemplified
+using the rat with neonatal hippocampal lesion as a proposed model of schizophrenia. In a manner
+congruent to that for improving animal models, guided by the procedure expounded upon in this paper,
+the developmental and evaluation procedure itself may be improved by careful definition of the
+purpose(s) of a model and by defining better evaluation criteria, based on the proposed use of the
+model.
+
+
+
+Farm Animal Serum Proteomics and Impact on Human Health
+
+Due to the incompleteness of animal genome sequencing, the analysis and characterization of serum
+proteomes of most farm animals are still in their infancy, compared to the already well-documented
+human serum proteome. This review focuses on the implications of the farm animal serum proteomics in
+order to identify novel biomarkers for animal welfare, early diagnosis, prognosis and monitoring of
+infectious disease treatment, and develop new vaccines, aiming at determining the reciprocal
+benefits for humans and animals.
+
+
+
+Human multipotent mesenchymal stem cells improve healing after collagenase tendon injury in the rat
+
+Background Mesenchymal stromal cells attract much interest in tissue regeneration because of their
+capacity to differentiate into mesodermal origin cells, their paracrine properties and their
+possible use in autologous transplantations. The aim of this study was to investigate the safety and
+reparative potential of implanted human mesenchymal stromal cells (hMSCs), prepared under Good
+Manufacturing Practice (GMP) conditions utilizing human mixed platelet lysate as a culture
+supplement, in a collagenase Achilles tendon injury model in rats. Methods Eighty-one rats with
+collagenase-induced injury were divided into two groups. The first group received human mesenchymal
+stromal cells injected into the site of injury 3 days after lesion induction, while the second group
+received saline. Biomechanical testing, morphometry and semiquantitative immunohistochemistry of
+collagens I, II and III, versican and aggrecan, neovascularization, and hMSC survival were performed
+2, 4, and 6 weeks after injury. Results Human mesenchymal stromal cell-treated rats had a
+significantly better extracellular matrix structure and a larger amount of collagen I and collagen
+III. Neovascularization was also increased in hMSC-treated rats 2 and 4 weeks after tendon injury.
+MTCO2 (Cytochrome c oxidase subunit II) positivity confirmed the presence of hMSCs 2, 4 and 6 weeks
+after transplantation. Collagen II deposits and alizarin red staining for bone were found in 6 hMSC-
+and 2 saline-treated tendons 6 weeks after injury. The intensity of anti-versican and anti-aggrecan
+staining did not differ between the groups. Conclusions hMSCs can support tendon healing through
+better vascularization as well as through larger deposits and better organization of the
+extracellular matrix. The treatment procedure was found to be safe; however, cartilage and bone
+formation at the implantation site should be taken into account when planning subsequent in vivo and
+clinical trials on tendinopathy as an expected adverse event.
+
+
+
+Monitoring Animal Behaviour and Environmental Interactions Using Wireless Sensor Networks, GPS Collars and Satellite Remote Sensing
+
+Remote monitoring of animal behaviour in the environment can assist in managing both the animal and
+its environmental impact. GPS collars which record animal locations with high temporal frequency
+allow researchers to monitor both animal behaviour and interactions with the environment. These
+ground-based sensors can be combined with remotely-sensed satellite images to understand animal-
+landscape interactions. The key to combining these technologies is communication methods such as
+wireless sensor networks (WSNs). We explore this concept using a case-study from an extensive cattle
+enterprise in northern Australia and demonstrate the potential for combining GPS collars and
+satellite images in a WSN to monitor behavioural preferences and social behaviour of cattle.
+
+
+
+Criteria of validity for animal models of psychiatric disorders: focus on anxiety disorders and depression
+
+Animal models of psychiatric disorders are usually discussed with regard to three criteria first
+elaborated by Willner; face, predictive and construct validity. Here, we draw the history of these
+concepts and then try to redraw and refine these criteria, using the framework of the diathesis
+model of depression that has been proposed by several authors. We thus propose a set of five major
+criteria (with sub-categories for some of them); homological validity (including species validity
+and strain validity), pathogenic validity (including ontopathogenic validity and triggering
+validity), mechanistic validity, face validity (including ethological and biomarker validity) and
+predictive validity (including induction and remission validity). Homological validity requires that
+an adequate species and strain be chosen: considering species validity, primates will be considered
+to have a higher score than drosophila, and considering strains, a high stress reactivity in a
+strain scores higher than a low stress reactivity in another strain. Pathological validity
+corresponds to the fact that, in order to shape pathological characteristics, the organism has been
+manipulated both during the developmental period (for example, maternal separation: ontopathogenic
+validity) and during adulthood (for example, stress: triggering validity). Mechanistic validity
+corresponds to the fact that the cognitive (for example, cognitive bias) or biological mechanisms
+(such as dysfunction of the hormonal stress axis regulation) underlying the disorder are identical
+in both humans and animals. Face validity corresponds to the observable behavioral (ethological
+validity) or biological (biomarker validity) outcomes: for example anhedonic behavior (ethological
+validity) or elevated corticosterone (biomarker validity). Finally, predictive validity corresponds
+to the identity of the relationship between the triggering factor and the outcome (induction
+validity) and between the effects of the treatments on the two organisms (remission validity). The
+relevance of this framework is then discussed regarding various animal models of depression.
+
+
+

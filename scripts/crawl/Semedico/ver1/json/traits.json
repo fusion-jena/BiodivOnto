@@ -1,0 +1,193 @@
+{
+  "inputstring": "traits",
+  "tokens": [
+    "traits"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 30589,
+  "bibliographylist": [
+    {
+      "articleTitle": "Prioritization of candidate genes in QTL regions based on associations between traits and biological processes",
+      "abstractText": "Background Elucidation of genotype-to-phenotype relationships is a major challenge in biology. In plants, it is the basis for molecular breeding. Quantitative Trait Locus (QTL) mapping enables to link variation at the trait level to variation at the genomic level. However, QTL regions typically contain tens to hundreds of genes. In order to prioritize such candidate genes, we show that we can identify potentially causal genes for a trait based on overrepresentation of biological processes (gene functions) for the candidate genes in the QTL regions of that trait. Results The prioritization method was applied to rice QTL data, using gene functions predicted on the basis of sequence- and expression-information. The average reduction of the number of genes was over ten-fold. Comparison with various types of experimental datasets (including QTL fine-mapping and Genome Wide Association Study results) indicated both statistical significance and biological relevance of the obtained connections between genes and traits. A detailed analysis of flowering time QTLs illustrates that genes with completely unknown function are likely to play a role in this important trait. Conclusions Our approach can guide further experimentation and validation of causal genes for quantitative traits. This way it capitalizes on QTL data to uncover how individual genes influence trait variation. Electronic supplementary material The online version of this article (doi:10.1186/s12870-014-0330-3) contains supplementary material, which is available to authorized users.",
+      "docId": "PMC4274756",
+      "pmid": "25492368",
+      "pmcid": "4274756",
+      "authors": [
+        {
+          "firstname": "JoachimW",
+          "lastname": "Bargsten"
+        },
+        {
+          "firstname": "Jan-Peter",
+          "lastname": "Nap"
+        },
+        {
+          "firstname": "GabinoF",
+          "lastname": "Sanchez-Perez"
+        },
+        {
+          "firstname": "AaltDJ",
+          "lastname": "van Dijk"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Sex-, Diet-, and Cancer-Dependent Epistatic Effects on Complex Traits in Mice",
+      "abstractText": "The genetic basis of quantitative traits such as body weight and obesity is complex, with several hundred quantitative trait loci (QTLs) known to affect these and related traits in humans and mice. It also has become increasingly evident that the single-locus effects of these QTLs vary considerably depending on factors such as the sex of the individuals and their dietary environment, and we were interested to know whether this context-dependency also applies to two-locus epistatic effects of QTLs as well. We therefore conducted a genome scan to search for epistatic effects on 13 different weight and adiposity traits in an F2 population of mice (created from an original intercross of the FVB strain with M16i, a polygenic obesity model) that were fed either a control or a high-fat diet and half of which harbored a transgene (PyMT) that caused the development of metastatic mammary cancer. We used a conventional interval mapping approach with SNPs to scan all 19 autosomes, and found extensive epistasis affecting all of these traits. More importantly, we also discovered that the majority of these epistatic effects exhibited significant interactions with sex, diet, and/or presence of PyMT. Analysis of these interactions showed that many of them appeared to involve QTLs previously identified as affecting these traits, but whose single-locus effects were variously modified by two-locus epistatic effects of other QTLs depending on the sex, diet, or PyMT environment. It was concluded that this context-dependency of epistatic effects is an important component of the genetic architecture of complex traits such as those contributing to weight and obesity.",
+      "docId": "PMC3268624",
+      "pmid": "22303366",
+      "pmcid": "3268624",
+      "authors": [
+        {
+          "firstname": "LarryJ.",
+          "lastname": "Leamy"
+        },
+        {
+          "firstname": "RyanR.",
+          "lastname": "Gordon"
+        },
+        {
+          "firstname": "Daniel",
+          "lastname": "Pomp"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "The PIT1 gene polymorphisms were associated with chicken growth traits",
+      "abstractText": "Background With crucial roles on the differentiation of anterior pituitary and the regulation of the prolactin (PRL), growth hormone (GH) and thyroid-stimulating hormone-β (TSH-β) genes, the chicken PIT1 gene is regarded as a key candidate gene for production traits. In this study, five reported polymorphisms (MR1-MR5) of the PIT1 gene were genotyped in a full sib F2 resource population to evaluate their effects on growth, carcass and fatty traits in chickens. Results Marker-trait association analyses showed that, MR1 was significantly associated with shank diameters (SD) at 84 days (P \u003c 0.05), hatch weight (HW) and shank length (SL) at 84 days (P \u003c 0.01), MR2 was significantly associated with BW at 28, 42 days and average daily gain (ADG) at 0–4 weeks (P \u003c 0.05), and MR3 was significantly associated with ADG at 4–8 weeks (P \u003c 0.05). MR4 was associated with SL at 63, 77, 84 days and BW at 84 days (P \u003c 0.05), as well as SD at 77 days (P \u003c 0.01). Significant association was also found of MR5 with BW at 21, 35 days and SD at 63 days (P \u003c 0.05), BW at 28 days and ADG at 0–4 weeks (P \u003c 0.01). Both T allele of MR4 and C allele of MR5 were advantageous for chicken growth. The PIT1 haplotypes were significantly associated with HW (P \u003d 0.0252), BW at 28 days (P \u003d 0.0390) and SD at 56 days (P \u003d 0.0400). No significant association of single SNP and haplotypes with chicken carcass and fatty traits was found (P \u003e 0.05). Conclusion Our study found that polymorphisms of PIT1 gene and their haplotypes were associated with chicken growth traits and not with carcass and fatty traits.",
+      "docId": "PMC2267206",
+      "pmid": "18304318",
+      "pmcid": "2267206",
+      "authors": [
+        {
+          "firstname": "Qinghua",
+          "lastname": "Nie"
+        },
+        {
+          "firstname": "Meixia",
+          "lastname": "Fang"
+        },
+        {
+          "firstname": "Liang",
+          "lastname": "Xie"
+        },
+        {
+          "firstname": "Min",
+          "lastname": "Zhou"
+        },
+        {
+          "firstname": "Zhangmin",
+          "lastname": "Liang"
+        },
+        {
+          "firstname": "Ziping",
+          "lastname": "Luo"
+        },
+        {
+          "firstname": "Guohuang",
+          "lastname": "Wang"
+        },
+        {
+          "firstname": "Wensen",
+          "lastname": "Bi"
+        },
+        {
+          "firstname": "Canjian",
+          "lastname": "Liang"
+        },
+        {
+          "firstname": "Wei",
+          "lastname": "Zhang"
+        },
+        {
+          "firstname": "Xiquan",
+          "lastname": "Zhang"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2008 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "The effect of flower position on variation and covariation in floral traits in a wild hermaphrodite plant",
+      "abstractText": "Background Floral traits within plants can vary with flower position or flowering time. Within an inflorescence, sexual allocation of early produced basal flowers is often female-biased while later produced distal flowers are male-biased. Such temporal adjustment of floral resource has been considered one of the potential advantages of modularity (regarding a flower as a module) in hermaphrodites. However, flowers are under constraints of independent evolution of a given trait. To understand flower diversification within inflorescences, here we examine variation and covariation in floral traits within racemes at the individual and the maternal family level respectively in an alpine herb Aconitum gymnandrum (Ranunculaceae). Results We found that floral traits varied significantly with flower position and among families, and position effects were family-specific. Most of the variance of floral traits was among individuals rather than among flowers within individuals or among families. Significant phenotypic correlations between traits were not affected by position, indicating trait integration under shared developmental regulation. In contrast, positive family-mean correlations in floral traits declined gradually from basal to distal flowers (nine significant correlations among floral traits in basal flowers and only three in distal flowers), showing position-specificity. Therefore, the pattern and magnitude of genetic correlations decreased with flower position. Conclusions This finding on covariation pattern in floral reproductive structures within racemes has not been revealed before, providing insights into temporal variation and position effects in floral traits within plants and the potential advantages of modularity in hermaphrodites.",
+      "docId": "PMC3095358",
+      "pmid": "20482889",
+      "pmcid": "3095358",
+      "authors": [
+        {
+          "firstname": "Zhi-Gang",
+          "lastname": "Zhao"
+        },
+        {
+          "firstname": "Guo-Zhen",
+          "lastname": "Du"
+        },
+        {
+          "firstname": "Shuang-Quan",
+          "lastname": "Huang"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Relationships of adolescent\u0027s dietary habits with personality traits and food neophobia according to family meal frequency",
+      "abstractText": "BACKGROUND A higher frequency of family meals is associated with good dietary habits in young people. This study focused on the relationships of family meal frequency with food neophobia and personality traits in adolescents. SUBJECTS/METHOD For this purpose, we administered a survey to 495 middle school students in Seoul metropolitan city, after which the data were analyzed using the SPSS (18.0) program. Pearson correlation was used to determine the relationships among dietary habits, personality traits, and food neophobia according to frequency of family meals. RESULTS Dietary habits, personality traits, and food neophobia all showed significant differences according to the frequency of family meals. Further, eating regular family meals was associated with good dietary habits (P \u003c 0.001) and was linked with improved extraversion, agreeableness, conscientiousness, emotional stability, and openness/intellect (P \u003c 0.001). On the other hand, it showed a negative relationship with food neophobia (P \u003c 0.001). The relationship between dietary habits and food neophobia showed a negative correlation (P \u003c 0.01). The relationship between dietary habits and personality traits showed a positive correlation (P \u003c 0.01). Lastly, the relationship between personality traits and food neophobia showed a negative correlation (P \u003c 0.01). CONCLUSION Based on the results of the study, the frequency of family meals affects dietary habits, personality traits, and food neophobia in adolescents.",
+      "docId": "PMC4122722",
+      "pmid": "25110570",
+      "pmcid": "4122722",
+      "authors": [
+        {
+          "firstname": "MiSook",
+          "lastname": "Cho"
+        },
+        {
+          "firstname": "Miseon",
+          "lastname": "Kim"
+        },
+        {
+          "firstname": "Wookyoun",
+          "lastname": "Cho"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

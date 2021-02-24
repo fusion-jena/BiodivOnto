@@ -1,0 +1,111 @@
+Urban Ecosystem Health Assessment: Perspectives and Chinese Practice
+
+The concept of ecosystem health is a way to assess the holistic operations and development potential
+of urban ecosystems. Accelerated by the practical need for integrated ecosystem management,
+assessment of urban ecosystem health has been greatly developed and extensively applied in urban
+planning and management. Development is aimed at comprehensively evaluating the performance of urban
+ecosystems, identifying the limiting factors, and providing suggestions for urban regulation. The
+time has come for reviewing and establishing an instructional framework for urban ecosystem health
+assessment to shed light on certain essential issues of urban ecosystem health. Based on literature
+reviews and series of practice, a holistic framework of urban ecosystem health assessment is
+proposed. The framework covers the essential elements of urban ecosystem health and integrates three
+dimensions: theoretical foundation, assessment method, and practical application. Concrete
+assessment methods are also established, focusing on both external performance and internal
+metabolic processes. The practice of urban ecosystem health assessment in China is illustrated to
+briefly demonstrate the application of the established framework and methods. Some prospects are
+discussed for urban ecosystem health assessment and its application in urban planning and
+management.
+
+
+
+Environmental Impacts of the Use of Ecosystem Services: Case Study of Birdwatching
+
+The main reason for promoting the concept of ecosystem services lies in its potential to contribute
+to environmental conservation. Highlighting the benefits derived from ecosystems fosters an
+understanding of humans’ dependence on nature, as users of ecosystem services. However, the act of
+using ecosystem services may not be environmentally neutral. As with the use of products and
+services generated within an economy, the use of ecosystem services may lead to unintended
+environmental consequences throughout the ‘ecosystem services supply chain.’ This article puts
+forward a framework for analyzing environmental impacts related to the use of ecosystem services,
+indicating five categories of impact: (1) direct impacts (directly limiting the service’s future
+availability); and four categories of indirect impacts, i.e., on broader ecosystem structures and
+processes, which can ultimately also affect the initial service: (2) impacts related to managing
+ecosystems to maximize the delivery of selected services (affecting ecosystems’ capacity to provide
+other services); (3) impacts associated with accessing ecosystems to use their services (affecting
+other ecosystem components); (4) additional consumption of products, infrastructure or services
+required to use a selected ecosystem service, and their life-cycle environmental impacts; and (5)
+broader impacts on the society as a whole (environmental awareness of ecosystem service users and
+other stakeholders). To test the usefulness of this framework, the article uses the case study of
+birdwatching, which demonstrates all of the above categories of impacts. The article justifies the
+need for a broader consideration of environmental impacts related to the use of ecosystem services.
+
+
+
+Marine ecosystem health status assessment through integrative biomarker indices: a comparative study after the Prestige oil spill “Mussel Watch”
+
+Five integrative biomarker indices are compared: Bioeffects Assessment Index (BAI), Health Status
+Index (HSI), integrated biological response (IBR), ecosystem health condition chart (EHCC) and
+Integrative Biomarker Index (IBI). They were calculated on the basis of selected biomarker data
+collected in the framework of the Prestige oil spill (POS) Mussel Watch monitoring (2003–2006)
+carried out in Galicia and the Bay of Biscay. According to the BAI, the health status of mussels was
+severely affected by POS and signals of recovery were evidenced in Galicia after April-04 and in
+Biscay Bay after April-05. The HSI (computed by an expert system) revealed high levels of
+environmental stress in 2003 and a recovery trend from April-04 to April-05. In July-05, the health
+status of mussels worsened but in October-05 and April-06 healthy condition was again recorded in
+almost all localities. IBR/n and IBI indicated that mussel health was severely affected in 2003 and
+improved from 2004 onwards. EHCC reflected a deleterious environmental condition in 2003 and a
+recovery trend after April-04, although a healthy ecosystem condition was not achieved in April-06
+yet. Whereas BAI and HSI provide a basic indication of the ecosystem health status, star plots
+accompanying IBR/n and IBI provide complementary information concerning the mechanisms of biological
+response to environmental insult. Overall, although the integrative indices based on biomarkers show
+different sensitivity, resolution and informative output, all of them provide coherent information,
+useful to simplify the interpretation of biological effects of pollution in marine pollution
+monitoring. Each others’ advantages, disadvantages and applicability for ecosystem health assessment
+are discussed.
+
+
+
+Ecosystem service provision in a changing Europe: adapting to the impacts of combined climate and socio-economic change
+
+Context Future patterns of European ecosystem services provision are likely to vary significantly as
+a result of climatic and socio-economic change and the implementation of adaptation strategies.
+However, there is little research in mapping future ecosystem services and no integrated assessment
+approach to map the combined impacts of these drivers. Objective Map changing patterns in ecosystem
+services for different European futures and (a) identify the role of driving forces; (b) explore the
+potential influence of different adaptation options. Methods The CLIMSAVE integrated assessment
+platform is used to map spatial patterns in services (food, water and timber provision, atmospheric
+regulation, biodiversity existence/bequest, landscape experience and land use diversity) for a
+number of combined climatic and socio-economic scenarios. Eight adaptation strategies are explored
+within each scenario. Results Future service provision (particularly water provision) will be
+significantly impacted by climate change. Socio-economic changes shift patterns of service
+provision: more dystopian societies focus on food provision at the expense of other services.
+Adaptation options offer significant opportunities, but may necessitate trade-offs between services,
+particularly between agriculture- and forestry-related services. Unavoidable trade-offs between
+regions (particularly South–North) are also identified in some scenarios. Conclusions Coordinating
+adaptation across regions and sectors will be essential to ensure that all needs are met: a factor
+that will become increasingly pressing under dystopian futures where inter-regional cooperation
+breaks down. Integrated assessment enables exploration of interactions and trade-offs between
+ecosystem services, highlighting the importance of taking account of complex cross-sectoral
+interactions under different future scenarios of planning adaptation responses.
+
+
+
+Trait-based approaches for understanding microbial biodiversity and ecosystem functioning
+
+In ecology, biodiversity-ecosystem functioning (BEF) research has seen a shift in perspective from
+taxonomy to function in the last two decades, with successful application of trait-based approaches.
+This shift offers opportunities for a deeper mechanistic understanding of the role of biodiversity
+in maintaining multiple ecosystem processes and services. In this paper, we highlight studies that
+have focused on BEF of microbial communities with an emphasis on integrating trait-based approaches
+to microbial ecology. In doing so, we explore some of the inherent challenges and opportunities of
+understanding BEF using microbial systems. For example, microbial biologists characterize
+communities using gene phylogenies that are often unable to resolve functional traits. Additionally,
+experimental designs of existing microbial BEF studies are often inadequate to unravel BEF
+relationships. We argue that combining eco-physiological studies with contemporary molecular tools
+in a trait-based framework can reinforce our ability to link microbial diversity to ecosystem
+processes. We conclude that such trait-based approaches are a promising framework to increase the
+understanding of microbial BEF relationships and thus generating systematic principles in microbial
+ecology and more generally ecology.
+
+
+

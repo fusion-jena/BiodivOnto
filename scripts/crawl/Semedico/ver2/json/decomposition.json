@@ -1,0 +1,194 @@
+{
+  "inputstring": "decomposition biodiversity",
+  "tokens": [
+    "biodiversity",
+    "decomposition"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 48159,
+  "bibliographylist": [
+    {
+      "articleTitle": "Can Wide Consultation Help with Setting Priorities for Large-Scale Biodiversity Monitoring Programs?",
+      "abstractText": "Climate and other global change phenomena affecting biodiversity require monitoring to track ecosystem changes and guide policy and management actions. Designing a biodiversity monitoring program is a difficult task that requires making decisions that often lack consensus due to budgetary constrains. As monitoring programs require long-term investment, they also require strong and continuing support from all interested parties. As such, stakeholder consultation is key to identify priorities and make sound design decisions that have as much support as possible. Here, we present the results of a consultation conducted to serve as an aid for designing a large-scale biodiversity monitoring program for the province of Québec (Canada). The consultation took the form of a survey with 13 discrete choices involving tradeoffs in respect to design priorities and 10 demographic questions (e.g., age, profession). The survey was sent to thousands of individuals having expected interests and knowledge about biodiversity and was completed by 621 participants. Overall, consensuses were few and it appeared difficult to create a design fulfilling the priorities of the majority. Most participants wanted 1) a monitoring design covering the entire territory and focusing on natural habitats; 2) a focus on species related to ecosystem services, on threatened and on invasive species. The only demographic characteristic that was related to the type of prioritization was the declared level of knowledge in biodiversity (null to high), but even then the influence was quite small.",
+      "docId": "PMC4272257",
+      "pmid": "25525798",
+      "pmcid": "4272257",
+      "authors": [
+        {
+          "firstname": "Frédéric",
+          "lastname": "Boivin"
+        },
+        {
+          "firstname": "Anouk",
+          "lastname": "Simard"
+        },
+        {
+          "firstname": "Pedro",
+          "lastname": "Peres-Neto"
+        },
+        {
+          "firstname": "Judi",
+          "lastname": "Hewitt"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Species Richness and Trophic Diversity Increase Decomposition in a Co-Evolved Food Web",
+      "abstractText": "Ecological communities show great variation in species richness, composition and food web structure across similar and diverse ecosystems. Knowledge of how this biodiversity relates to ecosystem functioning is important for understanding the maintenance of diversity and the potential effects of species losses and gains on ecosystems. While research often focuses on how variation in species richness influences ecosystem processes, assessing species richness in a food web context can provide further insight into the relationship between diversity and ecosystem functioning and elucidate potential mechanisms underpinning this relationship. Here, we assessed how species richness and trophic diversity affect decomposition rates in a complete aquatic food web: the five trophic level web that occurs within water-filled leaves of the northern pitcher plant, Sarracenia purpurea. We identified a trophic cascade in which top-predators — larvae of the pitcher-plant mosquito — indirectly increased bacterial decomposition by preying on bactivorous protozoa. Our data also revealed a facultative relationship in which larvae of the pitcher-plant midge increased bacterial decomposition by shredding detritus. These important interactions occur only in food webs with high trophic diversity, which in turn only occur in food webs with high species richness. We show that species richness and trophic diversity underlie strong linkages between food web structure and dynamics that influence ecosystem functioning. The importance of trophic diversity and species interactions in determining how biodiversity relates to ecosystem functioning suggests that simply focusing on species richness does not give a complete picture as to how ecosystems may change with the loss or gain of species.",
+      "docId": "PMC3108618",
+      "pmid": "21673992",
+      "pmcid": "3108618",
+      "authors": [
+        {
+          "firstname": "Benjamin",
+          "lastname": "Baiser"
+        },
+        {
+          "firstname": "RoxanneS.",
+          "lastname": "Ardeshiri"
+        },
+        {
+          "firstname": "AaronM.",
+          "lastname": "Ellison"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Thrush"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Plant Diversity Impacts Decomposition and Herbivory via Changes in Aboveground Arthropods",
+      "abstractText": "Loss of plant diversity influences essential ecosystem processes as aboveground productivity, and can have cascading effects on the arthropod communities in adjacent trophic levels. However, few studies have examined how those changes in arthropod communities can have additional impacts on ecosystem processes caused by them (e.g. pollination, bioturbation, predation, decomposition, herbivory). Therefore, including arthropod effects in predictions of the impact of plant diversity loss on such ecosystem processes is an important but little studied piece of information. In a grassland biodiversity experiment, we addressed this gap by assessing aboveground decomposer and herbivore communities and linking their abundance and diversity to rates of decomposition and herbivory. Path analyses showed that increasing plant diversity led to higher abundance and diversity of decomposing arthropods through higher plant biomass. Higher species richness of decomposers, in turn, enhanced decomposition. Similarly, species-rich plant communities hosted a higher abundance and diversity of herbivores through elevated plant biomass and C:N ratio, leading to higher herbivory rates. Integrating trophic interactions into the study of biodiversity effects is required to understand the multiple pathways by which biodiversity affects ecosystem functioning.",
+      "docId": "PMC4165753",
+      "pmid": "25226237",
+      "pmcid": "4165753",
+      "authors": [
+        {
+          "firstname": "Anne",
+          "lastname": "Ebeling"
+        },
+        {
+          "firstname": "SebastianT.",
+          "lastname": "Meyer"
+        },
+        {
+          "firstname": "Maike",
+          "lastname": "Abbas"
+        },
+        {
+          "firstname": "Nico",
+          "lastname": "Eisenhauer"
+        },
+        {
+          "firstname": "Helmut",
+          "lastname": "Hillebrand"
+        },
+        {
+          "firstname": "Markus",
+          "lastname": "Lange"
+        },
+        {
+          "firstname": "Christoph",
+          "lastname": "Scherber"
+        },
+        {
+          "firstname": "Anja",
+          "lastname": "Vogel"
+        },
+        {
+          "firstname": "Alexandra",
+          "lastname": "Weigelt"
+        },
+        {
+          "firstname": "WolfgangW.",
+          "lastname": "Weisser"
+        },
+        {
+          "firstname": "Mari",
+          "lastname": "Moora"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Inconsistent impacts of decomposer diversity on the stability of aboveground and belowground ecosystem functions",
+      "abstractText": "The intensive discussion on the importance of biodiversity for the stability of essential processes in ecosystems has prompted a multitude of studies since the middle of the last century. Nevertheless, research has been extremely biased by focusing on the producer level, while studies on the impacts of decomposer diversity on the stability of ecosystem functions are lacking. Here, we investigate the impacts of decomposer diversity on the stability (reliability) of three important aboveground and belowground ecosystem functions: primary productivity (shoot and root biomass), litter decomposition, and herbivore infestation. For this, we analyzed the results of three laboratory experiments manipulating decomposer diversity (1–3 species) in comparison to decomposer-free treatments in terms of variability of the measured variables. Decomposer diversity often significantly but inconsistently affected the stability of all aboveground and belowground ecosystem functions investigated in the present study. While primary productivity was mainly destabilized, litter decomposition and aphid infestation were essentially stabilized by increasing decomposer diversity. However, impacts of decomposer diversity varied between plant community and fertility treatments. There was no general effect of the presence of decomposers on stability and no trend toward weaker effects in fertilized communities and legume communities. This indicates that impacts of decomposers are based on more than effects on nutrient availability. Although inconsistent impacts complicate the estimation of consequences of belowground diversity loss, underpinning mechanisms of the observed patterns are discussed. Impacts of decomposer diversity on the stability of essential ecosystem functions differed between plant communities of varying composition and fertility, implicating that human-induced changes of biodiversity and land-use management might have unpredictable effects on the processes mankind relies on. This study therefore points to the necessity of also considering soil feedback mechanisms in order to gain a comprehensive and holistic understanding of the impacts of current global change phenomena on the stability of essential ecosystem functions.",
+      "docId": "PMC3021706",
+      "pmid": "20878188",
+      "pmcid": "3021706",
+      "authors": [
+        {
+          "firstname": "Nico",
+          "lastname": "Eisenhauer"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Schädler"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "The effect of latitudinal gradient on the species diversity of Chinese litter-dwelling thrips",
+      "abstractText": "To understand the global distribution patterns of litter-dwelling thrips, a total 150 leaf litter samples were collected from 6 natural reserves located in three climatic regions, temperate, subtropical and tropical. The results showed the relative abundance of Thysanoptera was over 3.0% in 4 natural reserves from subtropical and tropical zone, and reached 5.9% in one tropical reserve, only less than Acarina and Collembola. In contrast it was only 0.3% in the warm temperate natural reserves, and no thrips were collected in a mid temperate reserve. The order on the average species numbers per plot of litter thrips was tropic \u003e subtropics \u003e temperate (n\u003d25, p\u003c0.05). Mean density of litter thrips per plots in the tropics and subtropics was significantly higher than that in the temperate region (n\u003d25, p\u003c0.05), but the average density was not significantly different between tropical and subtropical zones (n\u003d25, p\u003e0.05). The diversity of litter thrips in the tropics and subtropics was much higher than that in the temperate area based on comparsions of Shannon-Wiener diversity index (H’), Pielou eveness index (J), and Simpson dominance index (D). All of these results indicated that litter-dwelling thrips lived mainly in tropical and subtropical regions; meanwhile, species number and relative abundance increased with decreasing latitude.",
+      "docId": "PMC4109459",
+      "pmid": "25061351",
+      "pmcid": "4109459",
+      "authors": [
+        {
+          "firstname": "Jun",
+          "lastname": "Wang"
+        },
+        {
+          "firstname": "Xiaoli",
+          "lastname": "Tong"
+        },
+        {
+          "firstname": "Donghui",
+          "lastname": "Wu"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

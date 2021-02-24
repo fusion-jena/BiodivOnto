@@ -1,0 +1,87 @@
+Functionalized carbon nanotubes: biomedical applications
+
+Carbon nanotubes (CNTs) are emerging as novel nanomaterials for various biomedical applications.
+CNTs can be used to deliver a variety of therapeutic agents, including biomolecules, to the target
+disease sites. In addition, their unparalleled optical and electrical properties make them excellent
+candidates for bioimaging and other biomedical applications. However, the high cytotoxicity of CNTs
+limits their use in humans and many biological systems. The biocompatibility and low cytotoxicity of
+CNTs are attributed to size, dose, duration, testing systems, and surface functionalization. The
+functionalization of CNTs improves their solubility and biocompatibility and alters their cellular
+interaction pathways, resulting in much-reduced cytotoxic effects. Functionalized CNTs are promising
+novel materials for a variety of biomedical applications. These potential applications are
+particularly enhanced by their ability to penetrate biological membranes with relatively low
+cytotoxicity. This review is directed towards the overview of CNTs and their functionalization for
+biomedical applications with minimal cytotoxicity.
+
+
+
+The role of soil microbes in the global carbon cycle: tracking the below-ground microbial processing of plant-derived carbon for manipulating carbon dynamics in agricultural systems
+
+It is well known that atmospheric concentrations of carbon dioxide (CO2) (and other greenhouse
+gases) have increased markedly as a result of human activity since the industrial revolution. It is
+perhaps less appreciated that natural and managed soils are an important source and sink for
+atmospheric CO2 and that, primarily as a result of the activities of soil microorganisms, there is a
+soil-derived respiratory flux of CO2 to the atmosphere that overshadows by tenfold the annual CO2
+flux from fossil fuel emissions. Therefore small changes in the soil carbon cycle could have large
+impacts on atmospheric CO2 concentrations. Here we discuss the role of soil microbes in the global
+carbon cycle and review the main methods that have been used to identify the microorganisms
+responsible for the processing of plant photosynthetic carbon inputs to soil. We discuss whether
+application of these techniques can provide the information required to underpin the management of
+agro-ecosystems for carbon sequestration and increased agricultural sustainability. We conclude
+that, although crucial in enabling the identification of plant-derived carbon-utilising microbes,
+current technologies lack the high-throughput ability to quantitatively apportion carbon use by
+phylogentic groups and its use efficiency and destination within the microbial metabolome. It is
+this information that is required to inform rational manipulation of the plant–soil system to favour
+organisms or physiologies most important for promoting soil carbon storage in agricultural soil.
+
+
+
+Comparison of anti-angiogenic properties of pristine carbon nanoparticles
+
+Angiogenesis is vital for tumour formation, development and metastasis. Recent reports show that
+carbon nanomaterials inhibit various angiogenic signalling pathways and, therefore, can be
+potentially used in anti-angiogenic therapy. In the present study, we compared the effect of
+different carbon nanomaterials on blood vessel development. Diamond nanoparticles, graphite
+nanoparticles, graphene nanosheets, multi-wall nanotubes and C60 fullerenes were evaluated for their
+angiogenic activities using the in ovo chick embryo chorioallantoic membrane model. Diamond
+nanoparticles and multi-wall nanotubes showed the greatest anti-angiogenic properties.
+Interestingly, fullerene exhibited the opposite effect, increasing blood vessel development, while
+graphite nanoparticles and graphene had no effect. Subsequently, protein levels of pro-angiogenic
+growth factor receptors were analysed, showing that diamond nanoparticles decreased the expression
+of vascular endothelial growth factor receptor. These results provide new insights into the
+biological activity of carbon nanomaterials and emphasise the potential use of multi-wall nanotubes
+and diamond nanoparticles in anti-angiogenic tumour therapy.
+
+
+
+Plasma-Assisted Synthesis of Carbon Nanotubes
+
+The application of plasma-enhanced chemical vapour deposition (PECVD) in the production and
+modification of carbon nanotubes (CNTs) will be reviewed. The challenges of PECVD methods to grow
+CNTs include low temperature synthesis, ion bombardment effects and directional growth of CNT within
+the plasma sheath. New strategies have been developed for low temperature synthesis of single-walled
+CNTs based the understanding of plasma chemistry and modelling. The modification of CNT surface
+properties and synthesis of CNT hybrid materials are possible with the utilization of plasma.
+
+
+
+A new era of cancer treatment: carbon nanotubes as drug delivery tools
+
+Cancer is a generic term that encompasses a group of diseases characterized by an uncontrolled
+proliferation of cells. There are over 200 different types of cancer, each of which gains its
+nomenclature according to the type of tissue the cell originates in. Many patients who succumb to
+cancer do not die as a result of the primary tumor, but because of the systemic effects of
+metastases on other regions away from the original site. One of the aims of cancer therapy is to
+prevent the metastatic process as early as possible. There are currently many therapies in clinical
+use, and recent advances in biotechnology lend credence to the potential of nanotechnology in the
+fight against cancer. Nanomaterials such as carbon nanotubes (CNTs), quantum dots, and dendrimers
+have unique properties that can be exploited for diagnostic purposes, thermal ablation, and drug
+delivery in cancer. CNTs are tubular materials with nanometer-sized diameters and axial symmetry,
+giving them unique properties that can be exploited in the diagnosis and treatment of cancer. In
+addition, CNTs have the potential to deliver drugs directly to targeted cells and tissues. Alongside
+the rapid advances in the development of nanotechnology-based materials, elucidating the toxicity of
+nanoparticles is also imperative. Hence, in this review, we seek to explore the biomedical
+applications of CNTs, with particular emphasis on their use as therapeutic platforms in oncology.
+
+
+

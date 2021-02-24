@@ -1,0 +1,173 @@
+{
+  "inputstring": "environment",
+  "tokens": [
+    "environment"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 3581147,
+  "bibliographylist": [
+    {
+      "articleTitle": "The Portrayal of Natural Environment in the Evolution of the Ecological Public Health Paradigm",
+      "abstractText": "This paper explores the conceptualization of the natural environment in an evolving ecological public health paradigm. The natural environment has long been recognized as essential to supporting life, health, and wellbeing. Our understanding of the relationship between the natural environment and health has steadily evolved from one of an undynamic environment to a more sophisticated understanding of ecological interactions. This evolution is reflected in a number of ecological public health models which demonstrate the many external and overlapping determinants of human health. Six models are presented here to demonstrate this evolution, each model reflecting an increasingly ecological appreciation for the fundamental role of the natural environment in supporting human health. We conclude that after decades of public health’s acceptance of the ecological paradigm, we are only now beginning to assemble knowledge of sophisticated ecological interdependencies and apply this knowledge to the conceptualization and study of the relationship between the natural environment and the determinants of human health. ",
+      "docId": "PMC3924488",
+      "pmid": "24434596",
+      "pmcid": "3924488",
+      "authors": [
+        {
+          "firstname": "Christopher",
+          "lastname": "Coutts"
+        },
+        {
+          "firstname": "Annet",
+          "lastname": "Forkink"
+        },
+        {
+          "firstname": "Jocelyn",
+          "lastname": "Weiner"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Exploring the Role of the Food Environment on Food Shopping Patterns in Philadelphia, PA, USA: A Semiquantitative Comparison of Two Matched Neighborhood Groups",
+      "abstractText": "Increasing research has focused on the built food environment and nutrition-related outcomes, yet what constitutes a food environment and how this environment influences individual behavior still remain unclear. This study assesses whether travel mode and distance to food shopping venues differ among individuals in varying food environments and whether individual- and household-level factors are associated with food shopping patterns. Fifty neighbors who share a traditionally defined food environment (25 in an unfavorable environment and 25 in a favorable environment) were surveyed using a mix of close- and open-ended survey questions. Food shopping patterns were mapped using Geographic Information Systems (GIS). Stores visited were beyond the 0.5-mile (805 meters) radius traditionally used to represent the extent of an individual’s food environment in an urban area. We found no significant difference in shopping frequency or motivating factor behind store choice between the groups. No differences existed between the two groups for big food shopping trips. For small trips, individuals in the favorable food environment traveled shorter distances and were more likely to walk than drive. Socioeconomic status, including car ownership, education, and income influenced distance traveled. These findings highlight the complexities involved in the study and measurement of food environments.",
+      "docId": "PMC3564143",
+      "pmid": "23343984",
+      "pmcid": "3564143",
+      "authors": [
+        {
+          "firstname": "JanaA.",
+          "lastname": "Hirsch"
+        },
+        {
+          "firstname": "Amy",
+          "lastname": "Hillier"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Exploiting Gene Expression Variation to Capture Gene-Environment Interactions for Disease",
+      "abstractText": "Gene-environment interactions have long been recognized as a fundamental concept in evolutionary, quantitative, and medical genetics. In the genomics era, study of how environment and genome interact to shape gene expression variation is relevant to understanding the genetic architecture of complex phenotypes. While genetic analysis of gene expression variation focused on main effects, little is known about the extent of interaction effects implicating regulatory variants and their consequences on transcriptional variation. Here we survey the current state of the concept of transcriptional gene-environment interactions and discuss its utility for mapping disease phenotypes in light of the insights gained from genome-wide association studies of gene expression.",
+      "docId": "PMC3668192",
+      "pmid": "23755064",
+      "pmcid": "3668192",
+      "authors": [
+        {
+          "firstname": "Youssef",
+          "lastname": "Idaghdour"
+        },
+        {
+          "firstname": "Philip",
+          "lastname": "Awadalla"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Built Environment and Physical Functioning in Hispanic Elders: The Role of “Eyes on the Street”",
+      "abstractText": "Background Research on neighborhood effects increasingly includes the influences of the built environment on health and social well-being. Objectives In this population-based study in a low-socioeconomic-status (SES), Hispanic neighborhood, we examined whether architectural features of the built environment theorized to promote direct observations and interactions (e.g., porches, stoops) predicted Hispanic elders’ social support and psychological and physical functioning. Methods We coded built-environment features for all 3,857 lots in the 403-block area of an urban Miami, Florida, community. We then conducted three annual assessments of social support, psychological distress, and physical functioning in a population-based sample of 273 low-SES Hispanic elders (70–100 years of age). We used structural equation modeling analytic techniques to examine hypothesized relationships between the built environment and elders’ social support, psychological distress, and physical functioning over a 3-year period. Results After controlling for age, sex, and income, architectural features of the built environment theorized to facilitate visual and social contact had a significant direct relationship with elders’ physical functioning as measured 3 years later, and an indirect relationship through social support and psychological distress. Further binomial regression analyses suggested that elders living on blocks marked by low levels of positive front entrance features were 2.7 times as likely to have subsequent poor levels of physical functioning, compared with elders living on blocks with a greater number of positive front entrance features [b \u003d 0.99; χ2 (1 df) \u003d 3.71; p \u003d 0.05; 95% confidence interval, 1.0–7.3]. Conclusions Architectural features that facilitate visual and social contacts may be a protective factor for elders’ physical functioning.",
+      "docId": "PMC2569086",
+      "pmid": "18941569",
+      "pmcid": "2569086",
+      "authors": [
+        {
+          "firstname": "ScottC.",
+          "lastname": "Brown"
+        },
+        {
+          "firstname": "CraigA.",
+          "lastname": "Mason"
+        },
+        {
+          "firstname": "Tatiana",
+          "lastname": "Perrino"
+        },
+        {
+          "firstname": "JoannaL.",
+          "lastname": "Lombard"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Martinez"
+        },
+        {
+          "firstname": "Elizabeth",
+          "lastname": "Plater-Zyberk"
+        },
+        {
+          "firstname": "ArnoldR.",
+          "lastname": "Spokane"
+        },
+        {
+          "firstname": "José",
+          "lastname": "Szapocznik"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2008 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Description of the person-environment interaction: methodological issues and empirical results of an Italian large-scale disability assessment study using an ICF-based protocol",
+      "abstractText": "Background There is a connection between the definition of disability in a person-environment framework, the development of appropriate assessment strategies and instruments, and the logic underpinning the organization of benefits and services to confront disability. Methods The Italian Ministry of Health and Ministry of Labor and Social Policies supported a three-year project for the definition of a common framework and a standardised protocol for disability evaluation based on ICF. The research agenda of the project identified 6 phases: 1) adoption of a definition of disability; 2) analytical breakdown of the contents of disability definition, so as to indicate as clearly as possible the core information essential to guide the evaluation process; 3) definition of a data collection protocol; 4) national implementation of the protocol and collection of approximately 1,000 profiles; 5) proposal of a profile analysis and definition of groups of cases with similar functioning profiles; 6) trial of the proposal with the collected data. The data was analyzed in different ways: descriptive analysis, application of the person-environment interactions classification tree, and cluster analysis. Results A sample of 1,051 persons from 8 Italian regions was collected that represented different functioning conditions in all the phases of the life cycle. The aggregate result of the person-environment interactions was summarized. The majority of activities resulted with no problems in all of the A\u0026P chapters. Nearly 50.000 facilitators codes were opened. The main frequent facilitators were family members, health and social professionals, assistive devices and both health and social systems, services and politics. The focus of the person-environment interaction evaluation was on the A\u0026P domains, differentiating those in which performance presented limitations and restrictions from those in which performance had no or light limitations and restrictions. Communication(d3) and Learning and Applying Knowledge(d1) appeared as the more problematic A\u0026P areas. Self Care(d5) was the domain in which facilitators were more effective in supporting functioning, suggesting that the Italian welfare system is mainly focused on providing care services for activities of daily living, jointly with the family. The cluster analysis was limited to those categories that were common to all age classes (38 categories out of 55). For a final representation, a solution with 6 clusters was chosen. Conclusions An example is provided of how it is possible to plan empirical studies in which theoretical advances and operative goals on disability in a person-environment framework can support the definition of a research design, measurement strategies, and data analysis. The description of functioning and disability at population level is no more based on individual deficits or limitations. Personal profiles may be elaborated and groups created based on the characteristics of the person-environment interactions. Personal profiles may also be used as a “rationale” for defining personalized intervention programs.",
+      "docId": "PMC3104214",
+      "pmid": "21624187",
+      "pmcid": "3104214",
+      "authors": [
+        {
+          "firstname": "Carlo",
+          "lastname": "Francescutti"
+        },
+        {
+          "firstname": "Francesco",
+          "lastname": "Gongolo"
+        },
+        {
+          "firstname": "Andrea",
+          "lastname": "Simoncello"
+        },
+        {
+          "firstname": "Lucilla",
+          "lastname": "Frattura"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

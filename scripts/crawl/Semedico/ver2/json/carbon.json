@@ -1,0 +1,311 @@
+{
+  "inputstring": "carbon biodiversity",
+  "tokens": [
+    "biodiversity",
+    "carbon"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 7392,
+  "bibliographylist": [
+    {
+      "articleTitle": "Can Joint Carbon and Biodiversity Management in Tropical Agroforestry Landscapes Be Optimized?",
+      "abstractText": "Managing ecosystems for carbon storage may also benefit biodiversity conservation, but such a potential ‘win-win’ scenario has not yet been assessed for tropical agroforestry landscapes. We measured above- and below-ground carbon stocks as well as the species richness of four groups of plants and eight of animals on 14 representative plots in Sulawesi, Indonesia, ranging from natural rainforest to cacao agroforests that have replaced former natural forest. The conversion of natural forests with carbon stocks of 227–362 Mg C ha−1 to agroforests with 82–211 Mg C ha−1 showed no relationships to overall biodiversity but led to a significant loss of forest-related species richness. We conclude that the conservation of the forest-related biodiversity, and to a lesser degree of carbon stocks, mainly depends on the preservation of natural forest habitats. In the three most carbon-rich agroforestry systems, carbon stocks were about 60% of those of natural forest, suggesting that 1.6 ha of optimally managed agroforest can contribute to the conservation of carbon stocks as much as 1 ha of natural forest. However, agroforestry systems had comparatively low biodiversity, and we found no evidence for a tight link between carbon storage and biodiversity. Yet, potential win-win agroforestry management solutions include combining high shade-tree quality which favours biodiversity with cacao-yield adapted shade levels.",
+      "docId": "PMC3471943",
+      "pmid": "23077569",
+      "pmcid": "3471943",
+      "authors": [
+        {
+          "firstname": "Michael",
+          "lastname": "Kessler"
+        },
+        {
+          "firstname": "Dietrich",
+          "lastname": "Hertel"
+        },
+        {
+          "firstname": "HermannF.",
+          "lastname": "Jungkunst"
+        },
+        {
+          "firstname": "Jürgen",
+          "lastname": "Kluge"
+        },
+        {
+          "firstname": "Stefan",
+          "lastname": "Abrahamczyk"
+        },
+        {
+          "firstname": "Merijn",
+          "lastname": "Bos"
+        },
+        {
+          "firstname": "Damayanti",
+          "lastname": "Buchori"
+        },
+        {
+          "firstname": "Gerhard",
+          "lastname": "Gerold"
+        },
+        {
+          "firstname": "S.Robbert",
+          "lastname": "Gradstein"
+        },
+        {
+          "firstname": "Stefan",
+          "lastname": "Köhler"
+        },
+        {
+          "firstname": "Christoph",
+          "lastname": "Leuschner"
+        },
+        {
+          "firstname": "Gerald",
+          "lastname": "Moser"
+        },
+        {
+          "firstname": "Ramadhanil",
+          "lastname": "Pitopang"
+        },
+        {
+          "firstname": "Shahabuddin",
+          "lastname": "Saleh"
+        },
+        {
+          "firstname": "ChristianH.",
+          "lastname": "Schulze"
+        },
+        {
+          "firstname": "SimoneG.",
+          "lastname": "Sporn"
+        },
+        {
+          "firstname": "Ingolf",
+          "lastname": "Steffan-Dewenter"
+        },
+        {
+          "firstname": "SriS.",
+          "lastname": "Tjitrosoedirdjo"
+        },
+        {
+          "firstname": "Teja",
+          "lastname": "Tscharntke"
+        },
+        {
+          "firstname": "Ben",
+          "lastname": "Bond-Lamberty"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Representation of Ecosystem Services by Terrestrial Protected Areas: Chile as a Case Study",
+      "abstractText": "Protected areas are increasingly considered to play a key role in the global maintenance of ecosystem processes and the ecosystem services they provide. It is thus vital to assess the extent to which existing protected area systems represent those services. Here, for the first time, we document the effectiveness of the current Chilean protected area system and its planned extensions in representing both ecosystem services (plant productivity, carbon storage and agricultural production) and biodiversity. Additionally, we evaluate the effectiveness of protected areas based on their respective management objectives. Our results show that existing protected areas in Chile do not contain an unusually high proportion of carbon storage (14.9%), agricultural production (0.2%) or biodiversity (11.8%), and also represent a low level of plant productivity (Normalized Difference Vegetation Index of 0.38). Proposed additional priority sites enhance the representation of ecosystem services and biodiversity, but not sufficiently to attain levels of representation higher than would be expected for their area of coverage. Moreover, when the species groups were assessed separately, amphibians was the only one well represented. Suggested priority sites for biodiversity conservation, without formal protection yet, was the only protected area category that over-represents carbon storage, agricultural production and biodiversity. The low representation of ecosystem services and species’ distribution ranges by the current protected area system is because these protected areas are heavily biased toward southern Chile, and contain large extents of ice and bare rock. The designation and management of proposed priority sites needs to be addressed in order to increase the representation of ecosystem services within the Chilean protected area system.",
+      "docId": "PMC3869732",
+      "pmid": "24376559",
+      "pmcid": "3869732",
+      "authors": [
+        {
+          "firstname": "AméricaP.",
+          "lastname": "Durán"
+        },
+        {
+          "firstname": "Stefano",
+          "lastname": "Casalegno"
+        },
+        {
+          "firstname": "PabloA.",
+          "lastname": "Marquet"
+        },
+        {
+          "firstname": "KevinJ.",
+          "lastname": "Gaston"
+        },
+        {
+          "firstname": "EricGordon",
+          "lastname": "Lamb"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Reconciling agriculture, carbon and biodiversity in a savannah transformation frontier.",
+      "abstractText": "Rapidly rising populations and likely increases in incomes in sub-Saharan Africa make tens of millions of hectares of cropland expansion nearly inevitable, even with large increases in crop yields. Much of that expansion is likely to occur in higher rainfall savannas, with substantial costs to biodiversity and carbon storage. Zambia presents an acute example of this challenge, with an expected tripling of population by 2050, good potential to expand maize and soya bean production, and large areas of relatively undisturbed miombo woodland and associated habitat types of high biodiversity value. Here, we present a new model designed to explore the potential for targeting agricultural expansion in ways that achieve quantitatively optimal trade-offs between competing economic and environmental objectives: total converted land area (the reciprocal of potential yield); carbon loss, biodiversity loss and transportation costs. To allow different interests to find potential compromises, users can apply varying weights to examine the effects of their subjective preferences on the spatial allocation of new cropland and its costs. We find that small compromises from the objective to convert the highest yielding areas permit large savings in transportation costs, and the carbon and biodiversity impacts resulting from savannah conversion. For example, transferring just 30% of weight from a yield-maximizing objective equally between carbon and biodiversity protection objectives would increase total cropland area by just 2.7%, but result in avoided costs of 27-47% for carbon, biodiversity and transportation. Compromise solutions tend to focus agricultural expansion along existing transportation corridors and in already disturbed areas. Used appropriately, this type of model could help countries find agricultural expansion alternatives and related infrastructure and land use policies that help achieve production targets while helping to conserve Africa\u0027s rapidly transforming savannahs.This article is part of the themed issue \u0027Tropical grassy biomes: linking ecology, human use and conservation\u0027. ",
+      "docId": "27502381",
+      "pmid": "27502381",
+      "pmcid": "4978874",
+      "authors": [
+        {
+          "firstname": "LD",
+          "lastname": "Estes",
+          "affiliation": "Civil and Environmental Engineering, Princeton University, Princeton, NJ 08544, USA Woodrow Wilson School, Princeton University, Princeton, NJ 08544, USA lestes@princeton.edu."
+        },
+        {
+          "firstname": "T",
+          "lastname": "Searchinger",
+          "affiliation": "Woodrow Wilson School, Princeton University, Princeton, NJ 08544, USA tsearchi@princeton.edu."
+        },
+        {
+          "firstname": "M",
+          "lastname": "Spiegel",
+          "affiliation": "Civil and Environmental Engineering, Princeton University, Princeton, NJ 08544, USA."
+        },
+        {
+          "firstname": "D",
+          "lastname": "Tian",
+          "affiliation": "Civil and Environmental Engineering, Princeton University, Princeton, NJ 08544, USA."
+        },
+        {
+          "firstname": "S",
+          "lastname": "Sichinga",
+          "affiliation": "Zambia Agricultural Research Institute, Mt. Makhulu Research Station, Chilanga, Zambia."
+        },
+        {
+          "firstname": "M",
+          "lastname": "Mwale",
+          "affiliation": "Zambia Agricultural Research Institute, Mt. Makhulu Research Station, Chilanga, Zambia."
+        },
+        {
+          "firstname": "L",
+          "lastname": "Kehoe",
+          "affiliation": "Geography Department, Humboldt University, 10099 Berlin, Germany."
+        },
+        {
+          "firstname": "T",
+          "lastname": "Kuemmerle",
+          "affiliation": "Geography Department, Humboldt University, 10099 Berlin, Germany Integrative Research Institute for Transformations in Human-Environment Systems (IRI THESys), Humboldt University, 10099 Berlin, Germany."
+        },
+        {
+          "firstname": "A",
+          "lastname": "Berven",
+          "affiliation": "Civil and Environmental Engineering, Princeton University, Princeton, NJ 08544, USA."
+        },
+        {
+          "firstname": "N",
+          "lastname": "Chaney",
+          "affiliation": "Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton, NJ 08544, USA."
+        },
+        {
+          "firstname": "J",
+          "lastname": "Sheffield",
+          "affiliation": "Civil and Environmental Engineering, Princeton University, Princeton, NJ 08544, USA."
+        },
+        {
+          "firstname": "EF",
+          "lastname": "Wood",
+          "affiliation": "Civil and Environmental Engineering, Princeton University, Princeton, NJ 08544, USA."
+        },
+        {
+          "firstname": "KK",
+          "lastname": "Caylor",
+          "affiliation": "Civil and Environmental Engineering, Princeton University, Princeton, NJ 08544, USA."
+        }
+      ],
+      "publication": {
+        "title": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+        "volume": "371",
+        "issue": "1703",
+        "date": "Sep 19, 2016 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    },
+    {
+      "articleTitle": "Carbon pools recover more quickly than plant biodiversity in tropical secondary forests.",
+      "abstractText": "Although increasing efforts are being made to restore tropical forests, little information is available regarding the time scales required for carbon and plant biodiversity to recover to the values associated with undisturbed forests. To address this knowledge gap, we carried out a meta-analysis comparing data from more than 600 secondary tropical forest sites with nearby undisturbed reference forests. Above-ground biomass approached equivalence to reference values within 80 years since last disturbance, whereas below-ground biomass took longer to recover. Soil carbon content showed little relationship with time since disturbance. Tree species richness recovered after about 50 years. By contrast, epiphyte richness did not reach equivalence to undisturbed forests. The proportion of undisturbed forest trees and epiphyte species found in secondary forests was low and changed little over time. Our results indicate that carbon pools and biodiversity show different recovery rates under passive, secondary succession and that colonization by undisturbed forest plant species is slow. Initiatives such as the Convention on Biological Diversity and REDD+ should therefore encourage active management to help to achieve their aims of restoring both carbon and biodiversity in tropical forests. ",
+      "docId": "24197410",
+      "pmid": "24197410",
+      "pmcid": "3826225",
+      "authors": [
+        {
+          "firstname": "PhilipA",
+          "lastname": "Martin",
+          "affiliation": "Centre for Ecology and Hydrology, , Benson Lane, Wallingford, Oxfordshire OX10 8BB, UK, Centre for Conservation Ecology and Environmental Science, School of Applied Sciences, Bournemouth University, , Poole BH12 5BB, UK."
+        },
+        {
+          "firstname": "AdrianC",
+          "lastname": "Newton"
+        },
+        {
+          "firstname": "JamesM",
+          "lastname": "Bullock"
+        }
+      ],
+      "publication": {
+        "title": "Proceedings. Biological sciences",
+        "volume": "280",
+        "issue": "1773",
+        "pages": "20132236",
+        "date": "Dec 22, 2013 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    },
+    {
+      "articleTitle": "Harnessing carbon payments to protect biodiversity.",
+      "abstractText": "Initiatives to reduce carbon emissions from deforestation and degradation (REDD) are providing increasing incentives for forest protection. The collateral benefits for biodiversity depend on the extent to which emissions reductions and biodiversity conservation can be achieved in the same places. Globally, we demonstrate spatial trade-offs in allocating funds to protect forests for carbon and biodiversity and show that cost-effective spending for REDD would protect relatively few species of forest vertebrates. Because trade-offs are nonlinear, we discover that minor adjustments to the allocation of funds could double the biodiversity protected by REDD, while reducing carbon outcomes by only 4 to 8%.",
+      "docId": "19965752",
+      "pmid": "19965752",
+      "authors": [
+        {
+          "firstname": "Oscar",
+          "lastname": "Venter",
+          "affiliation": "The Ecology Centre, University of Queensland, Brisbane, Queensland 4072, Australia. oventer@uq.edu.au"
+        },
+        {
+          "firstname": "WilliamF",
+          "lastname": "Laurance"
+        },
+        {
+          "firstname": "Takuya",
+          "lastname": "Iwamura"
+        },
+        {
+          "firstname": "KerrieA",
+          "lastname": "Wilson"
+        },
+        {
+          "firstname": "RichardA",
+          "lastname": "Fuller"
+        },
+        {
+          "firstname": "HughP",
+          "lastname": "Possingham"
+        }
+      ],
+      "publication": {
+        "title": "Science (New York, N.Y.)",
+        "volume": "326",
+        "issue": "5958",
+        "pages": "1368",
+        "date": "Dec 4, 2009 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    }
+  ]
+}

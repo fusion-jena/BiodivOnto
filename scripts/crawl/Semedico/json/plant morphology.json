@@ -1,0 +1,259 @@
+{
+  "inputstring": "plant morphology biodiversity",
+  "tokens": [
+    "biodiversity",
+    "morphology",
+    "plant"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 2986,
+  "bibliographylist": [
+    {
+      "articleTitle": "Reading the Complex Skipper Butterfly Fauna of One Tropical Place",
+      "abstractText": "Background An intense, 30-year, ongoing biodiversity inventory of Lepidoptera, together with their food plants and parasitoids, is centered on the rearing of wild-caught caterpillars in the 120,000 terrestrial hectares of dry, rain, and cloud forest of Area de Conservacion Guanacaste (ACG) in northwestern Costa Rica. Since 2003, DNA barcoding of all species has aided their identification and discovery. We summarize the process and results for a large set of the species of two speciose subfamilies of ACG skipper butterflies (Hesperiidae) and emphasize the effectiveness of barcoding these species (which are often difficult and time-consuming to identify). Methodology/Principal Findings Adults are DNA barcoded by the Biodiversity Institute of Ontario, Guelph, Canada; and they are identified by correlating the resulting COI barcode information with more traditional information such as food plant, facies, genitalia, microlocation within ACG, caterpillar traits, etc. This process has found about 303 morphologically defined species of eudamine and pyrgine Hesperiidae breeding in ACG (about 25% of the ACG butterfly fauna) and another 44 units indicated by distinct barcodes (n \u003d 9,094), which may be additional species and therefore may represent as much as a 13% increase. All but the members of one complex can be identified by their DNA barcodes. Conclusions/Significance Addition of DNA barcoding to the methodology greatly improved the inventory, both through faster (hence cheaper) accurate identification of the species that are distinguishable without barcoding, as well as those that require it, and through the revelation of species “hidden” within what have long been viewed as single species. Barcoding increased the recognition of species-level specialization. It would be no more appropriate to ignore barcode data in a species inventory than it would be to ignore adult genitalia variation or caterpillar ecology.",
+      "docId": "PMC3156701",
+      "pmid": "21857895",
+      "pmcid": "3156701",
+      "authors": [
+        {
+          "firstname": "DanielH.",
+          "lastname": "Janzen"
+        },
+        {
+          "firstname": "Winnie",
+          "lastname": "Hallwachs"
+        },
+        {
+          "firstname": "JohnM.",
+          "lastname": "Burns"
+        },
+        {
+          "firstname": "Mehrdad",
+          "lastname": "Hajibabaei"
+        },
+        {
+          "firstname": "Claudia",
+          "lastname": "Bertrand"
+        },
+        {
+          "firstname": "PaulD.N.",
+          "lastname": "Hebert"
+        },
+        {
+          "firstname": "Sergios-Orestis",
+          "lastname": "Kolokotronis"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Enhanced Disease Susceptibility 1 and Salicylic Acid Act Redundantly to Regulate Resistance Gene-Mediated Signaling",
+      "abstractText": "Resistance (R) protein–associated pathways are well known to participate in defense against a variety of microbial pathogens. Salicylic acid (SA) and its associated proteinaceous signaling components, including enhanced disease susceptibility 1 (EDS1), non–race-specific disease resistance 1 (NDR1), phytoalexin deficient 4 (PAD4), senescence associated gene 101 (SAG101), and EDS5, have been identified as components of resistance derived from many R proteins. Here, we show that EDS1 and SA fulfill redundant functions in defense signaling mediated by R proteins, which were thought to function independent of EDS1 and/or SA. Simultaneous mutations in EDS1 and the SA–synthesizing enzyme SID2 compromised hypersensitive response and/or resistance mediated by R proteins that contain coiled coil domains at their N-terminal ends. Furthermore, the expression of R genes and the associated defense signaling induced in response to a reduction in the level of oleic acid were also suppressed by compromising SA biosynthesis in the eds1 mutant background. The functional redundancy with SA was specific to EDS1. Results presented here redefine our understanding of the roles of EDS1 and SA in plant defense. Author Summary Salicylic acid and enhanced disease susceptibility 1 are important components of resistance gene-mediated defense signaling against diverse pathogens in a variety of plants. Present understanding of plant defense signaling pathways places salicylic acid and enhanced disease susceptibility 1 downstream of resistant protein activation. In addition, enhanced disease susceptibility 1 is primarily thought to function in the signaling initiated via Toll-interleukin 1-receptor type of resistance proteins. Here, we show that salicylic acid and enhanced disease susceptibility 1 serve redundant functions in defense signaling mediated by coiled-coil-domain containing resistance proteins that were thought to function independent of enhanced disease susceptibility 1. Furthermore, resistance signaling induced under low oleic acid conditions also requires enhanced disease susceptibility 1 and salicylic acid in a redundant manner, but these components are required upstream of resistance gene expression. Together, these results show that the functional redundancy between salicylic acid and enhanced disease susceptibility 1 has precluded their detection as required components of many resistance protein–signaling pathways.",
+      "docId": "PMC2695777",
+      "pmid": "19578402",
+      "pmcid": "2695777",
+      "authors": [
+        {
+          "firstname": "SrivathsaC.",
+          "lastname": "Venugopal"
+        },
+        {
+          "firstname": "Rae-Dong",
+          "lastname": "Jeong"
+        },
+        {
+          "firstname": "MihirK.",
+          "lastname": "Mandal"
+        },
+        {
+          "firstname": "Shifeng",
+          "lastname": "Zhu"
+        },
+        {
+          "firstname": "A.C.",
+          "lastname": "Chandra-Shekara"
+        },
+        {
+          "firstname": "Ye",
+          "lastname": "Xia"
+        },
+        {
+          "firstname": "Matthew",
+          "lastname": "Hersh"
+        },
+        {
+          "firstname": "ArnoldJ.",
+          "lastname": "Stromberg"
+        },
+        {
+          "firstname": "DuRoy",
+          "lastname": "Navarre"
+        },
+        {
+          "firstname": "Aardra",
+          "lastname": "Kachroo"
+        },
+        {
+          "firstname": "Pradeep",
+          "lastname": "Kachroo"
+        },
+        {
+          "firstname": "GregoryP.",
+          "lastname": "Copenhaver"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2009 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Multi-loci Molecular Characterisation of Endophytic Fungi Isolated from Five Medicinal Plants of Meghalaya, India",
+      "abstractText": "The phylogenetic relationships of the most dominant and morphologically cryptic endophytic fungal isolates from each of five selected medicinal plants, namely Potentilla fulgens, Osbeckia stellata, Osbeckia chinensis, Camellia caduca, and Schima khasiana of the biodiversity rich state of Meghalaya, were assessed with random amplification of polymorphic DNA and PCR-restriction fragment length polymorphism profiles. Sequencing of the internal transcribed spacer 1, small subunit rRNA and partial β-tubulin gene fragments was also conducted to determine the phylogenetic relationships of these isolates with fungal sequences available in Genbank, NCBI. The identity of the fungal isolates is suggested based on the molecular phylogenetic data.",
+      "docId": "PMC3385093",
+      "pmid": "22783080",
+      "pmcid": "3385093",
+      "authors": [
+        {
+          "firstname": "RanjanKumar",
+          "lastname": "Bhagobaty"
+        },
+        {
+          "firstname": "S.R.",
+          "lastname": "Joshi"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Identification of Amazonian Trees with DNA Barcodes",
+      "abstractText": "Background Large-scale plant diversity inventories are critical to develop informed conservation strategies. However, the workload required for classic taxonomic surveys remains high and is particularly problematic for megadiverse tropical forests. Methodology/Principal Findings Based on a comprehensive census of all trees in two hectares of a tropical forest in French Guiana, we examined whether plant DNA barcoding could contribute to increasing the quality and the pace of tropical plant biodiversity surveys. Of the eight plant DNA markers we tested (rbcLa, rpoC1, rpoB, matK, ycf5, trnL, psbA-trnH, ITS), matK and ITS had a low rate of sequencing success. More critically, none of the plastid markers achieved a rate of correct plant identification greater than 70%, either alone or combined. The performance of all barcoding markers was noticeably low in few species-rich clades, such as the Laureae, and the Sapotaceae. A field test of the approach enabled us to detect 130 molecular operational taxonomic units in a sample of 252 juvenile trees. Including molecular markers increased the identification rate of juveniles from 72% (morphology alone) to 96% (morphology and molecular) of the individuals assigned to a known tree taxon. Conclusion/Significance We conclude that while DNA barcoding is an invaluable tool for detecting errors in identifications and for identifying plants at juvenile stages, its limited ability to identify collections will constrain the practical implementation of DNA-based tropical plant biodiversity programs.",
+      "docId": "PMC2759516",
+      "pmid": "19834612",
+      "pmcid": "2759516",
+      "authors": [
+        {
+          "firstname": "MailynAdriana",
+          "lastname": "Gonzalez"
+        },
+        {
+          "firstname": "Christopher",
+          "lastname": "Baraloto"
+        },
+        {
+          "firstname": "Julien",
+          "lastname": "Engel"
+        },
+        {
+          "firstname": "ScottA.",
+          "lastname": "Mori"
+        },
+        {
+          "firstname": "Pascal",
+          "lastname": "Pétronelli"
+        },
+        {
+          "firstname": "Bernard",
+          "lastname": "Riéra"
+        },
+        {
+          "firstname": "Aurélien",
+          "lastname": "Roger"
+        },
+        {
+          "firstname": "Christophe",
+          "lastname": "Thébaud"
+        },
+        {
+          "firstname": "Jérôme",
+          "lastname": "Chave"
+        },
+        {
+          "firstname": "Andy",
+          "lastname": "Hector"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2009 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Genetic and morphological variation in sexual and asexual parasitoids of the genus Lysiphlebus – an apparent link between wing shape and reproductive mode",
+      "abstractText": "Background Morphological divergence often increases with phylogenetic distance, thus making morphology taxonomically informative. However, transitions to asexual reproduction may complicate this relationship because asexual lineages capture and freeze parts of the phenotypic variation of the sexual populations from which they derive. Parasitoid wasps belonging to the genus Lysiphlebus Foerster (Hymenoptera: Braconidae: Aphidiinae) are composed of over 20 species that exploit over a hundred species of aphid hosts, including many important agricultural pests. Within Lysiphlebus, two genetically and morphologically well-defined species groups are recognised: the “fabarum” and the “testaceipes” groups. Yet within each group, sexual as well as asexual lineages occur, and in L. fabarum different morphs of unknown origin and status have been recognised. In this study, we selected a broad sample of specimens from the genus Lysiphlebus to explore the relationship between genetic divergence, reproductive mode and morphological variation in wing size and shape (quantified by geometric morphometrics). Results The analyses of mitochondrial and nuclear gene sequences revealed a clear separation between the “testaceipes” and “fabarum” groups of Lysiphlebus, as well as three well-defined phylogenetic lineages within the “fabarum” species group and two lineages within the “testaceipes” group. Divergence in wing shape was concordant with the deep split between the “testaceipes” and “fabarum” species groups, but within groups no clear association between genetic divergence and wing shape variation was observed. On the other hand, we found significant and consistent differences in the shape of the wing between sexual and asexual lineages, even when they were closely related. Conclusions Mapping wing shape data onto an independently derived molecular phylogeny of Lysiphlebus revealed an association between genetic and morphological divergence only for the deepest phylogenetic split. In more recently diverged taxa, much of the variation in wing shape was explained by differences between sexual and asexual lineages, suggesting a mechanistic link between wing shape and reproductive mode in these parasitoid wasps. Electronic supplementary material The online version of this article (doi:10.1186/s12862-015-0293-5) contains supplementary material, which is available to authorized users.",
+      "docId": "PMC4332431",
+      "pmid": "25887731",
+      "pmcid": "4332431",
+      "authors": [
+        {
+          "firstname": "Andjeljko",
+          "lastname": "Petrović"
+        },
+        {
+          "firstname": "Milana",
+          "lastname": "Mitrović"
+        },
+        {
+          "firstname": "Ana",
+          "lastname": "Ivanović"
+        },
+        {
+          "firstname": "Vladimir",
+          "lastname": "Žikić"
+        },
+        {
+          "firstname": "NickolasG",
+          "lastname": "Kavallieratos"
+        },
+        {
+          "firstname": "Petr",
+          "lastname": "Starý"
+        },
+        {
+          "firstname": "AnaMitrovski",
+          "lastname": "Bogdanović"
+        },
+        {
+          "firstname": "Željko",
+          "lastname": "Tomanović"
+        },
+        {
+          "firstname": "Christoph",
+          "lastname": "Vorburger"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

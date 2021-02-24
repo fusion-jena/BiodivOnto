@@ -1,0 +1,162 @@
+{
+  "inputstring": "species biodiversity",
+  "tokens": [
+    "biodiversity",
+    "species"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 60553,
+  "bibliographylist": [
+    {
+      "articleTitle": "Invasive Species and Biodiversity Crises: Testing the Link in the Late Devonian",
+      "abstractText": "During the Late Devonian Biodiversity Crisis, the primary driver of biodiversity decline was the dramatic reduction in speciation rates, not elevated extinction rates; however, the causes of speciation decline have been previously unstudied. Speciation, the formation of new species from ancestral populations, occurs by two primary allopatric mechanisms: vicariance, where the ancestral population is passively divided into two large subpopulations that later diverge and form two daughter species, and dispersal, in which a small subset of the ancestral population actively migrates then diverges to form a new species. Studies of modern and fossil clades typically document speciation by vicariance in much higher frequencies than speciation by dispersal. To assess the mechanism behind Late Devonian speciation reduction, speciation rates were calculated within stratigraphically constrained species-level phylogenetic hypotheses for three representative clades and mode of speciation at cladogenetic events was assessed across four clades in three phyla: Arthropoda, Brachiopoda, and Mollusca. In all cases, Devonian taxa exhibited a congruent reduction in speciation rate between the Middle Devonian pre-crisis interval and the Late Devonian crisis interval. Furthermore, speciation via vicariance is almost entirely absent during the crisis interval; most episodes of speciation during this time were due to dispersal. The shutdown of speciation by vicariance during this interval was related to widespread interbasinal species invasions. The lack of Late Devonian vicariance is diametrically opposed to the pattern observed in other geologic intervals, which suggests the loss of vicariant speciation attributable to species invasions during the Late Devonian was a causal factor in the biodiversity crisis. Similarly, modern ecosystems, in which invasive species are rampant, may be expected to exhibit similar shutdown of speciation by vicariance as an outcome of the modern biodiversity crisis.",
+      "docId": "PMC3012059",
+      "pmid": "21206907",
+      "pmcid": "3012059",
+      "authors": [
+        {
+          "firstname": "AlyciaL.",
+          "lastname": "Stigall"
+        },
+        {
+          "firstname": "Anna",
+          "lastname": "Stepanova"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Reef Fishes in Biodiversity Hotspots Are at Greatest Risk from Loss of Coral Species",
+      "abstractText": "Coral reef ecosystems are under a variety of threats from global change and anthropogenic disturbances that are reducing the number and type of coral species on reefs. Coral reefs support upwards of one third of all marine species of fish, so the loss of coral habitat may have substantial consequences to local fish diversity. We posit that the effects of habitat degradation will be most severe in coral regions with highest biodiversity of fishes due to greater specialization by fishes for particular coral habitats. Our novel approach to this important but untested hypothesis was to conduct the same field experiment at three geographic locations across the Indo-Pacific biodiversity gradient (Papua New Guinea; Great Barrier Reef, Australia; French Polynesia). Specifically, we experimentally explored whether the response of local fish communities to identical changes in diversity of habitat-providing corals was independent of the size of the regional species pool of fishes. We found that the proportional reduction (sensitivity) in fish biodiversity to loss of coral diversity was greater for regions with larger background species pools, reflecting variation in the degree of habitat specialization of fishes across the Indo-Pacific diversity gradient. This result implies that habitat-associated fish in diversity hotspots are at greater risk of local extinction to a given loss of habitat diversity compared to regions with lower species richness. This mechanism, related to the positive relationship between habitat specialization and regional biodiversity, and the elevated extinction risk this poses for biodiversity hotspots, may apply to species in other types of ecosystems.",
+      "docId": "PMC4430502",
+      "pmid": "25970588",
+      "pmcid": "4430502",
+      "authors": [
+        {
+          "firstname": "SallyJ.",
+          "lastname": "Holbrook"
+        },
+        {
+          "firstname": "RussellJ.",
+          "lastname": "Schmitt"
+        },
+        {
+          "firstname": "Vanessa",
+          "lastname": "Messmer"
+        },
+        {
+          "firstname": "AndrewJ.",
+          "lastname": "Brooks"
+        },
+        {
+          "firstname": "Maya",
+          "lastname": "Srinivasan"
+        },
+        {
+          "firstname": "PhilipL.",
+          "lastname": "Munday"
+        },
+        {
+          "firstname": "GeoffreyP.",
+          "lastname": "Jones"
+        },
+        {
+          "firstname": "SebastianC.A.",
+          "lastname": "Ferse"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Maximizing species conservation in continental Ecuador: a case of systematic conservation planning for biodiverse regions",
+      "abstractText": "Ecuador has the largest number of species by area worldwide, but also a low representation of species within its protected areas. Here, we applied systematic conservation planning to identify potential areas for conservation in continental Ecuador, with the aim of increasing the representation of terrestrial species diversity in the protected area network. We selected 809 terrestrial species (amphibians, birds, mammals, and plants), for which distributions were estimated via species distribution models (SDMs), using Maxent. For each species we established conservation goals based on conservation priorities, and estimated new potential protected areas using Marxan conservation planning software. For each selected area, we determined their conservation priority and feasibility of establishment, two important aspects in the decision-making processes. We found that according to our conservation goals, the current protected area network contains large conservation gaps. Potential areas for conservation almost double the surface area of currently protected areas. Most of the newly proposed areas are located in the Coast, a region with large conservation gaps and irreversible changes in land use. The most feasible areas for conservation were found in the Amazon and Andes regions, which encompass more undisturbed habitats, and already harbor most of the current reserves. Our study allows defining a viable strategy for preserving Ecuador\u0027s biodiversity, by combining SDMs, GIS-based decision-support software, and priority and feasibility assessments of the selected areas. This approach is useful for complementing protected area networks in countries with great biodiversity, insufficient biological information, and limited resources for conservation.",
+      "docId": "PMC4203289",
+      "pmid": "25360277",
+      "pmcid": "4203289",
+      "authors": [
+        {
+          "firstname": "Janeth",
+          "lastname": "Lessmann"
+        },
+        {
+          "firstname": "Jesús",
+          "lastname": "Muñoz"
+        },
+        {
+          "firstname": "Elisa",
+          "lastname": "Bonaccorso"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Biodiversity loss decreases parasite diversity: theory and patterns",
+      "abstractText": "Past models have suggested host–parasite coextinction could lead to linear, or concave down relationships between free-living species richness and parasite richness. I explored several models for the relationship between parasite richness and biodiversity loss. Life cycle complexity, low generality of parasites and sensitivity of hosts reduced the robustness of parasite species to the loss of free-living species diversity. Food-web complexity and the ordering of extinctions altered these relationships in unpredictable ways. Each disassembly of a food web resulted in a unique relationship between parasite richness and the richness of free-living species, because the extinction trajectory of parasites was sensitive to the order of extinctions of free-living species. However, the average of many disassemblies tended to approximate an analytical model. Parasites of specialist hosts and hosts higher on food chains were more likely to go extinct in food-web models. Furthermore, correlated extinctions between hosts and parasites (e.g. if parasites share a host with a specialist predator) led to steeper declines in parasite richness with biodiversity loss. In empirical food webs with random removals of free-living species, the relationship between free-living species richness and parasite richness was, on average, quasi-linear, suggesting biodiversity loss reduces parasite diversity more than previously thought.",
+      "docId": "PMC3427564",
+      "pmid": "22966137",
+      "pmcid": "3427564",
+      "authors": [
+        {
+          "firstname": "KevinD.",
+          "lastname": "Lafferty"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Coevolution between native and invasive plant competitors: implications for invasive species management",
+      "abstractText": "Invasive species may establish in communities because they are better competitors than natives, but in order to remain community dominants, the competitive advantage of invasive species must be persistent. Native species that are not extirpated when highly invasive species are introduced are likely to compete with invaders. When population sizes and genetic diversity of native species are large enough, natives may be able to evolve traits that allow them to co-occur with invasive species. Native species may also evolve to become significant competitors with invasive species, and thus affect the fitness of invaders. Invasive species may respond in turn, creating either transient or continuing coevolution between competing species. In addition to demographic factors such as population size and growth rates, a number of factors including gene flow, genetic drift, the number of selection agents, encounter rates, and genetic diversity may affect the ability of native and invasive species to evolve competitive ability against one another. We discuss how these factors may differ between populations of native and invasive plants, and how this might affect their ability to respond to selection. Management actions that maintain genetic diversity in native species while reducing population sizes and genetic diversity in invasive species could promote the ability of natives to evolve improved competitive ability.",
+      "docId": "PMC3352482",
+      "pmid": "25567917",
+      "pmcid": "3352482",
+      "authors": [
+        {
+          "firstname": "ElizabethA",
+          "lastname": "Leger"
+        },
+        {
+          "firstname": "ErinK",
+          "lastname": "Espeland"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

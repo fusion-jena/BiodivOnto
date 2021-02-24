@@ -1,0 +1,206 @@
+{
+  "inputstring": "ecosystem biodiversity",
+  "tokens": [
+    "biodiversity",
+    "ecosystem"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 116300,
+  "bibliographylist": [
+    {
+      "articleTitle": "Trait-based approaches for understanding microbial biodiversity and ecosystem functioning",
+      "abstractText": "In ecology, biodiversity-ecosystem functioning (BEF) research has seen a shift in perspective from taxonomy to function in the last two decades, with successful application of trait-based approaches. This shift offers opportunities for a deeper mechanistic understanding of the role of biodiversity in maintaining multiple ecosystem processes and services. In this paper, we highlight studies that have focused on BEF of microbial communities with an emphasis on integrating trait-based approaches to microbial ecology. In doing so, we explore some of the inherent challenges and opportunities of understanding BEF using microbial systems. For example, microbial biologists characterize communities using gene phylogenies that are often unable to resolve functional traits. Additionally, experimental designs of existing microbial BEF studies are often inadequate to unravel BEF relationships. We argue that combining eco-physiological studies with contemporary molecular tools in a trait-based framework can reinforce our ability to link microbial diversity to ecosystem processes. We conclude that such trait-based approaches are a promising framework to increase the understanding of microbial BEF relationships and thus generating systematic principles in microbial ecology and more generally ecology.",
+      "docId": "PMC4033906",
+      "pmid": "24904563",
+      "pmcid": "4033906",
+      "authors": [
+        {
+          "firstname": "Sascha",
+          "lastname": "Krause"
+        },
+        {
+          "firstname": "Xavier",
+          "lastname": "Le Roux"
+        },
+        {
+          "firstname": "PascalA.",
+          "lastname": "Niklaus"
+        },
+        {
+          "firstname": "PeterM.",
+          "lastname": "Van Bodegom"
+        },
+        {
+          "firstname": "JayT.",
+          "lastname": "Lennon"
+        },
+        {
+          "firstname": "Stefan",
+          "lastname": "Bertilsson"
+        },
+        {
+          "firstname": "Hans-Peter",
+          "lastname": "Grossart"
+        },
+        {
+          "firstname": "Laurent",
+          "lastname": "Philippot"
+        },
+        {
+          "firstname": "PaulL.E.",
+          "lastname": "Bodelier"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Linking biodiversity and ecosystems: towards a unifying ecological theory",
+      "abstractText": "Community ecology and ecosystem ecology provide two perspectives on complex ecological systems that have largely complementary strengths and weaknesses. Merging the two perspectives is necessary both to ensure continued scientific progress and to provide society with the scientific means to face growing environmental challenges. Recent research on biodiversity and ecosystem functioning has contributed to this goal in several ways. By addressing a new question of high relevance for both science and society, by challenging existing paradigms, by tightly linking theory and experiments, by building scientific consensus beyond differences in opinion, by integrating fragmented disciplines and research fields, by connecting itself to other disciplines and management issues, it has helped transform ecology not only in content, but also in form. Creating a genuine evolutionary ecosystem ecology that links the evolution of species traits at the individual level, the dynamics of species interactions, and the overall functioning of ecosystems would give new impetus to this much-needed process of unification across ecological disciplines. Recent community evolution models are a promising step in that direction.",
+      "docId": "PMC2842700",
+      "pmid": "20008385",
+      "pmcid": "2842700",
+      "authors": [
+        {
+          "firstname": "Michel",
+          "lastname": "Loreau"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Forest restoration, biodiversity and ecosystem functioning",
+      "abstractText": "Globally, forests cover nearly one third of the land area and they contain over 80% of terrestrial biodiversity. Both the extent and quality of forest habitat continue to decrease and the associated loss of biodiversity jeopardizes forest ecosystem functioning and the ability of forests to provide ecosystem services. In the light of the increasing population pressure, it is of major importance not only to conserve, but also to restore forest ecosystems. Ecological restoration has recently started to adopt insights from the biodiversity-ecosystem functioning (BEF) perspective. Central is the focus on restoring the relation between biodiversity and ecosystem functioning. Here we provide an overview of important considerations related to forest restoration that can be inferred from this BEF-perspective. Restoring multiple forest functions requires multiple species. It is highly unlikely that species-poor plantations, which may be optimal for above-ground biomass production, will outperform species diverse assemblages for a combination of functions, including overall carbon storage and control over water and nutrient flows. Restoring stable forest functions also requires multiple species. In particular in the light of global climatic change scenarios, which predict more frequent extreme disturbances and climatic events, it is important to incorporate insights from the relation between biodiversity and stability of ecosystem functioning into forest restoration projects. Rather than focussing on species per se, focussing on functional diversity of tree species assemblages seems appropriate when selecting tree species for restoration. Finally, also plant genetic diversity and above - below-ground linkages should be considered during the restoration process, as these likely have prominent but until now poorly understood effects at the level of the ecosystem. The BEF-approach provides a useful framework to evaluate forest restoration in an ecosystem functioning context, but it also highlights that much remains to be understood, especially regarding the relation between forest functioning on the one side and genetic diversity and above-ground-below-ground species associations on the other. The strong emphasis of the BEF-approach on functional rather than taxonomic diversity may also be the beginning of a paradigm shift in restoration ecology, increasing the tolerance towards allochthonous species.",
+      "docId": "PMC3234175",
+      "pmid": "22115365",
+      "pmcid": "3234175",
+      "authors": [
+        {
+          "firstname": "Raf",
+          "lastname": "Aerts"
+        },
+        {
+          "firstname": "Olivier",
+          "lastname": "Honnay"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "High-resolution deep sequencing reveals biodiversity, population structure, and persistence of HIV-1 quasispecies within host ecosystems",
+      "abstractText": "Background Deep sequencing provides the basis for analysis of biodiversity of taxonomically similar organisms in an environment. While extensively applied to microbiome studies, population genetics studies of viruses are limited. To define the scope of HIV-1 population biodiversity within infected individuals, a suite of phylogenetic and population genetic algorithms was applied to HIV-1 envelope hypervariable domain 3 (Env V3) within peripheral blood mononuclear cells from a group of perinatally HIV-1 subtype B infected, therapy-naïve children. Results Biodiversity of HIV-1 Env V3 quasispecies ranged from about 70 to 270 unique sequence clusters across individuals. Viral population structure was organized into a limited number of clusters that included the dominant variants combined with multiple clusters of low frequency variants. Next generation viral quasispecies evolved from low frequency variants at earlier time points through multiple non-synonymous changes in lineages within the evolutionary landscape. Minor V3 variants detected as long as four years after infection co-localized in phylogenetic reconstructions with early transmitting viruses or with subsequent plasma virus circulating two years later. Conclusions Deep sequencing defines HIV-1 population complexity and structure, reveals the ebb and flow of dominant and rare viral variants in the host ecosystem, and identifies an evolutionary record of low-frequency cell-associated viral V3 variants that persist for years. Bioinformatics pipeline developed for HIV-1 can be applied for biodiversity studies of virome populations in human, animal, or plant ecosystems.",
+      "docId": "PMC3531307",
+      "pmid": "23244298",
+      "pmcid": "3531307",
+      "authors": [
+        {
+          "firstname": "Li",
+          "lastname": "Yin"
+        },
+        {
+          "firstname": "Li",
+          "lastname": "Liu"
+        },
+        {
+          "firstname": "Yijun",
+          "lastname": "Sun"
+        },
+        {
+          "firstname": "Wei",
+          "lastname": "Hou"
+        },
+        {
+          "firstname": "AmandaC",
+          "lastname": "Lowe"
+        },
+        {
+          "firstname": "BrentP",
+          "lastname": "Gardner"
+        },
+        {
+          "firstname": "Marco",
+          "lastname": "Salemi"
+        },
+        {
+          "firstname": "WiltonB",
+          "lastname": "Williams"
+        },
+        {
+          "firstname": "WilliamG",
+          "lastname": "Farmerie"
+        },
+        {
+          "firstname": "JohnW",
+          "lastname": "Sleasman"
+        },
+        {
+          "firstname": "MaureenM",
+          "lastname": "Goodenow"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Spatiotemporal modulation of biodiversity in a synthetic chemical-mediated ecosystem",
+      "abstractText": "Biodiversity, or the relative abundance of species, measures the persistence of an ecosystem. To better understand its modulation, we analyzed the spatial and temporal dynamics of a synthetic, chemical-mediated ecosystem that consisted of two engineered Escherichia coli populations. Depending on the specific experimental conditions implemented, the dominant interaction between the two populations could be competition for nutrients or predation due to engineered communication. While the two types of interactions resulted in different spatial patterns, they demonstrated a common trend in terms of the modulation of biodiversity. Specifically, biodiversity decreased with increasing cellular motility if the segregation distance between the two populations was comparable to the length scale of the chemical-mediated interaction. Otherwise, biodiversity was insensitive to cellular motility. Our results suggested a simple criterion for predicting the modulation of biodiversity by habitat partitioning and cellular motility in chemical-mediated ecosystems.",
+      "docId": "PMC2782429",
+      "pmid": "19915540",
+      "pmcid": "2782429",
+      "authors": [
+        {
+          "firstname": "Hao",
+          "lastname": "Song"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Payne"
+        },
+        {
+          "firstname": "Meagan",
+          "lastname": "Gray"
+        },
+        {
+          "firstname": "Lingchong",
+          "lastname": "You"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

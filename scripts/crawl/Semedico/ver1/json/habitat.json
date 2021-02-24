@@ -1,0 +1,245 @@
+{
+  "inputstring": "habitat",
+  "tokens": [
+    "habitat"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 323590,
+  "bibliographylist": [
+    {
+      "articleTitle": "Evolution of within-colony distribution patterns of birds in response to habitat structure",
+      "abstractText": "It has long been suggested that habitat structure affects how colonial birds are distributed within their nesting aggregations, but this hypothesis has never been formally tested. The aim of this study was to test for a correlated evolution between habitat heterogeneity and within-colony distributions of Ciconiiformes by using Pagel’s general method of comparative analysis for discrete variables. The analysis indicated that central-periphery gradients of distribution (high-quality individuals occupying central nesting locations) prevail in species breeding in homogeneous habitats. These were mainly ground-nesting larids and spheniscids, where clear central-periphery patterns were recorded in ca. 80 % of the taxa. Since homogeneous habitats provide little variation in the physical quality of nest sites, central nesting locations should be largely preferred because they give better protection against predators by means of more efficient predator detection and deterrence. By contrast, central-periphery gradients tended to be disrupted in heterogeneous habitats, where 75 % of colonial Ciconiiform species showed uniform patterns of distribution. Under this model of distribution, edge nest sites of high physical quality confer higher fitness benefits in comparison to low-quality central sites, and thus, high-quality pairs are likely to choose nest sites irrespectively of their within-colony location. Breeding in homogeneous habitats and uniform distribution patterns were identified as probable ancestral states in Ciconiiformes, but there was a significant transition rate from uniform to central-periphery distributions in species occupying homogeneous habitats.",
+      "docId": "PMC3986900",
+      "pmid": "24771961",
+      "pmcid": "3986900",
+      "authors": [
+        {
+          "firstname": "Piotr",
+          "lastname": "Minias"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Impacts of sea level rise and climate change on coastal plant species in the central California coast",
+      "abstractText": "Local increases in sea level caused by global climate change pose a significant threat to the persistence of many coastal plant species through exacerbating inundation, flooding, and erosion. In addition to sea level rise (SLR), climate changes in the form of air temperature and precipitation regimes will also alter habitats of coastal plant species. Although numerous studies have analyzed the effect of climate change on future habitats through species distribution models (SDMs), none have incorporated the threat of exposure to SLR. We developed a model that quantified the effect of both SLR and climate change on habitat for 88 rare coastal plant species in San Luis Obispo, Santa Barbara, and Ventura Counties, California, USA (an area of 23,948 km2). Our SLR model projects that by the year 2100, 60 of the 88 species will be threatened by SLR. We found that the probability of being threatened by SLR strongly correlates with a species’ area, elevation, and distance from the coast, and that 10 species could lose their entire current habitat in the study region. We modeled the habitat suitability of these 10 species under future climate using a species distribution model (SDM). Our SDM projects that 4 of the 10 species will lose all suitable current habitats in the region as a result of climate change. While SLR accounts for up to 9.2 km2 loss in habitat, climate change accounts for habitat suitability changes ranging from a loss of 1,439 km2 for one species to a gain of 9,795 km2 for another species. For three species, SLR is projected to reduce future suitable area by as much as 28% of total area. This suggests that while SLR poses a higher risk, climate changes in precipitation and air temperature represents a lesser known but potentially larger risk and a small cumulative effect from both.",
+      "docId": "PMC4435450",
+      "pmid": "26020011",
+      "pmcid": "4435450",
+      "authors": [
+        {
+          "firstname": "KendraL.",
+          "lastname": "Garner"
+        },
+        {
+          "firstname": "MichelleY.",
+          "lastname": "Chang"
+        },
+        {
+          "firstname": "MatthewT.",
+          "lastname": "Fulda"
+        },
+        {
+          "firstname": "JonathanA.",
+          "lastname": "Berlin"
+        },
+        {
+          "firstname": "RachelE.",
+          "lastname": "Freed"
+        },
+        {
+          "firstname": "MelissaM.",
+          "lastname": "Soo-Hoo"
+        },
+        {
+          "firstname": "DaveL.",
+          "lastname": "Revell"
+        },
+        {
+          "firstname": "Makihiko",
+          "lastname": "Ikegami"
+        },
+        {
+          "firstname": "LorraineE.",
+          "lastname": "Flint"
+        },
+        {
+          "firstname": "AlanL.",
+          "lastname": "Flint"
+        },
+        {
+          "firstname": "BruceE.",
+          "lastname": "Kendall"
+        },
+        {
+          "firstname": "Patricia",
+          "lastname": "Gandini"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Evaluation of two methods of estimating larval habitat productivity in western Kenya highlands",
+      "abstractText": "Background Malaria vector intervention and control programs require reliable and accurate information about vector abundance and their seasonal distribution. The availability of reliable information on the spatial and temporal productivity of larval vector habitats can improve targeting of larval control interventions and our understanding of local malaria transmission and epidemics. The main objective of this study was to evaluate two methods of estimating larval habitat productivity in the western Kenyan highlands, the aerial sampler and the emergence trap. Methods The study was conducted during the dry and rainy seasons in 2008, 2009 and 2010. Aerial samplers and emergence traps were set up for sixty days in each season in three habitat types: drainage ditches, natural swamps, and abandoned goldmines. Aerial samplers and emergence traps were set up in eleven places in each habitat type. The success of each in estimating habitat productivity was assessed according to method, habitat type, and season. The effect of other factors including algae cover, grass cover, habitat depth and width, and habitat water volume on species productivity was analysed using stepwise logistic regression Results Habitat productivity estimates obtained by the two sampling methods differed significantly for all species except for An. implexus. For for An. gambiae s.l. and An. funestus, aerial samplers performed better, 21.5 and 14.6 folds, than emergence trap respectively, while the emergence trap was shown to be more efficient for culicine species. Seasonality had a significant influence on the productivity of all species monitored. Dry season was most productive season. Overall, drainage ditches had significantly higher productivity in all seasons compared to other habitat types. Algae cover, debris, chlorophyll-a, and habitat depth and size had significant influence with respect to species. Conclusion These findings suggest that the aerial sampler is the better of the two methods for estimating the productivity of An. gambiae s.l. and An. funestus in the western Kenya highlands and possibly other malaria endemic parts of Africa. This method has proven to be a useful tool for monitoring malaria vector populations and for control program design, and provides useful means for determining the most suitable sites for targeted interventions.",
+      "docId": "PMC3138440",
+      "pmid": "21682875",
+      "pmcid": "3138440",
+      "authors": [
+        {
+          "firstname": "EliningayaJ",
+          "lastname": "Kweka"
+        },
+        {
+          "firstname": "Guofa",
+          "lastname": "Zhou"
+        },
+        {
+          "firstname": "Ming-Chieh",
+          "lastname": "Lee"
+        },
+        {
+          "firstname": "ThomasM",
+          "lastname": "Gilbreath"
+        },
+        {
+          "firstname": "Franklin",
+          "lastname": "Mosha"
+        },
+        {
+          "firstname": "Stephen",
+          "lastname": "Munga"
+        },
+        {
+          "firstname": "AndrewK",
+          "lastname": "Githeko"
+        },
+        {
+          "firstname": "Guiyun",
+          "lastname": "Yan"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Integrating field surveys and remote sensing data to study distribution, habitat use and conservation status of the herpetofauna of the Comoro Islands",
+      "abstractText": "We studied the non-marine reptile and amphibian species of the volcanic Comoro archipelago in the Western Indian Ocean, a poorly known island herpetofauna comprising numerous microendemic species of potentially high extinction risk and widespread, non-endemic and often invasive taxa. According to our data, the Comoro islands are inhabited by two amphibian species and at least 28 species of reptiles although ongoing genetic studies and unconfirmed historical records suggest an even higher species diversity. 14 of the 28 currently recognized species of terrestrial reptiles (50%) and the two amphibians are endemic to a single island or to the Comoro archipelago. The majority of species are most abundant at low elevation. However, a few endemic species, like the gekkonid lizards Paroedura sanctijohannis and Phelsuma nigristriata, are more common in or even confined to higher altitudes. We created habitat maps from remotely sensed data in combination with detailed species distribution maps produced using comprehensive data from field surveys between 2000 and 2010, literature, and historical locality records based on specimens in zoological collections. Using these data, we assessed the conservation status of the endemic terrestrial reptiles and amphibians according to the IUCN Red List criteria. Our results show that although little area of natural forest remains on the Comoros, many species are abundant in degraded forest or plantations. Competition and predation by invasive species appears to be the most important threat factor for the endemic herpetofauna, together with habitat degradation and destruction, which further favours invasive species. We propose the status Endangered for three species, Vulnerable for one species, Near Threatened for six species, Least Concern for four and Data Deficient for two species. The endemic subspecies Oplurus cuvieri comorensis is proposed for the status Critically Endangered. Based on the results of this study, seven areas of importance for reptile and amphibian conservation on the Comoros are identified. This study shows how remote sensing data can contribute to increasing accuracy and objectiveness of conservation assessments.",
+      "docId": "PMC3233692",
+      "pmid": "22207785",
+      "pmcid": "3233692",
+      "authors": [
+        {
+          "firstname": "Oliver",
+          "lastname": "Hawlitschek"
+        },
+        {
+          "firstname": "Boris",
+          "lastname": "Brückmann"
+        },
+        {
+          "firstname": "Johannes",
+          "lastname": "Berger"
+        },
+        {
+          "firstname": "Katie",
+          "lastname": "Green"
+        },
+        {
+          "firstname": "Frank",
+          "lastname": "Glaw"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Habitat differentiation within the large-carnivore community of Norway\u0027s multiple-use landscapes",
+      "abstractText": "The re-establishment of large carnivores in Norway has led to increased conflicts and the adoption of regional zoning for these predators. When planning the future distribution of large carnivores, it is important to consider details of their potential habitat tolerances and strength of inter-specific differentiation. We studied differentiation in habitat and kill sites within the large-carnivore community of south-eastern Norway. We compared habitat selection of the brown bear Ursus arctos L., Eurasian lynx Lynx lynx L., wolf Canis lupus L. and wolverine Gulo gulo L., based on radio-tracking data. Differences in kill site locations were explored using locations of documented predator-killed sheep Ovis aries L. We modelled each species’ selection for, and differentiation in, habitat and kill sites on a landscape scale using resource selection functions and multinomial logistic regression. Based on projected probability of occurrence maps, we estimated continuous patches of habitat within the study area. Although bears, lynx, wolves and wolverines had overlapping distributions, we found a clear differentiation for all four species in both habitat and kill sites. The presence of bears, wolves and lynx was generally associated with rugged, forested areas at lower elevations, whereas wolverines selected rugged terrain at higher elevations. Some degree of sympatry was possible in over 40% of the study area, although only 1·5% could hold all four large carnivores together. Synthesis and applications. A geographically differentiated management policy has been adopted in Norway, aimed at conserving viable populations of large carnivores while minimizing the potential for conflicts. Sympatry of all four carnivores will be most successful if regional zones are established of adequate size spanning an elevational gradient. High prey densities, low carnivore densities, low dietary overlap and scavenging opportunities have most probably led to reduced competitive exclusion. Although regional sympatry enhances the conservation of an intact guild of large carnivores, it may well increase conflict levels and resistance to carnivore conservation locally.",
+      "docId": "PMC2658717",
+      "pmid": "19330031",
+      "pmcid": "2658717",
+      "authors": [
+        {
+          "firstname": "Roel",
+          "lastname": "May"
+        },
+        {
+          "firstname": "Jiska",
+          "lastname": "van Dijk"
+        },
+        {
+          "firstname": "Petter",
+          "lastname": "Wabakken"
+        },
+        {
+          "firstname": "JonE",
+          "lastname": "Swenson"
+        },
+        {
+          "firstname": "JohnDC",
+          "lastname": "Linnell"
+        },
+        {
+          "firstname": "Barbara",
+          "lastname": "Zimmermann"
+        },
+        {
+          "firstname": "John",
+          "lastname": "Odden"
+        },
+        {
+          "firstname": "HansC",
+          "lastname": "Pedersen"
+        },
+        {
+          "firstname": "Reidar",
+          "lastname": "Andersen"
+        },
+        {
+          "firstname": "Arild",
+          "lastname": "Landa"
+        },
+        {
+          "firstname": "Mark",
+          "lastname": "Hebblewhite"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2008 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

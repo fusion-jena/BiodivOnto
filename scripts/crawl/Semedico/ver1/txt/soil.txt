@@ -1,0 +1,100 @@
+A review of ammonia-oxidizing bacteria and archaea in Chinese soils
+
+Ammonia (NH3) oxidation, the first and rate-limiting step of nitrification, is a key step in the
+global Nitrogen (N) cycle. Major advances have been made in recent years in our knowledge and
+understanding of the microbial communities involved in ammonia oxidation in a wide range of
+habitats, including Chinese agricultural soils. In this mini-review, we focus our attention on the
+distribution and community diversity of ammonia-oxidizing bacteria (AOB) and ammonia oxidizing
+archaea (AOA) in Chinese soils with variable soil properties and soil management practices. The
+niche differentiation of AOB and AOA in contrasting soils have been functionally demonstrated using
+DNA-SIP (stable isotope probing) methods, which have shown that AOA dominate nitrification processes
+in acidic soils, while AOB dominated in neutral, alkaline and N-rich soils. Finally, we discuss the
+composition and activity of ammonia oxidizers in paddy soils, as well as the mitigation of the
+greenhouse gas nitrous oxide (N2O) emissions and nitrate leaching via inhibition of nitrification by
+both AOB and AOA.
+
+
+
+The polycyclic aromatic hydrocarbon concentrations in soils in the Region of Valasske Mezirici, the Czech Republic
+
+The polycyclic aromatic hydrocarbon (PAH) contamination of urban, agricultural and forest soil
+samples was investigated from samples obtained in the surroundings of Valasske Mezirici. Valasske
+Mezirici is a town located in the north-east mountainous part of the Czech Republic, where a coal
+tar refinery is situated. 16 PAHs listed in the US EPA were investigated. Organic oxidizable carbon
+was also observed in the forest soils. The PAH concentrations ranged from 0.86-10.84 (with one
+anomalous value of 35.14) and 7.66-79.39 mg/kg dm in the urban/agricultural and forest soils,
+respectively. While the PAH levels in the urban/agricultural soils are within the range typically
+found in industrialized areas, the forest soils showed elevated PAH concentrations compared to other
+forest soils in Western and Northern Europe. The PAH concentrations and their molecular distribution
+ratios were studied as functions of the sample location and the meteorological history. The soils
+from localities at higher altitudes above sea level have the highest PAH concentrations, and the PAH
+concentrations decrease with increasing distance from the town.
+
+
+
+Dynamics of Bacterial Communities in Two Unpolluted Soils after Spiking with Phenanthrene: Soil Type Specific and Common Responders
+
+Considering their key role for ecosystem processes, it is important to understand the response of
+microbial communities in unpolluted soils to pollution with polycyclic aromatic hydrocarbons (PAH).
+Phenanthrene, a model compound for PAH, was spiked to a Cambisol and a Luvisol soil. Total community
+DNA from phenanthrene-spiked and control soils collected on days 0, 21, and 63 were analyzed based
+on PCR-amplified 16S rRNA gene fragments. Denaturing gradient gel electrophoresis (DGGE)
+fingerprints of bacterial communities increasingly deviated with time between spiked and control
+soils. In taxon specific DGGE, significant responses of Alphaproteobacteria and Actinobacteria
+became only detectable after 63 days, while significant effects on Betaproteobacteria were
+detectable in both soils after 21 days. Comparison of the taxonomic distribution of bacteria in
+spiked and control soils on day 63 as revealed by pyrosequencing indicated soil type specific
+negative effects of phenanthrene on several taxa, many of them belonging to the Gamma-, Beta-, or
+Deltaproteobacteria. Bacterial richness and evenness decreased in spiked soils. Despite the
+significant differences in the bacterial community structure between both soils on day 0, similar
+genera increased in relative abundance after PAH spiking, especially Sphingomonas and Polaromonas.
+However, this did not result in an increased overall similarity of the bacterial communities in both
+soils.
+
+
+
+Influence of freeze-thaw events on carbon dioxide emission from soils at different moisture and land use
+
+Background The repeated freeze-thaw events during cold season, freezing of soils in autumn and
+thawing in spring are typical for the tundra, boreal, and temperate soils. The thawing of soils
+during winter-summer transitions induces the release of decomposable organic carbon and acceleration
+of soil respiration. The winter-spring fluxes of CO2 from permanently and seasonally frozen soils
+are essential part of annual carbon budget varying from 5 to 50%. The mechanisms of the freeze-thaw
+activation are not absolutely clear and need clarifying. We investigated the effect of repeated
+freezing-thawing events on CO2 emission from intact arable and forest soils (Luvisols, loamy silt;
+Central Germany) at different moisture (65% and 100% of WHC). Results Due to the measurement of the
+CO2 flux in two hours intervals, the dynamics of CO2 emission during freezing-thawing events was
+described in a detailed way. At +10°C (initial level) in soils investigated, carbon dioxide emission
+varied between 7.4 to 43.8 mg C m-2h-1 depending on land use and moisture. CO2 flux from the totally
+frozen soil never reached zero and amounted to 5 to 20% of the initial level, indicating that
+microbial community was still active at -5°C. Significant burst of CO2 emission (1.2–1.7-fold
+increase depending on moisture and land use) was observed during thawing. There was close linear
+correlation between CO2 emission and soil temperature (R2 = 0.86–0.97, P < 0.001). Conclusion Our
+investigations showed that soil moisture and land use governed the initial rate of soil respiration,
+duration of freezing and thawing of soil, pattern of CO2 dynamics and extra CO2 fluxes. As a rule,
+the emissions of CO2 induced by freezing-thawing were more significant in dry soils and during the
+first freezing-thawing cycle (FTC). The acceleration of CO2 emission was caused by different
+processes: the liberation of nutrients upon the soil freezing, biological activity occurring in
+unfrozen water films, and respiration of cold-adapted microflora.
+
+
+
+In Vitro Assessment of Cadmium Bioavailability in Chinese Cabbage Grown on Different Soils and Its Toxic Effects on Human Health
+
+The minimum concentration of cadmium (Cd), by Chinese cabbage grown on Cd contaminated soils that
+can initiate toxicity in human liver cells using in vitro digestion coupled with Caco-2/HL-7702 cell
+models was studied. Cadmium bioaccessibility in the gastric phase for yellow soil (YS) cabbage
+(40.84%) and calcareous soil (CS) cabbage (21.54%) was significantly higher than small intestinal
+phase with the corresponding values of 21.2% and 11.11%, respectively. Cadmium bioavailability was
+higher in YS cabbage (5.27%–14.66%) than in CS cabbage (1.12%–9.64%). Cadmium concentrations
+(>0.74 μg) transported from YS and CS cabbage were able to induce oxidative (MDA, H2O2) stress by
+inhibiting antioxidant (SOD, GPx) enzyme activities in human liver cells (HL-7702). Additionally the
+study revealed that the ingestion of Cd contaminated Chinese cabbage grown in acidic soil (yellow
+soil) weakened the antioxidant defense system under all levels of contamination (2, 6, and
+9 mg·kg−1) which ultimately escalated the oxidative stress in liver cells; however, in case of CS
+cabbage, a marked oxidative stress was observed only at 9 mg kg−1 Cd level of soil. Therefore, it is
+necessary to monitor Cd concentrations in leafy vegetables grown on acidic soils to minimize human
+health risk.
+
+
+

@@ -1,0 +1,230 @@
+{
+  "inputstring": "benthic ecolog biodiversity",
+  "tokens": [
+    "ecolog",
+    "biodiversity",
+    "benthic"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 48333,
+  "bibliographylist": [
+    {
+      "articleTitle": "Community Biomass and Bottom up Multivariate Nutrient Complementarity Mediate the Effects of Bioturbator Diversity on Pelagic Production",
+      "abstractText": "Tests of the biodiversity and ecosystem functioning (BEF) relationship have focused little attention on the importance of interactions between species diversity and other attributes of ecological communities such as community biomass. Moreover, BEF research has been mainly derived from studies measuring a single ecosystem process that often represents resource consumption within a given habitat. Focus on single processes has prevented us from exploring the characteristics of ecosystem processes that can be critical in helping us to identify how novel pathways throughout BEF mechanisms may operate. Here, we investigated whether and how the effects of biodiversity mediated by non-trophic interactions among benthic bioturbator species vary according to community biomass and ecosystem processes. We hypothesized that (1) bioturbator biomass and species richness interact to affect the rates of benthic nutrient regeneration [dissolved inorganic nitrogen (DIN) and total dissolved phosphorus (TDP)] and consequently bacterioplankton production (BP) and that (2) the complementarity effects of diversity will be stronger on BP than on nutrient regeneration because the former represents a more integrative process that can be mediated by multivariate nutrient complementarity. We show that the effects of bioturbator diversity on nutrient regeneration increased BP via multivariate nutrient complementarity. Consistent with our prediction, the complementarity effects were significantly stronger on BP than on DIN and TDP. The effects of the biomass-species richness interaction on complementarity varied among the individual processes, but the aggregated measures of complementarity over all ecosystem processes were significantly higher at the highest community biomass level. Our results suggest that the complementarity effects of biodiversity can be stronger on more integrative ecosystem processes, which integrate subsidiary “simpler” processes, via multivariate complementarity. In addition, reductions in community biomass may decrease the strength of interspecific interactions so that the enhanced effects of biodiversity on ecosystem processes can disappear well before species become extinct.",
+      "docId": "PMC3440345",
+      "pmid": "22984586",
+      "pmcid": "3440345",
+      "authors": [
+        {
+          "firstname": "Adriano",
+          "lastname": "Caliman"
+        },
+        {
+          "firstname": "LucianaS.",
+          "lastname": "Carneiro"
+        },
+        {
+          "firstname": "JoãoJ.F.",
+          "lastname": "Leal"
+        },
+        {
+          "firstname": "ViniciusF.",
+          "lastname": "Farjalla"
+        },
+        {
+          "firstname": "ReinaldoL.",
+          "lastname": "Bozelli"
+        },
+        {
+          "firstname": "FranciscoA.",
+          "lastname": "Esteves"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Solan"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "High Meiofaunal and Nematodes Diversity around Mesophotic Coral Oases in the Mediterranean Sea",
+      "abstractText": "Although the mesophotic zone of the Mediterranean Sea has been poorly investigated, there is an increasing awareness about its ecological importance for its biodiversity, as fish nursery and for the recruitment of shallow water species. Along with coastal rocky cliffs, isolated coralligenous concretions emerging from muddy bottoms are typical structures of the Mediterranean Sea mesophotic zone. Coralligenous concretions at mesophotic depths in the South Tyrrhenian Sea were investigated to assess the role of these coralligenous oases in relation to the biodiversity of surrounding soft sediments. We show here that the complex structures of the coralligenous concretions at ca. 110 m depth influence the trophic conditions, the biodiversity and assemblage composition in the surrounding sediments even at considerable distances. Coral concretions not only represent deep oases of coral biodiversity but they also promote a higher biodiversity of the fauna inhabiting the surrounding soft sediments. Using the biodiversity of nematodes as a proxy of the total benthic biodiversity, a high turnover biodiversity within a 200 m distance from the coralligenous concretions was observed. Such turnover is even more evident when only rare taxa are considered and seems related to specific trophic conditions, which are influenced by the presence of the coralligenous structures. The presence of a high topographic complexity and the trophic enrichment make these habitats highly biodiverse, nowadays endangered by human activities (such as exploitation of commercial species such as Corallium rubrum, or trawling fisheries, which directly causes habitat destruction or indirectly causes modification in the sedimentation and re-suspension rates). We stress that the protection of the coralligenous sea concretions is a priority for future conservation policies at the scale of large marine ecosystems and that a complete census of these mesophotic oases of biodiversity should be a priority for future investigations in the Mediterranean Sea.",
+      "docId": "PMC3688901",
+      "pmid": "23823621",
+      "pmcid": "3688901",
+      "authors": [
+        {
+          "firstname": "Silvia",
+          "lastname": "Bianchelli"
+        },
+        {
+          "firstname": "Antonio",
+          "lastname": "Pusceddu"
+        },
+        {
+          "firstname": "Simone",
+          "lastname": "Canese"
+        },
+        {
+          "firstname": "Silvio",
+          "lastname": "Greco"
+        },
+        {
+          "firstname": "Roberto",
+          "lastname": "Danovaro"
+        },
+        {
+          "firstname": "Andrew",
+          "lastname": "Davies"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Biodiversity Trends along the Western European Margin",
+      "docId": "PMC3001438",
+      "pmid": "21179189",
+      "pmcid": "3001438",
+      "authors": [
+        {
+          "firstname": "BhavaniE.",
+          "lastname": "Narayanaswamy"
+        },
+        {
+          "firstname": "PaulE.",
+          "lastname": "Renaud"
+        },
+        {
+          "firstname": "GerardC.A.",
+          "lastname": "Duineveld"
+        },
+        {
+          "firstname": "Jørgen",
+          "lastname": "Berge"
+        },
+        {
+          "firstname": "MarcS.S.",
+          "lastname": "Lavaleye"
+        },
+        {
+          "firstname": "Henning",
+          "lastname": "Reiss"
+        },
+        {
+          "firstname": "Torleiv",
+          "lastname": "Brattegard"
+        },
+        {
+          "firstname": "Stuart",
+          "lastname": "Humphries"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Human-induced marine ecological degradation: micropaleontological perspectives",
+      "abstractText": "We analyzed published downcore microfossil records from 150 studies and reinterpreted them from an ecological degradation perspective to address the following critical but still imperfectly answered questions: (1) How is the timing of human-induced degradation of marine ecosystems different among regions? (2) What are the dominant causes of human-induced marine ecological degradation? (3) How can we better document natural variability and thereby avoid the problem of shifting baselines of comparison as degradation progresses over time? The results indicated that: (1) ecological degradation in marine systems began significantly earlier in Europe and North America (∼1800s) compared with Asia (post-1900) due to earlier industrialization in European and North American countries, (2) ecological degradation accelerated globally in the late 20th century due to post-World War II economic growth, (3) recovery from the degraded state in late 20th century following various restoration efforts and environmental regulations occurred only in limited localities. Although complex in detail, typical signs of ecological degradation were diversity decline, dramatic changes in total abundance, decrease in benthic and/or sensitive species, and increase in planktic, resistant, toxic, and/or introduced species. The predominant cause of degradation detected in these microfossil records was nutrient enrichment and the resulting symptoms of eutrophication, including hypoxia. Other causes also played considerable roles in some areas, including severe metal pollution around mining sites, water acidification by acidic wastewater, and salinity changes from construction of causeways, dikes, and channels, deforestation, and land clearance. Microfossils enable reconstruction of the ecological history of the past 102–103 years or even more, and, in conjunction with statistical modeling approaches using independent proxy records of climate and human-induced environmental changes, future research will enable workers to better address Shifting Baseline Syndrome and separate anthropogenic impacts from background natural variability.",
+      "docId": "PMC3539015",
+      "pmid": "23301187",
+      "pmcid": "3539015",
+      "authors": [
+        {
+          "firstname": "Moriaki",
+          "lastname": "Yasuhara"
+        },
+        {
+          "firstname": "Gene",
+          "lastname": "Hunt"
+        },
+        {
+          "firstname": "Denise",
+          "lastname": "Breitburg"
+        },
+        {
+          "firstname": "Akira",
+          "lastname": "Tsujimoto"
+        },
+        {
+          "firstname": "Kota",
+          "lastname": "Katsuki"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Impairment of the Bacterial Biofilm Stability by Triclosan",
+      "abstractText": "The accumulation of the widely-used antibacterial and antifungal compound triclosan (TCS) in freshwaters raises concerns about the impact of this harmful chemical on the biofilms that are the dominant life style of microorganisms in aquatic systems. However, investigations to-date rarely go beyond effects at the cellular, physiological or morphological level. The present paper focuses on bacterial biofilms addressing the possible chemical impairment of their functionality, while also examining their substratum stabilization potential as one example of an important ecosystem service. The development of a bacterial assemblage of natural composition – isolated from sediments of the Eden Estuary (Scotland, UK) – on non-cohesive glass beads (\u003c63 µm) and exposed to a range of triclosan concentrations (control, 2 – 100 µg L−1) was monitored over time by Magnetic Particle Induction (MagPI). In parallel, bacterial cell numbers, division rate, community composition (DGGE) and EPS (extracellular polymeric substances: carbohydrates and proteins) secretion were determined. While the triclosan exposure did not prevent bacterial settlement, biofilm development was increasingly inhibited by increasing TCS levels. The surface binding capacity (MagPI) of the assemblages was positively correlated to the microbial secreted EPS matrix. The EPS concentrations and composition (quantity and quality) were closely linked to bacterial growth, which was affected by enhanced TCS exposure. Furthermore, TCS induced significant changes in bacterial community composition as well as a significant decrease in bacterial diversity. The impairment of the stabilization potential of bacterial biofilm under even low, environmentally relevant TCS levels is of concern since the resistance of sediments to erosive forces has large implications for the dynamics of sediments and associated pollutant dispersal. In addition, the surface adhesive capacity of the biofilm acts as a sensitive measure of ecosystem effects.",
+      "docId": "PMC3327702",
+      "pmid": "22523534",
+      "pmcid": "3327702",
+      "authors": [
+        {
+          "firstname": "HelenV.",
+          "lastname": "Lubarsky"
+        },
+        {
+          "firstname": "SabineU.",
+          "lastname": "Gerbersdorf"
+        },
+        {
+          "firstname": "Cédric",
+          "lastname": "Hubas"
+        },
+        {
+          "firstname": "Sebastian",
+          "lastname": "Behrens"
+        },
+        {
+          "firstname": "Francesco",
+          "lastname": "Ricciardi"
+        },
+        {
+          "firstname": "DavidM.",
+          "lastname": "Paterson"
+        },
+        {
+          "firstname": "RoyMartinRoop",
+          "lastname": "II"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

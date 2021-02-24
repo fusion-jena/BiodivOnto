@@ -1,0 +1,394 @@
+{
+  "inputstring": "fish biodiversity",
+  "tokens": [
+    "biodiversity",
+    "fish"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 4106,
+  "bibliographylist": [
+    {
+      "articleTitle": "Reef Fishes in Biodiversity Hotspots Are at Greatest Risk from Loss of Coral Species",
+      "abstractText": "Coral reef ecosystems are under a variety of threats from global change and anthropogenic disturbances that are reducing the number and type of coral species on reefs. Coral reefs support upwards of one third of all marine species of fish, so the loss of coral habitat may have substantial consequences to local fish diversity. We posit that the effects of habitat degradation will be most severe in coral regions with highest biodiversity of fishes due to greater specialization by fishes for particular coral habitats. Our novel approach to this important but untested hypothesis was to conduct the same field experiment at three geographic locations across the Indo-Pacific biodiversity gradient (Papua New Guinea; Great Barrier Reef, Australia; French Polynesia). Specifically, we experimentally explored whether the response of local fish communities to identical changes in diversity of habitat-providing corals was independent of the size of the regional species pool of fishes. We found that the proportional reduction (sensitivity) in fish biodiversity to loss of coral diversity was greater for regions with larger background species pools, reflecting variation in the degree of habitat specialization of fishes across the Indo-Pacific diversity gradient. This result implies that habitat-associated fish in diversity hotspots are at greater risk of local extinction to a given loss of habitat diversity compared to regions with lower species richness. This mechanism, related to the positive relationship between habitat specialization and regional biodiversity, and the elevated extinction risk this poses for biodiversity hotspots, may apply to species in other types of ecosystems.",
+      "docId": "PMC4430502",
+      "pmid": "25970588",
+      "pmcid": "4430502",
+      "authors": [
+        {
+          "firstname": "SallyJ.",
+          "lastname": "Holbrook"
+        },
+        {
+          "firstname": "RussellJ.",
+          "lastname": "Schmitt"
+        },
+        {
+          "firstname": "Vanessa",
+          "lastname": "Messmer"
+        },
+        {
+          "firstname": "AndrewJ.",
+          "lastname": "Brooks"
+        },
+        {
+          "firstname": "Maya",
+          "lastname": "Srinivasan"
+        },
+        {
+          "firstname": "PhilipL.",
+          "lastname": "Munday"
+        },
+        {
+          "firstname": "GeoffreyP.",
+          "lastname": "Jones"
+        },
+        {
+          "firstname": "SebastianC.A.",
+          "lastname": "Ferse"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "A New Freshwater Biodiversity Indicator Based on Fish Community Assemblages",
+      "abstractText": "Biodiversity has reached a critical state. In this context, stakeholders need indicators that both provide a synthetic view of the state of biodiversity and can be used as communication tools. Using river fishes as model, we developed community indicators that aim at integrating various components of biodiversity including interactions between species and ultimately the processes influencing ecosystem functions. We developed indices at the species level based on (i) the concept of specialization directly linked to the niche theory and (ii) the concept of originality measuring the overall degree of differences between a species and all other species in the same clade. Five major types of originality indices, based on phylogeny, habitat-linked and diet-linked morphology, life history traits, and ecological niche were analyzed. In a second step, we tested the relationship between all biodiversity indices and land use as a proxy of human pressures. Fish communities showed no significant temporal trend for most of these indices, but both originality indices based on diet- and habitat- linked morphology showed a significant increase through time. From a spatial point of view, all indices clearly singled out Corsica Island as having higher average originality and specialization. Finally, we observed that the originality index based on niche traits might be used as an informative biodiversity indicator because we showed it is sensitive to different land use classes along a landscape artificialization gradient. Moreover, its response remained unchanged over two other land use classifications at the global scale and also at the regional scale.",
+      "docId": "PMC3838364",
+      "pmid": "24278356",
+      "pmcid": "3838364",
+      "authors": [
+        {
+          "firstname": "Joanne",
+          "lastname": "Clavel"
+        },
+        {
+          "firstname": "Nicolas",
+          "lastname": "Poulet"
+        },
+        {
+          "firstname": "Emmanuelle",
+          "lastname": "Porcher"
+        },
+        {
+          "firstname": "Simon",
+          "lastname": "Blanchet"
+        },
+        {
+          "firstname": "Gaël",
+          "lastname": "Grenouillet"
+        },
+        {
+          "firstname": "Sandrine",
+          "lastname": "Pavoine"
+        },
+        {
+          "firstname": "Anne",
+          "lastname": "Biton"
+        },
+        {
+          "firstname": "Nirmala",
+          "lastname": "Seon-Massin"
+        },
+        {
+          "firstname": "Christine",
+          "lastname": "Argillier"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Daufresne"
+        },
+        {
+          "firstname": "Pauline",
+          "lastname": "Teillac-Deschamps"
+        },
+        {
+          "firstname": "Romain",
+          "lastname": "Julliard"
+        },
+        {
+          "firstname": "Diego",
+          "lastname": "Fontaneto"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "The Biodiversity of the Mediterranean Sea: Estimates, Patterns, and Threats",
+      "abstractText": "The Mediterranean Sea is a marine biodiversity hot spot. Here we combined an extensive literature analysis with expert opinions to update publicly available estimates of major taxa in this marine ecosystem and to revise and update several species lists. We also assessed overall spatial and temporal patterns of species diversity and identified major changes and threats. Our results listed approximately 17,000 marine species occurring in the Mediterranean Sea. However, our estimates of marine diversity are still incomplete as yet—undescribed species will be added in the future. Diversity for microbes is substantially underestimated, and the deep-sea areas and portions of the southern and eastern region are still poorly known. In addition, the invasion of alien species is a crucial factor that will continue to change the biodiversity of the Mediterranean, mainly in its eastern basin that can spread rapidly northwards and westwards due to the warming of the Mediterranean Sea. Spatial patterns showed a general decrease in biodiversity from northwestern to southeastern regions following a gradient of production, with some exceptions and caution due to gaps in our knowledge of the biota along the southern and eastern rims. Biodiversity was also generally higher in coastal areas and continental shelves, and decreases with depth. Temporal trends indicated that overexploitation and habitat loss have been the main human drivers of historical changes in biodiversity. At present, habitat loss and degradation, followed by fishing impacts, pollution, climate change, eutrophication, and the establishment of alien species are the most important threats and affect the greatest number of taxonomic groups. All these impacts are expected to grow in importance in the future, especially climate change and habitat degradation. The spatial identification of hot spots highlighted the ecological importance of most of the western Mediterranean shelves (and in particular, the Strait of Gibraltar and the adjacent Alboran Sea), western African coast, the Adriatic, and the Aegean Sea, which show high concentrations of endangered, threatened, or vulnerable species. The Levantine Basin, severely impacted by the invasion of species, is endangered as well. This abstract has been translated to other languages (File S1).",
+      "docId": "PMC2914016",
+      "pmid": "20689844",
+      "pmcid": "2914016",
+      "authors": [
+        {
+          "firstname": "Marta",
+          "lastname": "Coll"
+        },
+        {
+          "firstname": "Chiara",
+          "lastname": "Piroddi"
+        },
+        {
+          "firstname": "Jeroen",
+          "lastname": "Steenbeek"
+        },
+        {
+          "firstname": "Kristin",
+          "lastname": "Kaschner"
+        },
+        {
+          "firstname": "Frida",
+          "lastname": "Ben Rais Lasram"
+        },
+        {
+          "firstname": "Jacopo",
+          "lastname": "Aguzzi"
+        },
+        {
+          "firstname": "Enric",
+          "lastname": "Ballesteros"
+        },
+        {
+          "firstname": "CarloNike",
+          "lastname": "Bianchi"
+        },
+        {
+          "firstname": "Jordi",
+          "lastname": "Corbera"
+        },
+        {
+          "firstname": "Thanos",
+          "lastname": "Dailianis"
+        },
+        {
+          "firstname": "Roberto",
+          "lastname": "Danovaro"
+        },
+        {
+          "firstname": "Marta",
+          "lastname": "Estrada"
+        },
+        {
+          "firstname": "Carlo",
+          "lastname": "Froglia"
+        },
+        {
+          "firstname": "BellaS.",
+          "lastname": "Galil"
+        },
+        {
+          "firstname": "JosepM.",
+          "lastname": "Gasol"
+        },
+        {
+          "firstname": "Ruthy",
+          "lastname": "Gertwagen"
+        },
+        {
+          "firstname": "João",
+          "lastname": "Gil"
+        },
+        {
+          "firstname": "François",
+          "lastname": "Guilhaumon"
+        },
+        {
+          "firstname": "Kathleen",
+          "lastname": "Kesner-Reyes"
+        },
+        {
+          "firstname": "Miltiadis-Spyridon",
+          "lastname": "Kitsos"
+        },
+        {
+          "firstname": "Athanasios",
+          "lastname": "Koukouras"
+        },
+        {
+          "firstname": "Nikolaos",
+          "lastname": "Lampadariou"
+        },
+        {
+          "firstname": "Elijah",
+          "lastname": "Laxamana"
+        },
+        {
+          "firstname": "CarlosM.",
+          "lastname": "López-Fé de la Cuadra"
+        },
+        {
+          "firstname": "HeikeK.",
+          "lastname": "Lotze"
+        },
+        {
+          "firstname": "Daniel",
+          "lastname": "Martin"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Mouillot"
+        },
+        {
+          "firstname": "Daniel",
+          "lastname": "Oro"
+        },
+        {
+          "firstname": "Saša",
+          "lastname": "Raicevich"
+        },
+        {
+          "firstname": "Josephine",
+          "lastname": "Rius-Barile"
+        },
+        {
+          "firstname": "JoseIgnacio",
+          "lastname": "Saiz-Salinas"
+        },
+        {
+          "firstname": "Carles",
+          "lastname": "San Vicente"
+        },
+        {
+          "firstname": "Samuel",
+          "lastname": "Somot"
+        },
+        {
+          "firstname": "José",
+          "lastname": "Templado"
+        },
+        {
+          "firstname": "Xavier",
+          "lastname": "Turon"
+        },
+        {
+          "firstname": "Dimitris",
+          "lastname": "Vafidis"
+        },
+        {
+          "firstname": "Roger",
+          "lastname": "Villanueva"
+        },
+        {
+          "firstname": "Eleni",
+          "lastname": "Voultsiadou"
+        },
+        {
+          "firstname": "StevenJ.",
+          "lastname": "Bograd"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Biodiversity inventories and conservation of the marine fishes of Bootless Bay, Papua New Guinea",
+      "abstractText": "Background The effective management and conservation of biodiversity is predicated on clearly defined conservation targets. Species number is frequently used as a metric for conservation prioritization and monitoring changes in ecosystem health. We conducted a series of synoptic surveys focusing on the fishes of the Bootless Bay region of Papua New Guinea to generate a checklist of fishes of the region. Bootless Bay lies directly south of Port Moresby, the capital of Papua New Guinea, and experiences the highest human population density of any marine area in the country. Our checklist will set a baseline against which future environmental changes can be tracked. Results We generated a checklist of 488 fish species in 72 families found in Bootless Bay during a two-week sampling effort. Using incident-based methods of species estimation, we extrapolate there to be approximately 940 fish species in Bootless Bay, one of the lowest reported numbers in Papua New Guinea. Conclusions Our data suggest that the Bootless Bay ecosystem of Papua New Guinea, while diverse in absolute terms, has lower fish biodiversity compared to other shallow marine areas within the country. These differences in faunal diversity are most likely a combination of unequal sampling effort as well as biophysical factors within Bootless Bay compounded by historical and/or contemporary anthropogenic disturbances.",
+      "docId": "PMC3515464",
+      "pmid": "22849436",
+      "pmcid": "3515464",
+      "authors": [
+        {
+          "firstname": "JoshuaA",
+          "lastname": "Drew"
+        },
+        {
+          "firstname": "CharleneL",
+          "lastname": "Buxman"
+        },
+        {
+          "firstname": "DarcaeD",
+          "lastname": "Holmes"
+        },
+        {
+          "firstname": "JoannaL",
+          "lastname": "Mandecki"
+        },
+        {
+          "firstname": "AugustineJ",
+          "lastname": "Mungkaje"
+        },
+        {
+          "firstname": "AmberC",
+          "lastname": "Richardson"
+        },
+        {
+          "firstname": "MarkW",
+          "lastname": "Westneat"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Revealing the Appetite of the Marine Aquarium Fish Trade: The Volume and Biodiversity of Fish Imported into the United States",
+      "abstractText": "The aquarium trade and other wildlife consumers are at a crossroads forced by threats from global climate change and other anthropogenic stressors that have weakened coastal ecosystems. While the wildlife trade may put additional stress on coral reefs, it brings income into impoverished parts of the world and may stimulate interest in marine conservation. To better understand the influence of the trade, we must first be able to quantify coral reef fauna moving through it. Herein, we discuss the lack of a data system for monitoring the wildlife aquarium trade and analyze problems that arise when trying to monitor the trade using a system not specifically designed for this purpose. To do this, we examined an entire year of import records of marine tropical fish entering the United States in detail, and discuss the relationship between trade volume, biodiversity and introduction of non-native marine fishes. Our analyses showed that biodiversity levels are higher than previous estimates. Additionally, more than half of government importation forms have numerical or other reporting discrepancies resulting in the overestimation of trade volumes by 27%. While some commonly imported species have been introduced into the coastal waters of the USA (as expected), we also found that some uncommon species in the trade have also been introduced. This is the first study of aquarium trade imports to compare commercial invoices to government forms and provides a means to, routinely and in real time, examine the biodiversity of the trade in coral reef wildlife species.",
+      "docId": "PMC3357433",
+      "pmid": "22629303",
+      "pmcid": "3357433",
+      "authors": [
+        {
+          "firstname": "AndrewL.",
+          "lastname": "Rhyne"
+        },
+        {
+          "firstname": "MichaelF.",
+          "lastname": "Tlusty"
+        },
+        {
+          "firstname": "PamelaJ.",
+          "lastname": "Schofield"
+        },
+        {
+          "firstname": "Les",
+          "lastname": "Kaufman"
+        },
+        {
+          "firstname": "JamesA.",
+          "lastname": "Morris"
+        },
+        {
+          "firstname": "AndrewW.",
+          "lastname": "Bruckner"
+        },
+        {
+          "firstname": "Julian",
+          "lastname": "Clifton"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

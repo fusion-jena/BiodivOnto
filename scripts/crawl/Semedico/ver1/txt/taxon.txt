@@ -1,0 +1,119 @@
+Surprising results on phylogenetic tree building methods based on molecular sequences
+
+Background We analyze phylogenetic tree building methods from molecular sequences (PTMS). These are
+methods which base their construction solely on sequences, coding DNA or amino acids. Results Our
+first result is a statistically significant evaluation of 176 PTMSs done by comparing trees derived
+from 193138 orthologous groups of proteins using a new measure of quality between trees. This new
+measure, called the Intra measure, is very consistent between different groups of species and strong
+in the sense that it separates the methods with high confidence. The second result is the comparison
+of the trees against trees derived from accepted taxonomies, the Taxon measure. We consider the NCBI
+taxonomic classification and their derived topologies as the most accepted biological consensus on
+phylogenies, which are also available in electronic form. The correlation between the two measures
+is remarkably high, which supports both measures simultaneously. Conclusions The big surprise of the
+evaluation is that the maximum likelihood methods do not score well, minimal evolution distance
+methods over MSA-induced alignments score consistently better. This comparison also allows us to
+rank different components of the tree building methods, like MSAs, substitution matrices, ML tree
+builders, distance methods, etc. It is also clear that there is a difference between Metazoa and the
+rest, which points out to evolution leaving different molecular traces. We also think that these
+measures of quality of trees will motivate the design of new PTMSs as it is now easier to evaluate
+them with certainty.
+
+
+
+Cross-taxon congruence and environmental conditions
+
+Background Diversity patterns of different taxa typically covary in space, a phenomenon called
+cross-taxon congruence. This pattern has been explained by the effect of one taxon diversity on
+taxon diversity, shared biogeographic histories of different taxa, and/or common responses to
+environmental conditions. A meta-analysis of the association between environment and diversity
+patterns found that in 83 out of 85 studies, more than 60% of the spatial variability in species
+richness was related to variables representing energy, water or their interaction. The role of the
+environment determining taxa diversity patterns leads us to hypothesize that this would explain the
+observed cross-taxon congruence. However, recent analyses reported the persistence of cross-taxon
+congruence when environmental effect was statistically removed. Here we evaluate this hypothesis,
+analyzing the cross-taxon congruence between birds and mammals in the Brazilian Cerrado, and assess
+the environmental role on the spatial covariation in diversity patterns. Results We found a positive
+association between avian and mammal richness and a positive latitudinal trend for both groups in
+the Brazilian Cerrado. Regression analyses indicated an effect of latitude, PET, and mean
+temperature over both biological groups. In addition, we show that NDVI was only associated with
+avian diversity; while the annual relative humidity, was only correlated with mammal diversity. We
+determined the environmental effects on diversity in a path analysis that accounted for 73% and 76%
+of the spatial variation in avian and mammal richness. However, an association between avian and
+mammal diversity remains significant. Indeed, the importance of this link between bird and mammal
+diversity was also supported by a significant association between birds and mammal spatial
+autoregressive model residuals. Conclusion Our study corroborates the main role of environmental
+conditions on diversity patterns, but suggests that other important mechanisms, which have not been
+properly evaluated, are involved in the observed cross-taxon congruence. The approaches introduced
+here indicate that the prevalence of a significant association among taxa, after considering the
+environmental determinant, could indicate both the need to incorporate additional processes (e.g.
+biogeographic and evolutionary history or trophic interactions) and/or the existence of a shared
+trend in detection biases among taxa and regions.
+
+
+
+Maximum Likelihood Analyses of 3,490 rbcL Sequences: Scalability of Comprehensive Inference versus Group-Specific Taxon Sampling
+
+The constant accumulation of sequence data poses new computational and methodological challenges for
+phylogenetic inference, since multiple sequence alignments grow both in the horizontal (number of
+base pairs, phylogenomic alignments) as well as vertical (number of taxa) dimension. Put aside the
+ongoing controversial discussion about appropriate models, partitioning schemes, and assembly
+methods for phylogenomic alignments, coupled with the high computational cost to infer these, for
+many organismic groups, a sufficient number of taxa is often exclusively available from one or just
+a few genes (e.g., rbcL, matK, rDNA). In this paper we address scalability of Maximum-Likelihood-
+based phylogeny reconstruction with respect to the number of taxa by example of several large nested
+single-gene rbcL alignments comprising 400 up to 3,491 taxa. In order to test the effect of taxon
+sampling, we employ an appropriately adapted taxon jackknifing approach. In contrast to standard
+jackknifing, this taxon subsampling procedure is not conducted entirely at random, but based on
+drawing subsamples from empirical taxon-groups which can either be user-defined or determined by
+using taxonomic information from databases. Our results indicate that, despite an unfavorable number
+of sequences to number of base pairs ratio, i.e., many relatively short sequences, Maximum
+Likelihood tree searches and bootstrap analyses scale well on single-gene rbcL alignments with a
+dense taxon sampling up to several thousand sequences. Moreover, the newly implemented taxon
+subsampling procedure can be beneficial for inferring higher level relationships and interpreting
+bootstrap support from comprehensive analysis.
+
+
+
+PhyloTreePruner: A Phylogenetic Tree-Based Approach for Selection of Orthologous Sequences for Phylogenomics
+
+Molecular phylogenetics relies on accurate identification of orthologous sequences among the taxa of
+interest. Most orthology inference programs available for use in phylogenomics rely on small sets of
+pre-defined orthologs from model organisms or phenetic approaches such as all-versus-all sequence
+comparisons followed by Markov graph-based clustering. Such approaches have high sensitivity but may
+erroneously include paralogous sequences. We developed PhyloTreePruner, a software utility that uses
+a phylogenetic approach to refine orthology inferences made using phenetic methods. PhyloTreePruner
+checks single-gene trees for evidence of paralogy and generates a new alignment for each group
+containing only sequences inferred to be orthologs. Importantly, PhyloTreePruner takes into account
+support values on the tree and avoids unnecessarily deleting sequences in cases where a weakly
+supported tree topology incorrectly indicates paralogy. A test of PhyloTreePruner on a dataset
+generated from 11 completely sequenced arthropod genomes identified 2,027 orthologous groups sampled
+for all taxa. Phylogenetic analysis of the concatenated supermatrix yielded a generally well-
+supported topology that was consistent with the current understanding of arthropod phylogeny.
+PhyloTreePruner is freely available from http://sourceforge.net/projects/phylotreepruner/.
+
+
+
+MRL and SuperFine+MRL: new supertree methods
+
+Background Supertree methods combine trees on subsets of the full taxon set together to produce a
+tree on the entire set of taxa. Of the many supertree methods, the most popular is MRP (Matrix
+Representation with Parsimony), a method that operates by first encoding the input set of source
+trees by a large matrix (the "MRP matrix") over {0,1, ?}, and then running maximum parsimony
+heuristics on the MRP matrix. Experimental studies evaluating MRP in comparison to other supertree
+methods have established that for large datasets, MRP generally produces trees of equal or greater
+accuracy than other methods, and can run on larger datasets. A recent development in supertree
+methods is SuperFine+MRP, a method that combines MRP with a divide-and-conquer approach, and
+produces more accurate trees in less time than MRP. In this paper we consider a new approach for
+supertree estimation, called MRL (Matrix Representation with Likelihood). MRL begins with the same
+MRP matrix, but then analyzes the MRP matrix using heuristics (such as RAxML) for 2-state Maximum
+Likelihood. Results We compared MRP and SuperFine+MRP with MRL and SuperFine+MRL on simulated and
+biological datasets. We examined the MRP and MRL scores of each method on a wide range of datasets,
+as well as the resulting topological accuracy of the trees. Our experimental results show that MRL,
+coupled with a very good ML heuristic such as RAxML, produced more accurate trees than MRP, and MRL
+scores were more strongly correlated with topological accuracy than MRP scores. Conclusions
+SuperFine+MRP, when based upon a good MP heuristic, such as TNT, produces among the best scores for
+both MRP and MRL, and is generally faster and more topologically accurate than other supertree
+methods we tested.
+
+
+

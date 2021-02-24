@@ -1,0 +1,189 @@
+{
+  "inputstring": "forest",
+  "tokens": [
+    "forest"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 63994,
+  "bibliographylist": [
+    {
+      "articleTitle": "Humid tropical rain forest has expanded into eucalypt forest and savanna over the last 50 years",
+      "abstractText": "Tropical rain forest expansion and savanna woody vegetation thickening appear to be a global trend, but there remains uncertainty about whether there is a common set of global drivers. Using geographic information techniques, we analyzed aerial photography of five areas in the humid tropics of northeastern Queensland, Australia, taken in the 1950s and 2008, to determine if changes in rain forest extent match those reported for the Australian monsoon tropics using similar techniques. Mapping of the 1950s aerial photography showed that of the combined study area (64,430 ha), 63% was classified as eucalypt forests/woodland and 37% as rain forest. Our mapping revealed that although most boundaries remained stable, there was a net increase of 732 ha of the original rain forest area over the study period, and negligible conversion of rain forest to eucalypt forest/woodland. Statistical modeling, controlling for spatial autocorrelation, indicated distance from preexisting rain forest as the strongest determinant of rain forest expansion. Margin extension had a mean rate across the five sites of 0.6 m per decade. Expansion was greater in tall open forest types but also occurred in shorter, more flammable woodland vegetation types. No correlations were detected with other local variables (aspect, elevation, geology, topography, drainage). Using a geographically weighted mean rate of rain forest margin extension across the whole region, we predict that over 25% of tall open forest (a forest type of high conservation significance) would still remain after 2000 years of rain forest expansion. This slow replacement is due to the convoluted nature of the rain forest boundary and the irregular shape of the tall open forest patches. Our analyses point to the increased concentration of atmospheric CO2 as the most likely global driver of indiscriminate rain forest expansion occurring in northeastern Australia, by increasing tree growth and thereby overriding the effects of fire disturbance.",
+      "docId": "PMC3297176",
+      "pmid": "22408724",
+      "pmcid": "3297176",
+      "authors": [
+        {
+          "firstname": "DavidYP",
+          "lastname": "Tng"
+        },
+        {
+          "firstname": "BrettP",
+          "lastname": "Murphy"
+        },
+        {
+          "firstname": "Ellen",
+          "lastname": "Weber"
+        },
+        {
+          "firstname": "Gregor",
+          "lastname": "Sanders"
+        },
+        {
+          "firstname": "GrantJ",
+          "lastname": "Williamson"
+        },
+        {
+          "firstname": "Jeanette",
+          "lastname": "Kemp"
+        },
+        {
+          "firstname": "DavidMJS",
+          "lastname": "Bowman"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "A review of malaria transmission dynamics in forest ecosystems",
+      "abstractText": "Malaria continues to be a major health problem in more than 100 endemic countries located primarily in tropical and sub-tropical regions around the world. Malaria transmission is a dynamic process and involves many interlinked factors, from uncontrollable natural environmental conditions to man-made disturbances to nature. Almost half of the population at risk of malaria lives in forest areas. Forests are hot beds of malaria transmission as they provide conditions such as vegetation cover, temperature, rainfall and humidity conditions that are conducive to distribution and survival of malaria vectors. Forests often lack infrastructure and harbor tribes with distinct genetic traits, socio-cultural beliefs and practices that greatly influence malaria transmission dynamics. Here we summarize the various topographical, entomological, parasitological, human ecological and socio-economic factors, which are crucial and shape malaria transmission in forested areas. An in-depth understanding and synthesis of the intricate relationship of these parameters in achieving better malaria control in various types of forest ecosystems is emphasized.",
+      "docId": "PMC4057614",
+      "pmid": "24912923",
+      "pmcid": "4057614",
+      "authors": [
+        {
+          "firstname": "NarayaniPrasad",
+          "lastname": "Kar"
+        },
+        {
+          "firstname": "Ashwani",
+          "lastname": "Kumar"
+        },
+        {
+          "firstname": "OmP",
+          "lastname": "Singh"
+        },
+        {
+          "firstname": "JaneM",
+          "lastname": "Carlton"
+        },
+        {
+          "firstname": "Nutan",
+          "lastname": "Nanda"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Spatial and temporal changes in bird assemblages in forest fragments in an eastern Amazonian savannah",
+      "abstractText": "We investigated the effects of forest fragmentation on bird assemblages in an Amazonian savannah landscape with forest fragments that have been isolated for more than 100 years. The study was conducted in areas surrounding the village of Alter do Chão (2°31\u0027S, 55°00\u0027W), Santarém, Brazil. Bird surveys and measurements of tree density were undertaken in 25 areas, with 19 plots in forest fragments of different sizes and six in an area of continuous forest. Data on forest-fragment size, perimeter, and isolation were obtained from a georeferenced satellite image. Variation in number of bird species recorded per plot was not related to vegetation structure (tree density). The number of bird species recorded per plot increased significantly only with fragment area, but was not influenced by fragment shape or degree of isolation, even when considering species from the savannah matrix in the analysis. Fragments had fewer rare species. Multivariate ordination analyses (multiple dimensional scaling, [MDS]) indicated that bird species composition changed along a gradient from small to large forest fragments and continuous-forest areas. In the Amazonian savannah landscapes of Alter do Chão, the organization and composition of bird assemblages in forest fragments are affected by local long-term forest-fragmentation processes. Differences in the number of bird species recorded per plot and assemblage composition between forest fragments and continuous forest were not influenced by forest structure, suggesting that the observed patterns in species composition result from the effects of fragmentation per se rather than from preexisting differences in vegetation structure between sites. Nevertheless, despite their long history of isolation, the forest fragments still preserve a large proportion (on average 80%) of the avifauna found in continuous-forest areas. The fragments at Alter do Chão are surrounded by natural (rather than planted) grassland, with many trees in the savannah matrix and the landscape has vast areas covered by forest, which may have helped to ameliorate the influences of forest fragmentation.",
+      "docId": "PMC3797474",
+      "pmid": "24223265",
+      "pmcid": "3797474",
+      "authors": [
+        {
+          "firstname": "Renato",
+          "lastname": "Cintra"
+        },
+        {
+          "firstname": "WilliamE",
+          "lastname": "Magnusson"
+        },
+        {
+          "firstname": "Ana",
+          "lastname": "Albernaz"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Imputing forest carbon stock estimates from inventory plots to a nationally continuous coverage",
+      "abstractText": "The U.S. has been providing national-scale estimates of forest carbon (C) stocks and stock change to meet United Nations Framework Convention on Climate Change (UNFCCC) reporting requirements for years. Although these currently are provided as national estimates by pool and year to meet greenhouse gas monitoring requirements, there is growing need to disaggregate these estimates to finer scales to enable strategic forest management and monitoring activities focused on various ecosystem services such as C storage enhancement. Through application of a nearest-neighbor imputation approach, spatially extant estimates of forest C density were developed for the conterminous U.S. using the U.S.’s annual forest inventory. Results suggest that an existing forest inventory plot imputation approach can be readily modified to provide raster maps of C density across a range of pools (e.g., live tree to soil organic carbon) and spatial scales (e.g., sub-county to biome). Comparisons among imputed maps indicate strong regional differences across C pools. The C density of pools closely related to detrital input (e.g., dead wood) is often highest in forests suffering from recent mortality events such as those in the northern Rocky Mountains (e.g., beetle infestations). In contrast, live tree carbon density is often highest on the highest quality forest sites such as those found in the Pacific Northwest. Validation results suggest strong agreement between the estimates produced from the forest inventory plots and those from the imputed maps, particularly when the C pool is closely associated with the imputation model (e.g., aboveground live biomass and live tree basal area), with weaker agreement for detrital pools (e.g., standing dead trees). Forest inventory imputed plot maps provide an efficient and flexible approach to monitoring diverse C pools at national (e.g., UNFCCC) and regional scales (e.g., Reducing Emissions from Deforestation and Forest Degradation projects) while allowing timely incorporation of empirical data (e.g., annual forest inventory).",
+      "docId": "PMC3564769",
+      "pmid": "23305341",
+      "pmcid": "3564769",
+      "authors": [
+        {
+          "firstname": "BarryTyler",
+          "lastname": "Wilson"
+        },
+        {
+          "firstname": "ChristopherW",
+          "lastname": "Woodall"
+        },
+        {
+          "firstname": "DouglasM",
+          "lastname": "Griffith"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Detection, Emission Estimation and Risk Prediction of Forest Fires in China Using Satellite Sensors and Simulation Models in the Past Three Decades—An Overview",
+      "abstractText": "Forest fires have major impact on ecosystems and greatly impact the amount of greenhouse gases and aerosols in the atmosphere. This paper presents an overview in the forest fire detection, emission estimation, and fire risk prediction in China using satellite imagery, climate data, and various simulation models over the past three decades. Since the 1980s, remotely-sensed data acquired by many satellites, such as NOAA/AVHRR, FY-series, MODIS, CBERS, and ENVISAT, have been widely utilized for detecting forest fire hot spots and burned areas in China. Some developed algorithms have been utilized for detecting the forest fire hot spots at a sub-pixel level. With respect to modeling the forest burning emission, a remote sensing data-driven Net Primary productivity (NPP) estimation model was developed for estimating forest biomass and fuel. In order to improve the forest fire risk modeling in China, real-time meteorological data, such as surface temperature, relative humidity, wind speed and direction, have been used as the model input for improving prediction of forest fire occurrence and its behavior. Shortwave infrared (SWIR) and near infrared (NIR) channels of satellite sensors have been employed for detecting live fuel moisture content (FMC), and the Normalized Difference Water Index (NDWI) was used for evaluating the forest vegetation condition and its moisture status.",
+      "docId": "PMC3166733",
+      "pmid": "21909297",
+      "pmcid": "3166733",
+      "authors": [
+        {
+          "firstname": "Jia-Hua",
+          "lastname": "Zhang"
+        },
+        {
+          "firstname": "Feng-Mei",
+          "lastname": "Yao"
+        },
+        {
+          "firstname": "Cheng",
+          "lastname": "Liu"
+        },
+        {
+          "firstname": "Li-Min",
+          "lastname": "Yang"
+        },
+        {
+          "firstname": "VijendraK.",
+          "lastname": "Boken"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

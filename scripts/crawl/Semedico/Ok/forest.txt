@@ -1,0 +1,135 @@
+Forest restoration, biodiversity and ecosystem functioning
+
+Globally, forests cover nearly one third of the land area and they contain over 80% of terrestrial
+biodiversity. Both the extent and quality of forest habitat continue to decrease and the associated
+loss of biodiversity jeopardizes forest ecosystem functioning and the ability of forests to provide
+ecosystem services. In the light of the increasing population pressure, it is of major importance
+not only to conserve, but also to restore forest ecosystems. Ecological restoration has recently
+started to adopt insights from the biodiversity-ecosystem functioning (BEF) perspective. Central is
+the focus on restoring the relation between biodiversity and ecosystem functioning. Here we provide
+an overview of important considerations related to forest restoration that can be inferred from this
+BEF-perspective. Restoring multiple forest functions requires multiple species. It is highly
+unlikely that species-poor plantations, which may be optimal for above-ground biomass production,
+will outperform species diverse assemblages for a combination of functions, including overall carbon
+storage and control over water and nutrient flows. Restoring stable forest functions also requires
+multiple species. In particular in the light of global climatic change scenarios, which predict more
+frequent extreme disturbances and climatic events, it is important to incorporate insights from the
+relation between biodiversity and stability of ecosystem functioning into forest restoration
+projects. Rather than focussing on species per se, focussing on functional diversity of tree species
+assemblages seems appropriate when selecting tree species for restoration. Finally, also plant
+genetic diversity and above - below-ground linkages should be considered during the restoration
+process, as these likely have prominent but until now poorly understood effects at the level of the
+ecosystem. The BEF-approach provides a useful framework to evaluate forest restoration in an
+ecosystem functioning context, but it also highlights that much remains to be understood, especially
+regarding the relation between forest functioning on the one side and genetic diversity and above-
+ground-below-ground species associations on the other. The strong emphasis of the BEF-approach on
+functional rather than taxonomic diversity may also be the beginning of a paradigm shift in
+restoration ecology, increasing the tolerance towards allochthonous species.
+
+
+
+Pervasive Defaunation of Forest Remnants in a Tropical Biodiversity Hotspot
+
+Tropical deforestation and forest fragmentation are among the most important biodiversity
+conservation issues worldwide, yet local extinctions of millions of animal and plant populations
+stranded in unprotected forest remnants remain poorly explained. Here, we report unprecedented rates
+of local extinctions of medium to large-bodied mammals in one of the world's most important tropical
+biodiversity hotspots. We scrutinized 8,846 person-years of local knowledge to derive patch
+occupancy data for 18 mammal species within 196 forest patches across a 252,669-km2 study region of
+the Brazilian Atlantic Forest. We uncovered a staggering rate of local extinctions in the mammal
+fauna, with only 767 from a possible 3,528 populations still persisting. On average, forest patches
+retained 3.9 out of 18 potential species occupancies, and geographic ranges had contracted to
+0–14.4% of their former distributions, including five large-bodied species that had been extirpated
+at a regional scale. Forest fragments were highly accessible to hunters and exposed to edge effects
+and fires, thereby severely diminishing the predictive power of species-area relationships, with the
+power model explaining only ∼9% of the variation in species richness per patch. Hence, conventional
+species-area curves provided over-optimistic estimates of species persistence in that most forest
+fragments had lost species at a much faster rate than predicted by habitat loss alone.
+
+
+
+Can retention forestry help conserve biodiversity? A meta-analysis
+
+ Industrial forestry typically leads to a simplified forest structure and altered species
+composition. Retention of trees at harvest was introduced about 25 years ago to mitigate negative
+impacts on biodiversity, mainly from clearcutting, and is now widely practiced in boreal and
+temperate regions. Despite numerous studies on response of flora and fauna to retention, no
+comprehensive review has summarized its effects on biodiversity in comparison to clearcuts as well
+as un-harvested forests.   Using a systematic review protocol, we completed a meta-analysis of 78
+studies including 944 comparisons of biodiversity between retention cuts and either clearcuts or un-
+harvested forests, with the main objective of assessing whether retention forestry helps, at least
+in the short term, to moderate the negative effects of clearcutting on flora and fauna.   Retention
+cuts supported higher richness and a greater abundance of forest species than clearcuts as well as
+higher richness and abundance of open-habitat species than un-harvested forests. For all species
+taken together (i.e. forest species, open-habitat species, generalist species and unclassified
+species), richness was higher in retention cuts than in clearcuts.   Retention cuts had negative
+impacts on some species compared to un-harvested forest, indicating that certain forest-interior
+species may not survive in retention cuts. Similarly, retention cuts were less suitable for some
+open-habitat species compared with clearcuts.   Positive effects of retention cuts on richness of
+forest species increased with proportion of retained trees and time since harvest, but there were
+not enough data to analyse possible threshold effects, that is, levels at which effects on
+biodiversity diminish. Spatial arrangement of the trees (aggregated vs. dispersed) had no effect on
+either forest species or open-habitat species, although limited data may have hindered our capacity
+to identify responses. Results for different comparisons were largely consistent among taxonomic
+groups for forest and open-habitat species, respectively.   Synthesis and applications. Our meta-
+analysis provides support for wider use of retention forestry since it moderates negative harvesting
+impacts on biodiversity. Hence, it is a promising approach for integrating biodiversity conservation
+and production forestry, although identifying optimal solutions between these two goals may need
+further attention. Nevertheless, retention forestry will not substitute for conservation actions
+targeting certain highly specialized species associated with forest-interior or open-habitat
+conditions.    Our meta-analysis provides support for wider use of retention forestry since it
+moderates negative harvesting impacts on biodiversity. Hence, it is a promising approach for
+integrating biodiversity conservation and production forestry, although identifying optimal
+solutions between these two goals may need further attention. Nevertheless, retention forestry will
+not substitute for conservation actions targeting certain highly specialized species associated with
+forest-interior or open-habitat conditions.
+
+
+
+A global model of the response of tropical and sub-tropical forest biodiversity to anthropogenic pressures
+
+Habitat loss and degradation, driven largely by agricultural expansion and intensification, present
+the greatest immediate threat to biodiversity. Tropical forests harbour among the highest levels of
+terrestrial species diversity and are likely to experience rapid land-use change in the coming
+decades. Synthetic analyses of observed responses of species are useful for quantifying how land use
+affects biodiversity and for predicting outcomes under land-use scenarios. Previous applications of
+this approach have typically focused on individual taxonomic groups, analysing the average response
+of the whole community to changes in land use. Here, we incorporate quantitative remotely sensed
+data about habitats in, to our knowledge, the first worldwide synthetic analysis of how individual
+species in four major taxonomic groups—invertebrates, ‘herptiles’ (reptiles and amphibians), mammals
+and birds—respond to multiple human pressures in tropical and sub-tropical forests. We show
+significant independent impacts of land use, human vegetation offtake, forest cover and human
+population density on both occurrence and abundance of species, highlighting the value of analysing
+multiple explanatory variables simultaneously. Responses differ among the four groups considered,
+and—within birds and mammals—between habitat specialists and habitat generalists and between narrow-
+ranged and wide-ranged species.
+
+
+
+Forest Loss and the Biodiversity Threshold: An Evaluation Considering Species Habitat Requirements and the Use of Matrix Habitats
+
+Habitat loss is the main driver of the current biodiversity crisis, a landscape-scale process that
+affects the survival of spatially-structured populations. Although it is well-established that
+species responses to habitat loss can be abrupt, the existence of a biodiversity threshold is still
+the cause of much controversy in the literature and would require that most species respond
+similarly to the loss of native vegetation. Here we test the existence of a biodiversity threshold,
+i.e. an abrupt decline in species richness, with habitat loss. We draw on a spatially-replicated
+dataset on Atlantic forest small mammals, consisting of 16 sampling sites divided between forests
+and matrix habitats in each of five 3600-ha landscapes (varying from 5% to 45% forest cover), and on
+an a priori classification of species into habitat requirement categories (forest specialists,
+habitat generalists and open-area specialists). Forest specialists declined abruptly below 30% of
+forest cover, and spillover to the matrix occurred only in more forested landscapes. Generalists
+responded positively to landscape heterogeneity, peaking at intermediary levels of forest cover.
+Open area specialists dominated the matrix and did not spillover to forests. As a result of these
+distinct responses, we observed a biodiversity threshold for the small mammal community below 30%
+forest cover, and a peak in species richness just above this threshold. Our results highlight that
+cross habitat spillover may be asymmetrical and contingent on landscape context, occurring mainly
+from forests to the matrix and only in more forested landscapes. Moreover, they indicate the
+potential for biodiversity thresholds in human-modified landscapes, and the importance of landscape
+heterogeneity to biodiversity. Since forest loss affected not only the conservation value of forest
+patches, but also the potential for biodiversity-mediated services in anthropogenic habitats, our
+work indicates the importance of proactive measures to avoid human-modified landscapes to cross this
+threshold.
+
+
+

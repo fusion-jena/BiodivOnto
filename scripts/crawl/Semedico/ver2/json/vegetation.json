@@ -1,0 +1,210 @@
+{
+  "inputstring": "vegetation biodiversity",
+  "tokens": [
+    "biodiversity",
+    "vegetation"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 51098,
+  "bibliographylist": [
+    {
+      "articleTitle": "Environmental Gap Analysis to Prioritize Conservation Efforts in Eastern Africa",
+      "abstractText": "Countries in eastern Africa have set aside significant proportions of their land for protection. But are these areas representative of the diverse range of species and habitats found in the region? And do conservation efforts include areas where the state of biodiversity is likely to deteriorate without further interventions? Various studies have addressed these questions at global and continental scales. However, meaningful conservation decisions are required at finer geographical scales. To operate more effectively at the national level, finer scale baseline data on species and on higher levels of biological organization such as the eco-regions are required, among other factors. Here we adopted a recently developed high-resolution potential natural vegetation (PNV) map for eastern Africa as a baseline to more effectively identify conservation priorities. We examined how well different potential natural vegetations (PNVs) are represented in the protected area (PA) network of eastern Africa and used a multivariate environmental similarity index to evaluate biases in PA versus PNV coverage. We additionally overlaid data of anthropogenic factors that potentially influence the natural vegetation to assess the level of threat to different PNVs. Our results indicate substantial differences in the conservation status of PNVs. In addition, particular PNVs in which biodiversity protection and ecological functions are at risk due to human influences are revealed. The data and approach presented here provide a step forward in developing more transparent and better informed translation from global priorities to regional or national implementation in eastern Africa, and are valid for other geographic regions.",
+      "docId": "PMC4391866",
+      "pmid": "25855968",
+      "pmcid": "4391866",
+      "authors": [
+        {
+          "firstname": "Paulo",
+          "lastname": "van Breugel"
+        },
+        {
+          "firstname": "Roeland",
+          "lastname": "Kindt"
+        },
+        {
+          "firstname": "Jens-PeterBarnekow",
+          "lastname": "Lillesø"
+        },
+        {
+          "firstname": "Michiel",
+          "lastname": "van Breugel"
+        },
+        {
+          "firstname": "ClintonN",
+          "lastname": "Jenkins"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Beyond the Fragmentation Threshold Hypothesis: Regime Shifts in Biodiversity Across Fragmented Landscapes",
+      "abstractText": "Ecological systems are vulnerable to irreversible change when key system properties are pushed over thresholds, resulting in the loss of resilience and the precipitation of a regime shift. Perhaps the most important of such properties in human-modified landscapes is the total amount of remnant native vegetation. In a seminal study Andrén proposed the existence of a fragmentation threshold in the total amount of remnant vegetation, below which landscape-scale connectivity is eroded and local species richness and abundance become dependent on patch size. Despite the fact that species patch-area effects have been a mainstay of conservation science there has yet to be a robust empirical evaluation of this hypothesis. Here we present and test a new conceptual model describing the mechanisms and consequences of biodiversity change in fragmented landscapes, identifying the fragmentation threshold as a first step in a positive feedback mechanism that has the capacity to impair ecological resilience, and drive a regime shift in biodiversity. The model considers that local extinction risk is defined by patch size, and immigration rates by landscape vegetation cover, and that the recovery from local species losses depends upon the landscape species pool. Using a unique dataset on the distribution of non-volant small mammals across replicate landscapes in the Atlantic forest of Brazil, we found strong evidence for our model predictions - that patch-area effects are evident only at intermediate levels of total forest cover, where landscape diversity is still high and opportunities for enhancing biodiversity through local management are greatest. Furthermore, high levels of forest loss can push native biota through an extinction filter, and result in the abrupt, landscape-wide loss of forest-specialist taxa, ecological resilience and management effectiveness. The proposed model links hitherto distinct theoretical approaches within a single framework, providing a powerful tool for analysing the potential effectiveness of management interventions.",
+      "docId": "PMC2965145",
+      "pmid": "21060870",
+      "pmcid": "2965145",
+      "authors": [
+        {
+          "firstname": "Renata",
+          "lastname": "Pardini"
+        },
+        {
+          "firstname": "Adriana",
+          "lastname": "de Arruda Bueno"
+        },
+        {
+          "firstname": "TobyA.",
+          "lastname": "Gardner"
+        },
+        {
+          "firstname": "PauloInácio",
+          "lastname": "Prado"
+        },
+        {
+          "firstname": "JeanPaul",
+          "lastname": "Metzger"
+        },
+        {
+          "firstname": "Brock",
+          "lastname": "Fenton"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Are We Filling the Data Void? An Assessment of the Amount and Extent of Plant Collection Records and Census Data Available for Tropical South America",
+      "abstractText": "Large-scale studies are needed to increase our understanding of how large-scale conservation threats, such as climate change and deforestation, are impacting diverse tropical ecosystems. These types of studies rely fundamentally on access to extensive and representative datasets (i.e., “big data”). In this study, I asses the availability of plant species occurrence records through the Global Biodiversity Information Facility (GBIF) and the distribution of networked vegetation census plots in tropical South America. I analyze how the amount of available data has changed through time and the consequent changes in taxonomic, spatial, habitat, and climatic representativeness. I show that there are large and growing amounts of data available for tropical South America. Specifically, there are almost 2,000,000 unique geo-referenced collection records representing more than 50,000 species of plants in tropical South America and over 1,500 census plots. However, there is still a gaping “data void” such that many species and many habitats remain so poorly represented in either of the databases as to be functionally invisible for most studies. It is important that we support efforts to increase the availability of data, and the representativeness of these data, so that we can better predict and mitigate the impacts of anthropogenic disturbances.",
+      "docId": "PMC4416035",
+      "pmid": "25927831",
+      "pmcid": "4416035",
+      "authors": [
+        {
+          "firstname": "Kenneth",
+          "lastname": "Feeley"
+        },
+        {
+          "firstname": "Bruno",
+          "lastname": "Hérault"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Predicting Tropical Dry Forest Successional Attributes from Space: Is the Key Hidden in Image Texture?",
+      "abstractText": "Biodiversity conservation and ecosystem-service provision will increasingly depend on the existence of secondary vegetation. Our success in achieving these goals will be determined by our ability to accurately estimate the structure and diversity of such communities at broad geographic scales. We examined whether the texture (the spatial variation of the image elements) of very high-resolution satellite imagery can be used for this purpose. In 14 fallows of different ages and one mature forest stand in a seasonally dry tropical forest landscape, we estimated basal area, canopy cover, stem density, species richness, Shannon index, Simpson index, and canopy height. The first six attributes were also estimated for a subset comprising the tallest plants. We calculated 40 texture variables based on the red and the near infrared bands, and EVI and NDVI, and selected the best-fit linear models describing each vegetation attribute based on them. Basal area (R2 \u003d 0.93), vegetation height and cover (0.89), species richness (0.87), and stand age (0.85) were the best-described attributes by two-variable models. Cross validation showed that these models had a high predictive power, and most estimated vegetation attributes were highly accurate. The success of this simple method (a single image was used and the models were linear and included very few variables) rests on the principle that image texture reflects the internal heterogeneity of successional vegetation at the proper scale. The vegetation attributes best predicted by texture are relevant in the face of two of the gravest threats to biosphere integrity: climate change and biodiversity loss. By providing reliable basal area and fallow-age estimates, image-texture analysis allows for the assessment of carbon sequestration and diversity loss rates. New and exciting research avenues open by simplifying the analysis of the extent and complexity of successional vegetation through the spatial variation of its spectral information.",
+      "docId": "PMC3282724",
+      "pmid": "22363443",
+      "pmcid": "3282724",
+      "authors": [
+        {
+          "firstname": "J.Alberto",
+          "lastname": "Gallardo-Cruz"
+        },
+        {
+          "firstname": "JorgeA.",
+          "lastname": "Meave"
+        },
+        {
+          "firstname": "EdgarJ.",
+          "lastname": "González"
+        },
+        {
+          "firstname": "EdwinE.",
+          "lastname": "Lebrija-Trejos"
+        },
+        {
+          "firstname": "MarcoA.",
+          "lastname": "Romero-Romero"
+        },
+        {
+          "firstname": "EduardoA.",
+          "lastname": "Pérez-García"
+        },
+        {
+          "firstname": "Rodrigo",
+          "lastname": "Gallardo-Cruz"
+        },
+        {
+          "firstname": "JoséLuis",
+          "lastname": "Hernández-Stefanoni"
+        },
+        {
+          "firstname": "Carlos",
+          "lastname": "Martorell"
+        },
+        {
+          "firstname": "Jerome",
+          "lastname": "Chave"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Representation of Ecosystem Services by Terrestrial Protected Areas: Chile as a Case Study",
+      "abstractText": "Protected areas are increasingly considered to play a key role in the global maintenance of ecosystem processes and the ecosystem services they provide. It is thus vital to assess the extent to which existing protected area systems represent those services. Here, for the first time, we document the effectiveness of the current Chilean protected area system and its planned extensions in representing both ecosystem services (plant productivity, carbon storage and agricultural production) and biodiversity. Additionally, we evaluate the effectiveness of protected areas based on their respective management objectives. Our results show that existing protected areas in Chile do not contain an unusually high proportion of carbon storage (14.9%), agricultural production (0.2%) or biodiversity (11.8%), and also represent a low level of plant productivity (Normalized Difference Vegetation Index of 0.38). Proposed additional priority sites enhance the representation of ecosystem services and biodiversity, but not sufficiently to attain levels of representation higher than would be expected for their area of coverage. Moreover, when the species groups were assessed separately, amphibians was the only one well represented. Suggested priority sites for biodiversity conservation, without formal protection yet, was the only protected area category that over-represents carbon storage, agricultural production and biodiversity. The low representation of ecosystem services and species’ distribution ranges by the current protected area system is because these protected areas are heavily biased toward southern Chile, and contain large extents of ice and bare rock. The designation and management of proposed priority sites needs to be addressed in order to increase the representation of ecosystem services within the Chilean protected area system.",
+      "docId": "PMC3869732",
+      "pmid": "24376559",
+      "pmcid": "3869732",
+      "authors": [
+        {
+          "firstname": "AméricaP.",
+          "lastname": "Durán"
+        },
+        {
+          "firstname": "Stefano",
+          "lastname": "Casalegno"
+        },
+        {
+          "firstname": "PabloA.",
+          "lastname": "Marquet"
+        },
+        {
+          "firstname": "KevinJ.",
+          "lastname": "Gaston"
+        },
+        {
+          "firstname": "EricGordon",
+          "lastname": "Lamb"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

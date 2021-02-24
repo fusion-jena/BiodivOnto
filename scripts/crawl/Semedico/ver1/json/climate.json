@@ -1,0 +1,201 @@
+{
+  "inputstring": "climate",
+  "tokens": [
+    "climate"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 206497,
+  "bibliographylist": [
+    {
+      "articleTitle": "A general linear model-based approach for inferring selection to climate",
+      "abstractText": "Background Many efforts have been made to detect signatures of positive selection in the human genome, especially those associated with expansion from Africa and subsequent colonization of all other continents. However, most approaches have not directly probed the relationship between the environment and patterns of variation among humans. We have designed a method to identify regions of the genome under selection based on Mantel tests conducted within a general linear model framework, which we call MAntel-GLM to Infer Clinal Selection (MAGICS). MAGICS explicitly incorporates population-specific and genome-wide patterns of background variation as well as information from environmental values to provide an improved picture of selection and its underlying causes in human populations. Results Our results significantly overlap with those obtained by other published methodologies, but MAGICS has several advantages. These include improvements that: limit false positives by reducing the number of independent tests conducted and by correcting for geographic distance, which we found to be a major contributor to selection signals; yield absolute rather than relative estimates of significance; identify specific geographic regions linked most strongly to particular signals of selection; and detect recent balancing as well as directional selection. Conclusions We find evidence of selection associated with climate (P \u003c 10-5) in 354 genes, and among these observe a highly significant enrichment for directional positive selection. Two of our strongest \u0027hits’, however, ADRA2A and ADRA2C, implicated in vasoconstriction in response to cold and pain stimuli, show evidence of balancing selection. Our results clearly demonstrate evidence of climate-related signals of directional and balancing selection.",
+      "docId": "PMC3853933",
+      "pmid": "24053227",
+      "pmcid": "3853933",
+      "authors": [
+        {
+          "firstname": "SrilakshmiM",
+          "lastname": "Raj"
+        },
+        {
+          "firstname": "Luca",
+          "lastname": "Pagani"
+        },
+        {
+          "firstname": "Irene",
+          "lastname": "Gallego Romero"
+        },
+        {
+          "firstname": "Toomas",
+          "lastname": "Kivisild"
+        },
+        {
+          "firstname": "William",
+          "lastname": "Amos"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Insect-induced tree mortality of boreal forests in eastern Canada under a changing climate",
+      "abstractText": "Forest insects are major disturbances that induce tree mortality in eastern coniferous (or fir-spruce) forests in eastern North America. The spruce budworm (SBW) (Choristoneura fumiferana [Clemens]) is the most devastating insect causing tree mortality. However, the relative importance of insect-caused mortality versus tree mortality caused by other agents and how this relationship will change with climate change is not known. Based on permanent sample plots across eastern Canada, we combined a logistic model with a negative model to estimate tree mortality. The results showed that tree mortality increased mainly due to forest insects. The mean difference in annual tree mortality between plots disturbed by insects and those without insect disturbance was 0.0680 per year (P \u003c 0.0001, T-test), and the carbon sink loss was about 2.87t C ha−1 year−1 larger than in natural forests. We also found that annual tree mortality increased significantly with the annual climate moisture index (CMI) and decreased significantly with annual minimum temperature (Tmin), annual mean temperature (Tmean) and the number of degree days below 0°C (DD0), which was inconsistent with previous studies (Adams et al. 2009; van Mantgem et al. 2009; Allen et al. 2010). Furthermore, the results for the trends in the magnitude of forest insect outbreaks were consistent with those of climate factors for annual tree mortality. Our results demonstrate that forest insects are the dominant cause of the tree mortality in eastern Canada but that tree mortality induced by insect outbreaks will decrease in eastern Canada under warming climate.",
+      "docId": "PMC4203287",
+      "pmid": "25360275",
+      "pmcid": "4203287",
+      "authors": [
+        {
+          "firstname": "Xiongqing",
+          "lastname": "Zhang"
+        },
+        {
+          "firstname": "Yuancai",
+          "lastname": "Lei"
+        },
+        {
+          "firstname": "Zhihai",
+          "lastname": "Ma"
+        },
+        {
+          "firstname": "Dan",
+          "lastname": "Kneeshaw"
+        },
+        {
+          "firstname": "Changhui",
+          "lastname": "Peng"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Association of Seasonal Climate Variability and Age-Specific Mortality in Northern Sweden before the Onset of Industrialization",
+      "abstractText": "Background and aims: Little is known about health impacts of climate in pre-industrial societies. We used historical data to investigate the association of temperature and precipitation with total and age-specific mortality in Skellefteå, northern Sweden, between 1749 and 1859. Methods: We retrieved digitized aggregated population data of the Skellefteå parish, and monthly temperature and precipitation measures. A generalized linear model was established for year to year variability in deaths by annual and seasonal average temperature and cumulative precipitation using a negative binomial function, accounting for long-term trends in population size. The final full model included temperature and precipitation of all four seasons simultaneously. Relative risks (RR) with 95% confidence intervals (CI) were calculated for total, sex- and age-specific mortality. Results: In the full model, only autumn precipitation proved statistically significant (RR 1.02; CI 1.00–1.03, per 1cm increase of autumn precipitation), while winter temperature (RR 0.98; CI 0.95–1.00, per 1 °C increase in temperature) and spring precipitation (RR 0.98; CI 0.97–1.00 per 1 cm increase in precipitation) approached significance. Similar effects were observed for men and women. The impact of climate variability on mortality was strongest in children aged 3–9, and partly also in older children. Infants, on the other hand, appeared to be less affected by unfavourable climate conditions. Conclusions: In this pre-industrial rural region in northern Sweden, higher levels of rain during the autumn increased the annual number of deaths. Harvest quality might be one critical factor in the causal pathway, affecting nutritional status and susceptibility to infectious diseases. Autumn rain probably also contributed to the spread of air-borne diseases in crowded living conditions. Children beyond infancy appeared most vulnerable to climate impacts.",
+      "docId": "PMC4113854",
+      "pmid": "25003551",
+      "pmcid": "4113854",
+      "authors": [
+        {
+          "firstname": "Joacim",
+          "lastname": "Rocklöv"
+        },
+        {
+          "firstname": "Sören",
+          "lastname": "Edvinsson"
+        },
+        {
+          "firstname": "Per",
+          "lastname": "Arnqvist"
+        },
+        {
+          "firstname": "SaraSjöstedt",
+          "lastname": "de Luna"
+        },
+        {
+          "firstname": "Barbara",
+          "lastname": "Schumann"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Raised temperatures over the Kericho tea estates: revisiting the climate in the East African highlands malaria debate",
+      "abstractText": "Background Whether or not observed increases in malaria incidence in the Kenyan Highlands during the last thirty years are associated with co-varying changes in local temperature, possibly connected to global changes in climate, has been debated for over a decade. Studies, using differing data sets and methodologies, produced conflicting results regarding the occurrence of temperature trends and their likelihood of being responsible, at least in part, for the increases in malaria incidence in the highlands of western Kenya. A time series of quality controlled daily temperature and rainfall data from Kericho, in the Kenyan Highlands, may help resolve the controversy. If significant temperature trends over the last three decades have occurred then climate should be included (along with other factors such as land use change and drug resistance) as a potential driver of the observed increases in malaria in the region. Methods Over 30 years (1 January 1979 to 31 December 2009) of quality controlled daily observations ( \u003e 97% complete) of maximum, minimum and mean temperature were used in the analysis of trends at Kericho meteorological station, sited in a tea growing area of Kenya\u0027s western highlands. Inhomogeneities in all the time series were identified and corrected. Linear trends were identified via a least-squares regression analysis with statistical significance assessed using a two-tailed t-test. These \u0027gold standard\u0027 meteorological observations were compared with spatially interpolated temperature datasets that have been developed for regional or global applications. The relationship of local climate processes with larger climate variations, including tropical sea surface temperatures (SST), and El Niño-Southern Oscillation (ENSO) was also assessed. Results An upward trend of ≈0.2°C/decade was observed in all three temperature variables (P \u003c 0.01). Mean temperature variations in Kericho were associated with large-scale climate variations including tropical SST (r \u003d 0.50; p \u003c 0.01). Local rainfall was found to have inverse effects on minimum and maximum temperature. Three versions of a spatially interpolated temperature data set showed markedly different trends when compared with each other and with the Kericho station observations. Conclusion This study presents evidence of a warming trend in observed maximum, minimum and mean temperatures at Kericho during the period 1979 to 2009 using gold standard meteorological observations. Although local factors may be contributing to these trends, the findings are consistent with variability and trends that have occurred in correlated global climate processes. Climate should therefore not be dismissed as a potential driver of observed increases in malaria seen in the region during recent decades, however its relative importance compared to other factors needs further elaboration. Climate services, pertinent to the achievement of development targets such as the Millennium Development Goals and the analysis of infectious disease in the context of climate variability and change are being developed and should increase the availability of relevant quality controlled climate data for improving development decisions. The malaria community should seize this opportunity to make their needs heard.",
+      "docId": "PMC3031277",
+      "pmid": "21241505",
+      "pmcid": "3031277",
+      "authors": [
+        {
+          "firstname": "JudithA",
+          "lastname": "Omumbo"
+        },
+        {
+          "firstname": "Bradfield",
+          "lastname": "Lyon"
+        },
+        {
+          "firstname": "SamuelM",
+          "lastname": "Waweru"
+        },
+        {
+          "firstname": "StephenJ",
+          "lastname": "Connor"
+        },
+        {
+          "firstname": "MadeleineC",
+          "lastname": "Thomson"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Climate and landscape drivers of tree decline in a Mediterranean ecoregion",
+      "abstractText": "Climate change and anthropogenic land use are increasingly affecting the resilience of natural ecosystems. In Mediterranean ecoregions, forests and woodlands have shown progressive declines in health. This study focuses on the decline of an endemic woodland tree species, Eucalyptus wandoo (wandoo), occurring in the biodiversity hotspot of southwest Western Australia. We determined the change in health of wandoo stands between 2002 and 2008 across its geographic and climatic range, and associated this change in health with non-biotic variables focusing on: (1) fragment metrics; (2) topography; (3) soil characteristics; and (4) climate. Only fragment metrics and climate variables were found to be significantly related to the observed change in health. Stands that were small with high perimeter/area ratios were found to be most sensitive to health declines. Recent increases in autumn temperatures and decreases in annual rainfall were negatively affecting health of wandoo most prominently in the low rainfall zone of its climatic range. Together, these results suggest the onset of range contraction for this ecologically important species, which is likely to be exacerbated by projected future changes in climate. Our results emphasize the importance of establishing monitoring programs to identify changes in health and decline trends early to inform management strategies, particularly in the sensitive Mediterranean ecoregions.",
+      "docId": "PMC3568844",
+      "pmid": "23403899",
+      "pmcid": "3568844",
+      "authors": [
+        {
+          "firstname": "NielsC",
+          "lastname": "Brouwers"
+        },
+        {
+          "firstname": "Jack",
+          "lastname": "Mercer"
+        },
+        {
+          "firstname": "Tom",
+          "lastname": "Lyons"
+        },
+        {
+          "firstname": "Pieter",
+          "lastname": "Poot"
+        },
+        {
+          "firstname": "Erik",
+          "lastname": "Veneklaas"
+        },
+        {
+          "firstname": "Giles",
+          "lastname": "Hardy"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

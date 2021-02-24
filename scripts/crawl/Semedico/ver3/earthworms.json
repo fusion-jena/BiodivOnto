@@ -1,0 +1,271 @@
+{
+  "inputstring": "earthworms biodiversity",
+  "tokens": [
+    "biodiversity",
+    "earthworms"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 564,
+  "bibliographylist": [
+    {
+      "articleTitle": "Herbivory of an invasive slug is affected by earthworms and the composition of plant communities",
+      "abstractText": "Background Biodiversity loss and species invasions are among the most important human-induced global changes. Moreover, these two processes are interlinked as ecosystem invasibility is considered to increase with decreasing biodiversity. In temperate grasslands, earthworms serve as important ecosystem engineers making up the majority of soil faunal biomass. Herbivore behaviour has been shown to be affected by earthworms, however it is unclear whether these effects differ with the composition of plant communities. To test this we conducted a mesocosm experiment where we added earthworms (Annelida: Lumbricidae) to planted grassland communities with different plant species composition (3 vs. 12 plant spp.). Plant communities had equal plant densities and ratios of the functional groups grasses, non-leguminous forbs and legumes. Later, Arion vulgaris slugs (formerly known as A. lusitanicus; Gastropoda: Arionidae) were added and allowed to freely choose among the available plant species. This slug species is listed among the 100 worst alien species in Europe. We hypothesized that (i) the food choice of slugs would be altered by earthworms’ specific effects on the growth and nutrient content of plant species, (ii) slug herbivory will be less affected by earthworms in plant communities containing more plant species than in those with fewer plant species because of a more readily utilization of plant resources making the impacts of earthworms less pronounced. Results Slug herbivory was significantly affected by both earthworms and plant species composition. Slugs damaged 60% less leaves when earthworms were present, regardless of the species composition of the plant communities. Percent leaf area consumed by slugs was 40% lower in communities containing 12 plant species; in communities containing only three species earthworms increased slug leaf area consumption. Grasses were generally avoided by slugs. Leaf length and number of tillers was increased in mesocosms containing more plant species but little influenced by earthworms. Overall shoot biomass was decreased, root biomass increased in plant communities with more plant species. Earthworms decreased total shoot biomass in mesocosms with more plant species but did not affect biomass production of individual functional groups. Plant nitrogen concentrations across three focus species were 18% higher when earthworms were present; composition of plant communities did not affect plant quality. Conclusions Given the important role that both herbivores and earthworms play in structuring plant communities the implications of belowground-aboveground linkages should more broadly be considered when investigating global change effects on ecosystems.",
+      "docId": "PMC3656784",
+      "pmid": "23668239",
+      "pmcid": "3656784",
+      "authors": [
+        {
+          "firstname": "JohannG",
+          "lastname": "Zaller"
+        },
+        {
+          "firstname": "Myriam",
+          "lastname": "Parth"
+        },
+        {
+          "firstname": "Ilona",
+          "lastname": "Szunyogh"
+        },
+        {
+          "firstname": "Ines",
+          "lastname": "Semmelrock"
+        },
+        {
+          "firstname": "Susanne",
+          "lastname": "Sochurek"
+        },
+        {
+          "firstname": "Marcia",
+          "lastname": "Pinheiro"
+        },
+        {
+          "firstname": "Thomas",
+          "lastname": "Frank"
+        },
+        {
+          "firstname": "Thomas",
+          "lastname": "Drapela"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Invasive earthworms erode soil biodiversity: A meta-analysis.",
+      "abstractText": "Biological invasions pose a serious threat to biodiversity and ecosystem functioning across ecosystems. Invasions by ecosystem engineers, in particular, have been shown to have dramatic effects in recipient ecosystems. For instance, invasion by earthworms, a below-ground invertebrate ecosystem engineer, in previously earthworm-free ecosystems alters the physico-chemical characteristics of the soil. Studies have shown that such alterations in the soil can have far-reaching impacts on soil organisms, which form a major portion of terrestrial biodiversity. Here, we present the first quantitative synthesis of earthworm invasion effects on soil micro-organisms and soil invertebrates based on 430 observations from 30 independent studies. Our meta-analysis shows a significant decline of the diversity and density of soil invertebrates in response to earthworm invasion with anecic and endogeic earthworms causing the strongest effects. Earthworm invasion effects on soil micro-organisms were context-dependent, such as depending on functional group richness of invasive earthworms and soil depth. Microbial biomass and diversity increased in mineral soil layers, with a weak negative effect in organic soil layers, indicating that the mixing of soil layers by earthworms (bioturbation) may homogenize microbial communities across soil layers. Our meta-analysis provides a compelling evidence for negative effects of a common invasive below-ground ecosystem engineer on below-ground biodiversity of recipient ecosystems, which could potentially alter the ecosystem functions and services linked to soil biota.",
+      "docId": "28833091",
+      "pmid": "28833091",
+      "authors": [
+        {
+          "firstname": "Olga",
+          "lastname": "Ferlian",
+          "affiliation": "Institute of Biology, Leipzig University, Leipzig, Germany."
+        },
+        {
+          "firstname": "Nico",
+          "lastname": "Eisenhauer",
+          "affiliation": "Institute of Biology, Leipzig University, Leipzig, Germany."
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Aguirrebengoa",
+          "affiliation": "Departamento de Zoología, Universidad de Granada, Granada, Spain."
+        },
+        {
+          "firstname": "Mariama",
+          "lastname": "Camara",
+          "affiliation": "WASCAL GRP Climate Change and Biodiversity, Université Félix Houphouët-Boigny, Abidjan, Côte d\u0027Ivoire."
+        },
+        {
+          "firstname": "Irene",
+          "lastname": "Ramirez-Rojas",
+          "affiliation": "Department of Biology, Centre of Excellence on Plant and Vegetation Ecology (PLECO), University of Antwerp, Wilrijk, Belgium."
+        },
+        {
+          "firstname": "Fábio",
+          "lastname": "Santos",
+          "affiliation": "CIBIO - Center for Investigation of Biodiversity and Genetic Resources, Vairão, Portugal."
+        },
+        {
+          "firstname": "Krizler",
+          "lastname": "Tanalgo",
+          "affiliation": "Landscape Ecology Group, Center for Integrative Conservation, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Yunnan, China."
+        },
+        {
+          "firstname": "MadhavP",
+          "lastname": "Thakur",
+          "affiliation": "Institute of Biology, Leipzig University, Leipzig, Germany."
+        }
+      ],
+      "publication": {
+        "title": "The Journal of animal ecology",
+        "volume": "87",
+        "issue": "1",
+        "pages": "162-172",
+        "date": "Jan 1, 2018 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    },
+    {
+      "articleTitle": "Effect of decabromodiphenyl ether (BDE-209) on a soil-biota system: Role of earthworms and ryegrass.",
+      "abstractText": "In the present study, the toxic effect of decabromodiphenyl ether (BDE-209), an important brominated fire retardant, on soil was evaluated by amending with different concentrations (0 mg/kg, 1 mg/kg, 10 mg/kg, and 500 mg/kg dry wt) for 40 d. The activities of 3 soil enzymes (urease, catalase, and alkaline phosphatase) were measured as the principal assessment endpoints. Meanwhile, the effects of natural environmental factors, such as light conditions and soil biota, on BDE-209 intoxication were studied. For the latter, 30 earthworms (Metaphire guillelmi) with fully matured clitella or ryegrass (Lolium perenne) with fully matured leaves were exposed in soil amended with BDE-209. The activities of the soil enzymes were adversely affected by BDE-209, especially for the high-concentration treatments, with greater adverse effects in the dark than in the light. The presence of earthworms reduced toxicity to BDE-209, whereas ryegrass did not. The calculated integrated biomarker response index, which provides a general indicator of the health status of test species by combining different biomarker signals, further validated these findings. Moreover, the antioxidant status (oxidant-antioxidant balance) of these 2 biota was assessed. Results indicated that BDE-209 significantly affected the activities of antioxidant enzymes (superoxide dismutase and catalase) and enhanced the levels of malondialdehyde in both species. The present study may facilitate a better understanding of the toxicity of BDE-209 toward the soil environment. Environ Toxicol Chem 2016;35:1349-1357. © 2015 SETAC.",
+      "docId": "26448514",
+      "pmid": "26448514",
+      "authors": [
+        {
+          "firstname": "Mingbao",
+          "lastname": "Feng",
+          "affiliation": "State Key Laboratory of Pollution Control and Resources Reuse, School of the Environment, Nanjing University, Nanjing, Jiangsu, People\u0027s Republic of China."
+        },
+        {
+          "firstname": "Qun",
+          "lastname": "He",
+          "affiliation": "State Key Laboratory of Pollution Control and Resources Reuse, School of the Environment, Nanjing University, Nanjing, Jiangsu, People\u0027s Republic of China."
+        },
+        {
+          "firstname": "Jiaqi",
+          "lastname": "Shi",
+          "affiliation": "State Key Laboratory of Pollution Control and Resources Reuse, School of the Environment, Nanjing University, Nanjing, Jiangsu, People\u0027s Republic of China."
+        },
+        {
+          "firstname": "Li",
+          "lastname": "Qin",
+          "affiliation": "State Key Laboratory of Pollution Control and Resources Reuse, School of the Environment, Nanjing University, Nanjing, Jiangsu, People\u0027s Republic of China."
+        },
+        {
+          "firstname": "Xuesheng",
+          "lastname": "Zhang",
+          "affiliation": "State Key Laboratory of Pollution Control and Resources Reuse, School of the Environment, Nanjing University, Nanjing, Jiangsu, People\u0027s Republic of China."
+        },
+        {
+          "firstname": "Ping",
+          "lastname": "Sun",
+          "affiliation": "State Key Laboratory of Pollution Control and Resources Reuse, School of the Environment, Nanjing University, Nanjing, Jiangsu, People\u0027s Republic of China."
+        },
+        {
+          "firstname": "Zunyao",
+          "lastname": "Wang",
+          "affiliation": "State Key Laboratory of Pollution Control and Resources Reuse, School of the Environment, Nanjing University, Nanjing, Jiangsu, People\u0027s Republic of China."
+        }
+      ],
+      "publication": {
+        "title": "Environmental toxicology and chemistry",
+        "volume": "35",
+        "issue": "6",
+        "pages": "1349-57",
+        "date": "Jan 1, 2016 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    },
+    {
+      "articleTitle": "Microbial Environment Affects Innate Immunity in Two Closely Related Earthworm Species Eisenia andrei and Eisenia fetida",
+      "abstractText": "Survival of earthworms in the environment depends on their ability to recognize and eliminate potential pathogens. This work is aimed to compare the innate defense mechanisms of two closely related earthworm species, Eisenia andrei and Eisenia fetida, that inhabit substantially different ecological niches. While E. andrei lives in a compost and manure, E. fetida can be found in the litter layer in forests. Therefore, the influence of environment-specific microbiota on the immune response of both species was followed. Firstly, a reliable method to discern between E. andrei and E. fetida based on species-specific primers for cytochrome c oxidase I (COI) and stringent PCR conditions was developed. Secondly, to analyze the immunological profile in both earthworm species, the activity and expression of lysozyme, pattern recognition protein CCF, and antimicrobial proteins with hemolytic function, fetidin and lysenins, have been assessed. Whereas, CCF and lysozyme showed only slight differences in the expression and activity, fetidin/lysenins expression as well as the hemolytic activity was considerably higher in E. andrei as compared to E. fetida. The expression of fetidin/lysenins in E. fetida was not affected upon the challenge with compost microbiota, suggesting more substantial changes in the regulation of the gene expression. Genomic DNA analyses revealed significantly higher level of fetidin/lysenins (determined using universal primer pairs) in E. andrei compared to E. fetida. It can be hypothesized that E. andrei colonizing compost as a new habitat acquired an evolutionary selection advantage resulting in a higher expression of antimicrobial proteins. ",
+      "docId": "PMC3815151",
+      "pmid": "24223917",
+      "pmcid": "3815151",
+      "authors": [
+        {
+          "firstname": "Jiří",
+          "lastname": "Dvořák"
+        },
+        {
+          "firstname": "Veronika",
+          "lastname": "Mančíková"
+        },
+        {
+          "firstname": "Václav",
+          "lastname": "Pižl"
+        },
+        {
+          "firstname": "Dana",
+          "lastname": "Elhottová"
+        },
+        {
+          "firstname": "Marcela",
+          "lastname": "Šilerová"
+        },
+        {
+          "firstname": "Radka",
+          "lastname": "Roubalová"
+        },
+        {
+          "firstname": "František",
+          "lastname": "Škanta"
+        },
+        {
+          "firstname": "Petra",
+          "lastname": "Procházková"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "Bilej"
+        },
+        {
+          "firstname": "John F.",
+          "lastname": "Rawls"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Land-use and land-management change: relationships with earthworm and fungi communities and soil structural properties",
+      "abstractText": "Background Change in land use and management can impact massively on soil ecosystems. Ecosystem engineers and other functional biodiversity in soils can be influenced directly by such change and this in turn can affect key soil functions. Here, we employ meta-analysis to provide a quantitative assessment of the effects of changes in land use and land management across a range of successional/extensification transitions (conventional arable → no or reduced tillage → grassland → wooded land) on community metrics for two functionally important soil taxa, earthworms and fungi. An analysis of the relationships between community change and soil structural properties was also included. Results Meta-analysis highlighted a consistent trend of increased earthworm and fungal community abundances and complexity following transitions to lower intensity and later successional land uses. The greatest changes were seen for early stage transitions, such as introduction of reduced tillage regimes and conversion to grassland from arable land. Not all changes, however, result in positive effects on the assessed community metrics. For example, whether woodland conversion positively or negatively affects community size and complexity depends on woodland type and, potentially, the changes in soil properties, such as pH, that may occur during conversion. Alterations in soil communities tended to facilitate subsequent changes in soil structure and hydrology. For example, increasing earthworm abundances and functional group composition were shown to be positively correlated with water infiltration rate (dependent on tillage regime and habitat characteristics); while positive changes in fungal biomass measures were positively associated with soil microaggregate stability. Conclusions These findings raise the potential to manage landscapes to increase ecosystem service provision from soil biota in relation to regulation of soil structure and water flow.",
+      "docId": "PMC4219611",
+      "pmid": "24289220",
+      "pmcid": "4219611",
+      "authors": [
+        {
+          "firstname": "DavidJ",
+          "lastname": "Spurgeon"
+        },
+        {
+          "firstname": "AidanM",
+          "lastname": "Keith"
+        },
+        {
+          "firstname": "Olaf",
+          "lastname": "Schmidt"
+        },
+        {
+          "firstname": "DennisR",
+          "lastname": "Lammertsma"
+        },
+        {
+          "firstname": "JackH",
+          "lastname": "Faber"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

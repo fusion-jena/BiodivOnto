@@ -1,0 +1,346 @@
+{
+  "inputstring": "tropical biodiversity",
+  "tokens": [
+    "tropical",
+    "biodiversity"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 51791,
+  "bibliographylist": [
+    {
+      "articleTitle": "A global model of the response of tropical and sub-tropical forest biodiversity to anthropogenic pressures",
+      "abstractText": "Habitat loss and degradation, driven largely by agricultural expansion and intensification, present the greatest immediate threat to biodiversity. Tropical forests harbour among the highest levels of terrestrial species diversity and are likely to experience rapid land-use change in the coming decades. Synthetic analyses of observed responses of species are useful for quantifying how land use affects biodiversity and for predicting outcomes under land-use scenarios. Previous applications of this approach have typically focused on individual taxonomic groups, analysing the average response of the whole community to changes in land use. Here, we incorporate quantitative remotely sensed data about habitats in, to our knowledge, the first worldwide synthetic analysis of how individual species in four major taxonomic groups—invertebrates, ‘herptiles’ (reptiles and amphibians), mammals and birds—respond to multiple human pressures in tropical and sub-tropical forests. We show significant independent impacts of land use, human vegetation offtake, forest cover and human population density on both occurrence and abundance of species, highlighting the value of analysing multiple explanatory variables simultaneously. Responses differ among the four groups considered, and—within birds and mammals—between habitat specialists and habitat generalists and between narrow-ranged and wide-ranged species.",
+      "docId": "PMC4150326",
+      "pmid": "25143038",
+      "pmcid": "4150326",
+      "authors": [
+        {
+          "firstname": "Tim",
+          "lastname": "Newbold"
+        },
+        {
+          "firstname": "LawrenceN.",
+          "lastname": "Hudson"
+        },
+        {
+          "firstname": "HelenR.P.",
+          "lastname": "Phillips"
+        },
+        {
+          "firstname": "SamanthaL.L.",
+          "lastname": "Hill"
+        },
+        {
+          "firstname": "Sara",
+          "lastname": "Contu"
+        },
+        {
+          "firstname": "Igor",
+          "lastname": "Lysenko"
+        },
+        {
+          "firstname": "Abigayil",
+          "lastname": "Blandon"
+        },
+        {
+          "firstname": "StuartH.M.",
+          "lastname": "Butchart"
+        },
+        {
+          "firstname": "HollieL.",
+          "lastname": "Booth"
+        },
+        {
+          "firstname": "Julie",
+          "lastname": "Day"
+        },
+        {
+          "firstname": "Adriana",
+          "lastname": "De Palma"
+        },
+        {
+          "firstname": "MichelleL.K.",
+          "lastname": "Harrison"
+        },
+        {
+          "firstname": "Lucinda",
+          "lastname": "Kirkpatrick"
+        },
+        {
+          "firstname": "Edwin",
+          "lastname": "Pynegar"
+        },
+        {
+          "firstname": "Alexandra",
+          "lastname": "Robinson"
+        },
+        {
+          "firstname": "Jake",
+          "lastname": "Simpson"
+        },
+        {
+          "firstname": "GeorginaM.",
+          "lastname": "Mace"
+        },
+        {
+          "firstname": "JörnP.W.",
+          "lastname": "Scharlemann"
+        },
+        {
+          "firstname": "Andy",
+          "lastname": "Purvis"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Can Joint Carbon and Biodiversity Management in Tropical Agroforestry Landscapes Be Optimized?",
+      "abstractText": "Managing ecosystems for carbon storage may also benefit biodiversity conservation, but such a potential ‘win-win’ scenario has not yet been assessed for tropical agroforestry landscapes. We measured above- and below-ground carbon stocks as well as the species richness of four groups of plants and eight of animals on 14 representative plots in Sulawesi, Indonesia, ranging from natural rainforest to cacao agroforests that have replaced former natural forest. The conversion of natural forests with carbon stocks of 227–362 Mg C ha−1 to agroforests with 82–211 Mg C ha−1 showed no relationships to overall biodiversity but led to a significant loss of forest-related species richness. We conclude that the conservation of the forest-related biodiversity, and to a lesser degree of carbon stocks, mainly depends on the preservation of natural forest habitats. In the three most carbon-rich agroforestry systems, carbon stocks were about 60% of those of natural forest, suggesting that 1.6 ha of optimally managed agroforest can contribute to the conservation of carbon stocks as much as 1 ha of natural forest. However, agroforestry systems had comparatively low biodiversity, and we found no evidence for a tight link between carbon storage and biodiversity. Yet, potential win-win agroforestry management solutions include combining high shade-tree quality which favours biodiversity with cacao-yield adapted shade levels.",
+      "docId": "PMC3471943",
+      "pmid": "23077569",
+      "pmcid": "3471943",
+      "authors": [
+        {
+          "firstname": "Michael",
+          "lastname": "Kessler"
+        },
+        {
+          "firstname": "Dietrich",
+          "lastname": "Hertel"
+        },
+        {
+          "firstname": "HermannF.",
+          "lastname": "Jungkunst"
+        },
+        {
+          "firstname": "Jürgen",
+          "lastname": "Kluge"
+        },
+        {
+          "firstname": "Stefan",
+          "lastname": "Abrahamczyk"
+        },
+        {
+          "firstname": "Merijn",
+          "lastname": "Bos"
+        },
+        {
+          "firstname": "Damayanti",
+          "lastname": "Buchori"
+        },
+        {
+          "firstname": "Gerhard",
+          "lastname": "Gerold"
+        },
+        {
+          "firstname": "S.Robbert",
+          "lastname": "Gradstein"
+        },
+        {
+          "firstname": "Stefan",
+          "lastname": "Köhler"
+        },
+        {
+          "firstname": "Christoph",
+          "lastname": "Leuschner"
+        },
+        {
+          "firstname": "Gerald",
+          "lastname": "Moser"
+        },
+        {
+          "firstname": "Ramadhanil",
+          "lastname": "Pitopang"
+        },
+        {
+          "firstname": "Shahabuddin",
+          "lastname": "Saleh"
+        },
+        {
+          "firstname": "ChristianH.",
+          "lastname": "Schulze"
+        },
+        {
+          "firstname": "SimoneG.",
+          "lastname": "Sporn"
+        },
+        {
+          "firstname": "Ingolf",
+          "lastname": "Steffan-Dewenter"
+        },
+        {
+          "firstname": "SriS.",
+          "lastname": "Tjitrosoedirdjo"
+        },
+        {
+          "firstname": "Teja",
+          "lastname": "Tscharntke"
+        },
+        {
+          "firstname": "Ben",
+          "lastname": "Bond-Lamberty"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Consequences of tropical land use for multitrophic biodiversity and ecosystem functioning",
+      "abstractText": "Our knowledge about land-use impacts on biodiversity and ecosystem functioning is mostly limited to single trophic levels, leaving us uncertain about whole-community biodiversity-ecosystem functioning relationships. We analyse consequences of the globally important land-use transformation from tropical forests to oil palm plantations. Species diversity, density and biomass of invertebrate communities suffer at least 45% decreases from rainforest to oil palm. Combining metabolic and food-web theory, we calculate annual energy fluxes to model impacts of land-use intensification on multitrophic ecosystem functioning. We demonstrate a 51% reduction in energy fluxes from forest to oil palm communities. Species loss clearly explains variation in energy fluxes; however, this relationship depends on land-use systems and functional feeding guilds, whereby predators are the most heavily affected. Biodiversity decline from forest to oil palm is thus accompanied by even stronger reductions in functionality, threatening to severely limit the functional resilience of communities to cope with future global changes.  Transformation of natural ecosystems into agricultural land is usually accompanied by extensive biodiversity loss. Calculating multitrophic energy fluxes, Barnes et al. report severe reductions of biodiversity and ecosystem functioning from tropical rainforest to oil-palm plantations.",
+      "docId": "PMC4220457",
+      "pmid": "25350947",
+      "pmcid": "4220457",
+      "authors": [
+        {
+          "firstname": "AndrewD.",
+          "lastname": "Barnes"
+        },
+        {
+          "firstname": "Malte",
+          "lastname": "Jochum"
+        },
+        {
+          "firstname": "Steffen",
+          "lastname": "Mumme"
+        },
+        {
+          "firstname": "NoorFarikhah",
+          "lastname": "Haneda"
+        },
+        {
+          "firstname": "Achmad",
+          "lastname": "Farajallah"
+        },
+        {
+          "firstname": "TriHeru",
+          "lastname": "Widarto"
+        },
+        {
+          "firstname": "Ulrich",
+          "lastname": "Brose"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Pervasive Defaunation of Forest Remnants in a Tropical Biodiversity Hotspot",
+      "abstractText": "Tropical deforestation and forest fragmentation are among the most important biodiversity conservation issues worldwide, yet local extinctions of millions of animal and plant populations stranded in unprotected forest remnants remain poorly explained. Here, we report unprecedented rates of local extinctions of medium to large-bodied mammals in one of the world\u0027s most important tropical biodiversity hotspots. We scrutinized 8,846 person-years of local knowledge to derive patch occupancy data for 18 mammal species within 196 forest patches across a 252,669-km2 study region of the Brazilian Atlantic Forest. We uncovered a staggering rate of local extinctions in the mammal fauna, with only 767 from a possible 3,528 populations still persisting. On average, forest patches retained 3.9 out of 18 potential species occupancies, and geographic ranges had contracted to 0–14.4% of their former distributions, including five large-bodied species that had been extirpated at a regional scale. Forest fragments were highly accessible to hunters and exposed to edge effects and fires, thereby severely diminishing the predictive power of species-area relationships, with the power model explaining only ∼9% of the variation in species richness per patch. Hence, conventional species-area curves provided over-optimistic estimates of species persistence in that most forest fragments had lost species at a much faster rate than predicted by habitat loss alone.",
+      "docId": "PMC3419225",
+      "pmid": "22905103",
+      "pmcid": "3419225",
+      "authors": [
+        {
+          "firstname": "GustavoR.",
+          "lastname": "Canale"
+        },
+        {
+          "firstname": "CarlosA.",
+          "lastname": "Peres"
+        },
+        {
+          "firstname": "CarlosE.",
+          "lastname": "Guidorizzi"
+        },
+        {
+          "firstname": "CassianoA.Ferreira",
+          "lastname": "Gatto"
+        },
+        {
+          "firstname": "MariaCecíliaM.",
+          "lastname": "Kierulff"
+        },
+        {
+          "firstname": "Jerome",
+          "lastname": "Chave"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Biodiversity Mapping in a Tropical West African Forest with Airborne Hyperspectral Data",
+      "abstractText": "Tropical forests are major repositories of biodiversity, but are fast disappearing as land is converted to agriculture. Decision-makers need to know which of the remaining forests to prioritize for conservation, but the only spatial information on forest biodiversity has, until recently, come from a sparse network of ground-based plots. Here we explore whether airborne hyperspectral imagery can be used to predict the alpha diversity of upper canopy trees in a West African forest. The abundance of tree species were collected from 64 plots (each 1250 m2 in size) within a Sierra Leonean national park, and Shannon-Wiener biodiversity indices were calculated. An airborne spectrometer measured reflectances of 186 bands in the visible and near-infrared spectral range at 1 m2 resolution. The standard deviations of these reflectance values and their first-order derivatives were calculated for each plot from the c. 1250 pixels of hyperspectral information within them. Shannon-Wiener indices were then predicted from these plot-based reflectance statistics using a machine-learning algorithm (Random Forest). The regression model fitted the data well (pseudo-R2 \u003d 84.9%), and we show that standard deviations of green-band reflectances and infra-red region derivatives had the strongest explanatory powers. Our work shows that airborne hyperspectral sensing can be very effective at mapping canopy tree diversity, because its high spatial resolution allows within-plot heterogeneity in reflectance to be characterized, making it an effective tool for monitoring forest biodiversity over large geographic scales.",
+      "docId": "PMC4060990",
+      "pmid": "24937407",
+      "pmcid": "4060990",
+      "authors": [
+        {
+          "firstname": "Gaia",
+          "lastname": "Vaglio Laurin"
+        },
+        {
+          "firstname": "JonathanCheung-Wai",
+          "lastname": "Chan"
+        },
+        {
+          "firstname": "Qi",
+          "lastname": "Chen"
+        },
+        {
+          "firstname": "JeremyA.",
+          "lastname": "Lindsell"
+        },
+        {
+          "firstname": "DavidA.",
+          "lastname": "Coomes"
+        },
+        {
+          "firstname": "Leila",
+          "lastname": "Guerriero"
+        },
+        {
+          "firstname": "FabioDel",
+          "lastname": "Frate"
+        },
+        {
+          "firstname": "Franco",
+          "lastname": "Miglietta"
+        },
+        {
+          "firstname": "Riccardo",
+          "lastname": "Valentini"
+        },
+        {
+          "firstname": "Michael",
+          "lastname": "Sears"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

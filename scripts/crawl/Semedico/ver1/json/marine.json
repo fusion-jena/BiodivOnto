@@ -1,0 +1,177 @@
+{
+  "inputstring": "marine",
+  "tokens": [
+    "marine"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 95598,
+  "bibliographylist": [
+    {
+      "articleTitle": "Immense Essence of Excellence: Marine Microbial Bioactive Compounds",
+      "abstractText": "Oceans have borne most of the biological activities on our planet. A number of biologically active compounds with varying degrees of action, such as anti-tumor, anti-cancer, anti-microtubule, anti-proliferative, cytotoxic, photo protective, as well as antibiotic and antifouling properties, have been isolated to date from marine sources. The marine environment also represents a largely unexplored source for isolation of new microbes (bacteria, fungi, actinomycetes, microalgae-cyanobacteria and diatoms) that are potent producers of bioactive secondary metabolites. Extensive research has been done to unveil the bioactive potential of marine microbes (free living and symbiotic) and the results are amazingly diverse and productive. Some of these bioactive secondary metabolites of microbial origin with strong antibacterial and antifungal activities are being intensely used as antibiotics and may be effective against infectious diseases such as HIV, conditions of multiple bacterial infections (penicillin, cephalosporines, streptomycin, and vancomycin) or neuropsychiatric sequelae. Research is also being conducted on the general aspects of biophysical and biochemical properties, chemical structures and biotechnological applications of the bioactive substances derived from marine microorganisms, and their potential use as cosmeceuticals and nutraceuticals. This review is an attempt to consolidate the latest studies and critical research in this field, and to showcase the immense competence of marine microbial flora as bioactive metabolite producers. In addition, the present review addresses some effective and novel approaches of procuring marine microbial compounds utilizing the latest screening strategies of drug discovery.",
+      "docId": "PMC2993000",
+      "pmid": "21116414",
+      "pmcid": "2993000",
+      "authors": [
+        {
+          "firstname": "Ira",
+          "lastname": "Bhatnagar"
+        },
+        {
+          "firstname": "Se-Kwon",
+          "lastname": "Kim"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Antitumor Peptides from Marine Organisms",
+      "abstractText": "The biodiversity of the marine environment and the associated chemical diversity constitute a practically unlimited resource of new antitumor agents in the field of the development of marine bioactive substances. In this review, the progress on studies of antitumor peptides from marine sources is provided. The biological properties and mechanisms of action of different marine peptides are described; information about their molecular diversity is also presented. Novel peptides that induce apoptosis signal pathway, affect the tubulin-microtubule equilibrium and inhibit angiogenesis are presented in association with their pharmacological properties. It is intended to provide useful information for further research in the fields of marine antitumor peptides.",
+      "docId": "PMC3210608",
+      "pmid": "22072999",
+      "pmcid": "3210608",
+      "authors": [
+        {
+          "firstname": "Lan-Hong",
+          "lastname": "Zheng"
+        },
+        {
+          "firstname": "Yue-Jun",
+          "lastname": "Wang"
+        },
+        {
+          "firstname": "Jun",
+          "lastname": "Sheng"
+        },
+        {
+          "firstname": "Fang",
+          "lastname": "Wang"
+        },
+        {
+          "firstname": "Yuan",
+          "lastname": "Zheng"
+        },
+        {
+          "firstname": "Xiu-Kun",
+          "lastname": "Lin"
+        },
+        {
+          "firstname": "Mi",
+          "lastname": "Sun"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "An Update on 2,5-Diketopiperazines from Marine Organisms",
+      "abstractText": "2,5-Diketopiperazines (2,5-DKPs) are an important category of structurally diverse cyclic dipeptides with prominent biological properties. These 2,5-DKPs have been obtained from a variety of natural resources, including marine organisms. Because of the increasing numbers and biological importance of these compounds, this review covers 90 marine originated 2,5-DKPs that were reported from 2009 to the first half-year of 2014. The review will focus on the structure characterizations, biological properties and proposed biosynthetic processes of these compounds.",
+      "docId": "PMC4278226",
+      "pmid": "25532564",
+      "pmcid": "4278226",
+      "authors": [
+        {
+          "firstname": "Ri-Ming",
+          "lastname": "Huang"
+        },
+        {
+          "firstname": "Xiang-Xi",
+          "lastname": "Yi"
+        },
+        {
+          "firstname": "Yuying",
+          "lastname": "Zhou"
+        },
+        {
+          "firstname": "Xiangdong",
+          "lastname": "Su"
+        },
+        {
+          "firstname": "Yan",
+          "lastname": "Peng"
+        },
+        {
+          "firstname": "Cheng-Hai",
+          "lastname": "Gao"
+        },
+        {
+          "firstname": "JordanK.",
+          "lastname": "Zjawiony"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Marine Natural Products: A Way to New Drugs",
+      "abstractText": "The investigation of marine natural products (low molecular weight bioregulators) is a rapidly developing scientific field at the intersection of biology and chemistry. Investigations aimed at detecting, identifying, and understanding the structure of marine natural products have led to the discovery of 20,000 new substances, including those characterized by an extremely high physiological activity. Some results and prospects of works aimed at creating new drugs on the basis of marine natural products are discussed herein. ",
+      "docId": "PMC3347521",
+      "pmid": "22649599",
+      "pmcid": "3347521",
+      "authors": [
+        {
+          "firstname": "V.A.",
+          "lastname": "Stonik"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2009 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Marine metagenomics: strategies for the discovery of novel enzymes with biotechnological applications from marine environments",
+      "abstractText": "Metagenomic based strategies have previously been successfully employed as powerful tools to isolate and identify enzymes with novel biocatalytic activities from the unculturable component of microbial communities from various terrestrial environmental niches. Both sequence based and function based screening approaches have been employed to identify genes encoding novel biocatalytic activities and metabolic pathways from metagenomic libraries. While much of the focus to date has centred on terrestrial based microbial ecosystems, it is clear that the marine environment has enormous microbial biodiversity that remains largely unstudied. Marine microbes are both extremely abundant and diverse; the environments they occupy likewise consist of very diverse niches. As culture-dependent methods have thus far resulted in the isolation of only a tiny percentage of the marine microbiota the application of metagenomic strategies holds great potential to study and exploit the enormous microbial biodiversity which is present within these marine environments.",
+      "docId": "PMC2538500",
+      "pmid": "18717988",
+      "pmcid": "2538500",
+      "authors": [
+        {
+          "firstname": "Jonathan",
+          "lastname": "Kennedy"
+        },
+        {
+          "firstname": "JulianR",
+          "lastname": "Marchesi"
+        },
+        {
+          "firstname": "AlanDW",
+          "lastname": "Dobson"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2008 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

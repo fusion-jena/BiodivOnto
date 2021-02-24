@@ -1,0 +1,207 @@
+{
+  "inputstring": "reproduction biodiversity",
+  "tokens": [
+    "biodiversity",
+    "reproduction"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 10917,
+  "bibliographylist": [
+    {
+      "articleTitle": "Individualized medicine and the microbiome in reproductive tract",
+      "abstractText": "Humans have evolved along with the millions of microorganisms that populate their bodies. These microbes (1014) outnumber human cells by 10 to 1 and account for 3 × 106 genes, more than ten times the 25,000 human genes. This microbial metagenome acts as our “other genome” and like our own genes, is unique to the individual. Recent international efforts such as the Human Microbiome Project (HMP) and the MetaHIT Project have helped catalog these microbial genomes using culture-independent, high-throughput, next-generation sequencing. This manuscript will describe recent efforts to define microbial diversity in the female reproductive tract because of the impact that microbial function has on reproductive efficiency. In this review, we will discuss current evidence that microbial communities are critical for maintaining reproductive health and how perturbations of microbial community structures can impact reproductive health from the aspect of infection, reproductive cyclicity, pregnancy, and disease states. Investigations of the human microbiome are propelling interventional strategies from treating medical populations to treating individual patients. In particular, we highlight how understanding and defining microbial community structures in different disease and physiological states have lead to the discovery of biomarkers and, more importantly, the development and implementation of microbial intervention strategies (probiotics) into modern day medicine. Finally this review will conclude with a literature summary of the effectiveness of microbial intervention strategies that have been implemented in animal and human models of disease and the potential for integrating these microbial intervention strategies into standard clinical practice.",
+      "docId": "PMC4381647",
+      "pmid": "25883569",
+      "pmcid": "4381647",
+      "authors": [
+        {
+          "firstname": "AndreaG.",
+          "lastname": "Braundmeier"
+        },
+        {
+          "firstname": "KatherineM.",
+          "lastname": "Lenz"
+        },
+        {
+          "firstname": "KristinS.",
+          "lastname": "Inman"
+        },
+        {
+          "firstname": "Nicholas",
+          "lastname": "Chia"
+        },
+        {
+          "firstname": "Patricio",
+          "lastname": "Jeraldo"
+        },
+        {
+          "firstname": "MarinaR.S.",
+          "lastname": "Walther-António"
+        },
+        {
+          "firstname": "MargretE.",
+          "lastname": "Berg Miller"
+        },
+        {
+          "firstname": "Fang",
+          "lastname": "Yang"
+        },
+        {
+          "firstname": "DouglasJ.",
+          "lastname": "Creedon"
+        },
+        {
+          "firstname": "Heidi",
+          "lastname": "Nelson"
+        },
+        {
+          "firstname": "BryanA.",
+          "lastname": "White"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Microbiome in parturition and preterm birth.",
+      "abstractText": "Preterm parturition is a one of the most significant global maternal-child health problem. In recent years, there has been an explosion in reports on a role for microbiomes (i.e., a microbial biomass) on a plethora of physiologic and pathologic human conditions. This review aims to describe our current understanding of the microbiome and its impact on parturition, with particular emphasis on preterm birth. We will focus on the roles of vaginal and oral mucosal microbiomes in premature parturition and describe the state-of-the-art methodologies used in microbiome studies. Next, we will present new studies on a potential microbiome in the placenta and how it may affect pregnancy outcomes. Finally, we will propose that host genetic factors can perturb the normal \"pregnancy microbiome\" and trigger adverse pregnancy outcomes. ",
+      "docId": "24390921",
+      "pmid": "24390921",
+      "authors": [
+        {
+          "firstname": "IndiraU",
+          "lastname": "Mysorekar",
+          "affiliation": "Department of Obstetrics and Gynecology."
+        },
+        {
+          "firstname": "Bin",
+          "lastname": "Cao",
+          "affiliation": "Department of Obstetrics and Gynecology."
+        }
+      ],
+      "publication": {
+        "title": "Seminars in reproductive medicine",
+        "volume": "32",
+        "issue": "1",
+        "pages": "50-5",
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    },
+    {
+      "articleTitle": "The microbiome, parturition, and timing of birth: more questions than answers.",
+      "abstractText": "The causes of preterm birth are multifactorial, but its association with infection has been well-established. The predominant paradigm describes an ascending infection from the lower genital tract through the cervix and into the presumably sterile fetal membranes and placenta. Thus, an evaluation of the role of the vaginal microbiome in preterm birth is implicated. However, emerging fields of data described in this review suggest that the placenta might not be sterile, even in the absence of clinical infection. We thus propose an additional mechanism for placental colonization and infection: hematogenous spread. When considered in the context of decades of evidence demonstrating a strong risk of recurrence for preterm birth, studies on parturition are ideal for applying the rapidly expanding field of metagenomics and analytic pipelines. The translational implications toward identification of innovative treatments for the prevention of preterm birth are further discussed. In sum, exciting advances in understanding the role of both host and microbiota in parturition and preterm birth are on the horizon.",
+      "docId": "24793619",
+      "pmid": "24793619",
+      "pmcid": "4157949",
+      "authors": [
+        {
+          "firstname": "AmandaL",
+          "lastname": "Prince",
+          "affiliation": "Departments of Obstetrics and Gynecology, Division of Maternal-Fetal Medicine, Baylor College of Medicine, Houston, TX, USA."
+        },
+        {
+          "firstname": "KathleenM",
+          "lastname": "Antony",
+          "affiliation": "Departments of Obstetrics and Gynecology, Division of Maternal-Fetal Medicine, Baylor College of Medicine, Houston, TX, USA."
+        },
+        {
+          "firstname": "DerrickM",
+          "lastname": "Chu",
+          "affiliation": "Departments of Obstetrics and Gynecology, Division of Maternal-Fetal Medicine, Baylor College of Medicine, Houston, TX, USA."
+        },
+        {
+          "firstname": "KjerstiM",
+          "lastname": "Aagaard",
+          "affiliation": "Departments of Obstetrics and Gynecology, Division of Maternal-Fetal Medicine, Baylor College of Medicine, Houston, TX, USA; Bioinformatics Research Lab, Baylor College of Medicine, Houston, TX, USA; Molecular and Cell Biology, Baylor College of Medicine, Houston, TX, USA. Electronic address: aagaardt@bcm.edu."
+        }
+      ],
+      "publication": {
+        "title": "Journal of reproductive immunology",
+        "volume": "104-105",
+        "pages": "12-9",
+        "date": "Oct 1, 2014 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    },
+    {
+      "articleTitle": "Diversification and coevolution in brood pollination mutualisms: Windows into the role of biotic interactions in generating biological diversity.",
+      "abstractText": "Brood pollination mutualisms-interactions in which specialized insects are both the pollinators (as adults) and seed predators (as larvae) of their host plants-have been influential study systems for coevolutionary biology. These mutualisms include those between figs and fig wasps, yuccas and yucca moths, leafflowers and leafflower moths, globeflowers and globeflower flies, Silene plants and Hadena and Perizoma moths, saxifrages and Greya moths, and senita cacti and senita moths. The high reciprocal diversity and species-specificity of some of these mutualisms have been cited as evidence that coevolution between plants and pollinators drives their mutual diversification. However, the mechanisms by which these mutualisms diversify have received less attention. In this paper, we review key hypotheses about how these mutualisms diversify and what role coevolution between plants and pollinators may play in this process. We find that most species-rich brood pollination mutualisms show significant phylogenetic congruence at high taxonomic scales, but there is limited evidence for the processes of both cospeciation and duplication, and there are no unambiguous examples known of strict-sense contemporaneous cospeciation. Allopatric speciation appears important across multiple systems, particularly in the insects. Host-shifts appear to be common, and widespread host-shifts by pollinators may displace other pollinator lineages. There is relatively little evidence for a \"coevolution through cospeciation\" model or that coevolution promotes speciation in these systems. Although we have made great progress in understanding the mechanisms by which brood pollination mutualisms diversify, many opportunities remain to use these intriguing symbioses to understand the role of biotic interactions in generating biological diversity.",
+      "docId": "27765775",
+      "pmid": "27765775",
+      "authors": [
+        {
+          "firstname": "DavidH",
+          "lastname": "Hembry",
+          "affiliation": "Department of Ecology and Evolutionary Biology, University of Arizona, P. O. Box 210088, Tucson, Arizona 85721 USA hembry@email.arizona.edu."
+        },
+        {
+          "firstname": "DavidM",
+          "lastname": "Althoff",
+          "affiliation": "Department of Biology, Syracuse University, 107 College Place, Syracuse, New York, 13244 USA."
+        }
+      ],
+      "publication": {
+        "title": "American journal of botany",
+        "volume": "103",
+        "issue": "10",
+        "pages": "1783-1792",
+        "date": "Oct 1, 2016 12:00:00 AM",
+        "dateComplete": true
+      },
+      "externalLinks": [],
+      "type": 1,
+      "review": false,
+      "indextype": "medline"
+    },
+    {
+      "articleTitle": "Phenotypic Plasticity in Response to the Social Environment: Effects of Density and Sex Ratio on Mating Behaviour Following Ecotype Divergence",
+      "abstractText": "The ability to express phenotypically plastic responses to environmental cues might be adaptive in changing environments. We studied phenotypic plasticity in mating behaviour as a response to population density and adult sex ratio in a freshwater isopod (Asellus aquaticus). A. aquaticus has recently diverged into two distinct ecotypes, inhabiting different lake habitats (reed Phragmites australis and stonewort Chara tomentosa, respectively). In field surveys, we found that these habitats differ markedly in isopod population densities and adult sex ratios. These spatially and temporally demographic differences are likely to affect mating behaviour. We performed behavioural experiments using animals from both the ancestral ecotype (“reed” isopods) and from the novel ecotype (“stonewort” isopods) population. We found that neither ecotype adjusted their behaviour in response to population density. However, the reed ecotype had a higher intrinsic mating propensity across densities. In contrast to the effects of density, we found ecotype differences in plasticity in response to sex ratio. The stonewort ecotype show pronounced phenotypic plasticity in mating propensity to adult sex ratio, whereas the reed ecotype showed a more canalised behaviour with respect to this demographic factor. We suggest that the lower overall mating propensity and the phenotypic plasticity in response to sex ratio have evolved in the novel stonewort ecotype following invasion of the novel habitat. Plasticity in mating behaviour may in turn have effects on the direction and intensity of sexual selection in the stonewort habitat, which may fuel further ecotype divergence.",
+      "docId": "PMC2940798",
+      "pmid": "20862332",
+      "pmcid": "2940798",
+      "authors": [
+        {
+          "firstname": "Kristina",
+          "lastname": "Karlsson"
+        },
+        {
+          "firstname": "Fabrice",
+          "lastname": "Eroukhmanoff"
+        },
+        {
+          "firstname": "ErikI.",
+          "lastname": "Svensson"
+        },
+        {
+          "firstname": "Trine",
+          "lastname": "Bilde"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2010 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

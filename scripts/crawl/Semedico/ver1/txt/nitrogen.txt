@@ -1,0 +1,119 @@
+Nitrogen regulation of fungal secondary metabolism in fungi
+
+Fungi occupy diverse environments where they are constantly challenged by stressors such as extreme
+pH, temperature, UV exposure, and nutrient deprivation. Nitrogen is an essential requirement for
+growth, and the ability to metabolize a wide variety of nitrogen sources enables fungi to colonize
+different environmental niches and survive nutrient limitations. Favored nitrogen sources,
+particularly ammonium and glutamine, are used preferentially, while the expression of genes required
+for the use of various secondary nitrogen sources is subject to a regulatory mechanism called
+nitrogen metabolite repression. Studies on gene regulation in response to nitrogen availability were
+carried out first in Saccharomyces cerevisiae, Aspergillus nidulans, and Neurospora crassa. These
+studies revealed that fungi respond to changes in nitrogen availability with physiological and
+morphological alterations and activation of differentiation processes. In all fungal species
+studied, the major GATA transcription factor AreA and its co-repressor Nmr are central players of
+the nitrogen regulatory network. In addition to growth and development, the quality and quantity of
+nitrogen also affects the formation of a broad range of secondary metabolites (SMs). Recent studies,
+mainly on species of the genus Fusarium, revealed that AreA does not only regulate a large set of
+nitrogen catabolic genes, but can also be involved in regulating production of SMs. Furthermore,
+several other regulators, e.g., a second GATA transcription factor, AreB, that was proposed to
+negatively control nitrogen catabolic genes by competing with AreA for binding to GATA elements, was
+shown to act as activator of some nitrogen-repressed as well as nitrogen-induced SM gene clusters.
+This review highlights our latest understanding of canonical (AreA-dependent) and non-canonical
+nitrogen regulation mechanisms by which fungi may regulate biosynthesis of certain SMs in response
+to nitrogen availability.
+
+
+
+Ecological implications of single and mixed nitrogen nutrition in Arabidopsis thaliana
+
+Background Ecologists recognize that plants capture nitrogen in many chemical forms that include
+amino acids. Access to multiple nitrogen types in plant communities has been argued to enhance plant
+performance, access to nitrogen and alter ecological interactions in ways that may promote species
+coexistence. However, data supporting these arguments have been limited. While it is known that
+plants uptake amino acids from soil, long term studies that link amino acid uptake to measures of
+plant performance and potential reproductive effort are not typically performed. Here, a series of
+experiments that link uptake of nitrate, glutamine or asparagine with lifetime reproductive effort
+in Arabidopsis thaliana are reported. Nitrogen was offered either singly or in mixture and at a
+variety of combinations. Traits related to reproductive output were measured, as was the preference
+for each type of nitrogen. Results When plants were supplied with a single nitrogen type at
+concentrations from 0.1-0.9 mM, the ranking of nitrogen types was nitrate > glutamine > asparagine
+in terms of the relative performance of plants. When plants were supplied with two types of nitrogen
+in mixture at ratios between 0.1:0.9-0.9:0.1 mM, again plants performed best when nitrate was
+present, and poorly when amino acids were mixed. Additionally, stable isotopes revealed that plants
+preferentially captured nitrogen types matching the hierarchy of nitrate > glutamine > asparagine.
+Comparing between the two experiments revealed that mixed nitrogen nutrition was a net cost to the
+plants. Conclusions Plant performance on mixed nitrogen was less than half the performance on equal
+amounts of any single nitrogen type. We asked: why did A. thaliana capture amino acids when doing so
+resulted in a net cost? We argue that available data cannot yet answer this question, but
+hypothesize that access to lower quality forms of nitrogen may become important when plants compete.
+
+
+
+Stocks of carbon and nitrogen and partitioning between above- and belowground pools in the Brazilian coastal Atlantic Forest elevation range
+
+We estimated carbon and nitrogen stocks in aboveground biomass (AGB) and belowground biomass (BGB)
+along an elevation range in forest sites located on the steep slopes of the Serra do Mar on the
+north coast of the State of São Paulo, southeast Brazil. In elevations of 100 m (lowland), 400 m
+(submontane), and 1000 m (montane) four 1-ha plots were established, and above- (live and dead) and
+belowground (live and dead) biomass were determined. Carbon and nitrogen concentrations in each
+compartment were determined and used to convert biomass into carbon and nitrogen stocks. The carbon
+aboveground stock (CAGB) varied along the elevation range from approximately 110 to 150 Mg·ha−1, and
+nitrogen aboveground stock (NAGB), varied from approximately 1.0 to 1.9 Mg·ha−1. The carbon
+belowground stock (CBGB) and the nitrogen belowground stock (NBGB) were significantly higher than
+the AGB and varied along the elevation range from approximately 200–300 Mg·ha−1, and from 14 to 20
+Mg·ha−1, respectively. Finally, the total carbon stock (CTOTAL) varied from approximately 320 to 460
+Mg·ha−1, and the nitrogen total stock (NTOTAL) from approximately 15 to 22 Mg·ha−1. Most of the
+carbon and nitrogen stocks were found belowground and not aboveground as normally found in lowland
+tropical forests. The above- and belowground stocks, and consequently, the total stocks of carbon
+and nitrogen increased significantly with elevation. As the soil and air temperature also decreased
+significantly with elevation, we found a significantly inverse relationship between carbon and
+nitrogen stocks and temperature. Using this inverse relationship, we made a first approach estimate
+that an increase of 1°C in soil temperature would decrease the carbon and nitrogen stocks in
+approximately 17 Mg·ha−1 and 1 Mg·ha−1 of carbon and nitrogen, respectively.
+
+
+
+Food and feed supply and waste disposal in the industrialising city of Vienna (1830–1913): a special focus on urban nitrogen flows
+
+ Taking an urban metabolism perspective, this article investigates food and feed consumption as well
+as flows of nitrogen in the city of Vienna during the industrial transformation. It addresses the
+question of the amount of agricultural products consumed in the city and their nitrogen content,
+their origin and their fate after consumption. Changes in dietary nitrogen flows in nineteenth
+century Vienna are embedded in the context of a socio-ecological transition from an agrarian to an
+industrial socio-metabolic regime. Similarities and differences in the size and dynamics of urban
+nitrogen flows in Vienna and Paris are discussed. Critical reading of historical sources and
+historical material flow accounting are the methodological backbone of this study. Between 1830 and
+1913, inflows of dietary nitrogen into the city increased fivefold. Throughout the time period under
+observation, the urban waterscape was the most important sink for human and animal excreta. The
+amount of nitrogen disposed of in the urban waterscape via urban excreta increased sevenfold. The
+average daily consumption of nitrogen per capita was very similar to that in Paris, but the
+composition of foodstuff differed. In Vienna, the share of meat in food consumption was considerably
+higher. Both cities had to face the challenge of increasing output flows. However, urban authorities
+in Vienna and Paris came to different solutions of how to deal with this challenge. Besides
+institutional settings, the specific geomorphology of the cities as well as biogeographic factors
+such as the absorption capacity of the Danube in Vienna and the Seine in Paris mattered.  Electronic
+supplementary material The online version of this article (doi:10.1007/s10113-014-0653-5) contains
+supplementary material, which is available to authorized users.
+
+
+
+Effect of Nitrogen on Cellular Production and Release of the Neurotoxin Anatoxin-A in a Nitrogen-Fixing Cyanobacterium
+
+Anatoxin-a (ANTX) is a neurotoxin produced by several freshwater cyanobacteria and implicated in
+lethal poisonings of domesticated animals and wildlife. The factors leading to its production in
+nature and in culture are not well understood. Resource availability may influence its cellular
+production as suggested by the carbon-nutrient hypothesis, which links the amount of secondary
+metabolites produced by plants or microbes to the relative abundance of nutrients. We tested the
+effects of nitrogen supply (as 1, 5, and 100% N of standard cyanobacterial medium corresponding to
+15, 75, and 1500 mg L−1 of NaNO3 respectively) on ANTX production and release in a toxic strain of
+the planktonic cyanobacterium Aphanizomenon issatschenkoi (Nostocales). We hypothesized that
+nitrogen deficiency might constrain the production of ANTX. However, the total concentration and
+more significantly the cellular content of anatoxin-a peaked (max. 146 μg/L and 1683 μg g−1 dry
+weight) at intermediate levels of nitrogen supply when N-deficiency was evident based on phycocyanin
+to chlorophyll a and carbon to nitrogen ratios. The results suggest that the cellular production of
+anatoxin-a may be stimulated by moderate nitrogen stress. Maximal cellular contents of other
+cyanotoxins have recently been reported under severe stress conditions in another Nostocales
+species.
+
+
+

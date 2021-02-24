@@ -1,0 +1,190 @@
+{
+  "inputstring": "climate change biodiversity",
+  "tokens": [
+    "biodiversity",
+    "climate change"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 6462,
+  "bibliographylist": [
+    {
+      "articleTitle": "Patterns and Perceptions of Climate Change in a Biodiversity Conservation Hotspot",
+      "abstractText": "Quantifying local people\u0027s perceptions to climate change, and their assessments of which changes matter, is fundamental to addressing the dual challenge of land conservation and poverty alleviation in densely populated tropical regions To develop appropriate policies and responses, it will be important not only to anticipate the nature of expected changes, but also how they are perceived, interpreted and adapted to by local residents. The Albertine Rift region in East Africa is one of the world\u0027s most threatened biodiversity hotspots due to dense smallholder agriculture, high levels of land and resource pressures, and habitat loss and conversion. Results of three separate household surveys conducted in the vicinity of Kibale National Park during the late 2000s indicate that farmers are concerned with variable precipitation. Many survey respondents reported that conditions are drier and rainfall timing is becoming less predictable. Analysis of daily rainfall data for the climate normal period 1981 to 2010 indicates that total rainfall both within and across seasons has not changed significantly, although the timing and transitions of seasons has been highly variable. Results of rainfall data analysis also indicate significant changes in the intra-seasonal rainfall distribution, including longer dry periods within rainy seasons, which may contribute to the perceived decrease in rainfall and can compromise food security. Our results highlight the need for fine-scale climate information to assist agro-ecological communities in developing effective adaptive management.",
+      "docId": "PMC3288093",
+      "pmid": "22384244",
+      "pmcid": "3288093",
+      "authors": [
+        {
+          "firstname": "Joel",
+          "lastname": "Hartter"
+        },
+        {
+          "firstname": "MaryD.",
+          "lastname": "Stampone"
+        },
+        {
+          "firstname": "SadieJ.",
+          "lastname": "Ryan"
+        },
+        {
+          "firstname": "Karen",
+          "lastname": "Kirner"
+        },
+        {
+          "firstname": "ColinA.",
+          "lastname": "Chapman"
+        },
+        {
+          "firstname": "Abraham",
+          "lastname": "Goldman"
+        },
+        {
+          "firstname": "JuanA.",
+          "lastname": "Añel"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Accommodating Species Climate-Forced Dispersal and Uncertainties in Spatial Conservation Planning",
+      "abstractText": "Abstract Spatial conservation prioritization should seek to anticipate climate change impacts on biodiversity and to mitigate these impacts through the development of dynamic conservation plans. Here, we defined spatial priorities for the conservation of amphibians inhabiting the Atlantic Forest Biodiversity Hotspot that overcome the likely impacts of climate change on the distribution of this imperiled fauna. First, we built ecological niche models (ENMs) for 431 amphibian species both for current time and for the mid-point of a 30-year period spanning 2071–2099 (i.e. 2080). For modeling species\u0027 niches, we combined six modeling methods and three different climate models. We also quantified and mapped model uncertainties. Our consensus models forecasted range shifts that culminate with high species richness in central and eastern Atlantic Forest, both for current time and for 2080. Most species had a significant range contraction (up to 72%) and 12% of species were projected to be regionally extinct. Most species would need to disperse because suitable climatic sites will change. Therefore, we identified a network of priority sites for conservation that minimizes the distance a given species would need to disperse because of changes in future habitat suitability (i.e. climate-forced dispersal) as well as uncertainties associated to ENMs. This network also maximized complementary species representation across currently established protected areas. Priority sites already include possible dispersal corridors linking current and future suitable habitats for amphibians. Although we used the a top-ranked Biodiversity Hotspot and amphibians as a case study for illustrating our approach, our study may help developing more effective conservation strategies under climate change, especially when applied at different spatial scales, geographic regions, and taxonomic groups.",
+      "docId": "PMC3551941",
+      "pmid": "23349850",
+      "pmcid": "3551941",
+      "authors": [
+        {
+          "firstname": "Priscila",
+          "lastname": "Lemes"
+        },
+        {
+          "firstname": "RafaelDias",
+          "lastname": "Loyola"
+        },
+        {
+          "firstname": "Alessandro",
+          "lastname": "Flammini"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Four Decades of Andean Timberline Migration and Implications for Biodiversity Loss with Climate Change",
+      "abstractText": "Rapid 21st-century climate change may lead to large population decreases and extinction in tropical montane cloud forest species in the Andes. While prior research has focused on species migrations per se, ecotones may respond to different environmental factors than species. Even if species can migrate in response to climate change, if ecotones do not they can function as hard barriers to species migrations, making ecotone migrations central to understanding species persistence under scenarios of climate change. We examined a 42-year span of aerial photographs and high resolution satellite imagery to calculate migration rates of timberline–the grassland-forest ecotone–inside and outside of protected areas in the high Peruvian Andes. We found that timberline in protected areas was more likely to migrate upward in elevation than in areas with frequent cattle grazing and fire. However, rates in both protected (0.24 m yr−1) and unprotected (0.05 m yr−1) areas are only 0.5–2.3% of the rates needed to stay in equilibrium with projected climate by 2100. These ecotone migration rates are 12.5 to 110 times slower than the observed species migration rates within the same forest, suggesting a barrier to migration for mid- and high-elevation species. We anticipate that the ecotone will be a hard barrier to migration under future climate change, leading to drastic population and biodiversity losses in the region unless intensive management steps are taken.",
+      "docId": "PMC3770544",
+      "pmid": "24040260",
+      "pmcid": "3770544",
+      "authors": [
+        {
+          "firstname": "DavidA.",
+          "lastname": "Lutz"
+        },
+        {
+          "firstname": "RebeccaL.",
+          "lastname": "Powell"
+        },
+        {
+          "firstname": "MilesR.",
+          "lastname": "Silman"
+        },
+        {
+          "firstname": "MauraGeraldine",
+          "lastname": "Chapman"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Current models broadly neglect specific needs of biodiversity conservation in protected areas under climate change",
+      "abstractText": "Background Protected areas are the most common and important instrument for the conservation of biological diversity and are called for under the United Nations\u0027 Convention on Biological Diversity. Growing human population densities, intensified land-use, invasive species and increasing habitat fragmentation threaten ecosystems worldwide and protected areas are often the only refuge for endangered species. Climate change is posing an additional threat that may also impact ecosystems currently under protection. Therefore, it is of crucial importance to include the potential impact of climate change when designing future nature conservation strategies and implementing protected area management. This approach would go beyond reactive crisis management and, by necessity, would include anticipatory risk assessments. One avenue for doing so is being provided by simulation models that take advantage of the increase in computing capacity and performance that has occurred over the last two decades. Here we review the literature to determine the state-of-the-art in modeling terrestrial protected areas under climate change, with the aim of evaluating and detecting trends and gaps in the current approaches being employed, as well as to provide a useful overview and guidelines for future research. Results Most studies apply statistical, bioclimatic envelope models and focus primarily on plant species as compared to other taxa. Very few studies utilize a mechanistic, process-based approach and none examine biotic interactions like predation and competition. Important factors like land-use, habitat fragmentation, invasion and dispersal are rarely incorporated, restricting the informative value of the resulting predictions considerably. Conclusion The general impression that emerges is that biodiversity conservation in protected areas could benefit from the application of modern modeling approaches to a greater extent than is currently reflected in the scientific literature. It is particularly true that existing models have been underutilized in testing different management options under climate change. Based on these findings we suggest a strategic framework for more effectively incorporating the impact of climate change in models exploring the effectiveness of protected areas.",
+      "docId": "PMC3108268",
+      "pmid": "21539736",
+      "pmcid": "3108268",
+      "authors": [
+        {
+          "firstname": "Mungla",
+          "lastname": "Sieck"
+        },
+        {
+          "firstname": "PierreL",
+          "lastname": "Ibisch"
+        },
+        {
+          "firstname": "KirkA",
+          "lastname": "Moloney"
+        },
+        {
+          "firstname": "Florian",
+          "lastname": "Jeltsch"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2011 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Mapping the Drivers of Climate Change Vulnerability for Australia’s Threatened Species",
+      "abstractText": "Effective conservation management for climate adaptation rests on understanding the factors driving species’ vulnerability in a spatially explicit manner so as to direct on-ground action. However, there have been only few attempts to map the spatial distribution of the factors driving vulnerability to climate change. Here we conduct a species-level assessment of climate change vulnerability for a sample of Australia’s threatened species and map the distribution of species affected by each factor driving climate change vulnerability across the continent. Almost half of the threatened species assessed were considered vulnerable to the impacts of climate change: amphibians being the most vulnerable group, followed by plants, reptiles, mammals and birds. Species with more restricted distributions were more likely to show high climate change vulnerability than widespread species. The main factors driving climate change vulnerability were low genetic variation, dependence on a particular disturbance regime and reliance on a particular moisture regime or habitat. The geographic distribution of the species impacted by each driver varies markedly across the continent, for example species impacted by low genetic variation are prevalent across the human-dominated south-east of the country, while reliance on particular moisture regimes is prevalent across northern Australia. Our results show that actions to address climate adaptation will need to be spatially appropriate, and that in some regions a complex suite of factors driving climate change vulnerability will need to be addressed. Taxonomic and geographic variation in the factors driving climate change vulnerability highlights an urgent need for a spatial prioritisation of climate adaptation actions for threatened species.",
+      "docId": "PMC4446039",
+      "pmid": "26017785",
+      "pmcid": "4446039",
+      "authors": [
+        {
+          "firstname": "JasmineR.",
+          "lastname": "Lee"
+        },
+        {
+          "firstname": "Ramona",
+          "lastname": "Maggini"
+        },
+        {
+          "firstname": "MartinF.J.",
+          "lastname": "Taylor"
+        },
+        {
+          "firstname": "RichardA.",
+          "lastname": "Fuller"
+        },
+        {
+          "firstname": "Ulrich",
+          "lastname": "Joger"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

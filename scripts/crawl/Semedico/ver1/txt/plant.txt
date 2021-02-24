@@ -1,0 +1,97 @@
+A BioBrick compatible strategy for genetic modification of plants
+
+Background Plant biotechnology can be leveraged to produce food, fuel, medicine, and materials.
+Standardized methods advocated by the synthetic biology community can accelerate the plant design
+cycle, ultimately making plant engineering more widely accessible to bioengineers who can contribute
+diverse creative input to the design process. Results This paper presents work done largely by
+undergraduate students participating in the 2010 International Genetically Engineered Machines
+(iGEM) competition. Described here is a framework for engineering the model plant Arabidopsis
+thaliana with standardized, BioBrick compatible vectors and parts available through the Registry of
+Standard Biological Parts (http://www.partsregistry.org). This system was used to engineer a proof-
+of-concept plant that exogenously expresses the taste-inverting protein miraculin. Conclusions Our
+work is intended to encourage future iGEM teams and other synthetic biologists to use plants as a
+genetic chassis. Our workflow simplifies the use of standardized parts in plant systems, allowing
+the construction and expression of heterologous genes in plants within the timeframe allotted for
+typical iGEM projects.
+
+
+
+The intriguing plant nuclear lamina
+
+The nuclear lamina is a complex protein mesh attached to the inner nuclear membrane (INM), which is
+also associated with nuclear pore complexes. It provides mechanical support to the nucleus and
+nuclear envelope, and as well as facilitating the connection of the nucleoskeleton to the
+cytoskeleton, it is also involved in chromatin organization, gene regulation, and signaling. In
+metazoans, the nuclear lamina consists of a polymeric layer of lamins and other interacting proteins
+responsible for its association with the INM and chromatin. In plants, field emission scanning
+electron microscopy of nuclei, and thin section transmission electron microscopy of isolated
+nucleoskeletons, reveals the lamina to have a similar structure to that of metazoans. Moreover,
+although plants lack lamin genes and the genes encoding most lamin-binding proteins, the main
+functions of the lamina are fulfilled in plants. Hence, it would appear that the plant lamina is not
+based on lamins and that other proteins substitute for lamins in plant cells. The nuclear matrix
+constituent proteins are the best characterized structural proteins in the plant lamina. Although
+these proteins do not display strong sequence similarity to lamins, their predicted secondary
+structure and sub-nuclear distribution, as well as their influence on nuclear size and shape, and on
+heterochromatin organization, suggest they could be functional lamin analogs. In this review we
+shall summarize what is currently known about the organization and composition of the plant nuclear
+lamina and its interacting complexes, and we will discuss the activity of this structure in the
+plant cell and its nucleus.
+
+
+
+Medicinal Plant Use and Health Sovereignty: Findings from the Tajik and Afghan Pamirs
+
+Medicinal plants are indicators of indigenous knowledge in the context of political volatility and
+sociocultural and ecological change in the Pamir Mountains of Afghanistan and Tajikistan. Medicinal
+plants are the primary health care option in this region of Central Asia. The main objective of this
+paper is to demonstrate that medicinal plants contribute to health security and sovereignty in a
+time of instability. We illustrate the nutritional as well as medicinal significance of plants in
+the daily lives of villagers. Based on over a decade and half of research related to resilience and
+livelihood security, we present plant uses in the context of mountain communities. Villagers
+identified over 58 cultivated and noncultivated plants and described 310 distinct uses within 63
+categories of treatment and prevention. Presence of knowledge about medicinal plants is directly
+connected to their use.
+
+
+
+Plant Genome DataBase Japan (PGDBj): A Portal Website for the Integration of Plant Genome-Related Databases
+
+The Plant Genome DataBase Japan (PGDBj, http://pgdbj.jp/?ln=en) is a portal website that aims to
+integrate plant genome-related information from databases (DBs) and the literature. The PGDBj is
+comprised of three component DBs and a cross-search engine, which provides a seamless search over
+the contents of the DBs. The three DBs are as follows. (i) The Ortholog DB, providing gene cluster
+information based on the amino acid sequence similarity. Over 500,000 amino acid sequences of 20
+Viridiplantae species were subjected to reciprocal BLAST searches and clustered. Sequences from
+plant genome DBs (e.g. TAIR10 and RAP-DB) were also included in the cluster with a direct link to
+the original DB. (ii) The Plant Resource DB, integrating the SABRE DB, which provides cDNA and
+genome sequence resources accumulated and maintained in the RIKEN BioResource Center and National
+BioResource Projects. (iii) The DNA Marker DB, providing manually or automatically curated
+information of DNA markers, quantitative trait loci and related linkage maps, from the literature
+and external DBs. As the PGDBj targets various plant species, including model plants, algae, and
+crops important as food, fodder and biofuel, researchers in the field of basic biology as well as a
+wide range of agronomic fields are encouraged to perform searches using DNA sequences, gene names,
+traits and phenotypes of interest. The PGDBj will return the search results from the component DBs
+and various types of linked external DBs.
+
+
+
+Effects of genetic modifications to flax (Linum usitatissimum) on arbuscular mycorrhiza and plant performance
+
+Although arbuscular mycorrhizal fungi (AMF) are known for their positive effect on flax growth, the
+impact of genetic manipulation in this crop on arbuscular mycorrhiza and plant performance was
+assessed for the first time. Five types of transgenic flax that were generated to improve fiber
+quality and resistance to pathogens, through increased levels of either phenylpropanoids (W92.40),
+glycosyltransferase (GT4, GT5), or PR2 beta-1,3-glucanase (B14) or produce polyhydroxybutyrate
+(M50), were used. Introduced genetic modifications did not change the degree of mycorrhizal
+colonization as compared to parent cultivars Linola and Nike. Arbuscules were well developed in each
+tested transgenic type (except M50). In two lines (W92.40 and B14), a higher abundance of arbuscules
+was observed when compared to control, untransformed flax plants. However, in some cases (W92.40,
+GT4, GT5, and B14 Md), the mycorrhizal dependency for biomass production of transgenic plants was
+slightly lower when compared to the original cultivars. No significant influence of mycorrhiza on
+the photosynthetic activity of transformed lines was found, but in most cases P concentration in
+mycorrhizal plants remained higher than in nonmycorrhizal ones. The transformed flax lines meet the
+demands for better quality of fiber and higher resistance to pathogens, without significantly
+influencing the interaction with AMF.
+
+
+

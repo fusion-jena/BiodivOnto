@@ -1,0 +1,246 @@
+{
+  "inputstring": "abundance biodiversity",
+  "tokens": [
+    "biodiversity",
+    "abundance"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 54807,
+  "bibliographylist": [
+    {
+      "articleTitle": "The World Bacterial Biogeography and Biodiversity through Databases: A Case Study of NCBI Nucleotide Database and GBIF Database",
+      "abstractText": "Databases are an essential tool and resource within the field of bioinformatics. The primary aim of this study was to generate an overview of global bacterial biodiversity and biogeography using available data from the two largest public online databases, NCBI Nucleotide and GBIF. The secondary aim was to highlight the contribution each geographic area has to each database. The basis for data analysis of this study was the metadata provided by both databases, mainly, the taxonomy and the geographical area origin of isolation of the microorganism (record). These were directly obtained from GBIF through the online interface, while E-utilities and Python were used in combination with a programmatic web service access to obtain data from the NCBI Nucleotide Database. Results indicate that the American continent, and more specifically the USA, is the top contributor, while Africa and Antarctica are less well represented. This highlights the imbalance of exploration within these areas rather than any reduction in biodiversity. This study describes a novel approach to generating global scale patterns of bacterial biodiversity and biogeography and indicates that the Proteobacteria are the most abundant and widely distributed phylum within both databases.",
+      "docId": "PMC3818805",
+      "pmid": "24228241",
+      "pmcid": "3818805",
+      "authors": [
+        {
+          "firstname": "Okba",
+          "lastname": "Selama"
+        },
+        {
+          "firstname": "Phillip",
+          "lastname": "James"
+        },
+        {
+          "firstname": "Farida",
+          "lastname": "Nateche"
+        },
+        {
+          "firstname": "ElizabethM.H.",
+          "lastname": "Wellington"
+        },
+        {
+          "firstname": "Hocine",
+          "lastname": "Hacène"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "The Effect of Urbanization on Ant Abundance and Diversity: A Temporal Examination of Factors Affecting Biodiversity",
+      "abstractText": "Numerous studies have examined the effect of urbanization on species richness and most studies implicate urbanization as the major cause of biodiversity loss. However, no study has identified an explicit connection between urbanization and biodiversity loss as the impact of urbanization is typically inferred indirectly by comparing species diversity along urban-rural gradients at a single time point. A different approach is to focus on the temporal rather than the spatial aspect and perform “before and after” studies where species diversity is cataloged over time in the same sites. The current study examined changes in ant abundance and diversity associated with the conversion of natural habitats into urban habitats. Ant abundance and diversity were tracked in forested sites that became urbanized through construction and were examined at 3 time points - before, during, and after construction. On average, 4.3±1.2 unique species were detected in undisturbed plots prior to construction. Ant diversity decreased to 0.7±0.8 species in plots undergoing construction and 1.5±1.1 species in plots 1 year after construction was completed. With regard to species richness, urbanization resulted in the permanent loss of 17 of the 20 species initially present in the study plots. Recovery was slow and only 3 species were present right after construction was completed and 4 species were present 1 year after construction was completed. The second objective examined ant fauna recovery in developed residential lots based on time since construction, neighboring habitat quality, pesticide inputs, and the presence of invasive ants. Ant diversity was positively correlated with factors that promoted ecological recovery and negatively correlated with factors that promoted ecological degradation. Taken together, these results address a critical gap in our knowledge by characterizing the short- and long-term the effects of urbanization on the loss of ant biodiversity.",
+      "docId": "PMC3410901",
+      "pmid": "22876291",
+      "pmcid": "3410901",
+      "authors": [
+        {
+          "firstname": "Grzegorz",
+          "lastname": "Buczkowski"
+        },
+        {
+          "firstname": "DouglasS.",
+          "lastname": "Richmond"
+        },
+        {
+          "firstname": "DeborahM.",
+          "lastname": "Gordon"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Chlamydia caviae infection alters abundance but not composition of the guinea pig vaginal microbiota",
+      "abstractText": "In humans, the vaginal microbiota is thought to be the first line of defense again pathogens including Chlamydia trachomatis. The guinea pig has been extensively used as a model to study chlamydial infection because it shares anatomical and physiological similarities with humans, such as a squamous vaginal epithelium as well as some of the long-term outcomes caused by chlamydial infection. In this study, we aimed to evaluate the guinea pig-C. caviae model of genital infection as a surrogate for studying the role of the vaginal microbiota in the early steps of C. trachomatis infection in humans. We used culture-independent molecular methods to characterize the relative and absolute abundance of bacterial phylotypes in the guinea pig vaginal microbiota in animals non-infected, mock-infected or infected by C. caviae. We showed that the guinea pig and human vaginal microbiotas are of different bacterial composition and abundance. Chlamydia caviae infection had a profound effect on the absolute abundance of bacterial phylotypes but not on the composition of the guinea pig vaginal microbiota. Our findings compromise the validity of the guinea pig-C. caviae model to study the role of the vaginal microbiota during the early steps of sexually transmitted infection. The vaginal microbiota of the guinea pig differs from that of humans and cannot prevent chlamydial infections efficiently. The vaginal microbiota of the guinea pig differs from that of humans and cannot prevent chlamydial infections efficiently.",
+      "docId": "PMC4445005",
+      "pmid": "25761873",
+      "pmcid": "4445005",
+      "authors": [
+        {
+          "firstname": "Elizabeth",
+          "lastname": "Neuendorf"
+        },
+        {
+          "firstname": "Pawel",
+          "lastname": "Gajer"
+        },
+        {
+          "firstname": "AnneK.",
+          "lastname": "Bowlin"
+        },
+        {
+          "firstname": "PatriciaX.",
+          "lastname": "Marques"
+        },
+        {
+          "firstname": "Bing",
+          "lastname": "Ma"
+        },
+        {
+          "firstname": "Hongqiu",
+          "lastname": "Yang"
+        },
+        {
+          "firstname": "Li",
+          "lastname": "Fu"
+        },
+        {
+          "firstname": "MichaelS.",
+          "lastname": "Humphrys"
+        },
+        {
+          "firstname": "LarryJ.",
+          "lastname": "Forney"
+        },
+        {
+          "firstname": "GarryS.A.",
+          "lastname": "Myers"
+        },
+        {
+          "firstname": "PatrikM.",
+          "lastname": "Bavoil"
+        },
+        {
+          "firstname": "RogerG.",
+          "lastname": "Rank"
+        },
+        {
+          "firstname": "Jacques",
+          "lastname": "Ravel"
+        },
+        {
+          "firstname": "Peter",
+          "lastname": "Timms"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2015 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Causes, consequences, and perspectives in the variations of intestinal density of colonization of multidrug-resistant enterobacteria",
+      "abstractText": "The intestinal microbiota is a complex environment that hosts 1013 to 1014 bacteria. Among these bacteria stand multidrug-resistant enterobacteria (MDRE), which intestinal densities can substantially vary, especially according to antibiotic exposure. The intestinal density of MDRE and their relative abundance (i.e., the proportion between the density of MDRE and the density of total enterobacteria) could play a major role in the infection process or patient-to-patient transmission. This review discusses the recent advances in understanding (i) what causes variations in the density or relative abundance of intestinal colonization, (ii) what are the clinical consequences of these variations, and (iii) what are the perspectives for maintaining these markers at low levels.",
+      "docId": "PMC3664761",
+      "pmid": "23755045",
+      "pmcid": "3664761",
+      "authors": [
+        {
+          "firstname": "Etienne",
+          "lastname": "Ruppé"
+        },
+        {
+          "firstname": "Antoine",
+          "lastname": "Andremont"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Can retention forestry help conserve biodiversity? A meta-analysis",
+      "abstractText": " Industrial forestry typically leads to a simplified forest structure and altered species composition. Retention of trees at harvest was introduced about 25 years ago to mitigate negative impacts on biodiversity, mainly from clearcutting, and is now widely practiced in boreal and temperate regions. Despite numerous studies on response of flora and fauna to retention, no comprehensive review has summarized its effects on biodiversity in comparison to clearcuts as well as un-harvested forests.   Using a systematic review protocol, we completed a meta-analysis of 78 studies including 944 comparisons of biodiversity between retention cuts and either clearcuts or un-harvested forests, with the main objective of assessing whether retention forestry helps, at least in the short term, to moderate the negative effects of clearcutting on flora and fauna.   Retention cuts supported higher richness and a greater abundance of forest species than clearcuts as well as higher richness and abundance of open-habitat species than un-harvested forests. For all species taken together (i.e. forest species, open-habitat species, generalist species and unclassified species), richness was higher in retention cuts than in clearcuts.   Retention cuts had negative impacts on some species compared to un-harvested forest, indicating that certain forest-interior species may not survive in retention cuts. Similarly, retention cuts were less suitable for some open-habitat species compared with clearcuts.   Positive effects of retention cuts on richness of forest species increased with proportion of retained trees and time since harvest, but there were not enough data to analyse possible threshold effects, that is, levels at which effects on biodiversity diminish. Spatial arrangement of the trees (aggregated vs. dispersed) had no effect on either forest species or open-habitat species, although limited data may have hindered our capacity to identify responses. Results for different comparisons were largely consistent among taxonomic groups for forest and open-habitat species, respectively.   Synthesis and applications. Our meta-analysis provides support for wider use of retention forestry since it moderates negative harvesting impacts on biodiversity. Hence, it is a promising approach for integrating biodiversity conservation and production forestry, although identifying optimal solutions between these two goals may need further attention. Nevertheless, retention forestry will not substitute for conservation actions targeting certain highly specialized species associated with forest-interior or open-habitat conditions.    Our meta-analysis provides support for wider use of retention forestry since it moderates negative harvesting impacts on biodiversity. Hence, it is a promising approach for integrating biodiversity conservation and production forestry, although identifying optimal solutions between these two goals may need further attention. Nevertheless, retention forestry will not substitute for conservation actions targeting certain highly specialized species associated with forest-interior or open-habitat conditions.",
+      "docId": "PMC4277688",
+      "pmid": "25552747",
+      "pmcid": "4277688",
+      "authors": [
+        {
+          "firstname": "Katja",
+          "lastname": "Fedrowitz"
+        },
+        {
+          "firstname": "Julia",
+          "lastname": "Koricheva"
+        },
+        {
+          "firstname": "SusanC",
+          "lastname": "Baker"
+        },
+        {
+          "firstname": "DavidB",
+          "lastname": "Lindenmayer"
+        },
+        {
+          "firstname": "Brian",
+          "lastname": "Palik"
+        },
+        {
+          "firstname": "Raul",
+          "lastname": "Rosenvald"
+        },
+        {
+          "firstname": "William",
+          "lastname": "Beese"
+        },
+        {
+          "firstname": "JerryF",
+          "lastname": "Franklin"
+        },
+        {
+          "firstname": "Jari",
+          "lastname": "Kouki"
+        },
+        {
+          "firstname": "Ellen",
+          "lastname": "Macdonald"
+        },
+        {
+          "firstname": "Christian",
+          "lastname": "Messier"
+        },
+        {
+          "firstname": "Anne",
+          "lastname": "Sverdrup-Thygeson"
+        },
+        {
+          "firstname": "Lena",
+          "lastname": "Gustafsson"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

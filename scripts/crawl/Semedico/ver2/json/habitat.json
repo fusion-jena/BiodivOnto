@@ -1,0 +1,286 @@
+{
+  "inputstring": "habitat biodiversity",
+  "tokens": [
+    "habitat",
+    "biodiversity"
+  ],
+  "sortcriterium": "RELEVANCE",
+  "subsetstart": 1,
+  "subsetsize": 5,
+  "countallresults": 114981,
+  "bibliographylist": [
+    {
+      "articleTitle": "Trait-based approaches for understanding microbial biodiversity and ecosystem functioning",
+      "abstractText": "In ecology, biodiversity-ecosystem functioning (BEF) research has seen a shift in perspective from taxonomy to function in the last two decades, with successful application of trait-based approaches. This shift offers opportunities for a deeper mechanistic understanding of the role of biodiversity in maintaining multiple ecosystem processes and services. In this paper, we highlight studies that have focused on BEF of microbial communities with an emphasis on integrating trait-based approaches to microbial ecology. In doing so, we explore some of the inherent challenges and opportunities of understanding BEF using microbial systems. For example, microbial biologists characterize communities using gene phylogenies that are often unable to resolve functional traits. Additionally, experimental designs of existing microbial BEF studies are often inadequate to unravel BEF relationships. We argue that combining eco-physiological studies with contemporary molecular tools in a trait-based framework can reinforce our ability to link microbial diversity to ecosystem processes. We conclude that such trait-based approaches are a promising framework to increase the understanding of microbial BEF relationships and thus generating systematic principles in microbial ecology and more generally ecology.",
+      "docId": "PMC4033906",
+      "pmid": "24904563",
+      "pmcid": "4033906",
+      "authors": [
+        {
+          "firstname": "Sascha",
+          "lastname": "Krause"
+        },
+        {
+          "firstname": "Xavier",
+          "lastname": "Le Roux"
+        },
+        {
+          "firstname": "PascalA.",
+          "lastname": "Niklaus"
+        },
+        {
+          "firstname": "PeterM.",
+          "lastname": "Van Bodegom"
+        },
+        {
+          "firstname": "JayT.",
+          "lastname": "Lennon"
+        },
+        {
+          "firstname": "Stefan",
+          "lastname": "Bertilsson"
+        },
+        {
+          "firstname": "Hans-Peter",
+          "lastname": "Grossart"
+        },
+        {
+          "firstname": "Laurent",
+          "lastname": "Philippot"
+        },
+        {
+          "firstname": "PaulL.E.",
+          "lastname": "Bodelier"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2014 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "High-resolution deep sequencing reveals biodiversity, population structure, and persistence of HIV-1 quasispecies within host ecosystems",
+      "abstractText": "Background Deep sequencing provides the basis for analysis of biodiversity of taxonomically similar organisms in an environment. While extensively applied to microbiome studies, population genetics studies of viruses are limited. To define the scope of HIV-1 population biodiversity within infected individuals, a suite of phylogenetic and population genetic algorithms was applied to HIV-1 envelope hypervariable domain 3 (Env V3) within peripheral blood mononuclear cells from a group of perinatally HIV-1 subtype B infected, therapy-naïve children. Results Biodiversity of HIV-1 Env V3 quasispecies ranged from about 70 to 270 unique sequence clusters across individuals. Viral population structure was organized into a limited number of clusters that included the dominant variants combined with multiple clusters of low frequency variants. Next generation viral quasispecies evolved from low frequency variants at earlier time points through multiple non-synonymous changes in lineages within the evolutionary landscape. Minor V3 variants detected as long as four years after infection co-localized in phylogenetic reconstructions with early transmitting viruses or with subsequent plasma virus circulating two years later. Conclusions Deep sequencing defines HIV-1 population complexity and structure, reveals the ebb and flow of dominant and rare viral variants in the host ecosystem, and identifies an evolutionary record of low-frequency cell-associated viral V3 variants that persist for years. Bioinformatics pipeline developed for HIV-1 can be applied for biodiversity studies of virome populations in human, animal, or plant ecosystems.",
+      "docId": "PMC3531307",
+      "pmid": "23244298",
+      "pmcid": "3531307",
+      "authors": [
+        {
+          "firstname": "Li",
+          "lastname": "Yin"
+        },
+        {
+          "firstname": "Li",
+          "lastname": "Liu"
+        },
+        {
+          "firstname": "Yijun",
+          "lastname": "Sun"
+        },
+        {
+          "firstname": "Wei",
+          "lastname": "Hou"
+        },
+        {
+          "firstname": "AmandaC",
+          "lastname": "Lowe"
+        },
+        {
+          "firstname": "BrentP",
+          "lastname": "Gardner"
+        },
+        {
+          "firstname": "Marco",
+          "lastname": "Salemi"
+        },
+        {
+          "firstname": "WiltonB",
+          "lastname": "Williams"
+        },
+        {
+          "firstname": "WilliamG",
+          "lastname": "Farmerie"
+        },
+        {
+          "firstname": "JohnW",
+          "lastname": "Sleasman"
+        },
+        {
+          "firstname": "MaureenM",
+          "lastname": "Goodenow"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Gut microbiota disturbance during antibiotic therapy: a multi-omic approach",
+      "abstractText": "Objective Antibiotic (AB) usage strongly affects microbial intestinal metabolism and thereby impacts human health. Understanding this process and the underlying mechanisms remains a major research goal. Accordingly, we conducted the first comparative omic investigation of gut microbial communities in faecal samples taken at multiple time points from an individual subjected to β-lactam therapy. Methods The total (16S rDNA) and active (16S rRNA) microbiota, metagenome, metatranscriptome (mRNAs), metametabolome (high-performance liquid chromatography coupled to electrospray ionisation and quadrupole time-of-flight mass spectrometry) and metaproteome (ultra high performing liquid chromatography coupled to an Orbitrap MS2 instrument [UPLC-LTQ Orbitrap-MS/MS]) of a patient undergoing AB therapy for 14 days were evaluated. Results Apparently oscillatory population dynamics were observed, with an early reduction in Gram-negative organisms (day 6) and an overall collapse in diversity and possible further colonisation by ‘presumptive’ naturally resistant bacteria (day 11), followed by the re-growth of Gram-positive species (day 14). During this process, the maximum imbalance in the active microbial fraction occurred later (day 14) than the greatest change in the total microbial fraction, which reached a minimum biodiversity and richness on day 11; additionally, major metabolic changes occurred at day 6. Gut bacteria respond to ABs early by activating systems to avoid the antimicrobial effects of the drugs, while ‘presumptively’ attenuating their overall energetic metabolic status and the capacity to transport and metabolise bile acid, cholesterol, hormones and vitamins; host–microbial interactions significantly improved after treatment cessation. Conclusions This proof-of-concept study provides an extensive description of gut microbiota responses to follow-up β-lactam therapy. The results demonstrate that ABs targeting specific pathogenic infections and diseases may alter gut microbial ecology and interactions with host metabolism at a much higher level than previously assumed.",
+      "docId": "PMC3812899",
+      "pmid": "23236009",
+      "pmcid": "3812899",
+      "authors": [
+        {
+          "firstname": "AnaElena",
+          "lastname": "Pérez-Cobas"
+        },
+        {
+          "firstname": "MaríaJosé",
+          "lastname": "Gosalbes"
+        },
+        {
+          "firstname": "Anette",
+          "lastname": "Friedrichs"
+        },
+        {
+          "firstname": "Henrik",
+          "lastname": "Knecht"
+        },
+        {
+          "firstname": "Alejandro",
+          "lastname": "Artacho"
+        },
+        {
+          "firstname": "Kathleen",
+          "lastname": "Eismann"
+        },
+        {
+          "firstname": "Wolfgang",
+          "lastname": "Otto"
+        },
+        {
+          "firstname": "David",
+          "lastname": "Rojo"
+        },
+        {
+          "firstname": "Rafael",
+          "lastname": "Bargiela"
+        },
+        {
+          "firstname": "Martin",
+          "lastname": "von Bergen"
+        },
+        {
+          "firstname": "SvenC",
+          "lastname": "Neulinger"
+        },
+        {
+          "firstname": "Carolin",
+          "lastname": "Däumer"
+        },
+        {
+          "firstname": "Femke-Anouska",
+          "lastname": "Heinsen"
+        },
+        {
+          "firstname": "Amparo",
+          "lastname": "Latorre"
+        },
+        {
+          "firstname": "Coral",
+          "lastname": "Barbas"
+        },
+        {
+          "firstname": "Jana",
+          "lastname": "Seifert"
+        },
+        {
+          "firstname": "VitorMartins",
+          "lastname": "dos Santos"
+        },
+        {
+          "firstname": "StephanJ",
+          "lastname": "Ott"
+        },
+        {
+          "firstname": "Manuel",
+          "lastname": "Ferrer"
+        },
+        {
+          "firstname": "Andrés",
+          "lastname": "Moya"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2012 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "The World Bacterial Biogeography and Biodiversity through Databases: A Case Study of NCBI Nucleotide Database and GBIF Database",
+      "abstractText": "Databases are an essential tool and resource within the field of bioinformatics. The primary aim of this study was to generate an overview of global bacterial biodiversity and biogeography using available data from the two largest public online databases, NCBI Nucleotide and GBIF. The secondary aim was to highlight the contribution each geographic area has to each database. The basis for data analysis of this study was the metadata provided by both databases, mainly, the taxonomy and the geographical area origin of isolation of the microorganism (record). These were directly obtained from GBIF through the online interface, while E-utilities and Python were used in combination with a programmatic web service access to obtain data from the NCBI Nucleotide Database. Results indicate that the American continent, and more specifically the USA, is the top contributor, while Africa and Antarctica are less well represented. This highlights the imbalance of exploration within these areas rather than any reduction in biodiversity. This study describes a novel approach to generating global scale patterns of bacterial biodiversity and biogeography and indicates that the Proteobacteria are the most abundant and widely distributed phylum within both databases.",
+      "docId": "PMC3818805",
+      "pmid": "24228241",
+      "pmcid": "3818805",
+      "authors": [
+        {
+          "firstname": "Okba",
+          "lastname": "Selama"
+        },
+        {
+          "firstname": "Phillip",
+          "lastname": "James"
+        },
+        {
+          "firstname": "Farida",
+          "lastname": "Nateche"
+        },
+        {
+          "firstname": "ElizabethM.H.",
+          "lastname": "Wellington"
+        },
+        {
+          "firstname": "Hocine",
+          "lastname": "Hacène"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2013 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    },
+    {
+      "articleTitle": "Cryptic biodiversity in a changing world",
+      "abstractText": "DNA studies are revealing the extent of hidden, or cryptic, biodiversity. Two new studies challenge paradigms about cryptic biodiversity and highlight the importance of adding a historical and biogeographic dimension to biodiversity research.",
+      "docId": "PMC2373901",
+      "pmid": "18177504",
+      "pmcid": "2373901",
+      "authors": [
+        {
+          "firstname": "LucianoB",
+          "lastname": "Beheregaray"
+        },
+        {
+          "firstname": "Adalgisa",
+          "lastname": "Caccone"
+        }
+      ],
+      "publication": {
+        "date": "Jan 1, 2007 12:00:00 AM",
+        "dateComplete": false
+      },
+      "externalLinks": [],
+      "type": 2,
+      "review": false,
+      "indextype": "pmc"
+    }
+  ]
+}

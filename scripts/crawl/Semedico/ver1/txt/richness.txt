@@ -1,0 +1,116 @@
+Role of Platelet rich fibrin in wound healing: A critical review
+
+Aim: The aim is to review and discuss the strategies available for use of platelet rich fibrin as
+healing aid in dentistry. Background: Platelet rich fibrin (PRF) is a fibrin matrix in which
+platelet cytokines, growth factors, and cells are trapped and may be released after a certain time
+and that can serve as a resorbable membrane. Choukroun and his associates were amongst the pioneers
+for using PRF protocol in oral and maxillofacial surgery to improve bone healing in implant
+dentistry. Autologous PRF is considered to be a healing biomaterial, and presently, studies have
+shown its application in various disciplines of dentistry. Materials and Methods: By using specific
+keywords, electronic search of scientific papers was carried out on the entire PubMed database with
+custom range of 5 years. The electronic search yielded 302 papers; based on inclusion and exclusion
+criteria which were specifically predetermined, 72 papers were identified as suitable to the
+inclusion criteria and the remaining 230 papers were excluded. After adding three more selected
+papers through hand search, full text of all the articles retrieved and review was done. By pooling
+the extracted data from selected papers, the reviewed data was synthesized. Conclusion: Recently by
+showing good promising results with use of the PRF, it has proved to have a good prospect for its
+use as healing aid in various aspects of the dentistry.
+
+
+
+Entangled effects of allelic and clonal (genotypic) richness in the resistance and resilience of experimental populations of the seagrass Zostera noltii to diatom invasion
+
+Background The relationship between species diversity and components of ecosystem stability has been
+extensively studied, whilst the influence of the genetic component of biodiversity remains poorly
+understood. Here we manipulated both genotypic and allelic richness of the seagrass Zostera noltii,
+in order to explore their respective influences on the resistance of the experimental population to
+stress. Thus far intra-specific diversity was seldom taken into account in management plans, and
+restoration actions showed very low success. Information is therefore needed to understand the
+factors affecting resistance and resilience of populations. Results Our results show a positive
+influence of both allelic and genotypic richness on the resistance of meadows to environmental
+perturbations. They also show that at the low genotypic (i.e. clonal) richness levels used in prior
+experimental approaches, the effects of genotypic and allelic richness could not be disentangled and
+allelic richness was a likely hidden treatment explaining at least part of the effects hitherto
+attributed to genotypic richness. Conclusions Altogether, these results emphasize the need to
+acknowledge and take into account the interdependency of both genotypic and allelic richness in
+experimental designs attempting to estimate their importance alone or in combination. A positive
+influence of allelic richness on resistance to perturbations, and of allelic richness combined with
+genotypic richness on the recovery (resilience) of the experimental populations is supported by
+differential mortality. These results, on the key species structuring of one of the most threatened
+coastal ecosystem worldwide, seagrass meadows, support the need to better take into account the
+distinct compartments of clonal and genetic diversity in management strategies, and in possible
+restoration plans in the future.
+
+
+
+Life history correlates of fecal bacterial species richness in a wild population of the blue tit Cyanistes caeruleus
+
+Very little is known about the normal gastrointestinal flora of wild birds, or how it might affect
+or reflect the host's life-history traits. The aim of this study was to survey the species richness
+of bacteria in the feces of a wild population of blue tits Cyanistes caeruleus and to explore the
+relationships between bacterial species richness and various life-history traits, such as age, sex,
+and reproductive success. Using PCR-TGGE, 55 operational taxonomic units (OTUs) were identified in
+blue tit feces. DNA sequencing revealed that the 16S rRNA gene was amplified from a diverse range of
+bacteria, including those that shared closest homology with Bacillus licheniformis, Campylobacter
+lari, Pseudomonas spp., and Salmonella spp. For adults, there was a significant negative
+relationship between bacterial species richness and the likelihood of being detected alive the
+following breeding season; bacterial richness was consistent across years but declined through the
+breeding season; and breeding pairs had significantly more similar bacterial richness than expected
+by chance alone. Reduced adult survival was correlated with the presence of an OTU most closely
+resembling C. lari; enhanced adult survival was associated with an OTU most similar to Arthrobacter
+spp. For nestlings, there was no significant change in bacterial species richness between the first
+and second week after hatching, and nestlings sharing the same nest had significantly more similar
+bacterial richness. Collectively, these results provide compelling evidence that bacterial species
+richness was associated with several aspects of the life history of their hosts.
+
+
+
+The effects of weather on fungal abundance and richness among 25 communities in the Intermountain West
+
+Background Because moisture and temperature influence the growth of fungi, characterizing weather
+conditions favorable for fungi may be used to predict the abundance and richness of fungi in
+habitats with different climate conditions. To estimate habitat favorability to fungi, we examined
+the relationship of fungal abundance and species richness to various weather and environmental
+parameters in the Intermountain West. We cultured fungi from air and leaf surfaces, and collected
+continuous temperature and relative humidity measures over the growing season at 25 sites. Results
+Fungal richness was positively correlated with fungal abundance (r = 0.75). Measures of moisture
+availability, such as relative humidity and vapor pressure deficit, explained more of the variance
+in fungal abundance and richness than did temperature. Climate measurements from nearby weather
+stations were good predictors of fungal abundance and richness but not as good as weather
+measurements obtained in the field. Weather variables that took into account the proportion of time
+habitats experienced favorable or unfavorable relative humidity and temperatures were the best
+predictors, explaining up to 56% of the variation in fungal abundance and 72% for fungal richness.
+Conclusion Our results suggest that the abundance and richness of fungi in a habitat is limited by
+the duration of unfavorable weather conditions. Because fungal pathogens likely have similar abiotic
+requirements for growth as other fungi, characterizing weather conditions favorable for fungi also
+may be used to predict the selective pressures imposed by pathogenic fungi on plants in different
+habitats.
+
+
+
+Estimation of viral richness from shotgun metagenomes using a frequency count approach
+
+Background Viruses are important drivers of ecosystem functions, yet little is known about the vast
+majority of viruses. Viral shotgun metagenomics enables the investigation of broad ecological
+questions in phage communities. One ecological characteristic is species richness, which is the
+number of different species in a community. Viruses do not have a phylogenetic marker analogous to
+the bacterial 16S rRNA gene with which to estimate richness, and so contig spectra are employed to
+measure the number of virus taxa in a given community. A contig spectrum is generated from a viral
+shotgun metagenome by assembling the random sequence reads into groups of sequences that overlap
+(contigs) and counting the number of sequences that group within each contig. Current tools
+available to analyze contig spectra to estimate phage richness are limited by relying on rank-
+abundance data. Results We present statistical estimates of virus richness from contig spectra. The
+program CatchAll (http://www.northeastern.edu/catchall/) was used to analyze contig spectra in terms
+of frequency count data rather than rank-abundance, thus enabling formal statistical analyses. Also,
+the influence of potentially spurious low-frequency counts on richness estimates was minimized by
+two methods, empirical and statistical. The results show greater estimates of viral richness than
+previous calculations in nearly all environments analyzed, including swine feces and reclaimed fresh
+water. Conclusions CatchAll yielded consistent estimates of richness across viral metagenomes from
+the same or similar environments. Additionally, analysis of pooled viral metagenomes from different
+environments via mixed contig spectra resulted in greater richness estimates than those of the
+component metagenomes. Using CatchAll to analyze contig spectra will improve estimations of richness
+from viral shotgun metagenomes, particularly from large datasets, by providing statistical measures
+of richness.
+
+
+
