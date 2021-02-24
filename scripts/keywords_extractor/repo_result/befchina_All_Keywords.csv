@@ -1,0 +1,582 @@
+Keywords,Categories
+ALTITUDE,Thing
+Abundance,Thing
+Age,Thing
+Altitude,Thing
+Ant,Thing
+Ants,Thing
+Area,Thing
+Ascomycota,Thing
+Bacteria,Thing
+Basal area,Thing
+Bent,Thing
+Biodiversity,Thing
+Biological,Thing
+Biomass,Thing
+Biomass_Above,Thing
+Biomass_Below,Thing
+Botanical,Thing
+Botanical Garden,Thing
+Botany,Thing
+C,Thing
+CNS,Thing
+CSP,Thing
+Calcium,Thing
+Carbon,Thing
+Carbon Nitrogen ratio,Thing
+Carbon content,Thing
+Chemical,Thing
+Chemistry,Thing
+Coarse,Thing
+Coarse material,Thing
+Community,Thing
+Community Composition,Thing
+Composition,Thing
+Conservation,Thing
+Contents of carbon,Thing
+Crusts,Thing
+DNA,Thing
+Date,Thing
+Date time,Thing
+Dead,Thing
+Dead wood,Thing
+Decay,Thing
+Density,Thing
+Depth,Thing
+Diameter,Thing
+Distance,Thing
+Diversity,Thing
+Ecology,Thing
+Ecosystem,Thing
+Energy,Thing
+Environmental,Thing
+Experiment,Thing
+Family,Thing
+Flora,Thing
+Forest,Thing
+Forest Reserve,Thing
+Functional biodiversity,Thing
+Functional diversity,Thing
+Functional trait,Thing
+Fungal,Thing
+Fungal communities,Thing
+Fungal diversity,Thing
+Fungi,Thing
+Garden,Thing
+H2O,Thing
+Height,Thing
+Herb,Thing
+Herb layer,Thing
+Herbivore,Thing
+Herbivory,Thing
+Herblayer,Thing
+Individual,Thing
+KCL,Thing
+KCl,Thing
+Kinetic energy,Thing
+Landscape,Thing
+Leaf,Thing
+Leaf trait,Thing
+Leaf traits,Thing
+Leaves,Thing
+Lipid,Thing
+Lipids,Thing
+Living,Thing
+Living status,Thing
+Location,Thing
+Mass,Thing
+Metal,Thing
+Microbial,Thing
+Microbial biomass,Thing
+Month,Thing
+N,Thing
+National Forest,Thing
+National Forest Reserve,Thing
+National Nature Reserve,Thing
+Nature,Thing
+Nature Conservation,Thing
+Nature Reserve,Thing
+Nitrogen,Thing
+Nitrogen concentration,Thing
+Organic,Thing
+Organism,Thing
+Organisms,Thing
+Phylogenetic,Thing
+Phylum,Thing
+Plant,Thing
+Plant family name,Thing
+Plant height,Thing
+Plant leaf,Thing
+Planted_Species,Thing
+Plot,Thing
+Plots,Thing
+Position,Thing
+Precipitation,Thing
+Rain,Thing
+Rainfall,Thing
+Reasearch plot,Thing
+Research plot,Thing
+Reserve,Thing
+Rock,Thing
+Rock fragments,Thing
+Rockmaterial,Thing
+Root,Thing
+Root intensity,Thing
+S content,Thing
+SLOPE,Thing
+Samples,Thing
+Sand,Thing
+Scientific plant,Thing
+Scientific plant species name,Thing
+Scientific species,Thing
+Secondary,Thing
+Seedling,Thing
+Site,Thing
+Sites,Thing
+Size,Thing
+Slope,Thing
+Soil,Thing
+Soil Crusts,Thing
+Soil Ecology,Thing
+Soil colour,Thing
+Soil depth,Thing
+Soil horizon,Thing
+Soil horizons,Thing
+Soil moisture,Thing
+Soil profile,Thing
+Soil structure,Thing
+Species,Thing
+Species name,Thing
+Stem,Thing
+Subplot,Thing
+Subplots,Thing
+Sulphur,Thing
+TAG,Thing
+THEACEAE,Thing
+TREE,Thing
+Tag,Thing
+Tannin,Thing
+Taxa,Thing
+Taxon,Thing
+Taxonomic,Thing
+Taxonomy,Thing
+The Gutianshan National Nature Reserve,Thing
+Treatment,Thing
+Tree,Thing
+Tree species,Thing
+Trees,Thing
+Weather,Thing
+Wind,Thing
+Wood,Thing
+Woody,Thing
+Young,Thing
+aboveground,Thing
+aboveground dry matter biomass,Thing
+aboveground wood,Thing
+abundance,Thing
+abundant,Thing
+acetic,Thing
+acetic acid,Thing
+acid,Thing
+acidity,Thing
+age,Thing
+ages,Thing
+agricultural,Thing
+alive,Thing
+alive trees,Thing
+altitude,Thing
+ant,Thing
+ants,Thing
+area,Thing
+areas,Thing
+average temperature,Thing
+bacteria,Thing
+bacterial,Thing
+basal area,Thing
+base,Thing
+below ground biomass,Thing
+bent,Thing
+biodiversity,Thing
+biodiversity relationships,Thing
+biodiversityâ€“ecosystem functioning,Thing
+biological,Thing
+biological mechanisms,Thing
+biomass,Thing
+broad,Thing
+broad-leaved,Thing
+broad-leaved forests,Thing
+calcium,Thing
+canopy,Thing
+canopy layer,Thing
+carbon,Thing
+carbon content,Thing
+carbons,Thing
+caterpillar,Thing
+charcoal,Thing
+chemical,Thing
+chemical leaf composition,Thing
+chemicals,Thing
+clay,Thing
+clays,Thing
+climate,Thing
+climate change,Thing
+climatic,Thing
+climatic conditions,Thing
+coarse,Thing
+coarse sand,Thing
+coarse silt,Thing
+coarse-grained soils,Thing
+communities,Thing
+community,Thing
+community growth,Thing
+community level,Thing
+community structure,Thing
+completeness,Thing
+composition,Thing
+compound,Thing
+concentration,Thing
+concentrations,Thing
+content,Thing
+cotton,Thing
+count,Thing
+crusts,Thing
+curved,Thing
+damaged,Thing
+dataset,Thing
+date,Thing
+date time,Thing
+dead,Thing
+dead wood,Thing
+deadwood,Thing
+decay,Thing
+decayed,Thing
+decomposition,Thing
+deforestation,Thing
+density,Thing
+depth,Thing
+depths,Thing
+development,Thing
+diameter,Thing
+direction,Thing
+distance,Thing
+distribution,Thing
+diverse tree communities,Thing
+diversity,Thing
+diverstiy,Thing
+drought resistance,Thing
+drought-sensitive species,Thing
+dry,Thing
+dry matter content,Thing
+dry season,Thing
+earth,Thing
+ecological,Thing
+ecosystem,Thing
+ecosystem functioning,Thing
+ecosystems,Thing
+elevation,Thing
+energy,Thing
+erosion,Thing
+ethanol,Thing
+events,Thing
+evolution,Thing
+experiment,Thing
+exposed,Thing
+family,Thing
+family name,Thing
+fatty acid,Thing
+fecundity,Thing
+field,Thing
+fine sand,Thing
+fine-grained soils,Thing
+flora,Thing
+focal tree,Thing
+forest,Thing
+forest ecosystem,Thing
+forest ecosystems,Thing
+forest floor,Thing
+forests,Thing
+fragments,Thing
+fullnames,Thing
+functional,Thing
+functional biodiversity,Thing
+functional diversity,Thing
+functional group,Thing
+functional trait,Thing
+functional traits,Thing
+fungal,Thing
+fungal communities,Thing
+fungal community,Thing
+fungal diversity,Thing
+fungal families,Thing
+fungi,Thing
+garden,Thing
+genera,Thing
+genus,Thing
+glycerol,Thing
+gravels,Thing
+ground,Thing
+group,Thing
+growing,Thing
+growth,Thing
+height,Thing
+herb,Thing
+herb layer,Thing
+herbaceous,Thing
+herbivore,Thing
+herbivore diversity,Thing
+herbivory,Thing
+herbivory classes,Thing
+herblayer,Thing
+herbs,Thing
+horizontal,Thing
+humid,Thing
+ice,Thing
+ice storm,Thing
+in th,Thing
+individual,Thing
+individual growth,Thing
+individual trees,Thing
+insects,Thing
+intensities,Thing
+intensity,Thing
+interactions,Thing
+iron,Thing
+kinetic Energy,Thing
+kinetic energy,Thing
+large,Thing
+layer,Thing
+leaf,Thing
+leaf area,Thing
+leaf penetration strength,Thing
+leaf trait,Thing
+leaf traits,Thing
+leave damage,Thing
+leaves,Thing
+length,Thing
+lepidopteran phylogenetic diversity,Thing
+light,Thing
+light conditions,Thing
+lipid,Thing
+lipids,Thing
+live,Thing
+living,Thing
+living leaves,Thing
+living tissue,Thing
+location,Thing
+locations,Thing
+magnesia,Thing
+magnetic,Thing
+magnetic field,Thing
+measurements,Thing
+mechanisms,Thing
+metal,Thing
+microbe,Thing
+microbe biomass,Thing
+microbes,Thing
+microbial,Thing
+microbial biomass,Thing
+microbial community,Thing
+microclimate,Thing
+minimum temperature,Thing
+mitigation,Thing
+mixed broad-leaved forests,Thing
+morphology,Thing
+mortality rates,Thing
+natural enemies,Thing
+nature,Thing
+nb_richness,Thing
+ndicate,Thing
+neighbour diversity,Thing
+neighbour richness,Thing
+nitrogen,Thing
+nitrogen content,Thing
+observation,Thing
+observed.div,Thing
+old,Thing
+organic,Thing
+organic carbon,Thing
+organic carbon content,Thing
+organic compounds,Thing
+organic nitrogen,Thing
+organic nitrogen content,Thing
+organic soils,Thing
+organism,Thing
+organisms,Thing
+pH,Thing
+pH value,Thing
+pH-values,Thing
+penetration,Thing
+perpendicular to,Thing
+phosphorus,Thing
+photosynthetically,Thing
+phylogenetic,Thing
+plant,Thing
+plant communities,Thing
+plant diversity,Thing
+plant performance,Thing
+plant species,Thing
+plantations,Thing
+planted,Thing
+planting,Thing
+plants,Thing
+plot,Thing
+plot diversity,Thing
+plot name,Thing
+plot richness,Thing
+plots,Thing
+pollinator,Thing
+position,Thing
+potassium,Thing
+precipitation,Thing
+predators,Thing
+presence,Thing
+pressure,Thing
+publications,Thing
+quality,Thing
+rDNA,Thing
+radius,Thing
+rain,Thing
+rainfall,Thing
+rainfalls,Thing
+ratio,Thing
+reproduction,Thing
+reproduction of an organism,Thing
+research plot,Thing
+reserve,Thing
+richness,Thing
+root,Thing
+root intensity,Thing
+samples,Thing
+sand,Thing
+sands,Thing
+scientific species,Thing
+scientific species fullnames,Thing
+season,Thing
+secondary,Thing
+secondary forests,Thing
+sediment,Thing
+seedling,Thing
+seedlings,Thing
+short,Thing
+shrub,Thing
+shrubs,Thing
+silt,Thing
+silts,Thing
+site,Thing
+sites,Thing
+size,Thing
+size distribution,Thing
+sizes,Thing
+slope,Thing
+slopes,Thing
+snow,Thing
+soil,Thing
+soil base,Thing
+soil colour,Thing
+soil crusts,Thing
+soil depth,Thing
+soil erosion,Thing
+soil horizon,Thing
+soil horizons,Thing
+soil lipids,Thing
+soil microbes,Thing
+soil microbial community,Thing
+soil moisture,Thing
+soil organic,Thing
+soil organic carbon,Thing
+soil organic carbon content,Thing
+soil profile,Thing
+soil structure,Thing
+soils,Thing
+solid,Thing
+species,Thing
+species abundance,Thing
+species coexistence,Thing
+species composition,Thing
+species diversity,Thing
+species fullnames,Thing
+species interaction,Thing
+species interactions,Thing
+species name,Thing
+species richness,Thing
+specimen,Thing
+speed,Thing
+spring,Thing
+steep slopes,Thing
+stem,Thing
+stomatal,Thing
+storm,Thing
+straight,Thing
+strains,Thing
+strength,Thing
+study,Thing
+study plots,Thing
+subplot,Thing
+subplots,Thing
+subtropical,Thing
+subtropical forest,Thing
+subtropical forest ecosystem,Thing
+subtropical forest ecosystems,Thing
+subtropical forests,Thing
+subtropics,Thing
+sulphur,Thing
+sulphur content,Thing
+suplots,Thing
+surface,Thing
+system,Thing
+tag,Thing
+tannin,Thing
+taxa,Thing
+taxon,Thing
+taxonomic,Thing
+taxonomic diversity,Thing
+temperate,Thing
+temperature,Thing
+temperatures,Thing
+texture,Thing
+time,Thing
+tissue,Thing
+topography,Thing
+total organic nitrogen content,Thing
+total soil organic carbon content,Thing
+total sulphur content,Thing
+trait,Thing
+traits,Thing
+treatment,Thing
+tree,Thing
+tree age,Thing
+tree ages,Thing
+tree diversity,Thing
+tree growth,Thing
+tree height,Thing
+tree species,Thing
+tree species richness,Thing
+trees,Thing
+trophic,Thing
+trophic level,Thing
+trophic levels,Thing
+trophobioses,Thing
+trophobiosis,Thing
+tropical,Thing
+tropical forest,Thing
+tropical forest ecosystems,Thing
+ured o,Thing
+variability,Thing
+vascular plant species,Thing
+vegetation,Thing
+vegetation factors,Thing
+vertical,Thing
+volume,Thing
+water,Thing
+weather,Thing
+weighed,Thing
+weighing,Thing
+width,Thing
+wind,Thing
+wood,Thing
+woody,Thing
+woody plant,Thing
+year,Thing
+young,Thing
+young leaves,Thing
+young trees,Thing

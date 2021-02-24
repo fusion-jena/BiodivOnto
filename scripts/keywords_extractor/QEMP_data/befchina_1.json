@@ -1,0 +1,1764 @@
+{
+  "text": "\n\nhttp://china.befdata.biow.uni-leipzig.de/datasets/150\nCSPs: Soil CNS and pH analyses of horizonswise from soil profiles of Comparative Study Plots\n\n\nThomas\nScholten\n\n\n\nthomas.scholten@uni-tuebingen.de\n\n\n\nPeter\nKühn\n\nInstitute of Geography / Laboratory for Soil Science  and Geoecology  Eberhard Karls University Tübingen\n\nRümelinstr. 19-23\n72070 Tübingen\nGermany\n\n+49-7071-2974896\npeter.kuehn@uni-tuebingen.de\n\n\n\nChristian\nGeißler\n\nUni Tübingen\n\n\nTübingen\n\n\n\nchristian.geissler@geographie.uni-tuebingen.de\n\n2011-12-13\nen_US\n\nSoil chemical laboratory analyses of all 27 comparative study plots. Contents of carbon, nitrogen and sulphur as well as pH-values (H2O and KCl) from soil horizons of each soil profile per CSP.\n\n\n\nC\ncarbon\nC/N ratio\nCSP\nN\nnitrogen\npH\nS\nSOC\nsoil\nsoil base\nsoil depth\nsoil horizon\nsoil profile\nSON\nFind the list of keywords here: http://china.befdata.biow.uni-leipzig.de/keywords\n\n\nlab_num\nCSP\nsample_num\ndepth_lb\npH_H2O\npH_KCl\nN_t\nC_t\nS_t\nC_N\nList of headers of the data columns in this dataset\n\n\nPermission is granted to anybody to access, use and publish all open for public data freely. The commercial use of any data is prohibited. The quality and completeness of data cannot be guaranteed. Users employ these data at their own risk. In order to make attribution of use for owners of the data possible, the identifier of ownership of data must be retained with every data record. Users must publicly acknowledge, in conjunction with the use of the data, the data owners. Cite the data as follows: Geißler, C., Scholten, T. and Kühn, P. (2009): CNS and pH analyses of soils: horizonswise from soil profiles of 27 Comparative Study Plots. BEF-China data portal (Accessed through URL http://china.befdata.biow.uni-leipzig.de/datasets/150)\n\n\n\n\nhttp://china.befdata.biow.uni-leipzig.de/datasets/150/download.csv?separate_category_columns=true\n\n\n\n\n\nThe Gutianshan National Nature Reserve (NNR) is located in the western part of Zhejiang Province (29º8'18\" – 29º17'29\" N, 118º2'14\" – 118º11'12\" E, Fig. 1).  The Gutianshan NNR has an area of approximately 81 km2. From 27 comparative study plots (CSPs) soil samples were taken horizonwise from 1 soil profile per CSP\n\n117.89978\n118.148346\n29.285201\n29.101777\n\n\n\n\n\n\n2008-02-01\n\n\n\n\n2011-09-30\n\n\n\n\n\n\ntscholten\n\n\npkuehn\n\n\ncgeissler\n\n\n\n\nCSPs: Soil CNS and pH analyses of horizonswise from soil profiles of Comparative Study Plots\nSoil chemical laboratory analyses of all 27 comparative study plots. Contents of carbon, nitrogen and sulphur as well as pH-values (H2O and KCl) from soil horizons of each soil profile per CSP.\n\n\n\n\n\n2008-02-01 00:00:00 UTC - 2011-09-30 00:00:00 UTC\nSamples were collected 2008 and 2009. Lab analyses were carried from 2009 to 2011\nThe Gutianshan National Nature Reserve (NNR) is located in the western part of Zhejiang Province (29º8'18\" – 29º17'29\" N, 118º2'14\" – 118º11'12\" E, Fig. 1).  The Gutianshan NNR has an area of approximately 81 km2. From 27 comparative study plots (CSPs) soil samples were taken horizonwise from 1 soil profile per CSP\n\n\n\n\nSoil profiles are located directly adjacent to the CSPs.  Samples were taken horizonwise from soil profiles: 1 sample per horizon. So that samples exist according to the soil profile description per CSP (field 60 in the soil profile description sheets). samples were air-dried, sieved &lt; 2mm, ground using a ball mill, using around 40 mg for measurement with vario EL III (Elementar)\npH (KCl) is the maximum potential acidity under current soil conditions, pH (H2O) is the current acidity\n\n\n\n\nhttp://china.befdata.biow.uni-leipzig.de/datasets/150\nCSPs: Soil CNS and pH analyses of horizonswise from soil profiles of Comparative Study Plots\n\n/datasets/150\n\nASCII\n\n\n1\ncolumn\n\n,\n\n\n\n\n\nhttp://china.befdata.biow.uni-leipzig.de/datasets/150/download.csv?separate_category_columns=true\n\n\n\n\n\nLaboratory number of Laboratory of Soil Science and Geoecology in Tübingen (lab_num), dimensionless\nlab_num\nLaboratory number laboratory Scholten, Kühn, Tübingen. (lab_num: laboratory number of laboratory of soil science and geoecology in Tübingen)\n\n\n\n\nLaboratory number laboratory Scholten, Kühn, Tübingen.\n\n\n\n\n\n\n\nLaboratory number of Laboratory of Soil Science and Geoecology in Tübingen\nLaboratory number laboratory Scholten, Kühn, Tübingen.\nlaboratory number of laboratory of soil science and geoecology in Tübingen\n\n\n\n\n\n\nBEF research plot name (CSP), dimensionless\nCSP\nReasearch plots of the Biodiversity - Ecosystem functioning experiment (BEF-China). There are three main sites for research plots in the BEF Experiment: Comparative Study Plots (CSP) in the  Gutianshan Nature Reserve (29º8'18\" – 29º17'29\" N, 118º2'14\" – 118º11'12\" E, Zhejiang Province Southeast China), having a size of 30x30m^2, measured on the ground. Main Experiment plots have a size of 1 mu, which is about 25x25m^2 in horizontal projection. Pilot Study Plots have a size of 1x1 m^2.  \nResearch plots on the main experiment have a \"p\" in front of their IDs and then a 6 digit code: Plots in the main sites A (29°07'28.2\"N 117°54'27.5\"E) and B (29°05'06.8\"N 117°55'44.4\"E) are named according to their position in the original spreadsheet, in which they were designed.  They consist of 6 digits: _1st digit_: Site (1:A, 2:B), _digit 2and3_: southwards row: as in spreadsheets the rows are named from the top to the bottom; _digit 4 and 5_: westward column: as in the original spreadsheet, but the letters are converted to numbers (A=01, B=02); _6th digit_: indicator, if the plot has been shifted a quarter mu.  Example: \"p205260\": \"p\" means that this is a plot that is specified.  \"2\" means, that we are at site B.  Now the coordinates of the south - west corner: \"0526\".  Since \"e\" is the fifth letter of the alphabet, this is Plot E26.   The last digit \"0\" means that this plot was not moved by a quarter of a Mu, as some sites in Site A. The 6th digit can also indicate the subplot within the plot. \"5\", \"6\", \"7\", \"8\" indicate the northwest, northeast, southeast, and southwest quarter plot respectively.\nMorover, Plots from the main experiment may be labelled in the more ambiguous  form of e.g. A32. This indicates a plat either on Site A (29°07'28.2\"N 117°54'27.5\"E) or Site B (29°05'06.8\"N 117°55'44.4\"E) of the main experiment. This value only becomes a unique identifier if supported with the \"site\" information from another cell.\nPlots labelled in the form of \"1_AO1\" or \"g1_AO1\" or \"pilot1_AO1\" belong to the \"Pilot Experiment\" (approx location:  29°06'20.2\"N 117°55'12.1\"E, Jiangxi Province) (CSP: name of the CSP in the Nature ReserveBEF research plot nameReasearch plots of the Biodiversity - Ecosystem functioning experiment (BEF-China). There are three main sites for research plots in the BEF Experiment: Comparative Study Plots (CSP) in the Gutianshan Nature Reserve, having a size of 30x30m^2, measured on the ground.)\n\n\n\n\nReasearch plots of the Biodiversity - Ecosystem functioning experiment (BEF-China). There are three main sites for research plots in the BEF Experiment: Comparative Study Plots (CSP) in the  Gutianshan Nature Reserve (29º8'18\" – 29º17'29\" N, 118º2'14\" – 118º11'12\" E, Zhejiang Province Southeast China), having a size of 30x30m^2, measured on the ground. Main Experiment plots have a size of 1 mu, which is about 25x25m^2 in horizontal projection. Pilot Study Plots have a size of 1x1 m^2.  \nResearch plots on the main experiment have a \"p\" in front of their IDs and then a 6 digit code: Plots in the main sites A (29°07'28.2\"N 117°54'27.5\"E) and B (29°05'06.8\"N 117°55'44.4\"E) are named according to their position in the original spreadsheet, in which they were designed.  They consist of 6 digits: _1st digit_: Site (1:A, 2:B), _digit 2and3_: southwards row: as in spreadsheets the rows are named from the top to the bottom; _digit 4 and 5_: westward column: as in the original spreadsheet, but the letters are converted to numbers (A=01, B=02); _6th digit_: indicator, if the plot has been shifted a quarter mu.  Example: \"p205260\": \"p\" means that this is a plot that is specified.  \"2\" means, that we are at site B.  Now the coordinates of the south - west corner: \"0526\".  Since \"e\" is the fifth letter of the alphabet, this is Plot E26.   The last digit \"0\" means that this plot was not moved by a quarter of a Mu, as some sites in Site A. The 6th digit can also indicate the subplot within the plot. \"5\", \"6\", \"7\", \"8\" indicate the northwest, northeast, southeast, and southwest quarter plot respectively.\nMorover, Plots from the main experiment may be labelled in the more ambiguous  form of e.g. A32. This indicates a plat either on Site A (29°07'28.2\"N 117°54'27.5\"E) or Site B (29°05'06.8\"N 117°55'44.4\"E) of the main experiment. This value only becomes a unique identifier if supported with the \"site\" information from another cell.\nPlots labelled in the form of \"1_AO1\" or \"g1_AO1\" or \"pilot1_AO1\" belong to the \"Pilot Experiment\" (approx location:  29°06'20.2\"N 117°55'12.1\"E, Jiangxi Province)\n\n\n\n\n\n\n\nBEF research plot name\nReasearch plots of the Biodiversity - Ecosystem functioning experiment (BEF-China). There are three main sites for research plots in the BEF Experiment: Comparative Study Plots (CSP) in the  Gutianshan Nature Reserve (29º8'18\" – 29º17'29\" N, 118º2'14\" – 118º11'12\" E, Zhejiang Province Southeast China), having a size of 30x30m^2, measured on the ground. Main Experiment plots have a size of 1 mu, which is about 25x25m^2 in horizontal projection. Pilot Study Plots have a size of 1x1 m^2.  \nResearch plots on the main experiment have a \"p\" in front of their IDs and then a 6 digit code: Plots in the main sites A (29°07'28.2\"N 117°54'27.5\"E) and B (29°05'06.8\"N 117°55'44.4\"E) are named according to their position in the original spreadsheet, in which they were designed.  They consist of 6 digits: _1st digit_: Site (1:A, 2:B), _digit 2and3_: southwards row: as in spreadsheets the rows are named from the top to the bottom; _digit 4 and 5_: westward column: as in the original spreadsheet, but the letters are converted to numbers (A=01, B=02); _6th digit_: indicator, if the plot has been shifted a quarter mu.  Example: \"p205260\": \"p\" means that this is a plot that is specified.  \"2\" means, that we are at site B.  Now the coordinates of the south - west corner: \"0526\".  Since \"e\" is the fifth letter of the alphabet, this is Plot E26.   The last digit \"0\" means that this plot was not moved by a quarter of a Mu, as some sites in Site A. The 6th digit can also indicate the subplot within the plot. \"5\", \"6\", \"7\", \"8\" indicate the northwest, northeast, southeast, and southwest quarter plot respectively.\nMorover, Plots from the main experiment may be labelled in the more ambiguous  form of e.g. A32. This indicates a plat either on Site A (29°07'28.2\"N 117°54'27.5\"E) or Site B (29°05'06.8\"N 117°55'44.4\"E) of the main experiment. This value only becomes a unique identifier if supported with the \"site\" information from another cell.\nPlots labelled in the form of \"1_AO1\" or \"g1_AO1\" or \"pilot1_AO1\" belong to the \"Pilot Experiment\" (approx location:  29°06'20.2\"N 117°55'12.1\"E, Jiangxi Province)\nname of the CSP in the Nature ReserveBEF research plot nameReasearch plots of the Biodiversity - Ecosystem functioning experiment (BEF-China). There are three main sites for research plots in the BEF Experiment: Comparative Study Plots (CSP) in the Gutianshan Nature Reserve, having a size of 30x30m^2, measured on the ground.\n\n\n\n\n\n\nHelper (sample_num), dimensionless\nsample_num\nHelper column to understand other columns in this data set (sample_num: field name of the sample)\n\n\n\n\nHelper column to understand other columns in this data set\n\n\n\n\n\n\n\nHelper\nHelper column to understand other columns in this data set\nfield name of the sample\n\n\n\n\n\n\nSoil depth (depth_lb), cm\ndepth_lb\nIncremental soil depth as opposed to soil horizon, where each horizon could be of differen depth. (depth_lb: depth (lower boundary) of soil horizon)\n\n\n\ndimensionless\n\n\nreal\n\n\n\n\n\n\nSoil depth\nIncremental soil depth as opposed to soil horizon, where each horizon could be of differen depth.\ndepth (lower boundary) of soil horizon\n\n\n\n\n\n\npH value (pH_H2O), pH\npH_H2O\nIn case of H2O: samples were air-dried, sieved &lt; 2mm, solution H2O : soil = 2.5:1 -- in case of KCl: samples were air-dried, sieved &lt; 2mm, solution KCl: soil = 2.5:1; pH (KCl) is the maximum potential acidity under the present soil conditions, pH (H2O) is the current acidity; pH (KCl) is the maximum potential acidity under the present soil conditions, pH (H2O) is the current acidity (pH_H2O: pH value, mean from two values determined by H2O method. solution H2O : soil = 2.5:1 )\n\n\n\ndimensionless\n\n\nreal\n\n\n\n\n\n\npH value\nIn case of H2O: samples were air-dried, sieved &lt; 2mm, solution H2O : soil = 2.5:1 -- in case of KCL: samples were air-dried, sieved &lt; 2mm, solution KCl : soil = 2.5:1; pH (KCl) is the maximum potential acidity under the present soil conditions, pH (H2O) is the current acidity; pH (KCl) is the maximum potential acidity under the present soil conditions, pH (H2O) is the current acidity\npH value, mean from two values determined by H2O method. solution H2O : soil = 2.5:1 \n\nelectrodes Sentix 81 and WTW pH-meter\n\n\n\n\npH value (pH_KCl), pH\npH_KCl\nIn case of H2O: samples were air-dried, sieved &lt; 2mm, solution H2O : soil = 2.5:1 -- in case of KCl: samples were air-dried, sieved &lt; 2mm, solution KCl : soil = 2.5:1; pH (KCl) is the maximum potential acidity under the present soil conditions, pH (H2O) is the current acidity; pH (KCl) is the maximum potential acidity under the present soil conditions, pH (H2O) is the current acidity (pH_KCl: pH value, mean from two values determined in 1 M KCl )\n\n\n\ndimensionless\n\n\nreal\n\n\n\n\n\n\npH value\nIn case of H2O: samples were air-dried, sieved &lt; 2mm, solution H2O : soil = 2.5:1 -- in case of KCl: samples were air-dried, sieved &lt; 2mm, solution KCl : soil = 2.5:1; pH (KCl) is the maximum potential acidity under the present soil conditions, pH (H2O) is the current acidity; pH (KCl) is the maximum potential acidity under the present soil conditions, pH (H2O) is the current acidity\npH value, mean from two values determined in 1 M KCl \n\nelectrodes Sentix 81 and WTW pH-meter\n\n\n\n\nNitrogen (N_t), Mass-%\nN_t\nNitrogen concentration (N_t: total organic nitrogen content)\n\n\n\ndimensionless\n\n\nreal\n\n\n\n\n\n\nNitrogen\nNitrogen concentration\ntotal organic nitrogen content\n\nElemental Analyzer\n\n\n\n\nCarbon (C_t), Mass-%\nC_t\nmeasurements of Carbon such as concentrations, pools, amount (C_t: total soil organic carbon content)\n\n\n\ndimensionless\n\n\nreal\n\n\n\n\n\n\nCarbon\nmeasurements of Carbon such as concentrations, pools, amount\ntotal soil organic carbon content\n\n\n\n\n\n\nSulphur (S_t), Mass-%\nS_t\nS content: samples were air-dried, sieved &lt; 2mm, ground using a ball mill, using around 40 mg for measurements with vario EL III (Elementar) (S_t: total sulphur content)\n\n\n\ndimensionless\n\n\nreal\n\n\n\n\n\n\nSulphur\nS content: samples were air-dried, sieved &lt; 2mm, ground using a ball mill, using around 40 mg for measurements with vario EL III (Elementar)\ntotal sulphur content\n\nheat combustion and thermal conductivity detection using a CNS-Elementar analyser, varioEL III from Elementar\n\n\n\n\nCarbon Nitrogen ratio (C_N), ratio\nC_N\nCarbon Nitrogen ratio (C_N: ratio organic carbon/organic nitrogen)\n\n\n\ndimensionless\n\n\nreal\n\n\n\n\n\n\nCarbon Nitrogen ratio\nCarbon Nitrogen ratio\nratio organic carbon/organic nitrogen\n\n\n\n\n\n\nyes\n114\n\n\n",
+  "entities": {
+    "Environment": [
+      {
+        "indices": [
+          62,
+          66
+        ]
+      },
+      {
+        "indices": [
+          108,
+          112
+        ]
+      },
+      {
+        "indices": [
+          258,
+          262
+        ]
+      },
+      {
+        "indices": [
+          527,
+          531
+        ]
+      },
+      {
+        "indices": [
+          677,
+          681
+        ]
+      },
+      {
+        "indices": [
+          699,
+          703
+        ]
+      },
+      {
+        "indices": [
+          767,
+          771
+        ]
+      },
+      {
+        "indices": [
+          772,
+          776
+        ]
+      },
+      {
+        "indices": [
+          782,
+          786
+        ]
+      },
+      {
+        "indices": [
+          793,
+          805
+        ]
+      },
+      {
+        "indices": [
+          806,
+          818
+        ]
+      },
+      {
+        "indices": [
+          1597,
+          1602
+        ]
+      },
+      {
+        "indices": [
+          1622,
+          1626
+        ]
+      },
+      {
+        "indices": [
+          2169,
+          2181
+        ]
+      },
+      {
+        "indices": [
+          2311,
+          2315
+        ]
+      },
+      {
+        "indices": [
+          2398,
+          2402
+        ]
+      },
+      {
+        "indices": [
+          2548,
+          2552
+        ]
+      },
+      {
+        "indices": [
+          2570,
+          2574
+        ]
+      },
+      {
+        "indices": [
+          2982,
+          2986
+        ]
+      },
+      {
+        "indices": [
+          3025,
+          3029
+        ]
+      },
+      {
+        "indices": [
+          3050,
+          3063
+        ]
+      },
+      {
+        "indices": [
+          3144,
+          3157
+        ]
+      },
+      {
+        "indices": [
+          3220,
+          3232
+        ]
+      },
+      {
+        "indices": [
+          3254,
+          3259
+        ]
+      },
+      {
+        "indices": [
+          3270,
+          3282
+        ]
+      },
+      {
+        "indices": [
+          3492,
+          3496
+        ]
+      },
+      {
+        "indices": [
+          3605,
+          3609
+        ]
+      },
+      {
+        "indices": [
+          3651,
+          3655
+        ]
+      },
+      {
+        "indices": [
+          3871,
+          3875
+        ]
+      },
+      {
+        "indices": [
+          4044,
+          4048
+        ]
+      },
+      {
+        "indices": [
+          4186,
+          4190
+        ]
+      },
+      {
+        "indices": [
+          4316,
+          4320
+        ]
+      },
+      {
+        "indices": [
+          4448,
+          4457
+        ]
+      },
+      {
+        "indices": [
+          6623,
+          6632
+        ]
+      },
+      {
+        "indices": [
+          6896,
+          6905
+        ]
+      },
+      {
+        "indices": [
+          9036,
+          9045
+        ]
+      },
+      {
+        "indices": [
+          11205,
+          11214
+        ]
+      },
+      {
+        "indices": [
+          11559,
+          11564
+        ]
+      },
+      {
+        "indices": [
+          11721,
+          11726
+        ]
+      },
+      {
+        "indices": [
+          11752,
+          11756
+        ]
+      },
+      {
+        "indices": [
+          11799,
+          11803
+        ]
+      },
+      {
+        "indices": [
+          11824,
+          11836
+        ]
+      },
+      {
+        "indices": [
+          11922,
+          11934
+        ]
+      },
+      {
+        "indices": [
+          11966,
+          11970
+        ]
+      },
+      {
+        "indices": [
+          11989,
+          11993
+        ]
+      },
+      {
+        "indices": [
+          12101,
+          12113
+        ]
+      },
+      {
+        "indices": [
+          12221,
+          12225
+        ]
+      },
+      {
+        "indices": [
+          12308,
+          12312
+        ]
+      },
+      {
+        "indices": [
+          12382,
+          12386
+        ]
+      },
+      {
+        "indices": [
+          12492,
+          12496
+        ]
+      },
+      {
+        "indices": [
+          12622,
+          12626
+        ]
+      },
+      {
+        "indices": [
+          12748,
+          12752
+        ]
+      },
+      {
+        "indices": [
+          12836,
+          12840
+        ]
+      },
+      {
+        "indices": [
+          12910,
+          12914
+        ]
+      },
+      {
+        "indices": [
+          13020,
+          13024
+        ]
+      },
+      {
+        "indices": [
+          13299,
+          13303
+        ]
+      },
+      {
+        "indices": [
+          13387,
+          13391
+        ]
+      },
+      {
+        "indices": [
+          13461,
+          13465
+        ]
+      },
+      {
+        "indices": [
+          13571,
+          13575
+        ]
+      },
+      {
+        "indices": [
+          13795,
+          13799
+        ]
+      },
+      {
+        "indices": [
+          13883,
+          13887
+        ]
+      },
+      {
+        "indices": [
+          13957,
+          13961
+        ]
+      },
+      {
+        "indices": [
+          14067,
+          14071
+        ]
+      },
+      {
+        "indices": [
+          14516,
+          14520
+        ]
+      },
+      {
+        "indices": [
+          14649,
+          14653
+        ]
+      }
+    ],
+    "Material": [
+      {
+        "indices": [
+          608,
+          614
+        ]
+      },
+      {
+        "indices": [
+          616,
+          624
+        ]
+      },
+      {
+        "indices": [
+          629,
+          636
+        ]
+      },
+      {
+        "indices": [
+          659,
+          662
+        ]
+      },
+      {
+        "indices": [
+          667,
+          670
+        ]
+      },
+      {
+        "indices": [
+          724,
+          725
+        ]
+      },
+      {
+        "indices": [
+          726,
+          732
+        ]
+      },
+      {
+        "indices": [
+          733,
+          734
+        ]
+      },
+      {
+        "indices": [
+          735,
+          736
+        ]
+      },
+      {
+        "indices": [
+          747,
+          748
+        ]
+      },
+      {
+        "indices": [
+          749,
+          757
+        ]
+      },
+      {
+        "indices": [
+          761,
+          762
+        ]
+      },
+      {
+        "indices": [
+          942,
+          945
+        ]
+      },
+      {
+        "indices": [
+          949,
+          952
+        ]
+      },
+      {
+        "indices": [
+          953,
+          954
+        ]
+      },
+      {
+        "indices": [
+          957,
+          958
+        ]
+      },
+      {
+        "indices": [
+          961,
+          962
+        ]
+      },
+      {
+        "indices": [
+          965,
+          966
+        ]
+      },
+      {
+        "indices": [
+          967,
+          968
+        ]
+      },
+      {
+        "indices": [
+          2479,
+          2485
+        ]
+      },
+      {
+        "indices": [
+          2487,
+          2495
+        ]
+      },
+      {
+        "indices": [
+          2500,
+          2507
+        ]
+      },
+      {
+        "indices": [
+          2530,
+          2533
+        ]
+      },
+      {
+        "indices": [
+          2538,
+          2541
+        ]
+      },
+      {
+        "indices": [
+          3440,
+          3443
+        ]
+      },
+      {
+        "indices": [
+          3513,
+          3516
+        ]
+      },
+      {
+        "indices": [
+          12133,
+          12136
+        ]
+      },
+      {
+        "indices": [
+          12145,
+          12148
+        ]
+      },
+      {
+        "indices": [
+          12160,
+          12163
+        ]
+      },
+      {
+        "indices": [
+          12215,
+          12218
+        ]
+      },
+      {
+        "indices": [
+          12248,
+          12251
+        ]
+      },
+      {
+        "indices": [
+          12303,
+          12306
+        ]
+      },
+      {
+        "indices": [
+          12326,
+          12329
+        ]
+      },
+      {
+        "indices": [
+          12403,
+          12406
+        ]
+      },
+      {
+        "indices": [
+          12436,
+          12439
+        ]
+      },
+      {
+        "indices": [
+          12513,
+          12516
+        ]
+      },
+      {
+        "indices": [
+          12545,
+          12548
+        ]
+      },
+      {
+        "indices": [
+          12595,
+          12598
+        ]
+      },
+      {
+        "indices": [
+          12616,
+          12619
+        ]
+      },
+      {
+        "indices": [
+          12687,
+          12690
+        ]
+      },
+      {
+        "indices": [
+          12742,
+          12745
+        ]
+      },
+      {
+        "indices": [
+          12830,
+          12833
+        ]
+      },
+      {
+        "indices": [
+          12854,
+          12857
+        ]
+      },
+      {
+        "indices": [
+          12931,
+          12934
+        ]
+      },
+      {
+        "indices": [
+          12964,
+          12967
+        ]
+      },
+      {
+        "indices": [
+          13041,
+          13044
+        ]
+      },
+      {
+        "indices": [
+          13114,
+          13117
+        ]
+      },
+      {
+        "indices": [
+          13135,
+          13138
+        ]
+      },
+      {
+        "indices": [
+          13211,
+          13214
+        ]
+      },
+      {
+        "indices": [
+          13223,
+          13226
+        ]
+      },
+      {
+        "indices": [
+          13238,
+          13241
+        ]
+      },
+      {
+        "indices": [
+          13293,
+          13296
+        ]
+      },
+      {
+        "indices": [
+          13326,
+          13329
+        ]
+      },
+      {
+        "indices": [
+          13381,
+          13384
+        ]
+      },
+      {
+        "indices": [
+          13405,
+          13408
+        ]
+      },
+      {
+        "indices": [
+          13482,
+          13485
+        ]
+      },
+      {
+        "indices": [
+          13515,
+          13518
+        ]
+      },
+      {
+        "indices": [
+          13592,
+          13595
+        ]
+      },
+      {
+        "indices": [
+          13678,
+          13681
+        ]
+      },
+      {
+        "indices": [
+          13734,
+          13737
+        ]
+      },
+      {
+        "indices": [
+          13789,
+          13792
+        ]
+      },
+      {
+        "indices": [
+          13822,
+          13825
+        ]
+      },
+      {
+        "indices": [
+          13877,
+          13880
+        ]
+      },
+      {
+        "indices": [
+          13901,
+          13904
+        ]
+      },
+      {
+        "indices": [
+          13978,
+          13981
+        ]
+      },
+      {
+        "indices": [
+          14011,
+          14014
+        ]
+      },
+      {
+        "indices": [
+          14088,
+          14091
+        ]
+      },
+      {
+        "indices": [
+          14165,
+          14168
+        ]
+      },
+      {
+        "indices": [
+          14213,
+          14221
+        ]
+      },
+      {
+        "indices": [
+          14223,
+          14224
+        ]
+      },
+      {
+        "indices": [
+          14236,
+          14237
+        ]
+      },
+      {
+        "indices": [
+          14240,
+          14248
+        ]
+      },
+      {
+        "indices": [
+          14264,
+          14265
+        ]
+      },
+      {
+        "indices": [
+          14283,
+          14291
+        ]
+      },
+      {
+        "indices": [
+          14331,
+          14339
+        ]
+      },
+      {
+        "indices": [
+          14340,
+          14348
+        ]
+      },
+      {
+        "indices": [
+          14377,
+          14385
+        ]
+      },
+      {
+        "indices": [
+          14418,
+          14424
+        ]
+      },
+      {
+        "indices": [
+          14426,
+          14427
+        ]
+      },
+      {
+        "indices": [
+          14439,
+          14440
+        ]
+      },
+      {
+        "indices": [
+          14459,
+          14465
+        ]
+      },
+      {
+        "indices": [
+          14505,
+          14506
+        ]
+      },
+      {
+        "indices": [
+          14529,
+          14535
+        ]
+      },
+      {
+        "indices": [
+          14575,
+          14581
+        ]
+      },
+      {
+        "indices": [
+          14598,
+          14604
+        ]
+      },
+      {
+        "indices": [
+          14662,
+          14668
+        ]
+      },
+      {
+        "indices": [
+          14683,
+          14690
+        ]
+      },
+      {
+        "indices": [
+          14692,
+          14693
+        ]
+      },
+      {
+        "indices": [
+          14705,
+          14706
+        ]
+      },
+      {
+        "indices": [
+          14709,
+          14710
+        ]
+      },
+      {
+        "indices": [
+          14865,
+          14872
+        ]
+      },
+      {
+        "indices": [
+          14912,
+          14919
+        ]
+      },
+      {
+        "indices": [
+          14920,
+          14921
+        ]
+      },
+      {
+        "indices": [
+          15070,
+          15077
+        ]
+      },
+      {
+        "indices": [
+          15201,
+          15207
+        ]
+      },
+      {
+        "indices": [
+          15208,
+          15216
+        ]
+      },
+      {
+        "indices": [
+          15224,
+          15225
+        ]
+      },
+      {
+        "indices": [
+          15226,
+          15227
+        ]
+      },
+      {
+        "indices": [
+          15236,
+          15237
+        ]
+      },
+      {
+        "indices": [
+          15238,
+          15239
+        ]
+      },
+      {
+        "indices": [
+          15240,
+          15246
+        ]
+      },
+      {
+        "indices": [
+          15247,
+          15255
+        ]
+      },
+      {
+        "indices": [
+          15263,
+          15264
+        ]
+      },
+      {
+        "indices": [
+          15265,
+          15266
+        ]
+      },
+      {
+        "indices": [
+          15282,
+          15288
+        ]
+      },
+      {
+        "indices": [
+          15297,
+          15305
+        ]
+      },
+      {
+        "indices": [
+          15337,
+          15343
+        ]
+      },
+      {
+        "indices": [
+          15344,
+          15352
+        ]
+      },
+      {
+        "indices": [
+          15359,
+          15365
+        ]
+      },
+      {
+        "indices": [
+          15366,
+          15374
+        ]
+      },
+      {
+        "indices": [
+          15395,
+          15401
+        ]
+      },
+      {
+        "indices": [
+          15410,
+          15418
+        ]
+      }
+    ],
+    "Process": [],
+    "Quality": [
+      {
+        "indices": [
+          75,
+          77
+        ]
+      },
+      {
+        "indices": [
+          648,
+          650
+        ]
+      },
+      {
+        "indices": [
+          737,
+          742
+        ]
+      },
+      {
+        "indices": [
+          758,
+          760
+        ]
+      },
+      {
+        "indices": [
+          782,
+          792
+        ]
+      },
+      {
+        "indices": [
+          930,
+          935
+        ]
+      },
+      {
+        "indices": [
+          939,
+          941
+        ]
+      },
+      {
+        "indices": [
+          946,
+          948
+        ]
+      },
+      {
+        "indices": [
+          1582,
+          1584
+        ]
+      },
+      {
+        "indices": [
+          2324,
+          2326
+        ]
+      },
+      {
+        "indices": [
+          2519,
+          2521
+        ]
+      },
+      {
+        "indices": [
+          3436,
+          3438
+        ]
+      },
+      {
+        "indices": [
+          3470,
+          3477
+        ]
+      },
+      {
+        "indices": [
+          3509,
+          3511
+        ]
+      },
+      {
+        "indices": [
+          3533,
+          3540
+        ]
+      },
+      {
+        "indices": [
+          3618,
+          3620
+        ]
+      },
+      {
+        "indices": [
+          4723,
+          4727
+        ]
+      },
+      {
+        "indices": [
+          4794,
+          4798
+        ]
+      },
+      {
+        "indices": [
+          4883,
+          4888
+        ]
+      },
+      {
+        "indices": [
+          6811,
+          6815
+        ]
+      },
+      {
+        "indices": [
+          7171,
+          7175
+        ]
+      },
+      {
+        "indices": [
+          7242,
+          7246
+        ]
+      },
+      {
+        "indices": [
+          7331,
+          7335
+        ]
+      },
+      {
+        "indices": [
+          9311,
+          9315
+        ]
+      },
+      {
+        "indices": [
+          9382,
+          9386
+        ]
+      },
+      {
+        "indices": [
+          9471,
+          9475
+        ]
+      },
+      {
+        "indices": [
+          11393,
+          11397
+        ]
+      },
+      {
+        "indices": [
+          11752,
+          11762
+        ]
+      },
+      {
+        "indices": [
+          11757,
+          11762
+        ]
+      },
+      {
+        "indices": [
+          11764,
+          11769
+        ]
+      },
+      {
+        "indices": [
+          11778,
+          11783
+        ]
+      },
+      {
+        "indices": [
+          11799,
+          11809
+        ]
+      },
+      {
+        "indices": [
+          11804,
+          11809
+        ]
+      },
+      {
+        "indices": [
+          11878,
+          11883
+        ]
+      },
+      {
+        "indices": [
+          11886,
+          11891
+        ]
+      },
+      {
+        "indices": [
+          11896,
+          11901
+        ]
+      },
+      {
+        "indices": [
+          11966,
+          11976
+        ]
+      },
+      {
+        "indices": [
+          11971,
+          11976
+        ]
+      },
+      {
+        "indices": [
+          11989,
+          11999
+        ]
+      },
+      {
+        "indices": [
+          11994,
+          11999
+        ]
+      },
+      {
+        "indices": [
+          12068,
+          12073
+        ]
+      },
+      {
+        "indices": [
+          12075,
+          12080
+        ]
+      },
+      {
+        "indices": [
+          12120,
+          12122
+        ]
+      },
+      {
+        "indices": [
+          12130,
+          12132
+        ]
+      },
+      {
+        "indices": [
+          12139,
+          12141
+        ]
+      },
+      {
+        "indices": [
+          12142,
+          12144
+        ]
+      },
+      {
+        "indices": [
+          12322,
+          12324
+        ]
+      },
+      {
+        "indices": [
+          12356,
+          12363
+        ]
+      },
+      {
+        "indices": [
+          12399,
+          12401
+        ]
+      },
+      {
+        "indices": [
+          12423,
+          12430
+        ]
+      },
+      {
+        "indices": [
+          12432,
+          12434
+        ]
+      },
+      {
+        "indices": [
+          12466,
+          12473
+        ]
+      },
+      {
+        "indices": [
+          12509,
+          12511
+        ]
+      },
+      {
+        "indices": [
+          12533,
+          12540
+        ]
+      },
+      {
+        "indices": [
+          12542,
+          12544
+        ]
+      },
+      {
+        "indices": [
+          12550,
+          12552
+        ]
+      },
+      {
+        "indices": [
+          12667,
+          12669
+        ]
+      },
+      {
+        "indices": [
+          12850,
+          12852
+        ]
+      },
+      {
+        "indices": [
+          12884,
+          12891
+        ]
+      },
+      {
+        "indices": [
+          12927,
+          12929
+        ]
+      },
+      {
+        "indices": [
+          12951,
+          12958
+        ]
+      },
+      {
+        "indices": [
+          12960,
+          12962
+        ]
+      },
+      {
+        "indices": [
+          12994,
+          13001
+        ]
+      },
+      {
+        "indices": [
+          13037,
+          13039
+        ]
+      },
+      {
+        "indices": [
+          13061,
+          13068
+        ]
+      },
+      {
+        "indices": [
+          13069,
+          13071
+        ]
+      },
+      {
+        "indices": [
+          13185,
+          13187
+        ]
+      },
+      {
+        "indices": [
+          13198,
+          13200
+        ]
+      },
+      {
+        "indices": [
+          13208,
+          13210
+        ]
+      },
+      {
+        "indices": [
+          13217,
+          13219
+        ]
+      },
+      {
+        "indices": [
+          13220,
+          13222
+        ]
+      },
+      {
+        "indices": [
+          13401,
+          13403
+        ]
+      },
+      {
+        "indices": [
+          13435,
+          13442
+        ]
+      },
+      {
+        "indices": [
+          13478,
+          13480
+        ]
+      },
+      {
+        "indices": [
+          13502,
+          13509
+        ]
+      },
+      {
+        "indices": [
+          13511,
+          13513
+        ]
+      },
+      {
+        "indices": [
+          13545,
+          13552
+        ]
+      },
+      {
+        "indices": [
+          13588,
+          13590
+        ]
+      },
+      {
+        "indices": [
+          13612,
+          13619
+        ]
+      },
+      {
+        "indices": [
+          13621,
+          13623
+        ]
+      },
+      {
+        "indices": [
+          13629,
+          13631
+        ]
+      },
+      {
+        "indices": [
+          13714,
+          13716
+        ]
+      },
+      {
+        "indices": [
+          13897,
+          13899
+        ]
+      },
+      {
+        "indices": [
+          13931,
+          13938
+        ]
+      },
+      {
+        "indices": [
+          13974,
+          13976
+        ]
+      },
+      {
+        "indices": [
+          13998,
+          14005
+        ]
+      },
+      {
+        "indices": [
+          14007,
+          14009
+        ]
+      },
+      {
+        "indices": [
+          14041,
+          14048
+        ]
+      },
+      {
+        "indices": [
+          14084,
+          14086
+        ]
+      },
+      {
+        "indices": [
+          14108,
+          14115
+        ]
+      },
+      {
+        "indices": [
+          14116,
+          14118
+        ]
+      },
+      {
+        "indices": [
+          14200,
+          14202
+        ]
+      },
+      {
+        "indices": [
+          14229,
+          14233
+        ]
+      },
+      {
+        "indices": [
+          14240,
+          14262
+        ]
+      },
+      {
+        "indices": [
+          14283,
+          14299
+        ]
+      },
+      {
+        "indices": [
+          14340,
+          14362
+        ]
+      },
+      {
+        "indices": [
+          14377,
+          14393
+        ]
+      },
+      {
+        "indices": [
+          14432,
+          14436
+        ]
+      },
+      {
+        "indices": [
+          14529,
+          14543
+        ]
+      },
+      {
+        "indices": [
+          14662,
+          14676
+        ]
+      },
+      {
+        "indices": [
+          14698,
+          14702
+        ]
+      },
+      {
+        "indices": [
+          14709,
+          14718
+        ]
+      },
+      {
+        "indices": [
+          14854,
+          14855
+        ]
+      },
+      {
+        "indices": [
+          14865,
+          14880
+        ]
+      },
+      {
+        "indices": [
+          14920,
+          14929
+        ]
+      },
+      {
+        "indices": [
+          15070,
+          15085
+        ]
+      },
+      {
+        "indices": [
+          15087,
+          15102
+        ]
+      },
+      {
+        "indices": [
+          15107,
+          15127
+        ]
+      },
+      {
+        "indices": [
+          15217,
+          15222
+        ]
+      },
+      {
+        "indices": [
+          15230,
+          15235
+        ]
+      },
+      {
+        "indices": [
+          15256,
+          15261
+        ]
+      },
+      {
+        "indices": [
+          15268,
+          15273
+        ]
+      },
+      {
+        "indices": [
+          15353,
+          15358
+        ]
+      },
+      {
+        "indices": [
+          15375,
+          15380
+        ]
+      },
+      {
+        "indices": [
+          15381,
+          15386
+        ]
+      }
+    ]
+  }
+}
