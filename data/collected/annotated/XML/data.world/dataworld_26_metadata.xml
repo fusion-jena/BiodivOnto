@@ -1,0 +1,1635 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/data.world/26/dataworld_26_metadata.xml</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/xml</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>
+	<Node id="2"/>us-doi-gov_28588f12-2da2-42ab-af85-afd44ea5c90b<Node id="49"/>
+	<Node id="51"/>Habitat<Node id="58"/>--Offshore Santa Cruz, California<Node id="91"/>
+	<Node id="93"/>Habitat<Node id="100"/>--Offshore Santa Cruz, California
+
+This part of DS 781 presents data for the <Node id="177"/>habitat<Node id="184"/> map of the seafloor of the Offshore of Santa Cruz map <Node id="239"/>area<Node id="243"/>, California. The vector data file is included in "Habitat_OffshoreSantaCruz.zip," which is accessible from http://dx.doi.org/10.5066/F7TM785G. Using multibeam echosounder (MBES) bathymetry and backscatter data, potential <Node id="465"/>marine<Node id="471"/> <Node id="472"/>benthic<Node id="479"/> <Node id="480"/>habitat<Node id="487"/> maps were constructed. The <Node id="515"/>habitats<Node id="523"/> were based on substrate types and documented or "<Node id="573"/>ground<Node id="579"/> truthed" using <Node id="595"/>underwater<Node id="605"/> video images and seafloor samples obtained by the USGS. These maps display various <Node id="689"/>habitat<Node id="696"/> types that range from flat, soft, unconsolidated sediment-covered seafloor to hard, deformed (folded), or highly rugose and differentially eroded bedrock exposures. Rugged, high-relief, rocky outcrops that have been eroded to form ledges and small caves are ideal <Node id="961"/>habitat<Node id="968"/> for rockfish (Sebastes spp.) and other bottom <Node id="1015"/>fish<Node id="1019"/> such as lingcod (Ophiodon elongatus). <Node id="1058"/>Habitat<Node id="1065"/> map is presented in a map format generated in a GIS (ArcMap), and both digital and hard-copy versions will be produced. Please refer to Greene and others (2007) for more information regarding the <Node id="1262"/>Benthic<Node id="1269"/> <Node id="1270"/>Marine<Node id="1276"/> Potential <Node id="1287"/>Habitat<Node id="1294"/> Classification Scheme and the codes used to represent various seafloor features. References Cited: Greene, H.G., Bizzarro, J.J., O'Connell, V.M., and Brylinsky, C.K., 2007, Construction of digital potential <Node id="1502"/>marine<Node id="1508"/> <Node id="1509"/>benthic<Node id="1516"/> <Node id="1517"/>habitat<Node id="1524"/> maps using a coded classification scheme and its application, in Todd, B.J., and Greene, H.G., eds., Mapping the seafloor for <Node id="1651"/>habitat<Node id="1658"/> characterization: Geological Association of Canada Special Paper 47, p. 141-155.
+
+Source: https://catalog.data.gov/dataset/<Node id="1782"/>habitat<Node id="1789"/>-offshore-santa-cruz-california-fc01b  
+Last updated at https://catalog.data.gov/organization/doi-gov : 2020-01-23  
+[More about U.S. Government Works](https://www.usa.gov/government-works)<Node id="1978"/>
+	<Node id="1980"/>https://data.world/us-doi-gov/28588f12-2da2-42ab-af85-afd44ea5c90b<Node id="2046"/>
+	<Node id="2048"/>Public Domain<Node id="2061"/>
+	<Node id="2063"/>
+		<Node id="2066"/>
+			<Node id="2070"/>habitat_offshoresantacruz<Node id="2095"/>
+			<Node id="2099"/>
+				<Node id="2104"/>
+					<Node id="2110"/>
+						<Node id="2117"/>objectid<Node id="2125"/>
+						<Node id="2132"/>OBJECTID<Node id="2140"/>
+						<Node id="2147"/>number<Node id="2153"/>
+						<Node id="2160"/>http://www.w3.org/2001/XMLSchema#decimal<Node id="2200"/>
+						<Node id="2207"/>objectid<Node id="2215"/>
+					<Node id="2221"/>
+					<Node id="2227"/>
+						<Node id="2234"/>hab_code<Node id="2242"/>
+						<Node id="2249"/>Hab_Code<Node id="2257"/>
+						<Node id="2264"/>string<Node id="2270"/>
+						<Node id="2277"/>http://www.w3.org/2001/XMLSchema#string<Node id="2316"/>
+						<Node id="2323"/>hab_code<Node id="2331"/>
+					<Node id="2337"/>
+					<Node id="2343"/>
+						<Node id="2350"/>hab_type<Node id="2358"/>
+						<Node id="2365"/>Hab_Type<Node id="2373"/>
+						<Node id="2380"/>string<Node id="2386"/>
+						<Node id="2393"/>http://www.w3.org/2001/XMLSchema#string<Node id="2432"/>
+						<Node id="2439"/>hab_type<Node id="2447"/>
+					<Node id="2453"/>
+					<Node id="2459"/>
+						<Node id="2466"/>mega_id<Node id="2473"/>
+						<Node id="2480"/>Mega_ID<Node id="2487"/>
+						<Node id="2494"/>string<Node id="2500"/>
+						<Node id="2507"/>http://www.w3.org/2001/XMLSchema#string<Node id="2546"/>
+						<Node id="2553"/>mega_id<Node id="2560"/>
+					<Node id="2566"/>
+					<Node id="2572"/>
+						<Node id="2579"/>mega<Node id="2583"/>
+						<Node id="2590"/>Mega<Node id="2594"/>
+						<Node id="2601"/>string<Node id="2607"/>
+						<Node id="2614"/>http://www.w3.org/2001/XMLSchema#string<Node id="2653"/>
+						<Node id="2660"/>mega<Node id="2664"/>
+					<Node id="2670"/>
+					<Node id="2676"/>
+						<Node id="2683"/>ind_id<Node id="2689"/>
+						<Node id="2696"/>Ind_ID<Node id="2702"/>
+						<Node id="2709"/>string<Node id="2715"/>
+						<Node id="2722"/>http://www.w3.org/2001/XMLSchema#string<Node id="2761"/>
+						<Node id="2768"/>ind_id<Node id="2774"/>
+					<Node id="2780"/>
+					<Node id="2786"/>
+						<Node id="2793"/>ind<Node id="2796"/>
+						<Node id="2803"/>Ind<Node id="2806"/>
+						<Node id="2813"/>string<Node id="2819"/>
+						<Node id="2826"/>http://www.w3.org/2001/XMLSchema#string<Node id="2865"/>
+						<Node id="2872"/>ind<Node id="2875"/>
+					<Node id="2881"/>
+					<Node id="2887"/>
+						<Node id="2894"/>sed_id<Node id="2900"/>
+						<Node id="2907"/>Sed_ID<Node id="2913"/>
+						<Node id="2920"/>string<Node id="2926"/>
+						<Node id="2933"/>http://www.w3.org/2001/XMLSchema#string<Node id="2972"/>
+						<Node id="2979"/>sed_id<Node id="2985"/>
+					<Node id="2991"/>
+					<Node id="2997"/>
+						<Node id="3004"/>sed<Node id="3007"/>
+						<Node id="3014"/>Sed<Node id="3017"/>
+						<Node id="3024"/>string<Node id="3030"/>
+						<Node id="3037"/>http://www.w3.org/2001/XMLSchema#string<Node id="3076"/>
+						<Node id="3083"/>sed<Node id="3086"/>
+					<Node id="3092"/>
+					<Node id="3098"/>
+						<Node id="3105"/>mes_mac_id<Node id="3115"/>
+						<Node id="3122"/>Mes_Mac_ID<Node id="3132"/>
+						<Node id="3139"/>string<Node id="3145"/>
+						<Node id="3152"/>http://www.w3.org/2001/XMLSchema#string<Node id="3191"/>
+						<Node id="3198"/>mes_mac_id<Node id="3208"/>
+					<Node id="3214"/>
+					<Node id="3220"/>
+						<Node id="3227"/>mes_mac<Node id="3234"/>
+						<Node id="3241"/>Mes_Mac<Node id="3248"/>
+						<Node id="3255"/>string<Node id="3261"/>
+						<Node id="3268"/>http://www.w3.org/2001/XMLSchema#string<Node id="3307"/>
+						<Node id="3314"/>mes_mac<Node id="3321"/>
+					<Node id="3327"/>
+					<Node id="3333"/>
+						<Node id="3340"/>mod_id<Node id="3346"/>
+						<Node id="3353"/>Mod_ID<Node id="3359"/>
+						<Node id="3366"/>string<Node id="3372"/>
+						<Node id="3379"/>http://www.w3.org/2001/XMLSchema#string<Node id="3418"/>
+						<Node id="3425"/>mod_id<Node id="3431"/>
+					<Node id="3437"/>
+					<Node id="3443"/>
+						<Node id="3450"/>mod<Node id="3453"/>
+						<Node id="3460"/>Mod<Node id="3463"/>
+						<Node id="3470"/>string<Node id="3476"/>
+						<Node id="3483"/>http://www.w3.org/2001/XMLSchema#string<Node id="3522"/>
+						<Node id="3529"/>mod<Node id="3532"/>
+					<Node id="3538"/>
+					<Node id="3544"/>
+						<Node id="3551"/>hab_desc<Node id="3559"/>
+						<Node id="3566"/>Hab_Desc<Node id="3574"/>
+						<Node id="3581"/>string<Node id="3587"/>
+						<Node id="3594"/>http://www.w3.org/2001/XMLSchema#string<Node id="3633"/>
+						<Node id="3640"/>hab_desc<Node id="3648"/>
+					<Node id="3654"/>
+					<Node id="3660"/>
+						<Node id="3667"/>shape_leng<Node id="3677"/>
+						<Node id="3684"/>Shape_Leng<Node id="3694"/>
+						<Node id="3701"/>number<Node id="3707"/>
+						<Node id="3714"/>http://www.w3.org/2001/XMLSchema#decimal<Node id="3754"/>
+						<Node id="3761"/>shape_leng<Node id="3771"/>
+					<Node id="3777"/>
+					<Node id="3783"/>
+						<Node id="3790"/>shape_area<Node id="3800"/>
+						<Node id="3807"/>Shape_Area<Node id="3817"/>
+						<Node id="3824"/>number<Node id="3830"/>
+						<Node id="3837"/>http://www.w3.org/2001/XMLSchema#decimal<Node id="3877"/>
+						<Node id="3884"/>shape_area<Node id="3894"/>
+					<Node id="3900"/>
+				<Node id="3905"/>
+			<Node id="3909"/>
+			<Node id="3913"/>data/habitat_offshoresantacruz.csv<Node id="3947"/>
+			<Node id="3951"/>csv<Node id="3954"/>
+		<Node id="3957"/>
+		<Node id="3960"/>
+			<Node id="3964"/>original/Habitat_OffshoreSantaCruz.lyr<Node id="4002"/>
+			<Node id="4006"/>original/Habitat_OffshoreSantaCruz.lyr<Node id="4044"/>
+			<Node id="4048"/>lyr<Node id="4051"/>
+			<Node id="4055"/>application/x-tika-msoffice<Node id="4082"/>
+			<Node id="4086"/>11776<Node id="4091"/>
+		<Node id="4094"/>
+		<Node id="4097"/>
+			<Node id="4101"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.dbf<Node id="4165"/>
+			<Node id="4169"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.dbf<Node id="4233"/>
+			<Node id="4237"/>dbf<Node id="4240"/>
+			<Node id="4244"/>application/dbf<Node id="4259"/>
+			<Node id="4263"/>196412<Node id="4269"/>
+		<Node id="4272"/>
+		<Node id="4275"/>
+			<Node id="4279"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.prj<Node id="4343"/>
+			<Node id="4347"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.prj<Node id="4411"/>
+			<Node id="4415"/>prj<Node id="4418"/>
+			<Node id="4422"/>text/plain<Node id="4432"/>
+			<Node id="4436"/>403<Node id="4439"/>
+		<Node id="4442"/>
+		<Node id="4445"/>
+			<Node id="4449"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.sbn<Node id="4513"/>
+			<Node id="4517"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.sbn<Node id="4581"/>
+			<Node id="4585"/>sbn<Node id="4588"/>
+			<Node id="4592"/>application/x-shapefile<Node id="4615"/>
+			<Node id="4619"/>3140<Node id="4623"/>
+		<Node id="4626"/>
+		<Node id="4629"/>
+			<Node id="4633"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.sbx<Node id="4697"/>
+			<Node id="4701"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.sbx<Node id="4765"/>
+			<Node id="4769"/>sbx<Node id="4772"/>
+			<Node id="4776"/>application/x-shapefile<Node id="4799"/>
+			<Node id="4803"/>260<Node id="4806"/>
+		<Node id="4809"/>
+		<Node id="4812"/>
+			<Node id="4816"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.shp<Node id="4880"/>
+			<Node id="4884"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.shp<Node id="4948"/>
+			<Node id="4952"/>shp<Node id="4955"/>
+			<Node id="4959"/>application/x-shapefile<Node id="4982"/>
+			<Node id="4986"/>620456<Node id="4992"/>
+		<Node id="4995"/>
+		<Node id="4998"/>
+			<Node id="5002"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.shp.xml<Node id="5070"/>
+			<Node id="5074"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.shp.xml<Node id="5142"/>
+			<Node id="5146"/>xml<Node id="5149"/>
+			<Node id="5153"/>application/xml<Node id="5168"/>
+			<Node id="5172"/>11445<Node id="5177"/>
+		<Node id="5180"/>
+		<Node id="5183"/>
+			<Node id="5187"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.shx<Node id="5251"/>
+			<Node id="5255"/>original/Habitat_OffshoreSantaCruz/Habitat_OffshoreSantaCruz.shx<Node id="5319"/>
+			<Node id="5323"/>shx<Node id="5326"/>
+			<Node id="5330"/>application/x-shapefile<Node id="5353"/>
+			<Node id="5357"/>2556<Node id="5361"/>
+		<Node id="5364"/>
+		<Node id="5367"/>
+			<Node id="5371"/>original/Habitat_OffshoreSantaCruz_metadata.html<Node id="5419"/>
+			<Node id="5423"/>original/Habitat_OffshoreSantaCruz_metadata.html<Node id="5471"/>
+			<Node id="5475"/>html<Node id="5479"/>
+			<Node id="5483"/>text/html<Node id="5492"/>
+			<Node id="5496"/>36540<Node id="5501"/>
+		<Node id="5504"/>
+		<Node id="5507"/>
+			<Node id="5511"/>original/Habitat_OffshoreSantaCruz_metadata.txt<Node id="5558"/>
+			<Node id="5562"/>original/Habitat_OffshoreSantaCruz_metadata.txt<Node id="5609"/>
+			<Node id="5613"/>txt<Node id="5616"/>
+			<Node id="5620"/>text/plain<Node id="5630"/>
+			<Node id="5634"/>25518<Node id="5639"/>
+		<Node id="5642"/>
+		<Node id="5645"/>
+			<Node id="5649"/>original/Habitat_OffshoreSantaCruz_metadata.xml<Node id="5696"/>
+			<Node id="5700"/>original/Habitat_OffshoreSantaCruz_metadata.xml<Node id="5747"/>
+			<Node id="5751"/>xml<Node id="5754"/>
+			<Node id="5758"/>application/xml<Node id="5773"/>
+			<Node id="5777"/>22496<Node id="5782"/>
+		<Node id="5785"/>
+		<Node id="5788"/>
+			<Node id="5792"/>original/Habitat_OffshoreSantaCruz_metadata_faq.html<Node id="5844"/>
+			<Node id="5848"/>original/Habitat_OffshoreSantaCruz_metadata_faq.html<Node id="5900"/>
+			<Node id="5904"/>html<Node id="5908"/>
+			<Node id="5912"/>text/html<Node id="5921"/>
+			<Node id="5925"/>29380<Node id="5930"/>
+		<Node id="5933"/>
+		<Node id="5936"/>
+			<Node id="5940"/>original/resource_links.md<Node id="5966"/>
+			<Node id="5970"/>original/resource_links.md<Node id="5996"/>
+			<Node id="6000"/>md<Node id="6002"/>
+			<Node id="6006"/>text/markdown<Node id="6019"/>
+			<Node id="6023"/>198<Node id="6026"/>
+		<Node id="6029"/>
+	<Node id="6031"/>
+	<Node id="6033"/>
+		<Node id="6036"/>backscatter<Node id="6047"/>
+		<Node id="6050"/>bathymetry<Node id="6060"/>
+		<Node id="6063"/>benthos<Node id="6070"/>
+		<Node id="6073"/>cmgp<Node id="6077"/>
+		<Node id="6080"/>davenport<Node id="6089"/>
+		<Node id="6092"/>distributions<Node id="6105"/>
+		<Node id="6108"/>ecosystem<Node id="6117"/>
+		<Node id="6120"/>fisheries<Node id="6129"/>
+		<Node id="6132"/>geology<Node id="6139"/>
+		<Node id="6142"/>habitat<Node id="6149"/>
+		<Node id="6152"/>habitats<Node id="6160"/>
+		<Node id="6163"/>intensity<Node id="6172"/>
+		<Node id="6175"/>multibeam<Node id="6184"/>
+		<Node id="6187"/>oceans<Node id="6193"/>
+		<Node id="6196"/>seabed<Node id="6202"/>
+		<Node id="6205"/>usgs<Node id="6209"/>
+	<Node id="6211"/>
+<Node id="6212"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="all" StartNode="0" EndNode="6212">
+</Annotation>
+<Annotation Id="1" Type="name" StartNode="2" EndNode="49">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="title" StartNode="51" EndNode="91">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="description" StartNode="93" EndNode="1978">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="homepage" StartNode="1980" EndNode="2046">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="license" StartNode="2048" EndNode="2061">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="resources" StartNode="2063" EndNode="6031">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">list</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="item" StartNode="2066" EndNode="3957">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="name" StartNode="2070" EndNode="2095">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="schema" StartNode="2099" EndNode="3909">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="fields" StartNode="2104" EndNode="3905">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">list</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="item" StartNode="2110" EndNode="2221">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="name" StartNode="2117" EndNode="2125">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="title" StartNode="2132" EndNode="2140">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="type" StartNode="2147" EndNode="2153">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="rdfType" StartNode="2160" EndNode="2200">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="dwSourceId" StartNode="2207" EndNode="2215">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="item" StartNode="2227" EndNode="2337">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="name" StartNode="2234" EndNode="2242">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="title" StartNode="2249" EndNode="2257">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="type" StartNode="2264" EndNode="2270">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="rdfType" StartNode="2277" EndNode="2316">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="dwSourceId" StartNode="2323" EndNode="2331">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="item" StartNode="2343" EndNode="2453">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="name" StartNode="2350" EndNode="2358">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="title" StartNode="2365" EndNode="2373">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="type" StartNode="2380" EndNode="2386">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="rdfType" StartNode="2393" EndNode="2432">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="dwSourceId" StartNode="2439" EndNode="2447">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="item" StartNode="2459" EndNode="2566">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="name" StartNode="2466" EndNode="2473">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="title" StartNode="2480" EndNode="2487">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="type" StartNode="2494" EndNode="2500">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="rdfType" StartNode="2507" EndNode="2546">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="dwSourceId" StartNode="2553" EndNode="2560">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="item" StartNode="2572" EndNode="2670">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="name" StartNode="2579" EndNode="2583">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="title" StartNode="2590" EndNode="2594">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="type" StartNode="2601" EndNode="2607">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="rdfType" StartNode="2614" EndNode="2653">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="dwSourceId" StartNode="2660" EndNode="2664">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="item" StartNode="2676" EndNode="2780">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="name" StartNode="2683" EndNode="2689">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="title" StartNode="2696" EndNode="2702">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="type" StartNode="2709" EndNode="2715">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="rdfType" StartNode="2722" EndNode="2761">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="dwSourceId" StartNode="2768" EndNode="2774">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="item" StartNode="2786" EndNode="2881">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="name" StartNode="2793" EndNode="2796">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="title" StartNode="2803" EndNode="2806">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="type" StartNode="2813" EndNode="2819">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="rdfType" StartNode="2826" EndNode="2865">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="dwSourceId" StartNode="2872" EndNode="2875">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="item" StartNode="2887" EndNode="2991">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="name" StartNode="2894" EndNode="2900">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="title" StartNode="2907" EndNode="2913">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="type" StartNode="2920" EndNode="2926">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="rdfType" StartNode="2933" EndNode="2972">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="dwSourceId" StartNode="2979" EndNode="2985">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="item" StartNode="2997" EndNode="3092">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="name" StartNode="3004" EndNode="3007">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="title" StartNode="3014" EndNode="3017">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="type" StartNode="3024" EndNode="3030">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="rdfType" StartNode="3037" EndNode="3076">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="dwSourceId" StartNode="3083" EndNode="3086">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="item" StartNode="3098" EndNode="3214">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="name" StartNode="3105" EndNode="3115">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="title" StartNode="3122" EndNode="3132">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="type" StartNode="3139" EndNode="3145">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="rdfType" StartNode="3152" EndNode="3191">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="dwSourceId" StartNode="3198" EndNode="3208">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="item" StartNode="3220" EndNode="3327">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="name" StartNode="3227" EndNode="3234">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="title" StartNode="3241" EndNode="3248">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="type" StartNode="3255" EndNode="3261">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="rdfType" StartNode="3268" EndNode="3307">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="dwSourceId" StartNode="3314" EndNode="3321">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="item" StartNode="3333" EndNode="3437">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="name" StartNode="3340" EndNode="3346">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="title" StartNode="3353" EndNode="3359">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="type" StartNode="3366" EndNode="3372">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="rdfType" StartNode="3379" EndNode="3418">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="dwSourceId" StartNode="3425" EndNode="3431">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="83" Type="item" StartNode="3443" EndNode="3538">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="name" StartNode="3450" EndNode="3453">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="title" StartNode="3460" EndNode="3463">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="86" Type="type" StartNode="3470" EndNode="3476">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="rdfType" StartNode="3483" EndNode="3522">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="88" Type="dwSourceId" StartNode="3529" EndNode="3532">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="89" Type="item" StartNode="3544" EndNode="3654">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="90" Type="name" StartNode="3551" EndNode="3559">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="91" Type="title" StartNode="3566" EndNode="3574">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="92" Type="type" StartNode="3581" EndNode="3587">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="93" Type="rdfType" StartNode="3594" EndNode="3633">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="94" Type="dwSourceId" StartNode="3640" EndNode="3648">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="95" Type="item" StartNode="3660" EndNode="3777">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="96" Type="name" StartNode="3667" EndNode="3677">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="97" Type="title" StartNode="3684" EndNode="3694">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="98" Type="type" StartNode="3701" EndNode="3707">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="rdfType" StartNode="3714" EndNode="3754">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="100" Type="dwSourceId" StartNode="3761" EndNode="3771">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="101" Type="item" StartNode="3783" EndNode="3900">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="102" Type="name" StartNode="3790" EndNode="3800">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="103" Type="title" StartNode="3807" EndNode="3817">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="104" Type="type" StartNode="3824" EndNode="3830">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="105" Type="rdfType" StartNode="3837" EndNode="3877">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="106" Type="dwSourceId" StartNode="3884" EndNode="3894">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="107" Type="path" StartNode="3913" EndNode="3947">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="108" Type="format" StartNode="3951" EndNode="3954">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="109" Type="item" StartNode="3960" EndNode="4094">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="110" Type="name" StartNode="3964" EndNode="4002">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="111" Type="path" StartNode="4006" EndNode="4044">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="112" Type="format" StartNode="4048" EndNode="4051">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="113" Type="mediatype" StartNode="4055" EndNode="4082">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="114" Type="bytes" StartNode="4086" EndNode="4091">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="115" Type="item" StartNode="4097" EndNode="4272">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="116" Type="name" StartNode="4101" EndNode="4165">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="117" Type="path" StartNode="4169" EndNode="4233">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="118" Type="format" StartNode="4237" EndNode="4240">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="119" Type="mediatype" StartNode="4244" EndNode="4259">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="120" Type="bytes" StartNode="4263" EndNode="4269">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="121" Type="item" StartNode="4275" EndNode="4442">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="122" Type="name" StartNode="4279" EndNode="4343">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="123" Type="path" StartNode="4347" EndNode="4411">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="124" Type="format" StartNode="4415" EndNode="4418">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="125" Type="mediatype" StartNode="4422" EndNode="4432">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="126" Type="bytes" StartNode="4436" EndNode="4439">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="127" Type="item" StartNode="4445" EndNode="4626">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="128" Type="name" StartNode="4449" EndNode="4513">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="129" Type="path" StartNode="4517" EndNode="4581">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="130" Type="format" StartNode="4585" EndNode="4588">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="131" Type="mediatype" StartNode="4592" EndNode="4615">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="132" Type="bytes" StartNode="4619" EndNode="4623">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="133" Type="item" StartNode="4629" EndNode="4809">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="134" Type="name" StartNode="4633" EndNode="4697">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="135" Type="path" StartNode="4701" EndNode="4765">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="136" Type="format" StartNode="4769" EndNode="4772">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="137" Type="mediatype" StartNode="4776" EndNode="4799">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="138" Type="bytes" StartNode="4803" EndNode="4806">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="139" Type="item" StartNode="4812" EndNode="4995">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="140" Type="name" StartNode="4816" EndNode="4880">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="141" Type="path" StartNode="4884" EndNode="4948">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="142" Type="format" StartNode="4952" EndNode="4955">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="143" Type="mediatype" StartNode="4959" EndNode="4982">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="144" Type="bytes" StartNode="4986" EndNode="4992">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="145" Type="item" StartNode="4998" EndNode="5180">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="146" Type="name" StartNode="5002" EndNode="5070">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="147" Type="path" StartNode="5074" EndNode="5142">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="148" Type="format" StartNode="5146" EndNode="5149">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="149" Type="mediatype" StartNode="5153" EndNode="5168">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="150" Type="bytes" StartNode="5172" EndNode="5177">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="151" Type="item" StartNode="5183" EndNode="5364">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="152" Type="name" StartNode="5187" EndNode="5251">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="153" Type="path" StartNode="5255" EndNode="5319">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="154" Type="format" StartNode="5323" EndNode="5326">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="155" Type="mediatype" StartNode="5330" EndNode="5353">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="156" Type="bytes" StartNode="5357" EndNode="5361">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="157" Type="item" StartNode="5367" EndNode="5504">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="158" Type="name" StartNode="5371" EndNode="5419">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="159" Type="path" StartNode="5423" EndNode="5471">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="160" Type="format" StartNode="5475" EndNode="5479">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="161" Type="mediatype" StartNode="5483" EndNode="5492">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="162" Type="bytes" StartNode="5496" EndNode="5501">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="163" Type="item" StartNode="5507" EndNode="5642">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="164" Type="name" StartNode="5511" EndNode="5558">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="165" Type="path" StartNode="5562" EndNode="5609">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="166" Type="format" StartNode="5613" EndNode="5616">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="167" Type="mediatype" StartNode="5620" EndNode="5630">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="168" Type="bytes" StartNode="5634" EndNode="5639">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="169" Type="item" StartNode="5645" EndNode="5785">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="170" Type="name" StartNode="5649" EndNode="5696">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="171" Type="path" StartNode="5700" EndNode="5747">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="172" Type="format" StartNode="5751" EndNode="5754">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="173" Type="mediatype" StartNode="5758" EndNode="5773">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="174" Type="bytes" StartNode="5777" EndNode="5782">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="175" Type="item" StartNode="5788" EndNode="5933">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="176" Type="name" StartNode="5792" EndNode="5844">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="177" Type="path" StartNode="5848" EndNode="5900">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="178" Type="format" StartNode="5904" EndNode="5908">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="179" Type="mediatype" StartNode="5912" EndNode="5921">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="180" Type="bytes" StartNode="5925" EndNode="5930">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="181" Type="item" StartNode="5936" EndNode="6029">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">dict</Value>
+</Feature>
+</Annotation>
+<Annotation Id="182" Type="name" StartNode="5940" EndNode="5966">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="183" Type="path" StartNode="5970" EndNode="5996">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="184" Type="format" StartNode="6000" EndNode="6002">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="185" Type="mediatype" StartNode="6006" EndNode="6019">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="186" Type="bytes" StartNode="6023" EndNode="6026">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">int</Value>
+</Feature>
+</Annotation>
+<Annotation Id="187" Type="keywords" StartNode="6033" EndNode="6211">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">list</Value>
+</Feature>
+</Annotation>
+<Annotation Id="188" Type="item" StartNode="6036" EndNode="6047">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="189" Type="item" StartNode="6050" EndNode="6060">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="190" Type="item" StartNode="6063" EndNode="6070">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="191" Type="item" StartNode="6073" EndNode="6077">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="192" Type="item" StartNode="6080" EndNode="6089">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="193" Type="item" StartNode="6092" EndNode="6105">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="194" Type="item" StartNode="6108" EndNode="6117">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="195" Type="item" StartNode="6120" EndNode="6129">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="196" Type="item" StartNode="6132" EndNode="6139">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="197" Type="item" StartNode="6142" EndNode="6149">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="198" Type="item" StartNode="6152" EndNode="6160">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="199" Type="item" StartNode="6163" EndNode="6172">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="200" Type="item" StartNode="6175" EndNode="6184">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="201" Type="item" StartNode="6187" EndNode="6193">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="202" Type="item" StartNode="6196" EndNode="6202">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+<Annotation Id="203" Type="item" StartNode="6205" EndNode="6209">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">str</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="204" Type="Thing" StartNode="51" EndNode="58">
+</Annotation>
+<Annotation Id="205" Type="Thing" StartNode="51" EndNode="58">
+</Annotation>
+<Annotation Id="206" Type="Thing" StartNode="93" EndNode="100">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="207" Type="Thing" StartNode="177" EndNode="184">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="208" Type="Thing" StartNode="480" EndNode="487">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="209" Type="Thing" StartNode="689" EndNode="696">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="210" Type="Thing" StartNode="961" EndNode="968">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="211" Type="Thing" StartNode="1058" EndNode="1065">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="212" Type="Thing" StartNode="1287" EndNode="1294">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="213" Type="Thing" StartNode="1517" EndNode="1524">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="214" Type="Thing" StartNode="1651" EndNode="1658">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="215" Type="Thing" StartNode="1782" EndNode="1789">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="216" Type="Thing" StartNode="6142" EndNode="6149">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="217" Type="Thing" StartNode="239" EndNode="243">
+</Annotation>
+<Annotation Id="218" Type="Thing" StartNode="465" EndNode="471">
+</Annotation>
+<Annotation Id="219" Type="Thing" StartNode="1270" EndNode="1276">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="220" Type="Thing" StartNode="1502" EndNode="1508">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="221" Type="Thing" StartNode="472" EndNode="479">
+</Annotation>
+<Annotation Id="222" Type="Thing" StartNode="1262" EndNode="1269">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="223" Type="Thing" StartNode="1509" EndNode="1516">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="224" Type="Thing" StartNode="472" EndNode="487">
+</Annotation>
+<Annotation Id="225" Type="Thing" StartNode="1509" EndNode="1524">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="226" Type="Thing" StartNode="465" EndNode="487">
+</Annotation>
+<Annotation Id="227" Type="Thing" StartNode="1502" EndNode="1524">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="228" Type="Thing" StartNode="515" EndNode="523">
+</Annotation>
+<Annotation Id="229" Type="Thing" StartNode="6152" EndNode="6160">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="230" Type="Thing" StartNode="573" EndNode="579">
+</Annotation>
+<Annotation Id="231" Type="Thing" StartNode="595" EndNode="605">
+</Annotation>
+<Annotation Id="232" Type="Thing" StartNode="1015" EndNode="1019">
+</Annotation>
+<Annotation Id="234" Type="Thing" StartNode="6163" EndNode="6172">
+</Annotation>
+<Annotation Id="235" Type="Thing" StartNode="6163" EndNode="6172">
+</Annotation>
+<Annotation Id="236" Type="Thing" StartNode="6108" EndNode="6117">
+</Annotation>
+<Annotation Id="237" Type="Thing" StartNode="6187" EndNode="6193">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

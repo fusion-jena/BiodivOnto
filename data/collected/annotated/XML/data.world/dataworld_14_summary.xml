@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/data.world/14/dataworld_14_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+GSI GEMAS European Geochemical <Node id="44"/>Soil<Node id="48"/> Analysis&#xd;
+SUMMARY&#xd;
+The GEMAS dataset is based on low <Node id="102"/>density<Node id="109"/> geochemical sampling of <Node id="134"/>agriculture<Node id="145"/> (Ap) and <Node id="155"/>grassland<Node id="164"/> (Gr) <Node id="170"/>soils<Node id="175"/> across 34 European <Node id="195"/>countries<Node id="204"/>. Sample <Node id="213"/>density<Node id="220"/> covering an <Node id="233"/>area<Node id="237"/> of 5.6 million km2 of 1 <Node id="262"/>site<Node id="266"/> each, arable <Node id="280"/>land<Node id="284"/> (0-20 cm) and <Node id="299"/>land<Node id="303"/> under permanent <Node id="320"/>grass<Node id="325"/> cover (0-10 cm), per 2500 km2. The Geochemical Mapping of <Node id="384"/>Agricultural<Node id="396"/> and Grazing <Node id="409"/>Land<Node id="413"/> <Node id="414"/>Soil<Node id="418"/> comprises more than 70 <Node id="442"/>chemical<Node id="450"/> elements and parameters determined on more than 4000 <Node id="504"/>soil<Node id="508"/> samples. The geochemistry of European <Node id="547"/>agriculture<Node id="558"/> and grazing <Node id="571"/>soils<Node id="576"/> are depicted graphically on maps of the GEMAS geochemical atlas. In 2016 the Geological Survey of Ireland as a European partner contributes to GEMAS and EGDI (European Geological Data Infrastructure) with provision of a GIS spatial data classification and publication of WMS geochemical web mapping services to support European data interoperability of EGDI web portal. The GIS GEMAS sample classification were constructed in ArcGIS 10.1 and the original GEMAS dataset is available as ESRI shapefile format.<Node id="1084"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1084">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="44" EndNode="48">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="44" EndNode="48">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="414" EndNode="418">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="504" EndNode="508">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="155" EndNode="164">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="102" EndNode="109">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="213" EndNode="220">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="134" EndNode="145">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="547" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="170" EndNode="175">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="571" EndNode="576">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="233" EndNode="237">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="195" EndNode="204">
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="262" EndNode="266">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="280" EndNode="284">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="299" EndNode="303">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="409" EndNode="413">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="320" EndNode="325">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="384" EndNode="396">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="442" EndNode="450">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,2 @@
+﻿DESCRIPTION
+From 2000-2011, the FAA released the number of incidents where birds have struck a plane.

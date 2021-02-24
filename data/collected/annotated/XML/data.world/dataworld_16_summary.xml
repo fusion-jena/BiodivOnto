@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/data.world/16/dataworld_16_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+<Node id="13"/>Soil<Node id="17"/> analysis and native <Node id="38"/>plant<Node id="43"/> propagation: a case study on Laysan Island, Papahanaumokuakea <Node id="106"/>Marine<Node id="112"/> National Monument&#xd;
+SUMMARY&#xd;
+Original Title: <Node id="157"/>Soil<Node id="161"/> analysis and native <Node id="182"/>plant<Node id="187"/> propagation: a case study on Laysan Island, Papahanaumokuakea <Node id="250"/>Marine<Node id="256"/> National Monument&#xd;
+<Node id="276"/>&#xd;
+<Node id="278"/>This final report documents methods and results for 3 objectives of a project funded by the Region 1 Inventory and Monitoring Initiative in FY 2012. Objectives were: Collect <Node id="452"/>soil<Node id="456"/> samples via stratified random sampling for composition analysis; consult horticultural specialists to determine the best <Node id="578"/>locations<Node id="587"/> to outplant specific native <Node id="616"/>plant<Node id="621"/> <Node id="622"/>species<Node id="629"/>; propagate 3 native Hawaiian <Node id="659"/>plant<Node id="664"/> <Node id="665"/>species<Node id="672"/> (Cyperus pennatiformes, Chenopodium oahuense, Santalum ellipticum) on Laysan Island in <Node id="760"/>abundance<Node id="769"/> and out-<Node id="778"/>plant<Node id="783"/> in the recommended <Node id="803"/>areas<Node id="808"/> during the <Node id="820"/>summer<Node id="826"/> of 2012 to test horticulturist recommendations.<Node id="874"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="276">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="278" EndNode="874">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="2" Type="Thing" StartNode="13" EndNode="17">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="13" EndNode="17">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="157" EndNode="161">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="452" EndNode="456">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="38" EndNode="43">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="182" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="616" EndNode="621">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="659" EndNode="664">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="778" EndNode="783">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="106" EndNode="112">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="250" EndNode="256">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="578" EndNode="587">
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="622" EndNode="629">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="665" EndNode="672">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="616" EndNode="629">
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="659" EndNode="672">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="760" EndNode="769">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="803" EndNode="808">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="820" EndNode="826">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/data.world/13/dataworld_13_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+<Node id="13"/>Fish<Node id="17"/> <Node id="18"/>abundance<Node id="27"/> in the Elwha <Node id="41"/>River<Node id="46"/> estuary, Washington, from 2006 to 2014&#xd;
+SUMMARY&#xd;
+Original Title: <Node id="112"/>Fish<Node id="116"/> <Node id="117"/>abundance<Node id="126"/> in the Elwha <Node id="140"/>River<Node id="145"/> estuary, Washington, from 2006 to 2014&#xd;
+<Node id="186"/>&#xd;
+<Node id="188"/>This portion of the data release presents <Node id="230"/>fish<Node id="234"/> <Node id="235"/>abundance<Node id="244"/> data from samples collected in the Elwha <Node id="286"/>River<Node id="291"/> estuary, Washington, in 2006, 2007, 2013, and 2014 (no associated USGS Field Activities numbers because data were collected predominantly by biologists from the Lower Elwha Klallam Tribe). We used the Puget Sound <Node id="505"/>beach<Node id="510"/> seining protocol (Simenstad and others, 1991) to sample <Node id="567"/>fish<Node id="571"/> populations in the Elwha <Node id="597"/>River<Node id="602"/> estuary complex. The <Node id="624"/>beach<Node id="629"/> seine was 38 m <Node id="645"/>long<Node id="649"/> x 2 m <Node id="656"/>deep<Node id="660"/>, with a 2 m x 2 m bag in the center of the net; mesh <Node id="714"/>size<Node id="718"/> was 3.18 mm, 6.35 mm, and 31.75 mm, for the bag, center panel, and wings, respectively. The seine net was deployed from bank to bank by a small skiff and then pulled on <Node id="888"/>shore<Node id="893"/>. The number of seines conducted each month varied based on estuary conditions and staff availability. Captured <Node id="1005"/>fish<Node id="1009"/> were quickly transferred to 20-liter plastic buckets filled with aerated estuary <Node id="1091"/>water<Node id="1096"/>, individually identified, counted, measured, and released at the point of capture. The <Node id="1184"/>locations<Node id="1193"/> of seines were determined with a hand-held global positioning system (GPS). <Node id="1270"/>Fish<Node id="1274"/> <Node id="1275"/>abundance<Node id="1284"/> is reported as catch per unit effort (CPUE), calculated as the total number of each <Node id="1369"/>fish<Node id="1373"/> <Node id="1374"/>species<Node id="1381"/> caught in all seines at each <Node id="1411"/>site<Node id="1415"/> and <Node id="1420"/>date<Node id="1424"/>, divided by the number of seines conducted. <Node id="1469"/>Fish<Node id="1473"/> <Node id="1474"/>abundance<Node id="1483"/> data are provided in a comma-delimited spreadsheet (.csv).<Node id="1542"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="186">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="188" EndNode="1542">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="2" Type="Thing" StartNode="18" EndNode="27">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="18" EndNode="27">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="117" EndNode="126">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="235" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="1275" EndNode="1284">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="1474" EndNode="1483">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="41" EndNode="46">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="140" EndNode="145">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="286" EndNode="291">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="597" EndNode="602">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="13" EndNode="17">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="112" EndNode="116">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="230" EndNode="234">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="567" EndNode="571">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="1005" EndNode="1009">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="1270" EndNode="1274">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="1369" EndNode="1373">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="1469" EndNode="1473">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="13" EndNode="27">
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="112" EndNode="126">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="230" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="1270" EndNode="1284">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="1469" EndNode="1483">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="505" EndNode="510">
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="624" EndNode="629">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Thing" StartNode="714" EndNode="718">
+</Annotation>
+<Annotation Id="28" Type="Thing" StartNode="645" EndNode="649">
+</Annotation>
+<Annotation Id="29" Type="Thing" StartNode="656" EndNode="660">
+</Annotation>
+<Annotation Id="30" Type="Thing" StartNode="888" EndNode="893">
+</Annotation>
+<Annotation Id="31" Type="Thing" StartNode="1091" EndNode="1096">
+</Annotation>
+<Annotation Id="32" Type="Thing" StartNode="1184" EndNode="1193">
+</Annotation>
+<Annotation Id="33" Type="Thing" StartNode="1374" EndNode="1381">
+</Annotation>
+<Annotation Id="34" Type="Thing" StartNode="1411" EndNode="1415">
+</Annotation>
+<Annotation Id="35" Type="Thing" StartNode="1420" EndNode="1424">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

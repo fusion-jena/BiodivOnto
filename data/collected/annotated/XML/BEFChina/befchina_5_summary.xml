@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/BEFChina/5/befchina_5_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>While coexistence in <Node id="21"/>plant<Node id="26"/> <Node id="27"/>communities<Node id="38"/> is frequently explained by effects of resource niche partitioning, the Janzen-Connell (J-C) hypothesis is an alternative approach that has been assumed as a major <Node id="202"/>ecological<Node id="212"/> mechanism explaining high <Node id="239"/>species<Node id="246"/> richness<Node id="255"/> levels, in particular, in <Node id="282"/>tropical<Node id="290"/> <Node id="291"/>forest<Node id="297"/> <Node id="298"/>ecosystems<Node id="308"/>. Central components of the J-C hypothesis are non-competitive effects of <Node id="382"/>density<Node id="389"/>- and <Node id="395"/>distance<Node id="403"/>-dependence, thereby two drivers that contribute independently to <Node id="469"/>species<Node id="476"/> coexistence, but that are ultimately linked in the <Node id="528"/>field<Node id="533"/>. Here, we make use of the <Node id="560"/>forest<Node id="566"/> Biodiversity-<Node id="580"/>Ecosystem<Node id="589"/> Functioning project in subtropical China (BEF-China) to estimate <Node id="655"/>density<Node id="662"/> and <Node id="667"/>distance<Node id="675"/> dependence effects by means of a reciprocal <Node id="720"/>tree<Node id="724"/> <Node id="725"/>seedling<Node id="733"/> transplant experiment. Using monocultures of ten and seven <Node id="793"/>tree<Node id="797"/> <Node id="798"/>species<Node id="805"/>, respectively planted at two different <Node id="845"/>sites<Node id="850"/>, juveniles of all <Node id="869"/>species<Node id="876"/> were grown in their own (home) and in all other monocultures (away), thereby testing for <Node id="966"/>distance<Node id="974"/> effect, just as in three different levels of planting <Node id="1029"/>density<Node id="1036"/>, testing for <Node id="1050"/>density<Node id="1057"/> effects.&#xd;
+In addition, we repeated a similar set-up in a nearby common <Node id="1129"/>garden<Node id="1135"/> experiment, where we added a 'shadow' treatment to simulate different <Node id="1206"/>light<Node id="1211"/> conditions<Node id="1222"/> induced by the canopy layer. The general aim of the common <Node id="1282"/>garden<Node id="1288"/> experiment is to test for additional <Node id="1326"/>density<Node id="1333"/> dependent intraspecific competition for <Node id="1374"/>light<Node id="1379"/> in the absence of host-specific agents necessary for J-C effects. <Node id="1446"/>Density<Node id="1453"/> dependent patterns that are prevalent in the main experiment, while not being prevalent in the common <Node id="1556"/>garden<Node id="1562"/> experiment can be considered true J-C effects (see "Common <Node id="1622"/>Garden<Node id="1628"/> Experiment: <Node id="1641"/>Seedling<Node id="1649"/> addition experiment - <Node id="1672"/>growth<Node id="1678"/> and <Node id="1683"/>biomass<Node id="1690"/> data" for further details)&#xd;
+<Node id="1719"/>&#xd;
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1719">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="21" EndNode="26">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="21" EndNode="26">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="21" EndNode="38">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="27" EndNode="38">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="202" EndNode="212">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="239" EndNode="246">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="469" EndNode="476">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="798" EndNode="805">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="869" EndNode="876">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="239" EndNode="255">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="282" EndNode="290">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="282" EndNode="297">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="282" EndNode="308">
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="291" EndNode="308">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="291" EndNode="297">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="560" EndNode="566">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="298" EndNode="308">
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="580" EndNode="589">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="382" EndNode="389">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="395" EndNode="403">
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="667" EndNode="675">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="966" EndNode="974">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="528" EndNode="533">
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="533" EndNode="533">
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="382" EndNode="389">
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="655" EndNode="662">
+</Annotation>
+<Annotation Id="27" Type="Thing" StartNode="720" EndNode="724">
+</Annotation>
+<Annotation Id="28" Type="Thing" StartNode="793" EndNode="797">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Thing" StartNode="725" EndNode="733">
+</Annotation>
+<Annotation Id="30" Type="Thing" StartNode="725" EndNode="733">
+</Annotation>
+<Annotation Id="31" Type="Thing" StartNode="1641" EndNode="1649">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Thing" StartNode="845" EndNode="850">
+</Annotation>
+<Annotation Id="33" Type="Thing" StartNode="382" EndNode="389">
+</Annotation>
+<Annotation Id="34" Type="Thing" StartNode="655" EndNode="662">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Thing" StartNode="1029" EndNode="1036">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Thing" StartNode="1050" EndNode="1057">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Thing" StartNode="1326" EndNode="1333">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="Thing" StartNode="1446" EndNode="1453">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Thing" StartNode="1129" EndNode="1135">
+</Annotation>
+<Annotation Id="40" Type="Thing" StartNode="1282" EndNode="1288">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="Thing" StartNode="1556" EndNode="1562">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Thing" StartNode="1622" EndNode="1628">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="Thing" StartNode="1206" EndNode="1211">
+</Annotation>
+<Annotation Id="44" Type="Thing" StartNode="1374" EndNode="1379">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Thing" StartNode="1206" EndNode="1222">
+</Annotation>
+<Annotation Id="46" Type="Thing" StartNode="1672" EndNode="1678">
+</Annotation>
+<Annotation Id="47" Type="Thing" StartNode="1683" EndNode="1690">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/data.world/20/dataworld_20_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CR</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>��D E S C R I P T I O N 
+ 
+ I n d i a   -   E n v i r o n m e n t 
+ 
+ S U M M A R Y 
+ 
+ C o n t a i n s   d a t a   f r o m   t h e   W o r l d   <Node id="146"/>B a n k <Node id="154"/>' s   d a t a   p o r t a l .   T h e r e   i s   a l s o   a   c o n s o l i d a t e d   c o u n t r y   d a t a s e t   o n   H D X .   N a t u r a l   a n d   m a n - m a d e   e n v i r o n m e n t a l   r e s o u r c e s       f r e s h   w a t e r ,   c l e a n   a i r ,   f o r e s t s ,   g r a s s l a n d s ,   m a r i n e   r e s o u r c e s ,   a n d   a g r o - e c o s y s t e m s       p r o v i d e   s u s t e n a n c e   a n d   a   f o u n d a t i o n   f o r   s o c i a l   a n d   e c o n o m i c   d e v e l o p m e n t .   T h e   n e e d   t o   s a f e g u a r d   t h e s e   r e s o u r c e s   c r o s s e s   a l l   b o r d e r s .   T o d a y ,   t h e   W o r l d   <Node id="854"/>B a n k <Node id="862"/>  i s   o n e   o f   t h e   k e y   p r o m o t e r s   a n d   f i n a n c i e r s   o f   e n v i r o n m e n t a l   u p g r a d i n g   i n   t h e   d e v e l o p i n g   w o r l d .   D a t a   h e r e   c o v e r   f o r e s t s ,   b i o d i v e r s i t y ,   e m i s s i o n s ,   a n d   p o l l u t i o n .   O t h e r   i n d i c a t o r s   r e l e v a n t   t o   t h e   e n v i r o n m e n t   a r e   f o u n d   u n d e r   d a t a   p a g e s   f o r <Node id="1334"/>  A g r i c u l t u r e <Node id="1358"/>  &amp;   R u r a l   D e v e l o p m e n t ,   E n e r g y   &amp;   M i n i n g ,   I n f r a s t r u c t u r e ,   a n d   U r b a n   D e v e l o p m e n t .   I n d i c a t o r s :   A c c e s s   t o   c l e a n   f u e l s   a n d   t e c h n o l o g i e s   f o r   c o o k i n g ,   A c c e s s   t o   e l e c t r i c i t y ,   A d j u s t e d   n e t   s a v i n g s ,   A d j u s t e d   s a v i n g s ,   A g r i c u l t u r a l   l a n d ,   A g r i c u l t u r a l   m e t h a n e   e m i s s i o n s ,   A g r i c u l t u r a l   n i t r o u s   o x i d e   e m i s s i o n s ,   A n n u a l   f r e s h w a t e r   w i t h d r a w a l s ,   A q u a c u l t u r e   p r o d u c t i o n ,   A r a b l e   l a n d ,   A v e r a g e   p r e c i p i t a t i o n   i n   d e p t h ,   B i r d   s p e c i e s ,   C O 2   e m i s s i o n s ,   C O 2   e m i s s i o n s   f r o m   e l e c t r i c i t y   a n d   h e a t   p r o d u c t i o n ,   C O 2   e m i s s i o n s   f r o m   g a s e o u s   f u e l   c o n s u m p t i o n ,   C O 2   e m i s s i o n s   f r o m   l i q u i d   f u e l   c o n s u m p t i o n ,   C O 2   e m i s s i o n s   f r o m   m a n u f a c t u r i n g   i n d u s t r i e s   a n d   c o n s t r u c t i o n ,   C O 2   e m i s s i o n s   f r o m   o t h e r   s e c t o r s ,   C O 2   e m i s s i o n s   f r o m   r e s i d e n t i a l   b u i l d i n g s   a n d   c o m m e r c i a l   a n d   p u b l i c   s e r v i c e s ,   C O 2   e m i s s i o n s   f r o m   s o l i d   f u e l   c o n s u m p t i o n ,   C O 2   e m i s s i o n s   f r o m   t r a n s p o r t ,   C O 2   i n t e n s i t y ,   C a p t u r e   f i s h e r i e s   p r o d u c t i o n ,   C o a l   r e n t s ,   D i s a s t e r   r i s k   r e d u c t i o n   p r o g r e s s   s c o r e ,   D r o u g h t s ,   E l e c t r i c i t y   p r o d u c t i o n   f r o m   o i l ,   E l e c t r i c i t y   p r o d u c t i o n   f r o m   r e n e w a b l e   s o u r c e s ,   E n e r g y   i n t e n s i t y   l e v e l   o f   p r i m a r y   e n e r g y ,   E n e r g y   r e l a t e d   m e t h a n e   e m i s s i o n s ,   F i s h   s p e c i e s ,   F o r e s t   a r e a ,   F o r e s t   r e n t s ,   G H G   n e t   e m i s s i o n s / r e m o v a l s   b y   L U C F ,   H F C   g a s   e m i s s i o n s ,   L a n d   a r e a ,   L a n d   a r e a   w h e r e   e l e v a t i o n   i s   b e l o w   5   m e t e r s ,   M a m m a l   s p e c i e s ,   M a r i n e   p r o t e c t e d   a r e a s ,   M e t h a n e   e m i s s i o n s ,   M e t h a n e   e m i s s i o n s   i n   e n e r g y   s e c t o r ,   M i n e r a l   r e n t s ,   M o r t a l i t y   r a t e   a t t r i b u t e d   t o   h o u s e h o l d   a n d   a m b i e n t   a i r   p o l l u t i o n ,   M o r t a l i t y   r a t e   a t t r i b u t e d   t o   u n i n t e n t i o n a l   p o i s o n i n g ,   M o r t a l i t y   r a t e   a t t r i b u t e d   t o   u n s a f e   w a t e r ,   N a t u r a l   g a s   r e n t s ,   N i t r o u s   o x i d e   e m i s s i o n s ,   N i t r o u s   o x i d e   e m i s s i o n s   i n   e n e r g y   s e c t o r ,   O i l   r e n t s ,   O t h e r   g r e e n h o u s e   g a s   e m i s s i o n s ,   P F C   g a s   e m i s s i o n s ,   P M 2 . 5   a i r   p o l l u t i o n ,   P e o p l e   p r a c t i c i n g   o p e n   d e f e c a t i o n ,   P e o p l e   u s i n g   a t   l e a s t   b a s i c   d r i n k i n g   w a t e r   s e r v i c e s ,   P e o p l e   u s i n g   a t   l e a s t   b a s i c   s a n i t a t i o n   s e r v i c e s ,   P e o p l e   u s i n g   s a f e l y   m a n a g e d   d r i n k i n g   w a t e r   s e r v i c e s ,   P e o p l e   u s i n g   s a f e l y   m a n a g e d   s a n i t a t i o n   s e r v i c e s ,   P e o p l e   w i t h   b a s i c   h a n d w a s h i n g   f a c i l i t i e s   i n c l u d i n g   s o a p   a n d   w a t e r ,   P l a n t   s p e c i e s ,   P o p u l a t i o n   l i v i n g   i n   a r e a s   w h e r e   e l e v a t i o n   i s   b e l o w   5   m e t e r s ,   P o p u l a t i o n   l i v i n g   i n   s l u m s ,   R e n e w a b l e   e l e c t r i c i t y   o u t p u t ,   R e n e w a b l e   e n e r g y   c o n s u m p t i o n ,   R e n e w a b l e   i n t e r n a l   f r e s h w a t e r   r e s o u r c e s ,   R e n e w a b l e   i n t e r n a l   f r e s h w a t e r   r e s o u r c e s   p e r   c a p i t a ,   R u r a l   l a n d   a r e a ,   R u r a l   l a n d   a r e a   w h e r e   e l e v a t i o n   i s   b e l o w   5   m e t e r s ,   R u r a l   p o p u l a t i o n   l i v i n g   i n   a r e a s   w h e r e   e l e v a t i o n   i s   b e l o w   5   m e t e r s ,   S F 6   g a s   e m i s s i o n s ,   S u r f a c e   a r e a ,   T e r r e s t r i a l   a n d   m a r i n e   p r o t e c t e d   a r e a s ,   T e r r e s t r i a l   p r o t e c t e d   a r e a s ,   T o t a l   f i s h e r i e s   p r o d u c t i o n ,   T o t a l   g r e e n h o u s e   g a s   e m i s s i o n s ,   T o t a l   n a t u r a l   r e s o u r c e s   r e n t s ,   U r b a n   l a n d   a r e a ,   U r b a n   l a n d   a r e a   w h e r e   e l e v a t i o n   i s   b e l o w   5   m e t e r s ,   U r b a n   p o p u l a t i o n   l i v i n g   i n   a r e a s   w h e r e   e l e v a t i o n   i s   b e l o w   5   m e t e r s ,   W a t e r   p r o d u c t i v i t y 
+ 
+ 
+ 
+ M e t h o d o l o g y   -   R e g i s t r y <Node id="6838"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="6838">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="146" EndNode="154">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="146" EndNode="154">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="854" EndNode="862">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="1334" EndNode="1358">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

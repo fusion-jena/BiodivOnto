@@ -1,0 +1,124 @@
+Energy, Water and Fish: Biodiversity Impacts of Energy-Sector Water Demand in the United States Depend on Efficiency and Policy Measures
+
+Rising energy consumption in coming decades, combined with a changing energy mix, have the potential
+to increase the impact of energy sector water use on freshwater biodiversity. We forecast changes in
+future water use based on various energy scenarios and examine implications for freshwater
+ecosystems. Annual water withdrawn/manipulated would increase by 18–24%, going from
+1,993,000–2,628,000 Mm3 in 2010 to 2,359,000–3,271,000 Mm3 in 2035 under the Reference Case of the
+Energy Information Administration (EIA). Water consumption would more rapidly increase by 26% due to
+increased biofuel production, going from 16,700–46,400 Mm3 consumption in 2010 to 21,000–58,400 Mm3
+consumption in 2035. Regionally, water use in the Southwest and Southeast may increase, with
+anticipated decreases in water use in some areas of the Midwest and Northeast. Policies that promote
+energy efficiency or conservation in the electric sector would reduce water withdrawn/manipulated by
+27–36 m3GJ−1 (0.1–0.5 m3GJ−1 consumption), while such policies in the liquid fuel sector would
+reduce withdrawal/manipulation by 0.4–0.7 m3GJ−1 (0.2–0.3 m3GJ−1 consumption). The greatest energy
+sector withdrawal/manipulation are for hydropower and thermoelectric cooling, although potential new
+EPA rules that would require recirculating cooling for thermoelectric plants would reduce
+withdrawal/manipulation by 441,000 Mm3 (20,300 Mm3 consumption). The greatest consumptive energy
+sector use is evaporation from hydroelectric reservoirs, followed by irrigation water for biofuel
+feedstocks and water used for electricity generation from coal. Historical water use by the energy
+sector is related to patterns of fish species endangerment, where water resource regions with a
+greater fraction of available surface water withdrawn by hydropower or consumed by the energy sector
+correlated with higher probabilities of imperilment. Since future increases in energy-sector surface
+water use will occur in areas of high fish endemism (e.g., Southeast), additional management and
+policy actions will be needed to minimize further species imperilment.
+
+
+
+Marine Biodiversity in Japanese Waters
+
+To understand marine biodiversity in Japanese waters, we have compiled information on the marine
+biota in Japanese waters, including the number of described species (species richness), the history
+of marine biology research in Japan, the state of knowledge, the number of endemic species, the
+number of identified but undescribed species, the number of known introduced species, and the number
+of taxonomic experts and identification guides, with consideration of the general ocean
+environmental background, such as the physical and geological settings. A total of 33,629 species
+have been reported to occur in Japanese waters. The state of knowledge was extremely variable, with
+taxa containing many inconspicuous, smaller species tending to be less well known. The total number
+of identified but undescribed species was at least 121,913. The total number of described species
+combined with the number of identified but undescribed species reached 155,542. This is the best
+estimate of the total number of species in Japanese waters and indicates that more than 70% of
+Japan's marine biodiversity remains un-described. The number of species reported as introduced into
+Japanese waters was 39. This is the first attempt to estimate species richness for all marine
+species in Japanese waters. Although its marine biota can be considered relatively well known, at
+least within the Asian-Pacific region, considering the vast number of different marine environments
+such as coral reefs, ocean trenches, ice-bound waters, methane seeps, and hydrothermal vents, much
+work remains to be done. We expect global change to have a tremendous impact on marine biodiversity
+and ecosystems. Japan is in a particularly suitable geographic situation and has a lot of facilities
+for conducting marine science research. Japan has an important responsibility to contribute to our
+understanding of life in the oceans.
+
+
+
+An Overview of Marine Biodiversity in United States Waters
+
+Marine biodiversity of the United States (U.S.) is extensively documented, but data assembled by the
+United States National Committee for the Census of Marine Life demonstrate that even the most
+complete taxonomic inventories are based on records scattered in space and time. The best-known taxa
+are those of commercial importance. Body size is directly correlated with knowledge of a species,
+and knowledge also diminishes with distance from shore and depth. Measures of biodiversity other
+than species diversity, such as ecosystem and genetic diversity, are poorly documented. Threats to
+marine biodiversity in the U.S. are the same as those for most of the world: overexploitation of
+living resources; reduced water quality; coastal development; shipping; invasive species; rising
+temperature and concentrations of carbon dioxide in the surface ocean, and other changes that may be
+consequences of global change, including shifting currents; increased number and size of hypoxic or
+anoxic areas; and increased number and duration of harmful algal blooms. More information must be
+obtained through field and laboratory research and monitoring that involve innovative sampling
+techniques (such as genetics and acoustics), but data that already exist must be made accessible.
+And all data must have a temporal component so trends can be identified. As data are compiled,
+techniques must be developed to make certain that scales are compatible, to combine and reconcile
+data collected for various purposes with disparate gear, and to automate taxonomic changes.
+Information on biotic and abiotic elements of the environment must be interactively linked.
+Impediments to assembling existing data and collecting new data on marine biodiversity include
+logistical problems as well as shortages in finances and taxonomic expertise.
+
+
+
+Current Status and Future Prospects for the Assessment of Marine and Coastal Ecosystem Services: A Systematic Review
+
+Background Research on ecosystem services has grown exponentially during the last decade. Most of
+the studies have focused on assessing and mapping terrestrial ecosystem services highlighting a
+knowledge gap on marine and coastal ecosystem services (MCES) and an urgent need to assess them.
+Methodology/Principal Findings We reviewed and summarized existing scientific literature related to
+MCES with the aim of extracting and classifying indicators used to assess and map them. We found 145
+papers that specifically assessed marine and coastal ecosystem services from which we extracted 476
+indicators. Food provision, in particular fisheries, was the most extensively analyzed MCES while
+water purification and coastal protection were the most frequently studied regulating and
+maintenance services. Also recreation and tourism under the cultural services was relatively well
+assessed. We highlight knowledge gaps regarding the availability of indicators that measure the
+capacity, flow or benefit derived from each ecosystem service. The majority of the case studies was
+found in mangroves and coastal wetlands and was mainly concentrated in Europe and North America. Our
+systematic review highlighted the need of an improved ecosystem service classification for marine
+and coastal systems, which is herein proposed with definitions and links to previous
+classifications. Conclusions/Significance This review summarizes the state of available information
+related to ecosystem services associated with marine and coastal ecosystems. The cataloging of MCES
+indicators and the integrated classification of MCES provided in this paper establish a background
+that can facilitate the planning and integration of future assessments. The final goal is to
+establish a consistent structure and populate it with information able to support the implementation
+of biodiversity conservation policies.
+
+
+
+Microbiome of free-living amoebae isolated from drinking water.
+
+Free-living amoebae (FLA) are protozoa that can be found in water networks where they prey on
+bacteria within biofilms. Most bacteria are digested rapidly by phagocytosis, however some are able
+to survive within amoebae and some are even able to multiply, as it is the case for Legionella
+pneumophila. These resisting bacteria are a potential health problem as they could also resist to
+macrophage phagocytosis. Several publications already reported intra-amoebal bacteria but the
+methods of identification did not allow metagenomic analysis and are partly based on co-culture with
+one selected amoebal strain. The aim of our study was to conduct a rRNA-targeted metagenomic
+analysis on amoebae and intra-amoebal bacteria found in drinking water network, to provide the first
+FLA microbiome in environmental strains. Three sites of a water network were sampled during four
+months. Culturable FLA were isolated and total DNA was prepared, allowing purification of both
+amoebal and bacterial DNA. Metagenomic studies were then conducted through 18S or 16S amplicons
+sequencing. Hartmannella was by far the most represented genus of FLA. Regarding intra-amoebal
+bacteria, 54 genera were identified, among which 21 were newly described intra-amoebal bacteria,
+underlying the power of our approach. There were high differences in bacterial diversity between the
+three sites. Several genera were highly represented and/or found at least in two sites, underlying
+that these bacteria could be able to multiply within FLA. Our method is therefore useful to identify
+FLA microbiome and could be applied to other networks to have a more comprehensive view of intra-
+amoebal diversity.
+
+
+

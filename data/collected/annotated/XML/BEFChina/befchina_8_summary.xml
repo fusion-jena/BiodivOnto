@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/BEFChina/8/befchina_8_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>1) Objectives: -- a) Quantify â&#x20ac;&#x153;undisturbedâ&#x20ac;&#xfffd; state prior to <Node id="63"/>snow<Node id="67"/> break. -- b) Quantify <Node id="90"/>carbon<Node id="96"/> and <Node id="101"/>nitrogen<Node id="109"/> stocks in <Node id="120"/>aboveground<Node id="131"/> CWD as a component of a full <Node id="161"/>carbon<Node id="167"/> and <Node id="172"/>nitrogen<Node id="180"/> budget. -- c) Estimate turnover of CWD <Node id="220"/>carbon<Node id="226"/> depending on <Node id="240"/>species<Node id="247"/>, positioning and mortality i) Indirect <Node id="287"/>carbon<Node id="293"/> balance approach: Calculate <Node id="322"/>deadwood<Node id="330"/> input (I) to the <Node id="348"/>forest<Node id="354"/> floor by combining chronosequence data on <Node id="397"/>woody<Node id="402"/> increment and <Node id="417"/>biomass<Node id="424"/>. Calculate turnover under assumption of equilibrium stocks (M/I) ii) Direct approach: Revisit <Node id="519"/>site<Node id="523"/> after 2 to 3 years and measure position, take a sample to estimate <Node id="591"/>density<Node id="598"/> and <Node id="603"/>volume<Node id="609"/> loss (in-situ observations indicate a progression from a solid log to something substantially decayed within few months). -- d) Compare <Node id="746"/>species<Node id="753"/>-specific sensitivities to snowbreak as a trait i) Calculate the likelihood of being subject to snowbreak given the <Node id="869"/>species<Node id="876"/>, <Node id="878"/>size<Node id="882"/> and potentially the relative position using logistic regression ii) Calculate the likelihood of snag survival; this requires re-sampling iii) Estimate the down-slope transport of <Node id="1062"/>deadwood<Node id="1070"/> pieces iv) Estimate the time it takes for <Node id="1113"/>deadwood<Node id="1121"/> to collapse and touch the <Node id="1148"/>forest<Node id="1154"/> floor ----- File asset Plot_skizze.pdf: plot sketch how the debris objects are selected - File asset sp10 CWD_protocol_Gutianshan_AF_20081215_kn.doc: Inventory protocol, should be included into methods ----- 2) Objective allometries: use some of the downed or <Node id="1415"/>alive <Node id="1421"/>trees<Node id="1426"/> to establish coarse allometries to estimate <Node id="1471"/>volume<Node id="1477"/> of the remaining intems<Node id="1501"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1501">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="63" EndNode="67">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="63" EndNode="67">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="90" EndNode="96">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="161" EndNode="167">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="220" EndNode="226">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="287" EndNode="293">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="101" EndNode="109">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="172" EndNode="180">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="120" EndNode="131">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="240" EndNode="247">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="746" EndNode="753">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="869" EndNode="876">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="322" EndNode="330">
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="322" EndNode="330">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="1062" EndNode="1070">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="1113" EndNode="1121">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="348" EndNode="354">
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="1148" EndNode="1154">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="397" EndNode="402">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="417" EndNode="424">
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="519" EndNode="523">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="591" EndNode="598">
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="603" EndNode="609">
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="1471" EndNode="1477">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="878" EndNode="882">
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="1421" EndNode="1426">
+</Annotation>
+<Annotation Id="27" Type="Thing" StartNode="1415" EndNode="1426">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

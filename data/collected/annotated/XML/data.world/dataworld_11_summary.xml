@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/data.world/11/dataworld_11_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+<Node id="13"/>Fish<Node id="17"/> Health Unit Authorised <Node id="41"/>Sites<Node id="46"/>&#xd;
+SUMMARY&#xd;
+<Node id="57"/>Fish<Node id="61"/> Health Unit registered finfish <Node id="93"/>sites<Node id="98"/> in Ireland where <Node id="116"/>Fish<Node id="120"/> Health regulations and <Node id="144"/>Fish<Node id="148"/> Health monitoring on finfish are applied. <Node id="191"/>Fish<Node id="195"/> health is protected by European legislation (Council Directive 2006/88/EC) designed to prevent and control the spread of certain <Node id="325"/>diseases<Node id="333"/> in <Node id="337"/>aquatic<Node id="344"/> <Node id="345"/>animals<Node id="352"/>. The legislation classifies <Node id="381"/>aquatic<Node id="388"/> <Node id="389"/>disease<Node id="396"/> as either exotic, in which case they are not present in the European <Node id="466"/>Community<Node id="475"/> or <Node id="479"/>non-exotic<Node id="489"/> in which case they occur in certain <Node id="526"/>countries<Node id="535"/> within the <Node id="547"/>community<Node id="556"/>. The Directive was transposed into Irish Law by the European <Node id="618"/>Communities<Node id="629"/> (Health of <Node id="641"/>Aquaculture<Node id="652"/> <Node id="653"/>Animals<Node id="660"/> and Products) Regulations 2008 (SI No. 261 of 2008), European <Node id="723"/>Communities<Node id="734"/> (Health of <Node id="746"/>Aquaculture<Node id="757"/> <Node id="758"/>Animals<Node id="765"/> and Products (Amendment) Regulations 2010 (S.I. No. 398 of 2010) and 2011 (S.I. No. 430 of 2011). The regulations introduce measures that reflect the significant <Node id="928"/>growth<Node id="934"/> and development in the <Node id="958"/>aquaculture<Node id="969"/> industry in Ireland over the past 15 years. Specific regulations are in place relating to Pacific oysters (Crassostrea gigas) to prevent the introduction of ostreid herpesvirus into certain areas of Ireland and the United Kingdom. <Node id="1201"/>Fish<Node id="1205"/> health legislation in Ireland is implemented by the <Node id="1258"/>Marine<Node id="1264"/> Institute as the Competent Authority.<Node id="1302"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1302">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="57" EndNode="61">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="13" EndNode="17">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="57" EndNode="61">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="116" EndNode="120">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="144" EndNode="148">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="191" EndNode="195">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="1201" EndNode="1205">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="41" EndNode="46">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="93" EndNode="98">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="389" EndNode="396">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="381" EndNode="396">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="337" EndNode="344">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="381" EndNode="388">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="325" EndNode="333">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="466" EndNode="475">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="547" EndNode="556">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="479" EndNode="489">
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="526" EndNode="535">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="618" EndNode="629">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="723" EndNode="734">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="641" EndNode="652">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="746" EndNode="757">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="958" EndNode="969">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="345" EndNode="352">
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="653" EndNode="660">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="758" EndNode="765">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Thing" StartNode="928" EndNode="934">
+</Annotation>
+<Annotation Id="28" Type="Thing" StartNode="1258" EndNode="1264">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

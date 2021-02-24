@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/BEFChina/15/befchina_15_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Pitfall traps (four traps per <Node id="30"/>plot<Node id="34"/>, located at the corners of the central 10 x 10 m <Node id="84"/>subplot<Node id="91"/>) were used to assess the activity <Node id="126"/>abundance<Node id="135"/> and <Node id="140"/>species<Node id="147"/> <Node id="148"/>richness<Node id="156"/> of Formicidae in relation to the <Node id="190"/>plots<Node id="195"/>' <Node id="197"/>woody<Node id="202"/> <Node id="203"/>plant<Node id="208"/> diversity. The data allow to test to what extent <Node id="258"/>woody<Node id="263"/> <Node id="264"/>plant<Node id="269"/> diversity affects the <Node id="292"/>abundance<Node id="301"/>, <Node id="303"/>species<Node id="310"/> <Node id="311"/>composition<Node id="322"/> and diversity of, e.g. <Node id="346"/>predators<Node id="355"/> (which might profit from higher structural diversity or better resource availability in more <Node id="449"/>plant<Node id="454"/> diverse <Node id="463"/>plots<Node id="468"/>) or opportunists (which might profit from more diverse resources in more <Node id="542"/>plant<Node id="547"/> diverse <Node id="556"/>plots<Node id="561"/>). Traps consisted of plastic cups (diameter 8.5 cm, depth 15 cm, capacity 550 ml) sunk into the ground and filled with 150 ml of preserving solution (40% <Node id="716"/>ethanol<Node id="723"/>, 30% <Node id="729"/>water<Node id="734"/>, 20% <Node id="740"/>glycerol<Node id="748"/>, 10% <Node id="754"/>acetic <Node id="761"/>acid<Node id="765"/>, with a few drops of detergent to reduce surface tension) for continuous trapping. Sampling was conducted in 2009 for five months (30 Marchâ&#x20ac;&#x201c;2 September) and covered the main <Node id="942"/>growing<Node id="949"/> <Node id="950"/>season<Node id="956"/>. The traps were emptied and refilled at 14 day intervals. Taxa were sorted in the lab and specimens were identified to <Node id="1076"/>species<Node id="1083"/> or morphospecies level (within genera).<Node id="1123"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1123">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="30" EndNode="34">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="84" EndNode="91">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="126" EndNode="135">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="126" EndNode="135">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="140" EndNode="147">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="148" EndNode="156">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="140" EndNode="156">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="203" EndNode="208">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="197" EndNode="202">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="197" EndNode="208">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="258" EndNode="263">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="264" EndNode="269">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="449" EndNode="454">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="542" EndNode="547">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="190" EndNode="195">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="463" EndNode="468">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="556" EndNode="561">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="292" EndNode="301">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="303" EndNode="310">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="1076" EndNode="1083">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="311" EndNode="322">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="346" EndNode="355">
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="716" EndNode="723">
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="729" EndNode="734">
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="740" EndNode="748">
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="761" EndNode="765">
+</Annotation>
+<Annotation Id="27" Type="Thing" StartNode="754" EndNode="765">
+</Annotation>
+<Annotation Id="28" Type="Thing" StartNode="950" EndNode="956">
+</Annotation>
+<Annotation Id="29" Type="Thing" StartNode="942" EndNode="949">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

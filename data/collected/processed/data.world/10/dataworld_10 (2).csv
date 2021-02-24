@@ -1,0 +1,3 @@
+assembly,superkingdom,kingdom,phylum,class,order,family,genus,species,strain_isolate,accessions,curator_notes
+GCF_000875145.1*,Viruses,undetermined,undetermined,undetermined,undetermined,undetermined,undetermined,Chronic bee paralysis virus,A-79P,NC_010711.1-NC_010712.1,Includes RNA-1 and RNA-2 segments. >99% redundant to CBPV in HB-Bar_v2016.1 database.
+GCF_000887395.1*,Viruses,undetermined,undetermined,undetermined,Picornavirales,Iflaviridae,Iflavirus,Slow bee paralysis virus,Rothamsted,NC_014137.1,>99% redundant to SBPV in HB-Bar_v2016.1 database.

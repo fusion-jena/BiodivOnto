@@ -1,0 +1,108 @@
+Botany, Genetics and Ethnobotany: A Crossed Investigation on the Elusive Tapir's Diet in French Guiana
+
+While the populations of large herbivores are being depleted in many tropical rainforests, the
+importance of their trophic role in the ecological functioning and biodiversity of these ecosystems
+is still not well evaluated. This is due to the outstanding plant diversity that they feed upon and
+the inherent difficulties involved in observing their elusive behaviour. Classically, the diet of
+elusive tropical herbivores is studied through the observation of browsing signs and macroscopic
+analysis of faeces or stomach contents. In this study, we illustrate that the original coupling of
+classic methods with genetic and ethnobotanical approaches yields information both about the diet
+diversity, the foraging modalities and the potential impact on vegetation of the largest terrestrial
+mammal of Amazonia, the lowland tapir. The study was conducted in the Guianan shield, where the
+ecology of tapirs has been less investigated. We identified 92 new species, 51 new genera and 13 new
+families of plants eaten by tapirs. We discuss the relative contribution of our different
+approaches, notably the contribution of genetic barcoding, used for the first time to investigate
+the diet of a large tropical mammal, and how local traditional ecological knowledge is accredited
+and valuable for research on the ecology of elusive animals.
+
+
+Moving beyond abundance distributions: neutral theory and spatial patterns in a tropical forest
+
+Assessing the relative importance of different processes that determine the spatial distribution of
+species and the dynamics in highly diverse plant communities remains a challenging question in
+ecology. Previous modelling approaches often focused on single aggregated forest diversity patterns
+that convey limited information on the underlying dynamic processes. Here, we use recent advances in
+inference for stochastic simulation models to evaluate the ability of a spatially explicit and
+spatially continuous neutral model to quantitatively predict six spatial and non-spatial patterns
+observed at the 50 ha tropical forest plot on Barro Colorado Island, Panama. The patterns capture
+different aspects of forest dynamics and biodiversity structure, such as annual mortality rate,
+species richness, species abundance distribution, beta-diversity and the species–area relationship
+(SAR). The model correctly predicted each pattern independently and up to five patterns
+simultaneously. However, the model was unable to match the SAR and beta-diversity simultaneously.
+Our study moves previous theory towards a dynamic spatial theory of biodiversity and demonstrates
+the value of spatial data to identify ecological processes. This opens up new avenues to evaluate
+the consequences of additional process for community assembly and dynamics.
+
+
+
+Consequences of tropical land use for multitrophic biodiversity and ecosystem functioning
+
+Our knowledge about land-use impacts on biodiversity and ecosystem functioning is mostly limited to
+single trophic levels, leaving us uncertain about whole-community biodiversity-ecosystem functioning
+relationships. We analyse consequences of the globally important land-use transformation from
+tropical forests to oil palm plantations. Species diversity, density and biomass of invertebrate
+communities suffer at least 45% decreases from rainforest to oil palm. Combining metabolic and food-
+web theory, we calculate annual energy fluxes to model impacts of land-use intensification on
+multitrophic ecosystem functioning. We demonstrate a 51% reduction in energy fluxes from forest to
+oil palm communities. Species loss clearly explains variation in energy fluxes; however, this
+relationship depends on land-use systems and functional feeding guilds, whereby predators are the
+most heavily affected. Biodiversity decline from forest to oil palm is thus accompanied by even
+stronger reductions in functionality, threatening to severely limit the functional resilience of
+communities to cope with future global changes.  Transformation of natural ecosystems into
+agricultural land is usually accompanied by extensive biodiversity loss. Calculating multitrophic
+energy fluxes, Barnes et al. report severe reductions of biodiversity and ecosystem functioning from
+tropical rainforest to oil-palm plantations.
+
+
+
+Do riparian reserves support dung beetle biodiversity and ecosystem services in oil palm-dominated tropical landscapes?
+
+Agricultural expansion and intensification are major threats to global biodiversity, ecological
+functions, and ecosystem services. The rapid expansion of oil palm in forested tropical landscapes
+is of particular concern given their high biodiversity. Identifying management approaches that
+maintain native species and associated ecological processes within oil palm plantations is therefore
+a priority. Riparian reserves are strips of forest retained alongside rivers in cultivated areas,
+primarily for their positive hydrological impact. However, they can also support a range of forest-
+dependent species or ecosystem services. We surveyed communities of dung beetles and measured dung
+removal activity in an oil palm-dominated landscape in Sabah, Malaysian Borneo. The species
+richness, diversity, and functional group richness of dung beetles in riparian reserves were
+significantly higher than in oil palm, but lower than in adjacent logged forests. The community
+composition of the riparian reserves was more similar to logged forest than oil palm. Despite the
+pronounced differences in biodiversity, we did not find significant differences in dung removal
+rates among land uses. We also found no evidence that riparian reserves enhance dung removal rates
+within surrounding oil palm. These results contrast previous studies showing positive relationships
+between dung beetle species richness and dung removal in tropical forests. We found weak but
+significant positive relationships between riparian reserve width and dung beetle diversity, and
+between reserve vegetation complexity and dung beetle abundance, suggesting that these features may
+increase the conservation value of riparian reserves. Synthesis and applications: The similarity
+between riparian reserves and logged forest demonstrates that retaining riparian reserves increases
+biodiversity within oil palm landscapes. However, the lack of correlation between dung beetle
+community characteristics and dung removal highlights the need for further research into spatial
+variation in biodiversity–ecosystem function relationships and how the results of such studies are
+affected by methodological choices.
+
+
+
+
+Biodiversity Mapping in a Tropical West African Forest with Airborne Hyperspectral Data
+
+Tropical forests are major repositories of biodiversity, but are fast disappearing as land is
+converted to agriculture. Decision-makers need to know which of the remaining forests to prioritize
+for conservation, but the only spatial information on forest biodiversity has, until recently, come
+from a sparse network of ground-based plots. Here we explore whether airborne hyperspectral imagery
+can be used to predict the alpha diversity of upper canopy trees in a West African forest. The
+abundance of tree species were collected from 64 plots (each 1250 m2 in size) within a Sierra
+Leonean national park, and Shannon-Wiener biodiversity indices were calculated. An airborne
+spectrometer measured reflectances of 186 bands in the visible and near-infrared spectral range at 1
+m2 resolution. The standard deviations of these reflectance values and their first-order derivatives
+were calculated for each plot from the c. 1250 pixels of hyperspectral information within them.
+Shannon-Wiener indices were then predicted from these plot-based reflectance statistics using a
+machine-learning algorithm (Random Forest). The regression model fitted the data well
+(pseudo-R2 = 84.9%), and we show that standard deviations of green-band reflectances and infra-red
+region derivatives had the strongest explanatory powers. Our work shows that airborne hyperspectral
+sensing can be very effective at mapping canopy tree diversity, because its high spatial resolution
+allows within-plot heterogeneity in reflectance to be characterized, making it an effective tool for
+monitoring forest biodiversity over large geographic scales.
+
+
+

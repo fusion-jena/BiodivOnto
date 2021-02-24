@@ -1,0 +1,807 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/clean/Semedico/ecosystem.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Trait<Node id="5"/>-based approaches for understanding <Node id="41"/>microbial<Node id="50"/> <Node id="51"/>biodiversity<Node id="63"/> and <Node id="68"/>ecosystem<Node id="77"/> functioning&#xd;
+<Node id="91"/>&#xd;
+<Node id="93"/>In <Node id="96"/>ecology<Node id="103"/>, <Node id="105"/>biodiversity<Node id="117"/>-<Node id="118"/>ecosystem<Node id="127"/> functioning (BEF) research has seen a shift in perspective from&#xd;
+<Node id="193"/>taxonomy<Node id="201"/> to function in the last two decades, with successful application of <Node id="270"/>trait<Node id="275"/>-based approaches.&#xd;
+This shift offers opportunities for a deeper mechanistic understanding of the role of <Node id="381"/>biodiversity<Node id="393"/>&#xd;
+in maintaining multiple <Node id="419"/>ecosystem<Node id="428"/> processes and services. In this paper, we highlight studies that&#xd;
+have focused on BEF of <Node id="518"/>microbial<Node id="527"/> communities with an emphasis on integrating <Node id="572"/>trait<Node id="577"/>-based approaches&#xd;
+to <Node id="599"/>microbial<Node id="608"/> <Node id="609"/>ecology<Node id="616"/>. In doing so, we explore some of the inherent challenges and opportunities of&#xd;
+understanding BEF using <Node id="720"/>microbial<Node id="729"/> systems. For example, <Node id="752"/>microbial<Node id="761"/> biologists characterize&#xd;
+communities using <Node id="805"/>gene<Node id="809"/> phylogenies that are often unable to resolve functional <Node id="866"/>trait<Node id="871"/>s<Node id="872"/>. Additionally,&#xd;
+experimental designs of existing <Node id="922"/>microbial<Node id="931"/> BEF studies are often inadequate to unravel BEF&#xd;
+relationships. We argue that combining eco-physiological studies with contemporary molecular tools&#xd;
+in a <Node id="1086"/>trait<Node id="1091"/>-based framework can reinforce our ability to link <Node id="1142"/>microbial<Node id="1151"/> diversity to <Node id="1165"/>ecosystem<Node id="1174"/>&#xd;
+processes. We conclude that such <Node id="1209"/>trait<Node id="1214"/>-based approaches are a promising framework to increase the&#xd;
+understanding of <Node id="1292"/>microbial<Node id="1301"/> BEF relationships and thus <Node id="1329"/>gene<Node id="1333"/>rating systematic principles in <Node id="1365"/>microbial<Node id="1374"/>&#xd;
+<Node id="1376"/>ecology<Node id="1383"/> and more <Node id="1393"/>gene<Node id="1397"/>rally <Node id="1403"/>ecology<Node id="1410"/>.&#xd;
+<Node id="1413"/>&#xd;
+&#xd;
+&#xd;
+<Node id="1419"/>Linking <Node id="1427"/>biodiversity<Node id="1439"/> and <Node id="1444"/>ecosystem<Node id="1453"/>s<Node id="1454"/>: towards a unifying <Node id="1475"/>ecological<Node id="1485"/> theory&#xd;
+<Node id="1494"/>&#xd;
+<Node id="1496"/>Community<Node id="1505"/> <Node id="1506"/>ecology<Node id="1513"/> and <Node id="1518"/>ecosystem<Node id="1527"/> <Node id="1528"/>ecology<Node id="1535"/> provide two perspectives on complex <Node id="1572"/>ecological<Node id="1582"/> systems that&#xd;
+have largely complementary strengths and weaknesses. Merging the two perspectives is necessary both&#xd;
+to ensure continued scientific progress and to provide society with the scientific means to face&#xd;
+growing <Node id="1804"/>environmental<Node id="1817"/> challenges. Recent research on <Node id="1849"/>biodiversity<Node id="1861"/> and <Node id="1866"/>ecosystem<Node id="1875"/> functioning has&#xd;
+contributed to this goal in several ways. By addressing a new question of high relevance for both&#xd;
+science and society, by challenging existing paradigms, by tightly linking theory and experiments,&#xd;
+by building scientific consensus beyond differences in opinion, by integrating fragmented&#xd;
+disciplines and research fields, by connecting itself to other disciplines and management issues, it&#xd;
+has helped transform <Node id="2306"/>ecology<Node id="2313"/> not only in content, but also in form. Creating a genuine evolutionary&#xd;
+<Node id="2386"/>ecosystem<Node id="2395"/> <Node id="2396"/>ecology<Node id="2403"/> that links the evolution of <Node id="2432"/>species<Node id="2439"/> <Node id="2440"/>trait<Node id="2445"/>s<Node id="2446"/> at the individual level, the dynamics&#xd;
+of <Node id="2489"/>species<Node id="2496"/> interactions, and the overall functioning of <Node id="2542"/>ecosystem<Node id="2551"/>s<Node id="2552"/> would give new impetus to this&#xd;
+much-needed process of unification across <Node id="2627"/>ecological<Node id="2637"/> disciplines. Recent <Node id="2658"/>community<Node id="2667"/> evolution models&#xd;
+are a promising step in that direction.&#xd;
+<Node id="2727"/>&#xd;
+&#xd;
+&#xd;
+<Node id="2733"/>A review of malaria transmission dynamics in <Node id="2778"/>forest<Node id="2784"/> <Node id="2785"/>ecosystem<Node id="2794"/>s<Node id="2795"/>&#xd;
+<Node id="2797"/>&#xd;
+<Node id="2799"/>Malaria continues to be a major health problem in more than 100 endemic countries located primarily&#xd;
+in <Node id="2903"/>tropical<Node id="2911"/> and <Node id="2916"/>sub-<Node id="2920"/>tropical<Node id="2928"/> regions around the world. Malaria transmission is a dynamic process and&#xd;
+involves many interlinked factors, from uncontrollable natural <Node id="3065"/>environmental<Node id="3078"/> conditions to man-made&#xd;
+disturbances to nature. Almost half of the population at risk of malaria lives in <Node id="3185"/>forest<Node id="3191"/> <Node id="3192"/>areas<Node id="3197"/>.&#xd;
+<Node id="3200"/>Forests<Node id="3207"/> are hot beds of malaria transmission as they provide conditions such as <Node id="3280"/>vegetation<Node id="3290"/> cover<Node id="3296"/>,&#xd;
+<Node id="3299"/>temperature<Node id="3310"/>, <Node id="3312"/>rainfall<Node id="3320"/> and <Node id="3325"/>humidity<Node id="3333"/> conditions<Node id="3344"/> that are conducive to distribution and survival of&#xd;
+malaria vectors. <Node id="3414"/>Forests<Node id="3421"/> often lack infrastructure and <Node id="3452"/>harbor<Node id="3458"/> tribes with distinct <Node id="3480"/>gene<Node id="3484"/>tic <Node id="3488"/>trait<Node id="3493"/>s<Node id="3494"/>,&#xd;
+socio-cultural beliefs and practices that greatly influence malaria transmission dynamics. Here we&#xd;
+summarize the various topographical, entomological, parasitological, human <Node id="3672"/>ecological<Node id="3682"/> and socio-&#xd;
+economic factors, which are crucial and <Node id="3735"/>shape<Node id="3740"/> malaria transmission in <Node id="3765"/>forested<Node id="3773"/> <Node id="3774"/>areas<Node id="3779"/>. An in-<Node id="3787"/>depth<Node id="3792"/>&#xd;
+understanding and synthesis of the intricate relationship of these parameters in achieving better&#xd;
+malaria control in various types of <Node id="3929"/>forest<Node id="3935"/> <Node id="3936"/>ecosystem<Node id="3945"/>s<Node id="3946"/> is emphasized.&#xd;
+<Node id="3963"/>&#xd;
+&#xd;
+&#xd;
+<Node id="3969"/>High-resolution deep sequencing reveals <Node id="4009"/>biodiversity<Node id="4021"/>, population structure, and persistence of HIV-1 quasi<Node id="4075"/>species<Node id="4082"/> within host <Node id="4095"/>ecosystem<Node id="4104"/>s<Node id="4105"/>&#xd;
+<Node id="4107"/>&#xd;
+<Node id="4109"/>Background Deep sequencing provides the basis for analysis of <Node id="4171"/>biodiversity<Node id="4183"/> of taxonomically similar&#xd;
+<Node id="4210"/>organisms<Node id="4219"/> in an <Node id="4226"/>environment<Node id="4237"/>. While extensively applied to microbiome studies, population <Node id="4299"/>gene<Node id="4303"/>tics&#xd;
+studies of <Node id="4320"/>viruses<Node id="4327"/> are limited. To define the scope of HIV-1 population <Node id="4381"/>biodiversity<Node id="4393"/> within infected&#xd;
+individuals, a suite of phylo<Node id="4440"/>gene<Node id="4444"/>tic and population <Node id="4463"/>gene<Node id="4467"/>tic algorithms was applied to HIV-1 envelope&#xd;
+hypervariable domain 3 (Env V3) within peripheral blood mononuclear cells from a group of&#xd;
+perinatally HIV-1 subtype B infected, therapy-naïve children. Results <Node id="4675"/>Biodiversity<Node id="4687"/> of HIV-1 Env V3&#xd;
+quasi<Node id="4710"/>species<Node id="4717"/> ranged from about 70 to 270 unique sequence clusters across individuals. Viral&#xd;
+population structure was organized into a limited number of clusters that included the dominant&#xd;
+variants combined with multiple clusters of low frequency variants. Next <Node id="4968"/>gene<Node id="4972"/>ration viral&#xd;
+quasi<Node id="4991"/>species<Node id="4998"/> evolved from low frequency variants at earlier time points through multiple non-&#xd;
+synonymous changes in lineages within the evolutionary landscape. Minor V3 variants detected as long&#xd;
+as four years after infection co-localized in phylo<Node id="5234"/>gene<Node id="5238"/>tic reconstructions with early transmitting&#xd;
+<Node id="5283"/>viruses<Node id="5290"/> or with subsequent plasma virus circulating two years later. Conclusions Deep sequencing&#xd;
+defines HIV-1 population complexity and structure, reveals the ebb and flow of dominant and rare&#xd;
+viral variants in the host <Node id="5506"/>ecosystem<Node id="5515"/>, and identifies an evolutionary record of low-frequency cell-&#xd;
+associated viral V3 variants that persist for years. Bioinformatics pipeline developed for HIV-1 can&#xd;
+be applied for <Node id="5696"/>biodiversity<Node id="5708"/> studies of virome populations in human, animal, or plant <Node id="5766"/>ecosystem<Node id="5775"/>s<Node id="5776"/>.&#xd;
+<Node id="5779"/>&#xd;
+&#xd;
+&#xd;
+<Node id="5785"/>Spatiotemporal modulation of <Node id="5814"/>biodiversity<Node id="5826"/> in a synthetic chemical-mediated <Node id="5860"/>ecosystem<Node id="5869"/>&#xd;
+<Node id="5871"/>&#xd;
+<Node id="5873"/>Biodiversity<Node id="5885"/>, or the relative <Node id="5903"/>abundance<Node id="5912"/> of <Node id="5916"/>species<Node id="5923"/>, measures the persistence of an <Node id="5956"/>ecosystem<Node id="5965"/>. To&#xd;
+better understand its modulation, we analyzed the spatial and temporal dynamics of a synthetic,&#xd;
+chemical-mediated <Node id="6086"/>ecosystem<Node id="6095"/> that consisted of two engineered Escherichia coli populations. Depending&#xd;
+on the specific experimental conditions implemented, the dominant interaction between the two&#xd;
+populations could be competition for <Node id="6302"/>nutrients<Node id="6311"/> or predation due to engineered communication. While&#xd;
+the two types of interactions resulted in different spatial patterns, they demonstrated a common&#xd;
+trend in terms of the modulation of <Node id="6499"/>biodiversity<Node id="6511"/>. Specifically, <Node id="6527"/>biodiversity<Node id="6539"/> decreased with&#xd;
+increasing cellular motility if the segregation distance between the two populations was comparable&#xd;
+to the <Node id="6664"/>length<Node id="6670"/> scale of the chemical-mediated interaction. Otherwise, <Node id="6726"/>biodiversity<Node id="6738"/> was insensitive to&#xd;
+cellular motility. Our results suggested a simple criterion for predicting the modulation of&#xd;
+<Node id="6853"/>biodiversity<Node id="6865"/> by <Node id="6869"/>habitat<Node id="6876"/> partitioning and cellular motility in chemical-mediated <Node id="6933"/>ecosystem<Node id="6942"/>s<Node id="6943"/>.&#xd;
+<Node id="6946"/>&#xd;
+&#xd;
+&#xd;
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="91">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="93" EndNode="1413">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="1419" EndNode="1494">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="1496" EndNode="2727">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="2733" EndNode="2797">
+</Annotation>
+<Annotation Id="5" Type="paragraph" StartNode="2799" EndNode="3963">
+</Annotation>
+<Annotation Id="6" Type="paragraph" StartNode="3969" EndNode="4107">
+</Annotation>
+<Annotation Id="7" Type="paragraph" StartNode="4109" EndNode="5779">
+</Annotation>
+<Annotation Id="8" Type="paragraph" StartNode="5785" EndNode="5871">
+</Annotation>
+<Annotation Id="9" Type="paragraph" StartNode="5873" EndNode="6946">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="10" Type="Thing" StartNode="0" EndNode="5">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="41" EndNode="50">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="518" EndNode="527">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="599" EndNode="608">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="720" EndNode="729">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="752" EndNode="761">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="922" EndNode="931">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="1142" EndNode="1151">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="1292" EndNode="1301">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="1365" EndNode="1374">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="51" EndNode="63">
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="105" EndNode="117">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="381" EndNode="393">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="1427" EndNode="1439">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="1849" EndNode="1861">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="4009" EndNode="4021">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="4171" EndNode="4183">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Thing" StartNode="4381" EndNode="4393">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Thing" StartNode="5696" EndNode="5708">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Thing" StartNode="5814" EndNode="5826">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Thing" StartNode="6499" EndNode="6511">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Thing" StartNode="6527" EndNode="6539">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Thing" StartNode="6726" EndNode="6738">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Thing" StartNode="6853" EndNode="6865">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Thing" StartNode="68" EndNode="77">
+</Annotation>
+<Annotation Id="35" Type="Thing" StartNode="118" EndNode="127">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Thing" StartNode="419" EndNode="428">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Thing" StartNode="1165" EndNode="1174">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="Thing" StartNode="1444" EndNode="1453">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Thing" StartNode="1518" EndNode="1527">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Thing" StartNode="1866" EndNode="1875">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="Thing" StartNode="2386" EndNode="2395">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Thing" StartNode="2542" EndNode="2551">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="Thing" StartNode="2785" EndNode="2794">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="Thing" StartNode="3936" EndNode="3945">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Thing" StartNode="4095" EndNode="4104">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="Thing" StartNode="5506" EndNode="5515">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="Thing" StartNode="5766" EndNode="5775">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="Thing" StartNode="5860" EndNode="5869">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="Thing" StartNode="5956" EndNode="5965">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="Thing" StartNode="6086" EndNode="6095">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="Thing" StartNode="6933" EndNode="6942">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="Thing" StartNode="96" EndNode="103">
+</Annotation>
+<Annotation Id="53" Type="Thing" StartNode="609" EndNode="616">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="Thing" StartNode="1376" EndNode="1383">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="Thing" StartNode="1403" EndNode="1410">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Thing" StartNode="1506" EndNode="1513">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="Thing" StartNode="1528" EndNode="1535">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="Thing" StartNode="2306" EndNode="2313">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="Thing" StartNode="2396" EndNode="2403">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="Thing" StartNode="193" EndNode="201">
+</Annotation>
+<Annotation Id="61" Type="Thing" StartNode="270" EndNode="275">
+</Annotation>
+<Annotation Id="62" Type="Thing" StartNode="572" EndNode="577">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="63" Type="Thing" StartNode="866" EndNode="871">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="Thing" StartNode="1086" EndNode="1091">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="Thing" StartNode="1209" EndNode="1214">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="66" Type="Thing" StartNode="2440" EndNode="2445">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="67" Type="Thing" StartNode="3488" EndNode="3493">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="Thing" StartNode="805" EndNode="809">
+</Annotation>
+<Annotation Id="69" Type="Thing" StartNode="1329" EndNode="1333">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="Thing" StartNode="1393" EndNode="1397">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="Thing" StartNode="3480" EndNode="3484">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="Thing" StartNode="4299" EndNode="4303">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="73" Type="Thing" StartNode="4440" EndNode="4444">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="74" Type="Thing" StartNode="4463" EndNode="4467">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="75" Type="Thing" StartNode="4968" EndNode="4972">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="Thing" StartNode="5234" EndNode="5238">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="77" Type="Thing" StartNode="866" EndNode="872">
+</Annotation>
+<Annotation Id="78" Type="Thing" StartNode="2440" EndNode="2446">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="Thing" StartNode="3488" EndNode="3494">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="80" Type="Thing" StartNode="1475" EndNode="1485">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="Thing" StartNode="1572" EndNode="1582">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="Thing" StartNode="2627" EndNode="2637">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="83" Type="Thing" StartNode="3672" EndNode="3682">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="84" Type="Thing" StartNode="1485" EndNode="1485">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="85" Type="Thing" StartNode="1804" EndNode="1817">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="86" Type="Thing" StartNode="3065" EndNode="3078">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="87" Type="Thing" StartNode="2432" EndNode="2439">
+</Annotation>
+<Annotation Id="88" Type="Thing" StartNode="2489" EndNode="2496">
+</Annotation>
+<Annotation Id="89" Type="Thing" StartNode="4075" EndNode="4082">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="90" Type="Thing" StartNode="4710" EndNode="4717">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="91" Type="Thing" StartNode="4991" EndNode="4998">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="92" Type="Thing" StartNode="5916" EndNode="5923">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="93" Type="Thing" StartNode="1496" EndNode="1505">
+</Annotation>
+<Annotation Id="94" Type="Thing" StartNode="2658" EndNode="2667">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="95" Type="Thing" StartNode="2778" EndNode="2784">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="96" Type="Thing" StartNode="3185" EndNode="3191">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="97" Type="Thing" StartNode="3929" EndNode="3935">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="98" Type="Thing" StartNode="1444" EndNode="1454">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="99" Type="Thing" StartNode="2542" EndNode="2552">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="100" Type="Thing" StartNode="2785" EndNode="2795">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="101" Type="Thing" StartNode="3936" EndNode="3946">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="102" Type="Thing" StartNode="4095" EndNode="4105">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="103" Type="Thing" StartNode="5766" EndNode="5776">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="104" Type="Thing" StartNode="6933" EndNode="6943">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="105" Type="Thing" StartNode="2903" EndNode="2911">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="106" Type="Thing" StartNode="2920" EndNode="2928">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="107" Type="Thing" StartNode="2916" EndNode="2928">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="108" Type="Thing" StartNode="3200" EndNode="3207">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="109" Type="Thing" StartNode="3414" EndNode="3421">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="110" Type="Thing" StartNode="3280" EndNode="3290">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="111" Type="Thing" StartNode="3280" EndNode="3296">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="112" Type="Thing" StartNode="3299" EndNode="3310">
+</Annotation>
+<Annotation Id="113" Type="Thing" StartNode="3299" EndNode="3310">
+</Annotation>
+<Annotation Id="114" Type="Thing" StartNode="3312" EndNode="3320">
+</Annotation>
+<Annotation Id="115" Type="Thing" StartNode="3325" EndNode="3333">
+</Annotation>
+<Annotation Id="116" Type="Thing" StartNode="3325" EndNode="3344">
+</Annotation>
+<Annotation Id="117" Type="Thing" StartNode="3452" EndNode="3458">
+</Annotation>
+<Annotation Id="118" Type="Thing" StartNode="3735" EndNode="3740">
+</Annotation>
+<Annotation Id="119" Type="Thing" StartNode="3765" EndNode="3773">
+</Annotation>
+<Annotation Id="120" Type="Thing" StartNode="3774" EndNode="3779">
+</Annotation>
+<Annotation Id="121" Type="Thing" StartNode="3192" EndNode="3197">
+</Annotation>
+<Annotation Id="122" Type="Thing" StartNode="3774" EndNode="3779">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="123" Type="Thing" StartNode="3765" EndNode="3779">
+</Annotation>
+<Annotation Id="124" Type="Thing" StartNode="3787" EndNode="3792">
+</Annotation>
+<Annotation Id="125" Type="Thing" StartNode="4210" EndNode="4219">
+</Annotation>
+<Annotation Id="126" Type="Thing" StartNode="4226" EndNode="4237">
+</Annotation>
+<Annotation Id="127" Type="Thing" StartNode="4320" EndNode="4327">
+</Annotation>
+<Annotation Id="128" Type="Thing" StartNode="5283" EndNode="5290">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="129" Type="Thing" StartNode="4675" EndNode="4687">
+</Annotation>
+<Annotation Id="130" Type="Thing" StartNode="5696" EndNode="5708">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="131" Type="Thing" StartNode="5814" EndNode="5826">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="132" Type="Thing" StartNode="5873" EndNode="5885">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="133" Type="Thing" StartNode="6499" EndNode="6511">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="134" Type="Thing" StartNode="6527" EndNode="6539">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="135" Type="Thing" StartNode="6726" EndNode="6738">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="136" Type="Thing" StartNode="6853" EndNode="6865">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="137" Type="Thing" StartNode="5903" EndNode="5912">
+</Annotation>
+<Annotation Id="138" Type="Thing" StartNode="6302" EndNode="6311">
+</Annotation>
+<Annotation Id="139" Type="Thing" StartNode="6664" EndNode="6670">
+</Annotation>
+<Annotation Id="140" Type="Thing" StartNode="6869" EndNode="6876">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

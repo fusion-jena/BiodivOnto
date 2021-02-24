@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Group_Git/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/BEFChina/2/befchina_2_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>1. <Node id="3"/>Biodiversity<Node id="15"/> is considered to mitigate detrimental impacts of<Node id="64"/> <Node id="65"/>climate<Node id="72"/> change<Node id="79"/> on the functioning of<Node id="101"/> <Node id="102"/>forest<Node id="108"/> <Node id="109"/>ecosystem<Node id="118"/>s<Node id="119"/>, such as drought-induced decline in <Node id="156"/>forest<Node id="162"/> productivity. However, previous studies produced controversial results and experimental evidence is rare. Specifically, the<Node id="286"/> <Node id="287"/>biological <Node id="298"/>mechanisms<Node id="308"/> <Node id="309"/>underlying<Node id="319"/> <Node id="320"/>mitigation<Node id="330"/> effects remain unclear, as existing work focuses on <Node id="383"/>biodiversity<Node id="395"/> effects related to the<Node id="418"/> <Node id="419"/>community<Node id="428"/> scale.&#xd;
+2. By using<Node id="448"/> <Node id="449"/>trait<Node id="454"/>-based neighbourhood models, we quantified changes in <Node id="508"/>aboveground <Node id="520"/>wood<Node id="524"/> <Node id="525"/>productivity of 3397<Node id="545"/> tree<Node id="550"/>s that were planted in a large-scale <Node id="587"/>tree<Node id="591"/> diversity experiment in subtropical China across gradients of neighbourhood diversity and <Node id="682"/>climatic conditions<Node id="701"/> over a six-year period. This approach allowed us to simultaneously assess to what extent <Node id="791"/>functional traits<Node id="808"/> of a <Node id="814"/>focal <Node id="820"/>tree<Node id="824"/> and <Node id="829"/>biodiversity<Node id="841"/> at the local neighbourhood scale mediate the growth response of<Node id="905"/> <Node id="906"/>individual trees<Node id="922"/> to drought <Node id="934"/>events<Node id="940"/>.&#xd;
+3. We found that neighbourhood <Node id="974"/>tree<Node id="978"/> <Node id="979"/>species<Node id="986"/> richness<Node id="995"/> can mitigate for drought-induced growth decline of <Node id="1047"/>young trees<Node id="1058"/>. Overall, positive net <Node id="1082"/>biodiversity<Node id="1094"/> effects were strongest during drought and increased with increasing <Node id="1163"/>taxonomic diversity<Node id="1182"/> of neighbours. In particular, <Node id="1213"/>drought-sensitive <Node id="1231"/>species<Node id="1238"/> (i.e. those with a low cavitation resistance) benefitted the most from growing in diverse neighbourhoods, suggesting that soil water partitioning among local neighbours during drought particularly facilitated most vulnerable individuals. Thus, diverse neighbourhoods may enhance <Node id="1518"/>ecosystem<Node id="1527"/> resistance to drought by locally supporting drought-sensitive <Node id="1590"/>species<Node id="1597"/> in the community.&#xd;
+4. Synthesis. Our findings demonstrate that mechanisms operating at the local neighbourhood scale are a key component for regulating <Node id="1750"/>forest<Node id="1756"/>s responses to drought and improve insights into how local <Node id="1815"/>species<Node id="1822"/> interactions vary along stress gradients in highly <Node id="1874"/>diverse <Node id="1882"/>tree<Node id="1886"/> communities<Node id="1898"/>.<Node id="1899"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1899">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="3" EndNode="15">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="383" EndNode="395">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="395" EndNode="395">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="829" EndNode="841">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="1082" EndNode="1094">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="65" EndNode="72">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="65" EndNode="72">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="64" EndNode="79">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="65" EndNode="79">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="102" EndNode="108">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="102" EndNode="108">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="156" EndNode="162">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="109" EndNode="119">
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="1518" EndNode="1527">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="101" EndNode="118">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="102" EndNode="119">
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="298" EndNode="308">
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="286" EndNode="309">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="287" EndNode="308">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="319" EndNode="330">
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="320" EndNode="330">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="418" EndNode="428">
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="419" EndNode="428">
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="448" EndNode="454">
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="449" EndNode="454">
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="520" EndNode="524">
+</Annotation>
+<Annotation Id="27" Type="Thing" StartNode="520" EndNode="524">
+</Annotation>
+<Annotation Id="28" Type="Thing" StartNode="508" EndNode="525">
+</Annotation>
+<Annotation Id="29" Type="Thing" StartNode="508" EndNode="524">
+</Annotation>
+<Annotation Id="30" Type="Thing" StartNode="545" EndNode="550">
+</Annotation>
+<Annotation Id="31" Type="Thing" StartNode="587" EndNode="591">
+</Annotation>
+<Annotation Id="32" Type="Thing" StartNode="974" EndNode="978">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Thing" StartNode="1882" EndNode="1886">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Thing" StartNode="820" EndNode="824">
+</Annotation>
+<Annotation Id="35" Type="Thing" StartNode="682" EndNode="701">
+</Annotation>
+<Annotation Id="36" Type="Thing" StartNode="682" EndNode="701">
+</Annotation>
+<Annotation Id="37" Type="Thing" StartNode="791" EndNode="808">
+</Annotation>
+<Annotation Id="38" Type="Thing" StartNode="791" EndNode="808">
+</Annotation>
+<Annotation Id="39" Type="Thing" StartNode="814" EndNode="824">
+</Annotation>
+<Annotation Id="40" Type="Thing" StartNode="814" EndNode="824">
+</Annotation>
+<Annotation Id="41" Type="Thing" StartNode="905" EndNode="922">
+</Annotation>
+<Annotation Id="42" Type="Thing" StartNode="906" EndNode="922">
+</Annotation>
+<Annotation Id="43" Type="Thing" StartNode="934" EndNode="940">
+</Annotation>
+<Annotation Id="44" Type="Thing" StartNode="934" EndNode="940">
+</Annotation>
+<Annotation Id="45" Type="Thing" StartNode="979" EndNode="986">
+</Annotation>
+<Annotation Id="46" Type="Thing" StartNode="979" EndNode="986">
+</Annotation>
+<Annotation Id="47" Type="Thing" StartNode="1590" EndNode="1597">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="Thing" StartNode="1815" EndNode="1822">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="Thing" StartNode="974" EndNode="995">
+</Annotation>
+<Annotation Id="50" Type="Thing" StartNode="1047" EndNode="1058">
+</Annotation>
+<Annotation Id="51" Type="Thing" StartNode="1047" EndNode="1058">
+</Annotation>
+<Annotation Id="52" Type="Thing" StartNode="1163" EndNode="1182">
+</Annotation>
+<Annotation Id="53" Type="Thing" StartNode="1163" EndNode="1182">
+</Annotation>
+<Annotation Id="54" Type="Thing" StartNode="1231" EndNode="1238">
+</Annotation>
+<Annotation Id="55" Type="Thing" StartNode="979" EndNode="986">
+</Annotation>
+<Annotation Id="56" Type="Thing" StartNode="1590" EndNode="1597">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="Thing" StartNode="1815" EndNode="1822">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="Thing" StartNode="1213" EndNode="1238">
+</Annotation>
+<Annotation Id="59" Type="Thing" StartNode="1213" EndNode="1238">
+</Annotation>
+<Annotation Id="60" Type="Thing" StartNode="1750" EndNode="1756">
+</Annotation>
+<Annotation Id="61" Type="Thing" StartNode="102" EndNode="108">
+</Annotation>
+<Annotation Id="62" Type="Thing" StartNode="1874" EndNode="1898">
+</Annotation>
+<Annotation Id="63" Type="Thing" StartNode="1874" EndNode="1898">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

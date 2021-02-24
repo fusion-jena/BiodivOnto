@@ -1,0 +1,7 @@
+assembly,superkingdom,kingdom,phylum,class,order,family,genus,species,strain_isolate,accessions,curator_notes
+GCA_000181155.1*,Eukaryota,Metazoa,Arthropoda,Arachnida,Mesostigmata,Varroidae,Varroa,Varroa destructor,Korean,ADDG01000001.1-ADDG01184190.1,Chromosomal genome.
+GCA_000181155.1*,Eukaryota,Metazoa,Arthropoda,Arachnida,Mesostigmata,Varroidae,Varroa,Varroa destructor,Korean*,NC_004454.2,Mitochondrial genome only.
+Not Available,Eukaryota,Metazoa,Arthropoda,Arachnida,Mesostigmata,Varroidae,Varroa,Varroa destructor,Korean*,AY163547.1,Mitochondrial genome only.
+GCKB00000000.1*,Eukaryota,Metazoa,Arthropoda,Insecta,Coleoptera,Nitidulidae,Aethina,Aethina tumida,Not Available,GCKB01000001.1-GCKB01042761.1,Transcriptome only.  No genome available.
+Not Available,Eukaryota,Metazoa,Arthropoda,Insecta,Diptera,Braulidae,Braula,Braula coeca,CY20,AJ868327.1,Partial sequence data only.  No genome available. 
+Not Available,Eukaryota,Metazoa,Arthropoda,Insecta,Diptera,Braulidae,Braula,Braula coeca,NCSU:FLYTREE 172*,"KC177027.1, KC177227.1, KC177434.1, KC178023.1, KC178305.1",Partial sequence data only.  No genome available. 

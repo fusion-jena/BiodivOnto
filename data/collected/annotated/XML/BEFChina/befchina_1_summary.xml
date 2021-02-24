@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/pilot_phase/clean/BEFChina/1/abstract.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>While coexistence in <Node id="21"/>plant<Node id="26"/> communities is frequently explained by effects of resource niche partitioning, the Janzen-Connell (J-C) hypothesis is an alternative approach that has been assumed as a major <Node id="202"/>ecological<Node id="212"/> mechanism explaining high <Node id="239"/>species richness<Node id="255"/> levels, in particular, in <Node id="282"/>tropical<Node id="290"/> <Node id="291"/>forest<Node id="297"/> <Node id="298"/>ecosystems<Node id="308"/>. Central components of the J-C hypothesis are non-competitive effects of <Node id="382"/>density<Node id="389"/> - and <Node id="396"/>distance<Node id="404"/> -dependence, thereby two drivers that contribute independently to <Node id="471"/>species<Node id="478"/> coexistence, but that are ultimately linked in the field. Here, we make use of the <Node id="562"/>forest<Node id="568"/> Biodiversity-Ecosystem Functioning project in <Node id="615"/>subtropical<Node id="626"/> China (BEF-China) to estimate <Node id="657"/>density<Node id="664"/> and <Node id="669"/>distance<Node id="677"/> dependence effects by means of a reciprocal <Node id="722"/>tree<Node id="726"/> <Node id="727"/>seedling<Node id="735"/> transplant experiment. Using monocultures of ten and seven <Node id="795"/>tree<Node id="799"/> <Node id="800"/>species<Node id="807"/>, respectively planted at two different <Node id="847"/>sites<Node id="852"/>, juveniles of all <Node id="871"/>species<Node id="878"/> were grown in their own (home) and in all other monocultures (away), thereby testing for <Node id="968"/>distance<Node id="976"/> effect, just as in three different levels of planting <Node id="1031"/>density<Node id="1038"/>, testing for density effects (see "Main Experiment: <Node id="1091"/>Seedling<Node id="1099"/> addition experiment - <Node id="1122"/>growth<Node id="1128"/> and <Node id="1133"/>biomass<Node id="1140"/> data" for further details)&#xd;
+<Node id="1169"/>&#xd;
+<Node id="1171"/>In addition, we repeated a similar set-up in a nearby common <Node id="1232"/>garden<Node id="1238"/> experiment, where we added a 'shadow' treatment to simulate different <Node id="1309"/>light<Node id="1314"/> conditions<Node id="1325"/> induced by the <Node id="1341"/>canopy<Node id="1347"/> layer. The general aim of the common <Node id="1385"/>garden<Node id="1391"/> experiment is to test for additional <Node id="1429"/>density<Node id="1436"/> dependent intraspecific competition for <Node id="1477"/>light<Node id="1482"/> in the absence of host-specific agents necessary for J-C effects. <Node id="1549"/>Density<Node id="1556"/> dependent patterns that are prevalent in the main experiment, while not being prevalent in the common <Node id="1659"/>garden<Node id="1665"/> experiment can be considered true J-C effects.<Node id="1712"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1169">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="1171" EndNode="1712">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="2" Type="Thing" StartNode="21" EndNode="26">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="202" EndNode="212">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="239" EndNode="255">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="282" EndNode="290">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="291" EndNode="297">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="562" EndNode="568">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="282" EndNode="297">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="298" EndNode="308">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="382" EndNode="389">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="657" EndNode="664">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="396" EndNode="404">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="471" EndNode="478">
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="615" EndNode="626">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="669" EndNode="677">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="722" EndNode="726">
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="727" EndNode="735">
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="795" EndNode="799">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="800" EndNode="807">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="847" EndNode="852">
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="871" EndNode="878">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="968" EndNode="976">
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="1031" EndNode="1038">
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="1091" EndNode="1099">
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="1122" EndNode="1128">
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="1133" EndNode="1140">
+</Annotation>
+<Annotation Id="27" Type="Thing" StartNode="1232" EndNode="1238">
+</Annotation>
+<Annotation Id="28" Type="Thing" StartNode="1309" EndNode="1314">
+</Annotation>
+<Annotation Id="29" Type="Thing" StartNode="1309" EndNode="1325">
+</Annotation>
+<Annotation Id="30" Type="Thing" StartNode="1341" EndNode="1347">
+</Annotation>
+<Annotation Id="31" Type="Thing" StartNode="1385" EndNode="1391">
+</Annotation>
+<Annotation Id="32" Type="Thing" StartNode="1429" EndNode="1436">
+</Annotation>
+<Annotation Id="33" Type="Thing" StartNode="1477" EndNode="1482">
+</Annotation>
+<Annotation Id="34" Type="Thing" StartNode="1549" EndNode="1556">
+</Annotation>
+<Annotation Id="35" Type="Thing" StartNode="1659" EndNode="1665">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

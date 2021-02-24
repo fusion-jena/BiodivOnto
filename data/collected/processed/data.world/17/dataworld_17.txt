@@ -1,0 +1,4 @@
+﻿DESCRIPTION
+Soil survey of Moor House, 1965
+SUMMARY
+This dataset contains data from a soil survey at Moor House, Cumbria, UK undertaken by Mike Hornung in 1965 as part of his PhD. It contains information about the soil horizons, chemical analyses and soil mineralogy. Full details about this dataset can be found at https://doi.org/10.5285/e4cf73b0-eef6-4118-a018-40eb374f5de7

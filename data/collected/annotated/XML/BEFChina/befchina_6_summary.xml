@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/BEFChina/6/befchina_6_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Biological<Node id="10"/> <Node id="11"/>soil<Node id="15"/> crusts<Node id="22"/> (BSCs) were sampled in runoff <Node id="53"/>plots<Node id="58"/> of <Node id="62"/>sites<Node id="67"/> A and B in 2013. This is the <Node id="97"/>species<Node id="104"/> list containing bryophytes&#xd;
+<Node id="133"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="133">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="0" EndNode="10">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="0" EndNode="10">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="11" EndNode="15">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="11" EndNode="22">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="53" EndNode="58">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="62" EndNode="67">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="97" EndNode="104">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/data.world/26/dataworld_26_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CR</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>ÿþD E S C R I P T I O N 
+ 
+ F e d e r a l  <Node id="43"/> L a n d s <Node id="54"/>
+ 
+ S U M M A R Y 
+ 
+ T h i s   d a t a s e t   r e p r e s e n t s   f e d e r a l l y   o w n e d   o r   a d m i n i s t e r e d  <Node id="187"/> l a n d s<Node id="197"/>   o f   t h e   U n i t e d   S t a t e s ,   P u e r t o   R i c o ,   a n d   t h e   U . S .   V i r g i n   I s l a n d s .   O n l y  <Node id="337"/> a r e a s<Node id="347"/>   o f   6 4 0   a c r e s   o r   m o r e   a r e   i n c l u d e d .   T h e r e   m a y   b e   p r i v a t e   i n h o l d i n g s   w i t h i n   t h e   b o u n d a r i e s   o f   F e d e r a l   <Node id="550"/>l a n d s<Node id="559"/>   i n   t h i s   m a p   l a y e r .   T h i s   i s   a   r e v i s e d   v e r s i o n   o f   t h e   J a n u a r y   2 0 0 5   m a p   l a y e r . 
+ 
+ 
+ 
+ T h e s e   d a t a   a r e   i n t e n d e d   f o r   g e o g r a p h i c   d i s p l a y   a n d   a n a l y s i s   a t   t h e   n a t i o n a l   l e v e l ,   a n d   f o r  <Node id="901"/> l a r g e<Node id="911"/>   r e g i o n a l   <Node id="932"/>a r e a s <Node id="942"/>.   T h e   d a t a   s h o u l d   b e   d i s p l a y e d   a n d   a n a l y z e d   a t   s c a l e s   a p p r o p r i a t e   f o r   1 : 2 , 0 0 0 , 0 0 0 - s c a l e   d a t a . <Node id="1128"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1128">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="2" Type="Thing" StartNode="43" EndNode="54">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="187" EndNode="197">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="337" EndNode="347">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="550" EndNode="559">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="901" EndNode="911">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="932" EndNode="942">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

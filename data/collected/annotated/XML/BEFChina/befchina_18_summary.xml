@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/BEFChina/18/befchina_18_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>1. Despite recent advances in studies on trade-offs between plant defence <Node id="74"/>trait<Node id="79"/>s<Node id="80"/>, little is known about whether trade-offs reflect i) evolutionary constraints at the <Node id="166"/>species<Node id="173"/> level or ii) allocation constraints at the individual level. Here, we asked to which degree physical and chemical <Node id="288"/>carbon<Node id="294"/>-based <Node id="301"/>leaf<Node id="305"/> defence <Node id="314"/>trait<Node id="319"/>s<Node id="320"/> covary within and across <Node id="346"/>species<Node id="353"/>.&#xd;
+2. We assessed <Node id="371"/>leaf<Node id="375"/> toughness, <Node id="387"/>leaf<Node id="391"/> total phenolics and <Node id="412"/>tannin<Node id="418"/> <Node id="419"/>concentrations<Node id="433"/> for 51 <Node id="441"/>subtropical<Node id="452"/> <Node id="453"/>tree<Node id="457"/> <Node id="458"/>species<Node id="465"/>. <Node id="467"/>Species<Node id="474"/> <Node id="475"/>trait<Node id="480"/> means, sample-specific values and phylogenetically independent contrasts were used in regression analyses. Phylogenetic signals and <Node id="613"/>trait<Node id="618"/> evolution were assessed along the phylogeny.&#xd;
+3. Analyses of <Node id="680"/>species<Node id="687"/>-level <Node id="694"/>trait<Node id="699"/> means revealed significant negative <Node id="736"/>trait<Node id="741"/> covariations between physical and chemical defence <Node id="793"/>trait<Node id="798"/>s<Node id="799"/> in analyses over all <Node id="821"/>species<Node id="828"/>. These covariations were inconsistent at the within-<Node id="881"/>species<Node id="888"/> level. All three defence aspects showed strong phylogenetic signals, but differed in the degree of conservatism along the phylogeny. Inclusion of intraspecific <Node id="1049"/>trait<Node id="1054"/> <Node id="1055"/>variability<Node id="1066"/> significantly decreased the <Node id="1095"/>strength<Node id="1103"/> of these covariations. Strong negative covariations were detected between physical and chemical defence <Node id="1208"/>trait<Node id="1213"/> when phylogenetic non-independence was accounted for.&#xd;
+4. Synthesis: We addressed two sources of variation (allocation and evolution) independently from each other in the context of <Node id="1396"/>trait<Node id="1401"/> interrelationships. The observed negative covariations hint at the existence of a trade-off between physical and chemical defence <Node id="1532"/>trait<Node id="1537"/>s<Node id="1538"/>. The finding that intraspecific <Node id="1571"/>trait<Node id="1576"/> variation contributed less to this relationship suggests that the trade-off is dominated by evolutionary constraints rather than by <Node id="1709"/>carbon<Node id="1715"/> allocation constraints.<Node id="1739"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1739">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="371" EndNode="375">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="301" EndNode="305">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="371" EndNode="375">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="387" EndNode="391">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="74" EndNode="80">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="314" EndNode="320">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="793" EndNode="799">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="1532" EndNode="1538">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="166" EndNode="173">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="346" EndNode="353">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="458" EndNode="465">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="467" EndNode="474">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="680" EndNode="687">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="821" EndNode="828">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="881" EndNode="888">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="412" EndNode="418">
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="441" EndNode="452">
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="1055" EndNode="1066">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="1095" EndNode="1103">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="419" EndNode="433">
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="288" EndNode="294">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="1709" EndNode="1715">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="74" EndNode="79">
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="314" EndNode="319">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="475" EndNode="480">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="613" EndNode="618">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Thing" StartNode="694" EndNode="699">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Thing" StartNode="736" EndNode="741">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Thing" StartNode="793" EndNode="798">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Thing" StartNode="1049" EndNode="1054">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Thing" StartNode="1208" EndNode="1213">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Thing" StartNode="1396" EndNode="1401">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Thing" StartNode="1532" EndNode="1537">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Thing" StartNode="1571" EndNode="1576">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Thing" StartNode="453" EndNode="457">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,21 @@
+measure,calibration,units,data_type,quality_control
+Site,NA,NA,Site identifier,NA
+Plot,NA,number,plot number 1-42,NA
+Treatment,NA,functional group identifier,functional group (see supporting document Winklebury_Hill_Experiment.rtf),NA
+Soil depth for BD,NA,cm,Soil depth for bulk density,NA
+BD,NA,g m2,Bulk density 5-10cm depth,Outlier checks
+Soil.moist,NA,%,Soil moisture (average of 3 measures),"Three replicates, outlier removal."
+pH,"pH 4, 7",unitless,Soil pH,5% analytical replicates.
+NO3-KCL,"7,6,4,2,1ppm",mg kg-1,Soil extractable nitrate (extracted with potassium chloride),"5% analytical replicates, recalibration and blank every 20 samples. "
+NH4-KCL,"5,4,3,2,1ppm",mg kg-1,Soil extractable ammonium (extracted with potassium chloride),"5% analytical replicates, recalibration and blank every 20 samples. "
+Mic.TC,100mg/l,mg kg-1,Microbial biomass- total carbon,"5% analytical replicates, blank every 20 samples. "
+Mic.CN,NA,unitless,Microbial biomass- carbon to nitrogen ratio,NA
+Mic TN,"10,8,6,4,2ppm",mg kg-1,Microbial biomass- total nitrogen,"5% analytical replicates, recalibration and blank every 20 samples. "
+Mineralised NO3,"5,4,3,2,1ppm",mg kg-1,Nitrification rate,"5% analytical replicates, recalibration and blank every 20 samples. "
+Mineralised NH4,"5,4,3,2,1ppm",mg kg-1,Mineralisation rate of ammonium only,"5% analytical replicates, recalibration and blank every 20 samples. "
+Total mineralised N,NA,mg kg-1,Total mineralisation rate,"5% analytical replicates, recalibration and blank every 20 samples. "
+Particle Size >3mm,NA,g m2,particle size measured through >3mm sieve,Outlier checks
+Particle Size 2-3mm,NA,g m2,particle size measured through 2mm sieve,Outlier checks
+Particle Size 0.05-2mm,NA,g m2,particle size measured through 0.05mm sieve,Outlier checks
+Particle Size 0.05-0.015mm,NA,g m2,particle size measured through 0.015mm sieve,Outlier checks
+Particle Size >0.015mm,NA,g m2,particle size measured through >0.015mm sieve,Outlier checks

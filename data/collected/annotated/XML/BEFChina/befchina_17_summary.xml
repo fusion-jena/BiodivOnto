@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/BEFChina/17/befchina_17_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Sand<Node id="4"/>-filled splash cups were used to study the erosivity of <Node id="60"/>rainfall<Node id="68"/> and throughfall in the <Node id="92"/>humid<Node id="97"/> subtropics of southeast China in <Node id="131"/>spring<Node id="137"/> and summer 2010. Our results showed that the splash cup measurements yielded precise and reproducible results both under open <Node id="264"/>field<Node id="269"/> conditions and under <Node id="291"/>forest<Node id="297"/> vegetation. The splash cups were <Node id="331"/>exposed<Node id="338"/> to <Node id="342"/>forest<Node id="348"/> stands of different <Node id="369"/>age<Node id="372"/> and to selected <Node id="389"/>species<Node id="396"/> in the Gutianshan <Node id="415"/>National <Node id="424"/>Nature <Node id="431"/>Reserve<Node id="438"/> (GNNR). This dataset contains the measurements performed under selected trees.<Node id="517"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="517">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="2" Type="Thing" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="60" EndNode="68">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="92" EndNode="97">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="131" EndNode="137">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="264" EndNode="269">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="291" EndNode="297">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="342" EndNode="348">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="331" EndNode="338">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="369" EndNode="372">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="431" EndNode="438">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="424" EndNode="438">
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="415" EndNode="438">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="389" EndNode="396">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

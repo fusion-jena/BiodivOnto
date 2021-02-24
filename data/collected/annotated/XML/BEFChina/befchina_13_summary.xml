@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/BEFChina/13/befchina_13_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>This is the 2008 CSP PLFA data from a subset of 12 CSPs representing the <Node id="73"/>age<Node id="76"/> gradient. Samples were analyzed over the <Node id="118"/>depth<Node id="123"/> profile of each CSP (see detailed methods below) and analyzed for phospholipid <Node id="203"/>fatty <Node id="209"/>acid<Node id="213"/> profiles, which represent both the <Node id="249"/>biomass<Node id="256"/> and broad <Node id="267"/>community<Node id="276"/> structure of the <Node id="294"/>soil<Node id="298"/> <Node id="299"/>microbial<Node id="308"/> <Node id="309"/>community<Node id="318"/> including broad groups of <Node id="345"/>bacteria<Node id="353"/> and <Node id="358"/>fungi<Node id="363"/>. The point of this study was to characterize the <Node id="413"/>microbial<Node id="422"/> <Node id="423"/>community<Node id="432"/> of the CSPs, as well as to determine which factors most influence <Node id="499"/>microbial<Node id="508"/> <Node id="509"/>community<Node id="518"/> dynamics, including <Node id="539"/>forest<Node id="545"/> <Node id="546"/>age<Node id="549"/> and other factors. <Node id="569"/>Soil<Node id="573"/> lipid fractions can be seen as functional components of the <Node id="634"/>soil<Node id="638"/> <Node id="639"/>microbes<Node id="647"/>, such as decomposers, etc. This dataset summarizes the different groups of lipid fractions, <Node id="740"/>fungi<Node id="745"/>, <Node id="747"/>bacteria<Node id="755"/>.<Node id="756"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="756">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="thing" StartNode="73" EndNode="76">
+</Annotation>
+<Annotation Id="2" Type="thing" StartNode="73" EndNode="76">
+</Annotation>
+<Annotation Id="3" Type="thing" StartNode="546" EndNode="549">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="thing" StartNode="118" EndNode="123">
+</Annotation>
+<Annotation Id="5" Type="thing" StartNode="209" EndNode="213">
+</Annotation>
+<Annotation Id="6" Type="thing" StartNode="203" EndNode="213">
+</Annotation>
+<Annotation Id="7" Type="thing" StartNode="249" EndNode="256">
+</Annotation>
+<Annotation Id="8" Type="thing" StartNode="267" EndNode="276">
+</Annotation>
+<Annotation Id="9" Type="thing" StartNode="309" EndNode="318">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="thing" StartNode="423" EndNode="432">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="thing" StartNode="509" EndNode="518">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="thing" StartNode="294" EndNode="298">
+</Annotation>
+<Annotation Id="13" Type="thing" StartNode="569" EndNode="573">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="thing" StartNode="634" EndNode="638">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="thing" StartNode="299" EndNode="308">
+</Annotation>
+<Annotation Id="16" Type="thing" StartNode="413" EndNode="422">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="thing" StartNode="499" EndNode="508">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="thing" StartNode="294" EndNode="318">
+</Annotation>
+<Annotation Id="19" Type="thing" StartNode="345" EndNode="353">
+</Annotation>
+<Annotation Id="20" Type="thing" StartNode="747" EndNode="755">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="thing" StartNode="358" EndNode="363">
+</Annotation>
+<Annotation Id="22" Type="thing" StartNode="740" EndNode="745">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="thing" StartNode="299" EndNode="318">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="thing" StartNode="413" EndNode="432">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="thing" StartNode="499" EndNode="518">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="thing" StartNode="539" EndNode="545">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="thing" StartNode="639" EndNode="647">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="thing" StartNode="539" EndNode="549">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="thing" StartNode="634" EndNode="647">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

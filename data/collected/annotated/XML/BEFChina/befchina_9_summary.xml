@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/BEFChina/9/befchina_9_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Soil<Node id="4"/> profile<Node id="12"/> description according to "!!!Bodenkundliche Kartieranleitung". This dataset contains all information with several entries (up to 8) per category, thus describing the whole <Node id="185"/>soil<Node id="189"/> profile<Node id="197"/>. Two separate sheets contain data that describes more than one aspect for a <Node id="274"/>soil<Node id="278"/> profile<Node id="286"/> (CSP <Node id="292"/>soil<Node id="296"/> profile<Node id="304"/> description: general <Node id="326"/>site<Node id="330"/> information, <Node id="344"/>surface<Node id="351"/> characteristics, <Node id="369"/>soil<Node id="373"/> classification, CSP <Node id="394"/>soil<Node id="398"/> profile<Node id="406"/> description III: Aeromorphic <Node id="436"/>organic<Node id="443"/> layers)<Node id="451"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="451">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="185" EndNode="189">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="274" EndNode="278">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="292" EndNode="296">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="369" EndNode="373">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="394" EndNode="398">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="0" EndNode="12">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="185" EndNode="197">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="274" EndNode="286">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="292" EndNode="304">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="394" EndNode="406">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="326" EndNode="330">
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="344" EndNode="351">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="436" EndNode="443">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/pilot_phase/clean/data.world/1/1.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+Life expectancy estimates for <Node id="43"/>North American zoo<Node id="61"/> and <Node id="66"/>aquarium<Node id="74"/> vertebrate <Node id="86"/>animal<Node id="92"/>s<Node id="93"/>&#xd;
+SUMMARY&#xd;
+Data behind the article <Node id="128"/>Sex<Node id="131"/>-specific median life expectancies from ex situ <Node id="179"/>populations<Node id="190"/> for 330 <Node id="199"/>animal<Node id="205"/> <Node id="206"/>species<Node id="213"/>.&#xd;
+<Node id="216"/>&#xd;
+<Node id="218"/>Abstract&#xd;
+We present life expectancy estimates for hundreds of vertebrate <Node id="292"/>species<Node id="299"/> based on carefully vetted studbook data from <Node id="345"/>North American zoo<Node id="363"/>s<Node id="364"/> and aquariums. These data include sex-specific median life expectancies as well as <Node id="448"/>sample <Node id="455"/>size<Node id="459"/> and 95% confidence limits for each estimate. Existing longevity data for <Node id="533"/>animal<Node id="539"/>s<Node id="540"/> primarily consist of maximum lifespan values, which are single observations rather than statistically derived estimates of longevity. Moreover, all of our estimates are based on the same type of data and calculated using consistent, standardized methods. To derive these estimates, we conducted Kaplan-Meier survival analyses using individual-level demographic data (i.e., records of <Node id="925"/>birth<Node id="930"/> and mortality events) from studbook records for each ex situ population. Our <Node id="1008"/>species<Node id="1015"/> set represents a range of vertebrate taxa (primarily <Node id="1069"/>mammals<Node id="1076"/>, <Node id="1078"/>birds<Node id="1083"/>, <Node id="1085"/>amphibians<Node id="1095"/>, and <Node id="1101"/>reptiles<Node id="1109"/>) and diverse life histories. This dataset will have broad utility, not only for informing comparative demographic and life history studies, but also more broadly for any research or conservation application that requires sex- or <Node id="1339"/>species<Node id="1346"/>-specific life expectancy information.<Node id="1384"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="216">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="218" EndNode="1384">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="2" Type="Thing" StartNode="43" EndNode="61">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="345" EndNode="363">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="345" EndNode="364">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="66" EndNode="74">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="86" EndNode="93">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="533" EndNode="540">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="128" EndNode="131">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="179" EndNode="190">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="206" EndNode="213">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="292" EndNode="299">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="1008" EndNode="1015">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="1339" EndNode="1346">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="199" EndNode="213">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="86" EndNode="92">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="199" EndNode="205">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="533" EndNode="539">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="448" EndNode="459">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="455" EndNode="459">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="925" EndNode="930">
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="1069" EndNode="1076">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="1078" EndNode="1083">
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="1085" EndNode="1095">
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="1101" EndNode="1109">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/BEFChina/3/befchina_3_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>We integrated multiple components of <Node id="37"/>plant<Node id="42"/> and <Node id="47"/>herbivore<Node id="56"/> diversity to unravel the linkages that drive <Node id="102"/>biodiversity<Node id="114"/> relationships and determine the consequences of <Node id="163"/>biodiversity<Node id="175"/> loss across <Node id="188"/>trophic<Node id="195"/> levels<Node id="202"/>. Our study suggests that <Node id="228"/>lepidopteran<Node id="240"/> <Node id="241"/>phylogenetic<Node id="253"/> diversity is significantly affected by <Node id="293"/>plant<Node id="298"/> <Node id="299"/>species<Node id="306"/> loss<Node id="311"/> when basal splits in the evolutionary history are considered. Moreover, we show that multiple components of <Node id="420"/>tree<Node id="424"/> diversity can synergistically affect <Node id="462"/>species<Node id="469"/> richness<Node id="478"/> and <Node id="483"/>phylogenetic<Node id="495"/> diversity of <Node id="509"/>lepidopteran<Node id="521"/> larvae. Importantly, <Node id="543"/>plant<Node id="548"/> diversity effects were indirectly mediated by <Node id="595"/>herbivore<Node id="604"/> <Node id="605"/>abundance<Node id="614"/>&#x2014;which sheds <Node id="627"/>light<Node id="632"/> on the consequences of recently observed declines in the number of <Node id="700"/>insects<Node id="707"/> for the structuring and functioning of <Node id="747"/>ecosystems<Node id="757"/>, including evolutionary dependencies between <Node id="803"/>plants<Node id="809"/> and their <Node id="820"/>herbivore<Node id="829"/> <Node id="830"/>communities<Node id="841"/>.<Node id="842"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="842">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Think" StartNode="37" EndNode="42">
+</Annotation>
+<Annotation Id="2" Type="Think" StartNode="293" EndNode="298">
+</Annotation>
+<Annotation Id="3" Type="Think" StartNode="543" EndNode="548">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Think" StartNode="803" EndNode="809">
+</Annotation>
+<Annotation Id="5" Type="Think" StartNode="47" EndNode="56">
+</Annotation>
+<Annotation Id="6" Type="Think" StartNode="595" EndNode="604">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Think" StartNode="820" EndNode="829">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Think" StartNode="102" EndNode="114">
+</Annotation>
+<Annotation Id="9" Type="Think" StartNode="163" EndNode="175">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Think" StartNode="188" EndNode="195">
+</Annotation>
+<Annotation Id="11" Type="Think" StartNode="188" EndNode="202">
+</Annotation>
+<Annotation Id="12" Type="Think" StartNode="241" EndNode="253">
+</Annotation>
+<Annotation Id="13" Type="Think" StartNode="483" EndNode="495">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Think" StartNode="228" EndNode="240">
+</Annotation>
+<Annotation Id="15" Type="Think" StartNode="509" EndNode="521">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Think" StartNode="299" EndNode="306">
+</Annotation>
+<Annotation Id="17" Type="Think" StartNode="462" EndNode="469">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Think" StartNode="299" EndNode="311">
+</Annotation>
+<Annotation Id="19" Type="Think" StartNode="420" EndNode="424">
+</Annotation>
+<Annotation Id="20" Type="Think" StartNode="462" EndNode="478">
+</Annotation>
+<Annotation Id="21" Type="Think" StartNode="605" EndNode="614">
+</Annotation>
+<Annotation Id="22" Type="Think" StartNode="595" EndNode="614">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Think" StartNode="627" EndNode="632">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Think" StartNode="700" EndNode="707">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Think" StartNode="747" EndNode="757">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Think" StartNode="830" EndNode="841">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Think" StartNode="820" EndNode="841">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

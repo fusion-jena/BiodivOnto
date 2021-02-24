@@ -1,0 +1,42 @@
+prof_no,easting,northing,location,rel_data,altitude,geo_data,veg_data
+15 HIP,3726,5331,Hard Ridge,"Bench on the E-W trending Hard Ridge, slight slope to the north.",2300 ft. O.D,Bedrock is the Quarry Hazle Sandstone.,Festucetum
+16 HIP,3710,5323,Northern end of the summit area of Great Dun Fell.,The summit area is virtually flat but drops away steeply from the edges of this area.,2775 ft. O.D,The Dun Fell Sandstone is bedrock.,Festucetum
+17 PGP,3716,5312,The northern end of Knock Fell.,A narrow ridge with a gentle slope to the North West.,2450 ft. O.D,The profile is developed in a layer of superficial material overlying the Great Limestone.,Nardetum sub-alpinum
+18 PGP,3707,5303,"To the South of the ""Radar Road"".",Gradual slope to the North West.,1850 ft. O.D,The soil is developed in superficial material overlying the Whin Sill.,Nardetum sub-alpinum
+19 PGP,3696,5288,Eighty yards South of Knock Ore Gill.,A 15 degree slope to the North West to Knock Ore Gill.,1250 ft. O.D,A thick layer of superficial material overlies the Basement Series of the local Carboniferous.,Nardetum sub-alpinum
+20 PGP,3756,5328,The Eastern slopes of Burnt Hill.,An almost level bench with an easterly aspect.,1825 ft. O.D,A thick layer of drift overlying the Tyne Bottom Limestone.,Callunetum
+21 BPS,3698,5302,Approx 100 yards North of Knock Ore Gill and 200 yards East of the fell wall.,A 15 degree slpe with a South Westerly aspect.,1250 ft. O.D,A thick layer of superficial material overlies the basement series on the Carboniferous.,Pteridetum
+22 BPS,3703,5303,The Northern slopes of Knock Ore Gill.,A 25 degree slope with a South South Westerly aspect.,1550 ft. O.D,A thick layer of superficial material overlying the Melmerby Scar Limestone.,Nardetum sub-alpinum
+23 R,3716,5311,North East edge of Knock Fell,"A gentle slope to the North East, to the col between Knock Fell and Green Fell.",2450 ft. O.D,Bedrock is the Great Limestone.,Agrosto-Festucetum
+24 BCS,3716,5311,Northern end of Knock Fell,A gentle slope to the North East,1450 ft. O.D,The Great Limestone is bedrock.,Agrosto_Festucetum
+25 BCS,3697,5297,About 100 yards north of the Ministry of Aviation access road and 100 yards East of the fell wall.,A 19 degree slope facing West South West.,1450 ft. O.D,Bedrock is the Melmerby Scar Limestone.,Agrosto-Festucetum.
+26 BR,3683,5318,Between Middle Tongue Beck and Crowdundle Beck 1/4 mile upstream from their confluence.,The pit was on the top of a hillock; there was a 5 degree slope at the pit site with the slope increasing inall directions.  Aspect - West 35 degrees South.,1250 ft. O.D,The bedrock is Ordovician tuffs.,Festucetum.  On some small hummocks Juncus squarrosus and Polytricum spp. become important.
+27 ABE,3697,5297,At the base of the Melmerby Scar Limestone feature 100 yards north of the Ministry of Aviation access road.,A 13 degree slope facing West South West.,1425 ft. O.D,A layer of superficial material overlying the Melmerby Scar Limestone.,An intergrade between an Agrosto-Festucetum and a Nardus sub-alpinum.
+28 ABE,3699,5293,Near Sink Beck at the base of the escarpment.,A 15 degree slope with a South West aspect.,1500 ft. O.D,The soil is developed in a layer of superficial material resting on the Melmerby Scar Limestone.,Nardetum sub-alpinum.
+29 ABE,3693,5307,Near the top of the Melmerby Scar Limestone feature about 1/4 mile south of Knock Ore Gill.,A slope of 20 degrees with a South Westerly aspect.,1600 ft. O.D,The soil is developed in a layer of superficial material overlying the Melmerby Scar Limestone.,Agrosto-Festucetum.
+30 PG,3696,5297,50 yards from the fell wall near the Ministryu of Aviation access road.,A slope of 4 degrees facing West South West.,1400 ft. O.D,A layer of superficial overlies the Basement Series of the Carboniferous.,Juncetum squarrossi sub-alpinum.
+31 PG,3695,5307,3/4 mile North of Knock Ore Gill.,A slope of 6 degrees with a South Westerley aspect.,1700 ft. O.D,The soil is developed in a layer of superficial material overlying.,Juncetum squarrosi sub-alpinum.
+1 R,3756,5327,Rough Sike Site.,"Level, North facing, limestone terrace forming a brake in a North facing slope.",1850 ft. O.D,The underlying limestone is the Tyne Bottom.,Agrosto-Festucetum.
+2 R,3745,5318,Moss Burn; Sheep Fold Site.,The profile is on the almost level surface of an upstanding outcrop of limestone some 80 yards by 40 yards.  The general slope has a North North Easterly aspect.,2100 ft. O.D,The underlying limestone is the Scar.,Sesleria facies of an Agrosto-Festucetum.
+3 BCS,3725,5333,Northern slopes of Hard Hill.,A small level area which is part of a bench on a generally North facing slope.,2200 ft. O.D,The underlying limestone is the Four Fathom.,An Agrosto-Festucetum.
+4 BCS,3758,5327,Fenced area East of the Moor House Field Station.,"Level, North facing limestone bench.",1850 ft. O.D,The underlying limestone is the Tyne Bottom.,An Agrosto-Festucetum.
+5 ABE,3745,5314,Moss Burn - Flush Site.,Slight slope to the North North East.,2100 ft. O.D,The soil is developed in a layer of superficial material overlying the Scar Limestone.,An intergrade between an Agrosto-Festucetum and a Nardetum sub-alpinum.
+6 ABE,3726,5333,Northerhn Slopes of Hard Hill.,Almost level bench on a North facing slope.,2200 ft. O.D,The underlying limestone is the Four Fathom.,An association related to an Agrosto-Festucetum but with an unusually high content of Polytricum spp.
+7 PGP,3764,5324,Green Hole.,Approx. 10 degree slope to the North West.,1850 ft. O.D,Superficial material resting on the Tyne Bottom Limestone.,Nardetum sub-alpinum.
+8 PG,3764,5324,Green Hole.,Gradual slope to the North.,1850 ft. O.D,Superficial material resting ont the Tyne Bottom Limestone.,Juncetum squarrossi sub-alpinum.
+9 BCS,3756,5327,8 ft. from the South end of the Rough Sike Trench.,"Level, North facing limestone terrace.",1850 ft. O.D,Bedrock is the Tyne Bottom Limestone.,Agrosto-Festucetum.
+10 ABE,3756,5327,"16'6"" from the South end of Rough Sike Trench.","Level, North facing limestone terrace.",1850 ft O.D,The parent material is mainly decalcified impure Tyne Bottom Limestone whhich rests on unaltered limestone.,Agrosto-Festucetum but with an important contribution of Nardus stricta.
+11 BCS,3756,5327,3 ft. from the North end of the Rough Sike Trench.,"Level, North facing limestone terrace.",1850 ft. O.D,Bedrock is the Tyne Bottom Limestone.,Agrosto-Festucetum.
+12 BCS,3745,5318,The East end of the Moss Burn Trench.,Gentle slope to the North East.,2050 ft. O.D,Superficial material resting on the Scar Limestone.,Agrosto-Festucetum.
+13 PGP,3745,5318,Five feet from the West end of the Moss Burn Trench.,Gentle slope to the North East.,2050 ft O.D,Superficial material resting on the Scar Limestone.,Callunetum.
+14 PGP,3745,3318,The West end of the Moss Burn Trench.,"Gentle, North East facing slope.",2050 ft. O.D,Superficial material resting on the Scar Limestone.,Nardetum sub-alpinum.
+TX 104,3810,5294,North East facing slopes of Great Cocklake.,7 degrees; N.E.,490 m.,Sandy wash over clay loam till.,
+UT III,3813,5302,West facing slopes of Widdybank Fell.,6 degrees; West.,490 m.,Loamy drift.,
+UT II,3815,5293,"Widdybank Fell,  alongside Birkdale Track.",8 degrees; South.,500 m.,Saccharoidal marble.,
+NOON HILL 1,3858,5272,South facing slopes of Noon Hill.,16 degrees; SSW.,510 m.,Metamorphosed sandstone.,
+NOON HILL 2,3858,5271,South facing slopes of Noon Hill adjacent to quarry.,8 degrees; SSW.,490 m.,Sandstone colluvium with drift addition.,
+HIGH HURST 1,3849,5268,"High Hurst, Upper Teesdale N.N.R.",1 degree; South.,558 m.,Loamy drift over limestone.,
+HIGH HURST 2,3849,5268,"High Hurst, Upper Teesdale N.N.R.",1 degree; South.,558 m.,Loamy drift over limestone.,
+HIGH HURST 3,3849,5268,"High Hurst, Upper Teesdale N.N.R.",1 degree; South.,558 m.,Loamy drift over limestone.,
+HIGH HURST 4,3849,5268,"High Hurst, Upper Teesdale N.N.R.",1 degree; South.,558 m.,Loamy drift over limestone.,
+HIGH HURST 5,3849,5268,"High Hurst, Upper Teesdale N.N.R.",1 degree; South.,558 m.,Loamy drift over limestone.,

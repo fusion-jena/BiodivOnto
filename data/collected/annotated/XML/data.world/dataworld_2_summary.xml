@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/data.world/2/dataworld_2_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+<Node id="13"/>Animal<Node id="19"/> Licences&#xd;
+SUMMARY&#xd;
+Our <Node id="43"/>Environmental<Node id="56"/> Health department is responsible for <Node id="94"/>animal<Node id="100"/> licensing. A licence is required when keeping a Pet Shop, Zoo or <Node id="166"/>Animal<Node id="172"/> Boarding Establishment. This dataset lists the local authority&#x2019;s <Node id="238"/>Animal<Node id="244"/> Licence holders. For further information or to apply for a Licence: https://www.gov.uk/apply-for-a-licence/<Node id="352"/>animal<Node id="358"/>-boarding-establishment-licence/barnet/apply-1 To know more about <Node id="424"/>animal<Node id="430"/> welfare and the <Node id="447"/>Animal<Node id="453"/> Welfare Act 2006: https://www.gov.uk/<Node id="491"/>animal<Node id="497"/>-welfare-legislation-protecting-<Node id="529"/>pets<Node id="533"/>&#xd;
+<Node id="535"/>&#xd;
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="535">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="13" EndNode="19">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="13" EndNode="19">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="94" EndNode="100">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="166" EndNode="172">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="238" EndNode="244">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="352" EndNode="358">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="424" EndNode="430">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="447" EndNode="453">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="491" EndNode="497">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="43" EndNode="56">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="529" EndNode="533">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

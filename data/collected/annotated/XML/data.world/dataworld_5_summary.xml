@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/data.world/5/dataworld_5_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+<Node id="13"/>Animal<Node id="19"/> Center Intakes from Oct, 1st 2013 to present.&#xd;
+SUMMARY&#xd;
+<Node id="76"/>Animal<Node id="82"/> Center Intakes from Oct, 1st 2013 to present. Intakes represent the status of animals as they arrive at the <Node id="191"/>Animal<Node id="197"/> Center. All animals receive a unique <Node id="235"/>Animal<Node id="241"/> ID during intake. Annually over 90% of animals entering the center, are adopted, transferred to rescue or returned to their owners.&#xd;
+<Node id="375"/>&#xd;
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="375">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="13" EndNode="19">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="13" EndNode="19">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="76" EndNode="82">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="191" EndNode="197">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="235" EndNode="241">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

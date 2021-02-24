@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/BEFChina/16/befchina_16_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>We performed an extensive <Node id="26"/>vegetation<Node id="36"/> survey of the central <Node id="59"/>plots<Node id="64"/> of each CSP in GNNR in 2008. <Node id="94"/>Herb<Node id="98"/> layer<Node id="104"/> <Node id="105"/>communities<Node id="116"/> can serve as <Node id="130"/>ecosystem<Node id="139"/> functioning variable, which is of importance for all <Node id="193"/>community<Node id="202"/> and <Node id="207"/>ecosystem<Node id="216"/>-based statements. We made a detailled description of the <Node id="274"/>herb<Node id="278"/> layer<Node id="284"/> <Node id="285"/>communities<Node id="296"/> in the central <Node id="312"/>plot<Node id="316"/> of each CSP. <Node id="330"/>Herb<Node id="334"/> layer<Node id="340"/> includes all <Node id="354"/>vascular <Node id="363"/>plant<Node id="368"/> <Node id="369"/>species<Node id="376"/> and individuals below 1m <Node id="402"/>height<Node id="408"/>. The <Node id="414"/>vegetation<Node id="424"/> survey includes the identification of all individuals, <Node id="480"/>species<Node id="487"/> <Node id="488"/>abundance<Node id="497"/> was counted, <Node id="511"/>species<Node id="518"/> were classified according to their life form. The presence of <Node id="581"/>tree<Node id="585"/> and <Node id="590"/>shrub<Node id="595"/> seedlings (i.e. <Node id="612"/>woody<Node id="617"/> recruits) in the <Node id="635"/>herb<Node id="639"/> layer<Node id="645"/> can act as an indicator for regeneration.<Node id="687"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="687">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="26" EndNode="36">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="414" EndNode="424">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="59" EndNode="64">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="94" EndNode="98">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="274" EndNode="278">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="330" EndNode="334">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="635" EndNode="639">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="94" EndNode="104">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="274" EndNode="284">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="330" EndNode="340">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="635" EndNode="645">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="130" EndNode="139">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="207" EndNode="216">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="193" EndNode="202">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="105" EndNode="116">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="285" EndNode="296">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="312" EndNode="316">
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="354" EndNode="376">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="402" EndNode="408">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="363" EndNode="368">
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="369" EndNode="376">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="480" EndNode="487">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="511" EndNode="518">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="363" EndNode="376">
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="488" EndNode="497">
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="581" EndNode="585">
+</Annotation>
+<Annotation Id="27" Type="Thing" StartNode="590" EndNode="595">
+</Annotation>
+<Annotation Id="28" Type="Thing" StartNode="612" EndNode="617">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

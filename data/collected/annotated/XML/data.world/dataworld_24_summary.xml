@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/data.world/24/dataworld_24.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+Survey conducted in 2013 of all <Node id="45"/>tree<Node id="49"/>s and vacant planting sites in the right of way and all <Node id="105"/>tree<Node id="109"/>s of heritage ...&#xd;
+SUMMARY&#xd;
+Survey conducted in 2013 of all <Node id="169"/>tree<Node id="173"/>s and vacant planting sites in the right of way and all <Node id="229"/>tree<Node id="233"/>s of heritage <Node id="247"/>species<Node id="254"/> greater than or equal to 19 inches on private and <Node id="305"/>city<Node id="309"/> of Austin owned property in the central business district.<Node id="368"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="368">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="247" EndNode="254">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="247" EndNode="254">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="45" EndNode="49">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="105" EndNode="109">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="169" EndNode="173">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="229" EndNode="233">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="305" EndNode="309">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

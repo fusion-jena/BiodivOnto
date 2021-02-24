@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/BEFChina/20/befchina_20_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Leaf<Node id="4"/> traits and <Node id="16"/>chemicals<Node id="25"/> from <Node id="31"/>tree<Node id="35"/> <Node id="36"/>species<Node id="43"/> in the Main Experimental <Node id="69"/>sites<Node id="74"/>, including <Node id="86"/>secondary<Node id="95"/> <Node id="96"/>compound<Node id="104"/> (total phenolic and <Node id="125"/>tannin<Node id="131"/> <Node id="132"/>concentrations<Node id="146"/>) and information on stomata.<Node id="175"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="175">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="31" EndNode="35">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="31" EndNode="35">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="36" EndNode="43">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="69" EndNode="74">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="16" EndNode="25">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="86" EndNode="95">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="125" EndNode="131">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="132" EndNode="146">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="96" EndNode="104">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/data.world/7/dataworld_7_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+The adopted Standards for <Node id="39"/>Bird<Node id="43"/>-Safe Buildings explains the documented risks that structures present to <Node id="116"/>birds<Node id="121"/>.&#xd;
+SUMMARY&#xd;
+The adopted Standards for <Node id="159"/>Bird<Node id="163"/>-Safe Buildings explains the documented risks that structures present to <Node id="236"/>birds<Node id="241"/>. Over thirty years of research has proven the risk to be <Node id="299"/>biologically<Node id="311"/> significant for certain <Node id="336"/>bird<Node id="340"/> <Node id="341"/>species<Node id="348"/>. Recent studies have determined that annual <Node id="393"/>bird<Node id="397"/> fatalities in North America from window collisions may be as high as 1 billion <Node id="477"/>birds<Node id="482"/> per year or 1-5% of all <Node id="507"/>birds<Node id="512"/>. While the facts are staggering, the solutions are within reach. The majority of these deaths are foreseeable and avoidable. The document summarizes proven successful remedies such as window treatments, lighting design, and lighting operation. The <Node id="761"/>bird<Node id="765"/> refuge maps out <Node id="782"/>areas<Node id="787"/> of particular risk to <Node id="810"/>birds<Node id="815"/>. These areas are within 300ft of: <Node id="850"/>open <Node id="855"/>water<Node id="860"/>, inland <Node id="869"/>water<Node id="874"/> bodies greater than 2 acres in <Node id="906"/>size<Node id="910"/>, open space greater than 2 acres, the <Node id="949"/>shoreline<Node id="958"/>. For more information visit the Standards for <Node id="1005"/>Bird<Node id="1009"/>-Safe Buildings web <Node id="1029"/>site<Node id="1033"/>: http://www.sf-planning.org/index.aspx?page=2506 A PDF map of the refuge is available here: http://www.sf-planning.org/ftp/files/publications_reports/library_of_cartography/Urban_Bird_Refuge_Poster.pdf The data is in zipped GIS shapefile format.<Node id="1279"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1279">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="2" Type="Thing" StartNode="39" EndNode="43">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="39" EndNode="43">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="159" EndNode="163">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="336" EndNode="340">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="393" EndNode="397">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="761" EndNode="765">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="1005" EndNode="1009">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="116" EndNode="121">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="236" EndNode="241">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="477" EndNode="482">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="507" EndNode="512">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="810" EndNode="815">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="299" EndNode="311">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="341" EndNode="348">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="782" EndNode="787">
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="906" EndNode="910">
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="1029" EndNode="1033">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="1033" EndNode="1033">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="850" EndNode="860">
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="855" EndNode="860">
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="869" EndNode="874">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="949" EndNode="958">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

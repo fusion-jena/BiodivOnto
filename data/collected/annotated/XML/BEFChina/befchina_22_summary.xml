@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/BEFChina/22/befchina_22_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Rain<Node id="4"/> was captured in open <Node id="26"/>field<Node id="31"/> and in vegetated conditions parallel to <Node id="72"/>measurements<Node id="84"/> in the Comparative study plots (CSPs). Throughfall as well as sandloss from splashcups can be used to derive <Node id="194"/>kinetic <Node id="202"/>energy<Node id="208"/> from <Node id="214"/>rain<Node id="218"/>drops.<Node id="224"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="224">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="202" EndNode="208">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="202" EndNode="208">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="214" EndNode="218">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="26" EndNode="31">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="214" EndNode="218">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="194" EndNode="208">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="72" EndNode="84">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

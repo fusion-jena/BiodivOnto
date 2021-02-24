@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/data.world/8/dataworld_8_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+DWH NRDA Background <Node id="33"/>Deposition<Node id="43"/> of Bird Carcasses on Walkable <Node id="74"/>Beaches<Node id="81"/> and in Marshes&#xd;
+SUMMARY&#xd;
+Original Title: DWH NRDA Background <Node id="143"/>Deposition<Node id="153"/> of Bird Carcasses on Walkable <Node id="184"/>Beaches<Node id="191"/> and in Marshes&#xd;
+<Node id="208"/>&#xd;
+<Node id="210"/>This dataset contains the data collected during Deepwater Horizon Bird Study #24 (Background Carcass <Node id="311"/>Deposition<Node id="321"/>). <Node id="324"/>Field<Node id="329"/> surveys associated with BS #24 occurred during the summer of 2015. Data collection efforts were led by Industrial Economics, Incorporated, on behalf of the U.S. Fish and Wildlife Service. While surveys were planned for June through October in nearshore areas across the northern Gulf of Mexico from northeast Texas to northwest Florida, data were ultimately only collected in June and July in Mississippi, Alabama, and Florida. During <Node id="765"/>field<Node id="770"/> surveys, study personnel walked, or boated along, pre-defined segments of <Node id="845"/>beach<Node id="850"/> or <Node id="854"/>marsh<Node id="859"/> and noted each <Node id="875"/>time<Node id="879"/> a bird carcass was encountered. The goal of these efforts was to collect data that would facilitate the development of an estimate of the background avian mortality rate in the northern Gulf of Mexico. Photographs and GPS data were also collected during <Node id="1134"/>field<Node id="1139"/> surveys.&#xd;
+<Node id="1150"/>&#xd;
+</TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="208">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="210" EndNode="1150">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="3" Type="Thing" StartNode="33" EndNode="43">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="33" EndNode="43">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="143" EndNode="153">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="311" EndNode="321">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="74" EndNode="81">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="184" EndNode="191">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="845" EndNode="850">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="324" EndNode="329">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="765" EndNode="770">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="1134" EndNode="1139">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="854" EndNode="859">
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="875" EndNode="879">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

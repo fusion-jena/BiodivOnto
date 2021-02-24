@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/data.world/17/dataworld_17_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+<Node id="13"/>Soil<Node id="17"/> survey of Moor House, 1965&#xd;
+SUMMARY&#xd;
+This dataset contains data from a <Node id="89"/>soil<Node id="93"/> survey at Moor House, Cumbria, UK undertaken by Mike Hornung in 1965 as part of his PhD. It contains information about the <Node id="217"/>soil<Node id="221"/> horizons<Node id="230"/>, chemical analyses and <Node id="254"/>soil<Node id="258"/> mineralogy. Full details about this dataset can be found at https://doi.org/10.5285/e4cf73b0-eef6-4118-a018-40eb374f5de7<Node id="379"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="379">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="13" EndNode="17">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="13" EndNode="17">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="89" EndNode="93">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="217" EndNode="221">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="254" EndNode="258">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="217" EndNode="230">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

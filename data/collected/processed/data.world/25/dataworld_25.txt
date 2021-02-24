@@ -1,0 +1,4 @@
+﻿DESCRIPTION
+This dataset shows U.S.
+SUMMARY
+This dataset shows U.S. Census Tract (2010) boundaries containing tabular data related to tree planting priorities. Prioritization is based on 31 GIS datasets summarized into eight broad categories: public health & safety, air quality, environmental justice, water quality, critical places, forest replenishment, forest preservation & development impacts, and urban heat island. The City of Austin’s Tree Planting Prioritization serves as a decision support tool for locating tree planting sites for Austin’s October through March tree planting season.

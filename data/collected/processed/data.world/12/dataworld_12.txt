@@ -1,0 +1,4 @@
+﻿DESCRIPTION
+Combined Fish Data
+SUMMARY
+The data set is abundance or presence/absence data collected by species from wadeable stream sites along with water chemistry, including specifically specific conductivity and some other variables that were not used in the analysis. This dataset is associated with the following publication: Griffith, M., L. Zheng, and S. Cormier. Using extirpation to evaluate ionic tolerance of freshwater fish. ENVIRONMENTAL TOXICOLOGY AND CHEMISTRY. Society of Environmental Toxicology and Chemistry, Pensacola, FL, USA, 37(3): 871-883, (2018).

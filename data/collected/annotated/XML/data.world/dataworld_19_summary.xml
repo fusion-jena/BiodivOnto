@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/data.world/19/dataworld_19_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CR</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>��D E S C R I P T I O N 
+ 
+<Node id="27"/> E c o l o g i c a l <Node id="48"/>  F o o t p r i n t   p e r   C a p i t a 
+ 
+ S U M M A R Y 
+ 
+ O v e r v i e w 
+ 
+ T h e   N a t i o n a l   F o o t p r i n t   A c c o u n t s   ( N F A s )   m e a s u r e   t h e   <Node id="234"/>e c o l o g i c a l <Node id="254"/>  r e s o u r c e   u s e   a n d   r e s o u r c e   c a p a c i t y   o f   n a t i o n s   f r o m   1 9 6 1   t o   2 0 1 4 .   T h e   c a l c u l a t i o n s   i n   t h e   N a t i o n a l   F o o t p r i n t   A c c o u n t s   a r e   p r i m a r i l y   b a s e d   o n   U n i t e d   N a t i o n s   d a t a   s e t s ,   i n c l u d i n g   t h o s e   p u b l i s h e d   b y   t h e   F o o d   a n d   <Node id="672"/>A g r i c u l t u r e <Node id="694"/>  O r g a n i z a t i o n ,   U n i t e d   N a t i o n s   C o m m o d i t y   T r a d e   S t a t i s t i c s   D a t a b a s e ,   a n d   t h e   U N   S t a t i s t i c s   D i v i s i o n ,   a s   w e l l   a s   t h e   I n t e r n a t i o n a l   E n e r g y   A g e n c y .   T h e   2 0 1 8   e d i t i o n   o f   t h e   N F A   f e a t u r e s   s o m e   e x c i t i n g   u p d a t e s   f r o m   l a s t   y e a r   s   2 0 1 7   e d i t i o n ,   i n c l u d i n g   d a t a   f o r   m o r e   c o u n t r i e s   a n d   i m p r o v e d   d a t a   s o u r c e s   a n d   m e t h o d o l o g y .   M e t h o d o l o g y   c h a n g e s : 
+ 
+ 
+ 
+ O u r   c o n v e r s i o n   o f   c a r b o n   t o   C O 2   i n c r e a s e d   i n   p r e c i s i o n ,   w h i c h   i n c r e a s e d   t h e   w o r l d   s   c a r b o n   f o o t p r i n t   b y   a p p r o x i m a t e l y   1 % . 
+ 
+ W e   i m p l e m e n t e d   a   n e w   d a t a   q u a l i t y   s c o r i n g   s y s t e m .   T h i s   a l l o w e d   u s   t o   p u b l i s h   d a t a   f o r   m o r e   c o u n t r i e s   b y   o m i t t i n g   u n r e l i a b l e   d a t a   f o r   s o m e   y e a r s   r a t h e r   t h a n   t h e   e n t i r e   c o u n t r y   s  <Node id="1961"/> E c o l o g i c a l <Node id="1982"/>  F o o t p r i n t   t i m e l i n e . 
+ 
+ W e   u s e d   m o r e   p r e c i s e   d a t a   f r o m   t h e   G l o b a l   C a r b o n   P r o j e c t   t o   c a l c u l a t e   o c e a n   c a r b o n   s e q u e s t r a t i o n   r a t e s   f o r   2 0 1 4 . 
+ 
+ N a t i o n a l   F o o t p r i n t   A c c o u n t s   2 0 1 8   E d i t i o n 
+ 
+ D a t a s e t   p r o v i d e s  <Node id="2371"/> E c o l o g i c a l <Node id="2392"/>  F o o t p r i n t   p e r   c a p i t a   d a t a   f o r   y e a r s   1 9 6 1 - 2 0 1 4   i n   g l o b a l   h e c t a r e s   ( g h a ) .  <Node id="2537"/> E c o l o g i c a l <Node id="2558"/>  F o o t p r i n t   i s   a   m e a s u r e   o f   h o w   m u c h   a r e a   o f   b i o l o g i c a l l y   p r o d u c t i v e   l a n d   a n d   w a t e r   a n   i n d i v i d u a l ,   p o p u l a t i o n ,   o r   a c t i v i t y   r e q u i r e s   t o   p r o d u c e   a l l   t h e   r e s o u r c e s   i t   c o n s u m e s   a n d   t o   a b s o r b   t h e   w a s t e   i t   g e n e r a t e s ,   u s i n g   p r e v a i l i n g   t e c h n o l o g y   a n d   r e s o u r c e   m a n a g e m e n t   p r a c t i c e s .   T h e  <Node id="3111"/> E c o l o g i c a l <Node id="3132"/>  F o o t p r i n t   i s   m e a s u r e d   i n   g l o b a l   h e c t a r e s .   S i n c e   t r a d e   i s   g l o b a l ,   a n   i n d i v i d u a l   o r   c o u n t r y ' s   F o o t p r i n t   t r a c k s   a r e a   f r o m   a l l   o v e r   t h e   w o r l d .   W i t h o u t   f u r t h e r   s p e c i f i c a t i o n ,  <Node id="3473"/> E c o l o g i c a l <Node id="3494"/>  F o o t p r i n t   g e n e r a l l y   r e f e r s   t o   t h e  <Node id="3563"/> E c o l o g i c a l <Node id="3584"/>  F o o t p r i n t   o f   c o n s u m p t i o n   ( r a t h e r   t h a n   o n l y   p r o d u c t i o n   o r   e x p o r t ) .  <Node id="3717"/> E c o l o g i c a l <Node id="3738"/>  F o o t p r i n t   i s   o f t e n   r e f e r r e d   t o   i n   s h o r t   f o r m   a s   F o o t p r i n t . A b o u t   t h i s   D a t a s e t 
+ 
+ S O U R C E :   G l o b a l   F o o t p r i n t   N e t w o r k 
+ 
+ 
+ 
+ T h i s   d a t a   i n c l u d e s   t o t a l   a n d   p e r   c a p i t a   n a t i o n a l   b i o c a p a c i t y ,   e c o l o g i c a l   f o o t p r i n t   o f   c o n s u m p t i o n ,   e c o l o g i c a l   f o o t p r i n t   o f   p r o d u c t i o n   a n d   t o t a l   a r e a   i n   h e c t a r e s .   T h i s   d a t a s e t ,   h o w e v e r ,   d o e s   n o t   i n c l u d e   a n y   o f   o u r   y i e l d   f a c t o r s   ( n a t i o n a l   o r   w o r l d )   n o r   a n y   e q u i v a l e n c e   f a c t o r s . 
+ 
+ 
+ 
+ O b j e c t i v e s 
+ 
+ W h a t   w o r k s   a n d   w h a t   d o e s n ' t   w o r k   w i t h   t h i s   c h a r t ? 
+ 
+ H o w   c a n   y o u   m a k e   i t   b e t t e r ? 
+ 
+ P o s t   y o u r   a l t e r n a t i v e   o n   t h e   d i s c u s s i o n s   p a g e . <Node id="4802"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="4802">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="27" EndNode="48">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="27" EndNode="48">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="1961" EndNode="1982">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="2371" EndNode="2392">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="2537" EndNode="2558">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="3111" EndNode="3132">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="3473" EndNode="3494">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="3563" EndNode="3584">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="3717" EndNode="3738">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="234" EndNode="254">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="672" EndNode="694">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

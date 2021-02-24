@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/BEFChina/24/befchina_24_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>This research is done to quantifiy individual <Node id="46"/>tree<Node id="50"/> <Node id="51"/>growth<Node id="57"/> and mortality within and among different <Node id="99"/>species<Node id="106"/> in the comparative study plots. Local neighbourhood interactions are analysed by the means of competition indices. Questions are: (a) does <Node id="246"/>diversity<Node id="255"/> reduce competition? (b) does competition change with successional stage? The data might provide valuable information to be compared with data from the main experiment. We chose 20 target <Node id="443"/>tree<Node id="447"/>s each of the two most <Node id="470"/>abundant<Node id="478"/> evergreen <Node id="489"/>species<Node id="496"/> (Castanopsis eyrei FAGACEAE and Schima superba <Node id="544"/>THEACEAE<Node id="552"/> ) and of the two most <Node id="575"/>abundant<Node id="583"/> decidious <Node id="594"/>species<Node id="601"/> (Quercus serrata and Castanea henryi FAGACEAE). Competitors were defined as all <Node id="682"/>tree<Node id="686"/>s with a dbh> 10 cm in middle and <Node id="720"/>old<Node id="723"/> successional <Node id="737"/>forest<Node id="743"/>s<Node id="744"/> and >3 cm in early successional <Node id="777"/>forest<Node id="783"/>s<Node id="784"/> and within a <Node id="798"/>radius<Node id="804"/> that is 1/2 of the <Node id="824"/>height<Node id="830"/> of the target <Node id="845"/>tree<Node id="849"/>. The positions of the competitors in relation to the respective target <Node id="921"/>tree<Node id="925"/> were evaluated (<Node id="942"/>distance<Node id="950"/> and azimuth). Following parameters were measured of all <Node id="1007"/>tree<Node id="1011"/>s: total <Node id="1020"/>height<Node id="1026"/>, heigth of bifurcatin point, dbh and the crown <Node id="1074"/>width<Node id="1079"/> in 8 directions.<Node id="1096"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="1096">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="544" EndNode="552">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="544" EndNode="552">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="720" EndNode="723">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="798" EndNode="804">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="824" EndNode="830">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="1020" EndNode="1026">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="942" EndNode="950">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="1074" EndNode="1079">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="246" EndNode="255">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="470" EndNode="478">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="575" EndNode="583">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="99" EndNode="106">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="489" EndNode="496">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="594" EndNode="601">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="46" EndNode="50">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="443" EndNode="447">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="682" EndNode="686">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="845" EndNode="849">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="921" EndNode="925">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="1007" EndNode="1011">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="51" EndNode="57">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="46" EndNode="57">
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="737" EndNode="743">
+</Annotation>
+<Annotation Id="24" Type="Thing" StartNode="777" EndNode="783">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Thing" StartNode="737" EndNode="744">
+</Annotation>
+<Annotation Id="26" Type="Thing" StartNode="777" EndNode="784">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

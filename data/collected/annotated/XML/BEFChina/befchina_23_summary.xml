@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/BEFChina/23/befchina_23_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>The great 2008 <Node id="15"/>ice<Node id="18"/> <Node id="19"/>storm<Node id="24"/> destroyed considerable <Node id="48"/>areas<Node id="53"/> in the Gutianshan <Node id="72"/>Nature<Node id="78"/> Reserve<Node id="86"/>. In the Comparative Study Plots (CSPs) we quantified the amount of <Node id="154"/>wood<Node id="158"/> downed by the <Node id="173"/>ice<Node id="176"/> <Node id="177"/>storm<Node id="182"/> (coarse <Node id="191"/>wood<Node id="195"/>y debris data). Combining data on living and killed <Node id="247"/>trees<Node id="252"/>, we estimated a general unimodal <Node id="286"/>stem<Node id="290"/> breaking probability using a Ricker function. Here we give the averaged deviations from that unimodal function for each species. Positive deviations indicate increased risk to break compared with the general expectation, and negative values indicate a lower risk to break.<Node id="563"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="563">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="15" EndNode="18">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="15" EndNode="18">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="173" EndNode="176">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="72" EndNode="78">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="72" EndNode="86">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="48" EndNode="53">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="247" EndNode="252">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="19" EndNode="24">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="177" EndNode="182">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="154" EndNode="158">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="191" EndNode="195">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="15" EndNode="24">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="173" EndNode="182">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="286" EndNode="290">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

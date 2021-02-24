@@ -1,0 +1,4 @@
+﻿DESCRIPTION
+This data set shows point locations of Bird Conservation Areas.
+SUMMARY
+This data set shows point locations of Bird Conservation Areas. Bird Conservation Areas are New York State lands that have been officially designated for their value to bird conservation. Points are approximate locations and may represent large areas.

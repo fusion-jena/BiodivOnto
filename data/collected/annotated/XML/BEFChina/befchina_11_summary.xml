@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Nora/marked/BEFChina/11/befchina_11_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Soil<Node id="4"/> chemical laboratory analyses of all 27 comparative <Node id="56"/>study <Node id="62"/>plots<Node id="67"/>. <Node id="69"/>Contents of <Node id="81"/>carbon<Node id="87"/>, <Node id="89"/>nitrogen<Node id="97"/> and <Node id="102"/>sulphur<Node id="109"/> as well as <Node id="121"/>pH<Node id="123"/>-values<Node id="130"/> (<Node id="132"/>H2O<Node id="135"/> and <Node id="140"/>KCl<Node id="143"/>) from <Node id="150"/>soil<Node id="154"/> horizons of each <Node id="172"/>soil<Node id="176"/> profile per CSP.<Node id="193"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="193">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="0" EndNode="4">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="150" EndNode="154">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="172" EndNode="176">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="62" EndNode="67">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="56" EndNode="67">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="81" EndNode="87">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="69" EndNode="87">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="89" EndNode="97">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="102" EndNode="109">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="121" EndNode="123">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="121" EndNode="130">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="132" EndNode="135">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="140" EndNode="143">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

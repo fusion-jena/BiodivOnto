@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/data.world/23/dataworld_23.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+NFA 2018 National Footprint Accounts <Node id="50"/>data set <Node id="59"/>(1961 - 2014)&#xd;
+SUMMARY&#xd;
+Our National Footprint Accounts (NFAs) measure the <Node id="134"/>ecological<Node id="144"/> resource use and resource capacity of nations from 1961 to 2014.&#xd;
+The calculations in the National Footprint Accounts are primarily based on United Nations data sets, including those published by the <Node id="345"/>Food<Node id="349"/> and <Node id="354"/>Agriculture<Node id="365"/> <Node id="366"/>Organization<Node id="378"/>, United Nations Commodity Trade Statistics Database, and the UN Statistics Division, as well as the International <Node id="493"/>Energy<Node id="499"/> Agency.&#xd;
+The 2018 edition of the NFA features some exciting updates from last year’s 2017 edition, including data for more countries and improved data sources and methodology.&#xd;
+Methodology changes:&#xd;
+<Node id="699"/>&#xd;
+<Node id="701"/>Our conversion of <Node id="719"/>carbon<Node id="725"/> to CO2 increased in precision, which increased the world’s <Node id="785"/>carbon<Node id="791"/> footprint<Node id="801"/> by approximately 1%.&#xd;
+We implemented a new data <Node id="850"/>quality<Node id="857"/> scoring <Node id="866"/>system<Node id="872"/>. This allowed us to publish data for more countries by omitting unreliable data for some years rather than the entire country’s <Node id="1001"/>Ecological<Node id="1011"/> Footprint timeline.&#xd;
+We used more precise data from the Global <Node id="1075"/>Carbon<Node id="1081"/> Project to calculate <Node id="1103"/>ocean<Node id="1108"/> <Node id="1109"/>carbon<Node id="1115"/> sequestration rates for 2014.<Node id="1145"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="699">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="701" EndNode="1145">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="2" Type="Thing" StartNode="345" EndNode="349">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="345" EndNode="349">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="134" EndNode="144">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="1001" EndNode="1011">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="354" EndNode="365">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="366" EndNode="378">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="493" EndNode="499">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="50" EndNode="59">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="850" EndNode="857">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="866" EndNode="872">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="1103" EndNode="1108">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="719" EndNode="725">
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="785" EndNode="791">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="1075" EndNode="1081">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="1109" EndNode="1115">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="1103" EndNode="1108">
+</Annotation>
+<Annotation Id="18" Type="Thing" StartNode="785" EndNode="801">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

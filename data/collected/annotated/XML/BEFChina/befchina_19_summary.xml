@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/BEFChina/19/befchina_19_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Synonyms list for <Node id="18"/>tree<Node id="22"/> reference names in the Comparative Study Plots (CSP) of the <Node id="83"/>Biodiversity<Node id="95"/> - <Node id="98"/>Ecosystem<Node id="107"/> Functioning Experiment (BEF-China) and the Main Experiment. This file includes the synonyms of <Node id="203"/>species<Node id="210"/> found in the CSP during the <Node id="239"/>field<Node id="244"/> work 2008 / 2009, including the <Node id="277"/>species<Node id="284"/> used for planting the Main Experiment in Xingangshan. The listed synonyms of the <Node id="366"/>species<Node id="373"/> names refer to the "<Node id="394"/>Flora<Node id="399"/> of China" and the The International Plant Names Index (IPNI). The <Node id="466"/>species<Node id="473"/> reference can be found within the metasheet z1_CSP_Main_<Node id="530"/>Tree<Node id="534"/>AndShrub<Node id="542"/>Species<Node id="549"/>_reference list.xls<Node id="568"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="568">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="394" EndNode="399">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="394" EndNode="399">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="18" EndNode="22">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="530" EndNode="534">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="98" EndNode="107">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="203" EndNode="210">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="277" EndNode="284">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="366" EndNode="373">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="466" EndNode="473">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="542" EndNode="549">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="239" EndNode="244">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="83" EndNode="95">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

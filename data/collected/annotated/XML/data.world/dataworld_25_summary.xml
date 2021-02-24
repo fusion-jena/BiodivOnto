@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/sheeba/werkstatt/Nora/biodiv-study-onto/data_sources/real_phase/Sheeba/clean/data.world/25/dataworld_25.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>DESCRIPTION&#xd;
+This dataset shows U.S.&#xd;
+SUMMARY&#xd;
+This dataset shows U.S. Census Tract (2010) boundaries containing tabular data related to <Node id="137"/>tree<Node id="141"/> planting priorities. Prioritization is based on 31 GIS datasets summarized into eight broad categories: public health &amp; safety, <Node id="270"/>air<Node id="273"/> <Node id="274"/>quality<Node id="281"/>, <Node id="283"/>environmental<Node id="296"/> justice, <Node id="306"/>water<Node id="311"/> <Node id="312"/>quality<Node id="319"/>, critical places, <Node id="338"/>forest<Node id="344"/> replenishment, <Node id="360"/>forest <Node id="367"/>preservation<Node id="379"/> &amp; development impacts, and urban heat <Node id="418"/>island<Node id="424"/>. The <Node id="430"/>City<Node id="434"/> of Austin’s <Node id="447"/>Tree<Node id="451"/> Planting Prioritization serves as a decision support tool for locating <Node id="523"/>tree<Node id="527"/> planting sites for Austin’s October through March <Node id="578"/>tree<Node id="582"/> planting <Node id="592"/>season<Node id="598"/>.<Node id="599"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="599">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="270" EndNode="273">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="270" EndNode="273">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="274" EndNode="281">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="312" EndNode="319">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="283" EndNode="296">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="306" EndNode="311">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="430" EndNode="434">
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="418" EndNode="424">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="592" EndNode="598">
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="338" EndNode="344">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="137" EndNode="141">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="447" EndNode="451">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="523" EndNode="527">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="578" EndNode="582">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="306" EndNode="319">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="360" EndNode="379">
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="367" EndNode="379">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

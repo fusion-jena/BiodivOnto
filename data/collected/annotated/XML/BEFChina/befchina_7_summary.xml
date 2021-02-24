@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Research/PhD/biodiv-study-onto/data_sources/real_phase/Alsayed/marked/BEFChina/7/befchina_7_summary.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">CRLF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Interactions across <Node id="20"/>trophic<Node id="27"/> levels<Node id="34"/> influence <Node id="45"/>plant<Node id="50"/> <Node id="51"/>diversity<Node id="60"/> effects on <Node id="72"/>ecosystem<Node id="81"/> functions, but the complexity of these interactions remains poorly explored. For example, the interplay between different interactions (e.g. mutualism, predation) might be an important moderator of <Node id="280"/>biodiversity<Node id="292"/>-<Node id="293"/>ecosystem<Node id="302"/> function relationships. &#xd;
+We tested for effects of <Node id="354"/>trophobioses<Node id="366"/> (facultative <Node id="380"/>ant<Node id="383"/>-hemipteran mutualism) on leaf chewer <Node id="421"/>herbivory<Node id="430"/> in a <Node id="436"/>subtropical<Node id="447"/> <Node id="448"/>forest<Node id="454"/> <Node id="455"/>biodiversity<Node id="467"/> experiment. We analysed <Node id="492"/>trophobiosis<Node id="504"/> and <Node id="509"/>herbivory<Node id="518"/> data of more than 10,000 <Node id="544"/>trees<Node id="549"/> along a <Node id="558"/>tree<Node id="562"/> <Node id="563"/>species<Node id="570"/> <Node id="571"/>richness<Node id="579"/> gradient.&#xd;
+<Node id="591"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="591">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Biodiversity">
+<Annotation Id="1" Type="Thing" StartNode="20" EndNode="27">
+</Annotation>
+<Annotation Id="2" Type="Thing" StartNode="20" EndNode="27">
+</Annotation>
+<Annotation Id="3" Type="Thing" StartNode="20" EndNode="34">
+</Annotation>
+<Annotation Id="4" Type="Thing" StartNode="45" EndNode="50">
+</Annotation>
+<Annotation Id="5" Type="Thing" StartNode="51" EndNode="60">
+</Annotation>
+<Annotation Id="6" Type="Thing" StartNode="72" EndNode="81">
+</Annotation>
+<Annotation Id="7" Type="Thing" StartNode="293" EndNode="302">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Thing" StartNode="280" EndNode="292">
+</Annotation>
+<Annotation Id="9" Type="Thing" StartNode="455" EndNode="467">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Thing" StartNode="354" EndNode="366">
+</Annotation>
+<Annotation Id="11" Type="Thing" StartNode="380" EndNode="383">
+</Annotation>
+<Annotation Id="12" Type="Thing" StartNode="421" EndNode="430">
+</Annotation>
+<Annotation Id="13" Type="Thing" StartNode="509" EndNode="518">
+<Feature>
+  <Name className="java.lang.String">safe.regex</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Thing" StartNode="436" EndNode="454">
+</Annotation>
+<Annotation Id="15" Type="Thing" StartNode="436" EndNode="447">
+</Annotation>
+<Annotation Id="16" Type="Thing" StartNode="448" EndNode="454">
+</Annotation>
+<Annotation Id="17" Type="Thing" StartNode="492" EndNode="504">
+</Annotation>
+<Annotation Id="19" Type="Thing" StartNode="544" EndNode="549">
+</Annotation>
+<Annotation Id="20" Type="Thing" StartNode="558" EndNode="562">
+</Annotation>
+<Annotation Id="21" Type="Thing" StartNode="563" EndNode="570">
+</Annotation>
+<Annotation Id="22" Type="Thing" StartNode="571" EndNode="579">
+</Annotation>
+<Annotation Id="23" Type="Thing" StartNode="563" EndNode="579">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
