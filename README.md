@@ -91,6 +91,10 @@ Please cite the following paper if you used any part of this work.
 `@article{biodivonto,
       title={BiodivOnto: Towards a Core Ontology for Biodiversity},
       author={Abdelmageed, Nora and Samuel, Sheeba and Algergawy, Alsayed and K{\"o}nig-Ries, Birgitta},
-      booktitle={ESWC (Submitted)},
+      booktitle={Poster & Demo Track, ESWC },
       year={2021}      
     }`
+
+## ESWC 2021 Media
+* Poster: https://fusion-jena.github.io/BiodivOnto/ 
+* 1 min YouTube video: https://www.youtube.com/watch?v=ZSM5-TfMqXk&list=PLAZxp5wQmTBUF7x2YMo9nQlOAPKVhK8la&index=3
