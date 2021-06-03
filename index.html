@@ -22,7 +22,7 @@
 				<!-- jQuery 3.3.1 -->
 		<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 			</head>
-	<body><!-- Navigation Mobile type 2 -->
+	<body itemscope itemtype="http://schema.org/WebPage"><!-- Navigation Mobile type 2 -->
 
 <a class="open_menu color-main bg-light radius_full"><i class="fas fa-bars lh-40"></i></a>
 <div class="navigation_mobile bg-light type2">
@@ -76,7 +76,7 @@
 			<div class="row justify-content-center">
 				<div class="col-xl-10" data-aos-duration="600" data-aos="fade-down" data-aos-delay="1200">
 					<div class="row align-items-baseline">
-						<div class="col-lg-9 d-flex align-items-center f-18 medium">
+						<div itemprop="breadcrumb" class="col-lg-9 d-flex align-items-center f-18 medium">
 							<a href="https://openreview.net/pdf?id=GayhBSLEqud" target="blank"><div class="mr-15 logo color-white">BiodivOnto</div></a>
 							<a href="#Intro" class="mx-15 link color-white">Introduction</a>
 							<a href="#Method" class="mx-15 link color-white">Methodology</a>
@@ -84,8 +84,8 @@
 							<a href="https://fusion.cs.uni-jena.de/fusion/" target="blank" class="mx-15 link color-white">FUSION</a>
 						</div>
 						<div class="col-lg-3 d-flex justify-content-end align-items-baseline">
-							<a href="https://github.com/fusion-jena/BiodivOnto" target="blank" class="btn sm action-1">GitHub</a> &nbsp;
-							<a href="https://openreview.net/pdf?id=GayhBSLEqud" target="blank" class="btn sm action-1">Paper</a>
+							<a itemscope itemtype="https://schema.org/Code" href="https://github.com/fusion-jena/BiodivOnto" target="blank" class="btn sm action-1">GitHub</a> &nbsp;
+							<a itemscope itemtype="https://schema.org/Article" href="https://openreview.net/pdf?id=GayhBSLEqud" target="blank" class="btn sm action-1">Paper</a>
 						</div>
 
 					</div>
@@ -93,21 +93,21 @@
 			</div>
 		</div>
 	</nav>
-
+	<div itemscope itemtype="https://schema.org/Article">
 	<div class="container px-xl-0 color-white">
 		<div class="row justify-content-center">
 			<div class="col-xl-10">
 				<div class="row flex-column-reverse flex-md-row align-items-stretch text-center text-md-left">
 					<div class="col-lg-7 col-md-9 pt-40">
-						<div class="mb-3 logo d-block d-xl-none color-white logo_mobile">BiodivOnto</div>
-						<h1 class="mb-20 big" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">BiodivOnto: Towards a Core Ontology for Biodiversity </h1>
-						<div class="f-22 text-adaptive" data-aos-duration="600" data-aos="fade-down" data-aos-delay="300">
+						<div itemprop="headline" class="mb-3 logo d-block d-xl-none color-white logo_mobile">BiodivOnto</div>
+						<h1 itemprop="name" class="mb-20 big" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">BiodivOnto: Towards a Core Ontology for Biodiversity </h1>
+						<div itemprop="description" class="f-22 text-adaptive" data-aos-duration="600" data-aos="fade-down" data-aos-delay="300">
 							We aim to develop a core ontology for the biodiversity domain establishing links between the foundational and domain-specific ontologies.
 							</div>
 						   <div class="mt-80 row blocks">
 							<div class="mt-30 col-sm-6" data-aos-duration="600" data-aos="fade-down" data-aos-delay="600">
 								<i class="f-50 fas fa-cogs"></i>
-								<div class="mt-30 mb-25 semibold f-20 title">Keywords</div>
+								<div itemprop="keywords" class="mt-30 mb-25 semibold f-20 title">Keywords</div>
 								<div class="text-adaptive">
 									Biodiversity. Knowledge Representation. Core Ontology.
 								</div>
@@ -133,7 +133,7 @@
 				<h2 class="mb-20 small">
 					Introduction
 				</h2>
-				<div class="mb-25 f-18 medium op-7 text-adaptive">
+				<div itemprop="abstract" class="mb-25 f-18 medium op-7 text-adaptive">
 					To preserve biodiversity, research to understand its underlying mechanisms is needed which requires integrated data. An increasing amount of heterogeneous data is generated and publicly shared in biodiversity research.
 					There are also a lot of efforts to semantically describe biodiversity datasets and research outputs. Multiple  ontologies,  like  <a href='https://bioportal.bioontology.org/ontologies/ENVO'>ENVO</a> and  <a href='https://bioportal.bioontology.org/ontologies/IOBC'>IOBC</a>, model specific parts of the domain.
 					However, in order to support integrative biodiversity research, there is a growing need to bridge between the more refined biodiversity concepts and general concepts provided by the foundational ontologies.
@@ -493,7 +493,7 @@
 			</div>
 			<div class="col-xl-6 col-lg-8 col-md-10" data-aos-duration="600" data-aos="fade-down" data-aos-delay="300">
 				<div class="mt-25 mb-55 f-22 text-adaptive">
-					
+
 				</div>
 			</div>
 		</div>
@@ -501,34 +501,34 @@
 			<div class="mb-70 mb-lg-0 col-lg-4 col-md-7 col-sm-8">
 				<div class="mx-auto mw-370 px-70 pt-60 pb-55 radius10 block">
 					<img src="i/Nora.jpeg" srcset="i/Nora.jpeg 2x" alt="" class="w-120 h-120 radius_full" />
-					<div class="mt-20 f-24 medium">Nora Abdelmageed</div>
+					<div itemprop="author" class="mt-20 f-24 medium">Nora Abdelmageed</div>
 					<div class="f-14 semibold color-heading text-uppercase sp-20">FUSION Group</div>
-						
+
 					<div class="f-22 title" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">Ph.D. Student</div>
 					<div class="mt-30 mb-40 f-58 d-flex align-items-start price" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">
-						
+
 					</div>
 					<ul  class="px-0" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">
 						<a style="color:white" href="https://fusion.cs.uni-jena.de/fusion/members/nora-abdelmageed/"><li class="mb-10 disabled"><i class="fa fa-home" aria-hidden="true"></i> nora-abdelmageed</li></a>
 						<a style="color:white" href="https://github.com/NoYo25"><li class="mb-10 disabled"><i class="fab fa-github"></i> NoYo25</li></a>
 						<a style="color:white" href="https://twitter.com/NoraYoussef"><li class="mb-10 disabled"><i class="fab fa-twitter"></i> @Nora.Youssef</li></a>
 					</ul>
-					<div data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">						
+					<div data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">
 						<a href="mailto:nora.abdelmageed@uni-jena.de" class="mt-15 btn lg border-transparent-white">Contact</a>
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="mb-70 mb-lg-0 col-lg-4 col-md-7 col-sm-8">
-			
+
 				<div class="mx-auto mw-370 px-70 pt-60 pb-55 radius10 block">
 					<img src="i/alsayed.jpg" srcset="i/alsayed.jpg 2x" alt="" class="w-120 h-120 radius_full" />
-					<div class="mt-20 f-24 medium">Alsayed Algergawy</div>
+					<div itemprop="author" class="mt-20 f-24 medium">Alsayed Algergawy</div>
 					<div class="f-14 semibold color-heading text-uppercase sp-20">FUSION Group</div>
-						
+
 					<div class="f-22 title" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">Post Doc.</div>
 					<div class="mt-30 mb-40 f-58 d-flex align-items-start price" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">
-						
+
 					</div>
 					<ul class="px-0" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">
 						<a style="color:white" href="https://fusion.cs.uni-jena.de/fusion/members/alsayed-algergawy/"><li class="mb-10 disabled"><i class="fa fa-home" aria-hidden="true"></i> alsayed-algergawy</li></a>
@@ -548,12 +548,12 @@
 			<div class="mb-70 mb-lg-0 col-lg-4 col-md-7 col-sm-8">
 				<div class="mx-auto mw-370 px-70 pt-60 pb-55 radius10 block">
 					<img src="i/sheeba.jpg" srcset="i/sheeba.jpg 2x" alt="" class="w-120 h-120 radius_full" />
-					<div class="mt-20 f-24 medium">Sheeba Samuel</div>
+					<div itemprop="author" class="mt-20 f-24 medium">Sheeba Samuel</div>
 					<div class="f-14 semibold color-heading text-uppercase sp-20">FUSION Group</div>
-						
+
 					<div class="f-22 title" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">Post Doc.</div>
 					<div class="mt-30 mb-40 f-58 d-flex align-items-start price" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">
-						
+
 					</div>
 					<ul class="px-0" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">
 						<a style="color:white" href="https://fusion.cs.uni-jena.de/fusion/members/sheeba-samuel/"><li class="mb-10 disabled"><i class="fa fa-home" aria-hidden="true"></i> sheeba-samuel</li></a>
@@ -568,12 +568,12 @@
 			<div class="mb-70 mb-lg-0 col-lg-4 col-md-7 col-sm-8">
 				<div class="mx-auto mw-370 px-70 pt-60 pb-55 radius10 block">
 					<img src="i/birgitta.jpg" srcset="i/birgitta.jpg 2x" alt="" class="w-120 h-120 radius_full" />
-					<div class="mt-20 f-24 medium">Birgitta König-Ries</div>
+					<div itemprop="author" class="mt-20 f-24 medium">Birgitta König-Ries</div>
 					<div class="f-14 semibold color-heading text-uppercase sp-20">FUSION Group</div>
-						
+
 					<div class="f-22 title" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">Professor</div>
 					<div class="mt-30 mb-40 f-58 d-flex align-items-start price" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">
-						
+
 					</div>
 					<ul class="px-0" data-aos-duration="600" data-aos="fade-down" data-aos-delay="0">
 						<a style="color:white" href="https://fusion.cs.uni-jena.de/fusion/members/birgitta-konig-ries"><li class="mb-10 disabled"><i class="fa fa-home" aria-hidden="true"></i> birgitta-konig-ries</li><a>
@@ -586,7 +586,7 @@
 				</div>
 			</div>
 			</div>
-			
+
 		</div>
 	</div>
 </section>
@@ -636,7 +636,7 @@
 		</div>
 	</div>
 </section>
-
+</div>
 <!-- Footer 3 -->
 
 <footer class="footer_3 bg-light pt-100 pb-100 text-center text-lg-left">
