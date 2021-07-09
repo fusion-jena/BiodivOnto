@@ -1,5 +1,4 @@
 # BiodivOnto
-This repository is used to summarize and report the methodology and results of **BiodivOnto: Towards a Core Ontology for Biodiversity**. This study will be submitted to  18th International Conference on Extended Semantic Web Conference (ESWC2021) (https://2021.eswc-conferences.org/): Poster and Demo track.
 
 Biodiversity is the variety of life on earth which covers the evolutionary, ecological, and cultural processes that sustain life. Therefore, it is important to understand where biodiversity is, how it is changing over space and time, the driving factors of these changes and the resulting consequences on the diversity of life.  To do so, it is necessary to describe and integrate the conditions and measures of biodiversity to fully capture the domain. In this paper, we present the design of a core ontology for biodiversity aiming to establish a link between the foundational and domain-specific ontologies.  The proposed ontology is designed using the fusion/merge strategy by reusing existing ontologies and it is guided by data from several resources in the biodiversity domain. 
 ## How it Works?
@@ -95,6 +94,6 @@ Please cite the following paper if you used any part of this work.
       year={2021}      
     }`
 
-## ESWC 2021 Media
+## BiodivOnto Media
 * Poster: https://fusion-jena.github.io/BiodivOnto/ 
 * 1 min YouTube video: https://www.youtube.com/watch?v=ZSM5-TfMqXk&list=PLAZxp5wQmTBUF7x2YMo9nQlOAPKVhK8la&index=3
